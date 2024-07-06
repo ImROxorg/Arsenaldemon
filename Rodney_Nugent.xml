@@ -1,0 +1,44 @@
+<alignment>
+  <sentence>
+    <word normalized="Rodney" start="1100" stop="1530">Rodney </word>
+    <word normalized="Nugent" start="1530" stop="2030">Nugent </word>
+    <word normalized="Rodney" start="8380" stop="8760">Rodney </word>
+    <word normalized="Nugent" start="8760" stop="9300">Nugent </word>
+    <word normalized="is" start="9910" stop="10020">is </word>
+    <word normalized="a" start="10020" stop="10070">a </word>
+    <word normalized="Paralympic" start="10070" stop="10630">Paralympic </word>
+    <word normalized="athletics" start="10630" stop="11130">athletics </word>
+    <word normalized="competitor" start="11130" stop="11570">competitor </word>
+    <word normalized="from" start="11570" stop="11750">from </word>
+    <word normalized="Australia" start="11750" stop="12250">Australia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="He">He </word>
+    <word normalized="won" start="12920" stop="13060">won </word>
+    <word normalized="a" start="13060" stop="13130">a </word>
+    <word normalized="gold" start="13130" stop="13360">gold </word>
+    <word normalized="medal" start="13360" stop="13730">medal </word>
+    <word normalized="at" start="23300" stop="24040">at </word>
+    <word normalized="the" start="24040" stop="24210">the </word>
+    <word normalized="nineteen" start="25040" stop="25140">19 </word>
+    <word normalized="hundred" start="25140" stop="25500">hundred </word>
+    <word normalized="ninety two" start="25500" stop="26610">92 </word>
+    <word normalized="Barcelona" start="26610" stop="26940">Barcelona </word>
+    <word normalized="Games" start="26940" stop="27310">Games </word>
+    <word normalized="in" start="27310" stop="27610">in </word>
+    <word normalized="the" start="27610" stop="27670">the </word>
+    <word normalized="Men s" start="27830" stop="28010">Men's </word>
+    <word normalized="four x one zero zero" start="28010" stop="29410">4x100 </word>
+    <word normalized="m" start="29410" stop="29530">m </word>
+    <word normalized="Relay" start="29670" stop="29720">Relay </word>
+    <word normalized="TS two four">TS2,4 </word>
+    <word normalized="event">event</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+  </sentence>
+</alignment>

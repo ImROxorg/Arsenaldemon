@@ -1,0 +1,290 @@
+<alignment>
+  <sentence>
+    <word normalized="Seagull" start="290" stop="710">Seagull </word>
+    <word normalized="Monument" start="710" stop="1290">Monument </word>
+    <word normalized="The" start="6440" stop="6520">The </word>
+    <word normalized="Seagull" start="6520" stop="6910">Seagull </word>
+    <word normalized="Monument" start="6910" stop="7390">Monument </word>
+    <word normalized="is" start="7390" stop="7500">is </word>
+    <word normalized="a" start="7500" stop="7560">a </word>
+    <word normalized="small" start="7560" stop="7890">small </word>
+    <word normalized="monument" start="7890" stop="8370">monument </word>
+    <word normalized="situated" start="8370" stop="8880">situated </word>
+    <word normalized="immediately" start="8880" stop="9460">immediately </word>
+    <word normalized="in" start="9460" stop="9570">in </word>
+    <word normalized="front" start="9570" stop="9820">front </word>
+    <word normalized="of" start="9820" stop="9910">of </word>
+    <word normalized="the" start="9910" stop="9980">the </word>
+    <word normalized="Salt" start="9980" stop="10340">Salt </word>
+    <word normalized="Lake" start="10340" stop="10520">Lake </word>
+    <word normalized="Assembly" start="10520" stop="10910">Assembly </word>
+    <word normalized="Hall" start="10910" stop="11230">Hall </word>
+    <word normalized="on" start="11230" stop="11360">on </word>
+    <word normalized="Temple" start="11360" stop="11690">Temple </word>
+    <word normalized="Square" start="11690" stop="12250">Square</word>
+    <word normalized="">, </word>
+    <word normalized="in">in </word>
+    <word normalized="Salt" start="12250" stop="12550">Salt </word>
+    <word normalized="Lake" start="12550" stop="12740">Lake </word>
+    <word normalized="City" start="12740" stop="13010">City</word>
+    <word normalized="">, </word>
+    <word normalized="Utah" start="13010" stop="13500">Utah</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="13540" stop="14450">The </word>
+    <word normalized="Monument" start="14450" stop="14890">Monument </word>
+    <word normalized="commemorates" start="14890" stop="15550">commemorates </word>
+    <word normalized="what" start="15740" stop="15890">what </word>
+    <word normalized="some" start="15890" stop="16090">some </word>
+    <word normalized="members" start="16090" stop="16420">members </word>
+    <word normalized="of" start="16420" stop="16500">of </word>
+    <word normalized="The" start="16500" stop="16580">The </word>
+    <word normalized="Church" start="16580" stop="16910">Church </word>
+    <word normalized="of" start="16910" stop="16980">of </word>
+    <word normalized="Jesus" start="16980" stop="17330">Jesus </word>
+    <word normalized="Christ" start="17350" stop="17710">Christ </word>
+    <word normalized="of" start="17710" stop="17800">of </word>
+    <word normalized="Latter day" start="17800" stop="18240">Latter-day </word>
+    <word normalized="Saints" start="18240" stop="18720">Saints </word>
+    <word normalized="">(</word>
+    <word normalized="the" start="18720" stop="18850">the </word>
+    <word normalized="L D S">LDS </word>
+    <word normalized="Church" start="19280" stop="19640">Church</word>
+    <word normalized="">, </word>
+    <word normalized="see" start="19680" stop="19780">see </word>
+    <word normalized="also" start="20140" stop="20190">also </word>
+    <word normalized="">"</word>
+    <word normalized="Mormons" start="20190" stop="20320">Mormons</word>
+    <word normalized="">"</word>
+    <word normalized="">) </word>
+    <word normalized="call" start="20640" stop="20840">call </word>
+    <word normalized="the" start="20840" stop="21040">the </word>
+    <word normalized="Miracle" start="21040" stop="21100">Miracle </word>
+    <word normalized="of" start="21100" stop="21600">of </word>
+    <word normalized="the" start="21690" stop="21720">the </word>
+    <word normalized="Gulls" start="21720" stop="21780">Gulls</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="1">1 </word>
+    <word normalized="History">History </word>
+    <word normalized="In">In </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty eight" start="25680" stop="26240">48 </word>
+    <word normalized="the" start="26240" stop="26310">the </word>
+    <word normalized="Mormon" start="26310" stop="26680">Mormon </word>
+    <word normalized="pioneers" start="26680" stop="27250">pioneers </word>
+    <word normalized="planted" start="27250" stop="27630">planted </word>
+    <word normalized="crops" start="27630" stop="28010">crops </word>
+    <word normalized="for" start="28010" stop="28110">for </word>
+    <word normalized="their" start="28110" stop="28240">their </word>
+    <word normalized="first" start="28240" stop="28590">first </word>
+    <word normalized="spring" start="28590" stop="28830">spring </word>
+    <word normalized="season" start="28830" stop="29300">season </word>
+    <word normalized="in">in </word>
+    <word normalized="Utah">Utah</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="the" start="30490" stop="30560">the </word>
+    <word normalized="crops" start="30560" stop="30940">crops </word>
+    <word normalized="ripened" start="30940" stop="31430">ripened</word>
+    <word normalized="">, </word>
+    <word normalized="Mormon" start="31600" stop="31960">Mormon </word>
+    <word normalized="crickets" start="31960" stop="32430">crickets </word>
+    <word normalized="descended" start="32430" stop="32870">descended </word>
+    <word normalized="upon" start="32870" stop="33170">upon </word>
+    <word normalized="the" start="33170" stop="33230">the </word>
+    <word normalized="farms" start="33230" stop="33620">farms </word>
+    <word normalized="from" start="33620" stop="33810">from </word>
+    <word normalized="the" start="33810" stop="33870">the </word>
+    <word normalized="foothills" start="33870" stop="34470">foothills </word>
+    <word normalized="east" start="34470" stop="34730">east </word>
+    <word normalized="of" start="34730" stop="34820">of </word>
+    <word normalized="the" start="34820" stop="34910">the </word>
+    <word normalized="valley" start="34910" stop="35370">valley</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="35870" stop="36040">The </word>
+    <word normalized="insects" start="36040" stop="36470">insects </word>
+    <word normalized="consumed" start="36470" stop="36970">consumed </word>
+    <word normalized="entire" start="36970" stop="37440">entire </word>
+    <word normalized="fields" start="37510" stop="37540">fields</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="According" start="38490" stop="38840">According </word>
+    <word normalized="to" start="38840" stop="38980">to </word>
+    <word normalized="traditional" start="38980" stop="39490">traditional </word>
+    <word normalized="account" start="39490" stop="39930">account</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="40270" stop="40380">the </word>
+    <word normalized="harvest" start="40380" stop="40750">harvest </word>
+    <word normalized="was" start="40750" stop="40860">was </word>
+    <word normalized="saved" start="40860" stop="41220">saved </word>
+    <word normalized="by" start="41220" stop="41380">by </word>
+    <word normalized="flocks" start="41380" stop="41800">flocks </word>
+    <word normalized="of" start="41800" stop="41890">of </word>
+    <word normalized="native" start="41890" stop="42240">native </word>
+    <word normalized="seagulls" start="42240" stop="42820">seagulls </word>
+    <word normalized="which" start="42820" stop="42990">which </word>
+    <word normalized="devoured" start="42990" stop="43410">devoured </word>
+    <word normalized="the" start="43410" stop="43470">the </word>
+    <word normalized="crickets" start="43470" stop="44060">crickets</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="44050" stop="44850">This </word>
+    <word normalized="event" start="44850" stop="45250">event</word>
+    <word normalized="">, </word>
+    <word normalized="popularly" start="45250" stop="45810">popularly </word>
+    <word normalized="called" start="45810" stop="46140">called </word>
+    <word normalized="the" start="46140" stop="46200">the </word>
+    <word normalized="">"</word>
+    <word normalized="Miracle" start="46200" stop="46750">Miracle </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="46750" stop="46870">the </word>
+    <word normalized="Gulls" start="46870" stop="47370">Gulls</word>
+    <word normalized="">"</word>
+    <word normalized="">, </word>
+    <word normalized="is" start="47520" stop="47690">is </word>
+    <word normalized="well remembered" start="47690" stop="48340">well-remembered </word>
+    <word normalized="by" start="48340" stop="48520">by </word>
+    <word normalized="Latter day" start="48520" stop="48940">Latter-day </word>
+    <word normalized="Saints" start="48940" stop="49310">Saints </word>
+    <word normalized="as" start="49310" stop="49410">as </word>
+    <word normalized="a" start="49410" stop="49450">a </word>
+    <word normalized="miracle" start="49450" stop="49980">miracle</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="To">To </word>
+    <word normalized="celebrate" start="51210" stop="51790">celebrate </word>
+    <word normalized="the" start="51790" stop="51860">the </word>
+    <word normalized="role" start="51860" stop="52160">role </word>
+    <word normalized="seagulls" start="52160" stop="52580">seagulls </word>
+    <word normalized="played" start="52580" stop="52950">played </word>
+    <word normalized="in" start="52950" stop="53080">in </word>
+    <word normalized="the" start="53220" stop="53250">the </word>
+    <word normalized="pioneer s" start="53250" stop="53630">pioneer's </word>
+    <word normalized="first" start="53760" stop="54100">first </word>
+    <word normalized="year" start="54100" stop="54410">year </word>
+    <word normalized="in" start="54410" stop="54570">in </word>
+    <word normalized="Utah" start="54570" stop="55100">Utah</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="55310" stop="55490">the </word>
+    <word normalized="L D S">LDS </word>
+    <word normalized="Church" start="55890" stop="56180">Church </word>
+    <word normalized="erected" start="56180" stop="56600">erected </word>
+    <word normalized="Seagull" start="56600" stop="57010">Seagull </word>
+    <word normalized="Monument" start="57010" stop="57620">Monument </word>
+    <word normalized="on" start="57820" stop="57950">on </word>
+    <word normalized="their" start="57950" stop="58050">their </word>
+    <word normalized="Temple" start="58050" stop="58370">Temple </word>
+    <word normalized="Square" start="58370" stop="58670">Square </word>
+    <word normalized="in" start="58670" stop="58780">in </word>
+    <word normalized="Salt" start="58780" stop="59220">Salt </word>
+    <word normalized="Lake">Lake </word>
+    <word normalized="City" start="59220" stop="59460">City</word>
+    <word normalized="">, </word>
+    <word normalized="Utah" start="59460" stop="59930">Utah</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="60570" stop="60670">The </word>
+    <word normalized="top" start="60670" stop="60970">top </word>
+    <word normalized="of" start="60970" stop="61100">of </word>
+    <word normalized="the" start="61100" stop="61170">the </word>
+    <word normalized="monument" start="61170" stop="61720">monument </word>
+    <word normalized="is" start="61720" stop="61840">is </word>
+    <word normalized="a" start="61840" stop="61880">a </word>
+    <word normalized="bronze" start="61880" stop="62340">bronze </word>
+    <word normalized="stature" start="62340" stop="62910">stature </word>
+    <word normalized="of">of </word>
+    <word normalized="two" start="62950" stop="63200">two </word>
+    <word normalized="insect devouring" start="63200" stop="64060">insect-devouring </word>
+    <word normalized="seagulls">seagulls </word>
+    <word normalized="cast" start="64610" stop="65350">cast </word>
+    <word normalized="by" start="65350" stop="65500">by </word>
+    <word normalized="sculptor" start="65500" stop="66070">sculptor </word>
+    <word normalized="Mahonri" start="66270" stop="66860">Mahonri </word>
+    <word normalized="M">M. </word>
+    <word normalized="Young" start="67120" stop="67550">Young</word>
+    <word normalized="">, </word>
+    <word normalized="who" start="67850" stop="67970">who </word>
+    <word normalized="designed">designed </word>
+    <word normalized="the" start="68560" stop="68620">the </word>
+    <word normalized="monument" start="68620" stop="69210">monument</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Young" start="69880" stop="70170">Young </word>
+    <word normalized="studied" start="70170" stop="70560">studied </word>
+    <word normalized="in" start="70560" stop="70690">in </word>
+    <word normalized="France" start="70690" stop="71140">France</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="71140" stop="71240">and </word>
+    <word normalized="was" start="71240" stop="71360">was </word>
+    <word normalized="grandson" start="71360" stop="72010">grandson </word>
+    <word normalized="of" start="72010" stop="72160">of </word>
+    <word normalized="L D S">LDS </word>
+    <word normalized="leader" start="72750" stop="73120">leader </word>
+    <word normalized="Brigham" start="73120" stop="73550">Brigham </word>
+    <word normalized="Young" start="73550" stop="73840">Young</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="73840" stop="74770">The </word>
+    <word normalized="monument" start="74770" stop="75300">monument </word>
+    <word normalized="was" start="75670" stop="75730">was </word>
+    <word normalized="dedicated" start="75730" stop="75830">dedicated </word>
+    <word normalized="October" start="75830" stop="76400">October </word>
+    <word normalized="one" start="76400" stop="76730">1 </word>
+    <word normalized="nineteen" start="76730" stop="76860">19 </word>
+    <word normalized="hundred" start="76800" stop="76880">hundred </word>
+    <word normalized="thirteen" start="77360" stop="77990">13 </word>
+    <word normalized="by" start="78200" stop="78430">by </word>
+    <word normalized="L D S">LDS </word>
+    <word normalized="Church" start="78930" stop="79230">Church </word>
+    <word normalized="president" start="79230" stop="79800">president </word>
+    <word normalized="Joseph" start="80040" stop="80490">Joseph </word>
+    <word normalized="F">F. </word>
+    <word normalized="Smith">Smith</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Seagull" start="82010" stop="82380">Seagull </word>
+    <word normalized="Monument" start="82380" stop="82840">Monument </word>
+    <word normalized="is" start="82840" stop="82950">is </word>
+    <word normalized="believed" start="82950" stop="83340">believed </word>
+    <word normalized="to" start="83340" stop="83400">to </word>
+    <word normalized="be" start="83400" stop="83530">be </word>
+    <word normalized="the" start="83530" stop="83610">the </word>
+    <word normalized="first" start="83610" stop="84040">first </word>
+    <word normalized="monument" start="84040" stop="84500">monument </word>
+    <word normalized="dedicated" start="84500" stop="85110">dedicated </word>
+    <word normalized="to" start="85160" stop="85250">to </word>
+    <word normalized="birds" start="85250" stop="85610">birds</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="85600" stop="86420">The </word>
+    <word normalized="California" start="86420" stop="87150">California </word>
+    <word normalized="gull">gull </word>
+    <word normalized="is" start="87360" stop="87570">is </word>
+    <word normalized="now" start="87570" stop="87910">now </word>
+    <word normalized="the" start="87910" stop="88000">the </word>
+    <word normalized="Utah" start="88000" stop="88430">Utah </word>
+    <word normalized="State" start="88430" stop="88760">State </word>
+    <word normalized="bird" start="88760" stop="89100">bird</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

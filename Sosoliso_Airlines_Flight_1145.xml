@@ -1,0 +1,198 @@
+<alignment>
+  <sentence>
+    <word normalized="Sosoliso" start="80" stop="780">Sosoliso </word>
+    <word normalized="Airlines" start="780" stop="1290">Airlines </word>
+    <word normalized="Flight" start="1290" stop="1620">Flight </word>
+    <word normalized="eleven forty five" start="2190" stop="3920">1145 </word>
+    <word normalized="Sosoliso" start="5020" stop="7080">Sosoliso </word>
+    <word normalized="Airlines" start="7080" stop="7570">Airlines </word>
+    <word normalized="Flight" start="7570" stop="7790">Flight </word>
+    <word normalized="eleven forty five" start="8270" stop="8980">1145 </word>
+    <word normalized="is" start="8980" stop="9100">is </word>
+    <word normalized="a" start="9100" stop="9140">a </word>
+    <word normalized="scheduled" start="9140" stop="9620">scheduled </word>
+    <word normalized="flight" start="9620" stop="9910">flight </word>
+    <word normalized="between" start="9910" stop="10220">between </word>
+    <word normalized="the" start="10220" stop="10290">the </word>
+    <word normalized="Nigerian" start="10290" stop="10890">Nigerian </word>
+    <word normalized="cities" start="10890" stop="11290">cities </word>
+    <word normalized="of" start="11290" stop="11420">of </word>
+    <word normalized="Abuja" start="20380" stop="20390">Abuja </word>
+    <word normalized="">(</word>
+    <word normalized="ABV">ABV</word>
+    <word normalized="">) </word>
+    <word normalized="and" start="21210" stop="21300">and </word>
+    <word normalized="Port" start="21300" stop="21440">Port </word>
+    <word normalized="Harcourt" start="21440" stop="21730">Harcourt </word>
+    <word normalized="">(</word>
+    <word normalized="P H C">PHC</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="On">On </word>
+    <word normalized="December" start="23400" stop="23540">December </word>
+    <word normalized="10" start="23540" stop="23910">10</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand five" start="23910" stop="24920">2005</word>
+    <word normalized="">, </word>
+    <word normalized="Flight" start="25160" stop="25220">Flight </word>
+    <word normalized="eleven forty five" start="25220" stop="27340">1145 </word>
+    <word normalized="from" start="27700" stop="28120">from </word>
+    <word normalized="Abuja" start="28120" stop="28320">Abuja </word>
+    <word normalized="crash" start="28320" stop="28590">crash </word>
+    <word normalized="landed" start="28780" stop="28850">landed </word>
+    <word normalized="in" start="28850" stop="29090">in </word>
+    <word normalized="the" start="29090" stop="29250">the </word>
+    <word normalized="southern" start="29400" stop="29430">southern </word>
+    <word normalized="city" start="29430" stop="29710">city </word>
+    <word normalized="of" start="29710" stop="30040">of </word>
+    <word normalized="Port">Port </word>
+    <word normalized="Harcourt">Harcourt</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="plane">plane</word>
+    <word normalized="">, </word>
+    <word normalized="believed">believed </word>
+    <word normalized="to">to </word>
+    <word normalized="be">be </word>
+    <word normalized="a">a </word>
+    <word normalized="McDonnell">McDonnell </word>
+    <word normalized="Douglas">Douglas </word>
+    <word normalized="D C nine">DC-9 </word>
+    <word normalized="with">with </word>
+    <word normalized="one hundred ten" start="30340" stop="30920">110 </word>
+    <word normalized="people" start="30920" stop="31240">people </word>
+    <word normalized="onboard" start="31240" stop="31750">onboard</word>
+    <word normalized="">, </word>
+    <word normalized="burst" start="31960" stop="32210">burst </word>
+    <word normalized="into" start="32210" stop="32370">into </word>
+    <word normalized="flames" start="32370" stop="32990">flames</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="So">So </word>
+    <word normalized="far" start="32980" stop="34100">far</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="34100" stop="34160">a </word>
+    <word normalized="Nigerian" start="34160" stop="34740">Nigerian </word>
+    <word normalized="civil" start="34740" stop="35050">civil </word>
+    <word normalized="aviation" start="35050" stop="35670">aviation </word>
+    <word normalized="spokesman" start="35670" stop="36230">spokesman </word>
+    <word normalized="reported">reported </word>
+    <word normalized="one hundred three" start="36850" stop="37700">103 </word>
+    <word normalized="fatalities" start="37900" stop="37930">fatalities</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="seven" start="39370" stop="39670">7 </word>
+    <word normalized="people" start="39670" stop="39960">people </word>
+    <word normalized="have" start="39960" stop="40080">have </word>
+    <word normalized="been" start="40080" stop="40250">been </word>
+    <word normalized="injured" start="40250" stop="40640">injured </word>
+    <word normalized="and" start="40640" stop="40790">and </word>
+    <word normalized="taken" start="40790" stop="41130">taken </word>
+    <word normalized="to" start="41130" stop="41220">to </word>
+    <word normalized="the" start="44530" stop="45070">the </word>
+    <word normalized="hospital" start="45070" stop="45140">hospital</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="45140" stop="45640">The </word>
+    <word normalized="cause" start="45640" stop="45700">cause </word>
+    <word normalized="of" start="45700" stop="46030">of </word>
+    <word normalized="the" start="46030" stop="46200">the </word>
+    <word normalized="crash" start="46200" stop="46360">crash </word>
+    <word normalized="is" start="46780" stop="47030">is </word>
+    <word normalized="unclear" start="47230" stop="47260">unclear </word>
+    <word normalized="although" start="48000" stop="48320">although </word>
+    <word normalized="numerous" start="48590" stop="48870">numerous </word>
+    <word normalized="thunderstorms" start="48870" stop="49510">thunderstorms </word>
+    <word normalized="have" start="50460" stop="50470">have </word>
+    <word normalized="been" start="50910" stop="51010">been </word>
+    <word normalized="reported" start="51210" stop="51240">reported </word>
+    <word normalized="in" start="52310" stop="52650">in </word>
+    <word normalized="the" start="52650" stop="52920">the </word>
+    <word normalized="area" start="53810" stop="53900">area</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="An">An </word>
+    <word normalized="eyewitness" start="56080" stop="56640">eyewitness </word>
+    <word normalized="at" start="56640" stop="56730">at </word>
+    <word normalized="the" start="56730" stop="56910">the </word>
+    <word normalized="airport" start="56910" stop="57290">airport </word>
+    <word normalized="said" start="57290" stop="57570">said</word>
+    <word normalized="">, </word>
+    <word normalized="">"</word>
+    <word normalized="The" start="57570" stop="57720">The </word>
+    <word normalized="place" start="57720" stop="58050">place </word>
+    <word normalized="where">where </word>
+    <word normalized="I m">I'm </word>
+    <word normalized="standing" start="58330" stop="58730">standing </word>
+    <word normalized="now" start="58730" stop="59060">now </word>
+    <word normalized="is" start="59060" stop="59140">is </word>
+    <word normalized="scattered" start="59140" stop="59540">scattered </word>
+    <word normalized="with" start="59540" stop="59660">with </word>
+    <word normalized="corpses" start="59660" stop="60350">corpses</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="According" start="60650" stop="61060">According </word>
+    <word normalized="to" start="61060" stop="61160">to </word>
+    <word normalized="him" start="61160" stop="61510">him</word>
+    <word normalized="">, </word>
+    <word normalized="only" start="61510" stop="61780">only </word>
+    <word normalized="two" start="61780" stop="62020">two </word>
+    <word normalized="people" start="62020" stop="62390">people </word>
+    <word normalized="survived" start="62390" stop="62940">survived</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Among" start="63840" stop="64160">Among </word>
+    <word normalized="the" start="64160" stop="64230">the </word>
+    <word normalized="the">the </word>
+    <word normalized="passengers" start="64230" stop="64820">passengers </word>
+    <word normalized="were" start="64820" stop="64910">were </word>
+    <word normalized="seventy five" start="64910" stop="65630">75 </word>
+    <word normalized="high" start="65630" stop="65850">high </word>
+    <word normalized="school" start="65850" stop="66130">school </word>
+    <word normalized="students" start="66130" stop="66490">students </word>
+    <word normalized="from" start="66490" stop="66650">from </word>
+    <word normalized="a" start="66650" stop="66690">a </word>
+    <word normalized="Jesuit" start="66690" stop="67170">Jesuit </word>
+    <word normalized="college" start="67170" stop="67670">college </word>
+    <word normalized="near" start="67670" stop="67830">near </word>
+    <word normalized="Abuja" start="67830" stop="68330">Abuja</word>
+    <word normalized="">.</word>
+  </sentence>
+  <sentence>
+    <word normalized="">[</word>
+    <word normalized="one" start="69210" stop="69260">1</word>
+    <word normalized="">] </word>
+    <word normalized="According" start="69260" stop="70040">According </word>
+    <word normalized="to" start="70040" stop="70590">to </word>
+    <word normalized="the" start="70840" stop="70870">the </word>
+    <word normalized="airline s" start="71270" stop="71690">airline's </word>
+    <word normalized="website" start="71690" stop="71780">website</word>
+    <word normalized="">, </word>
+    <word normalized="Sosolis" start="71780" stop="72190">Sosolis </word>
+    <word normalized="Airline" start="72190" stop="72530">Airline </word>
+    <word normalized="operates" start="72860" stop="73410">operates </word>
+    <word normalized="three" start="74310" stop="74340">three </word>
+    <word normalized="D C nine s" start="74800" stop="75360">DC-9's </word>
+    <word normalized="and" start="75360" stop="75560">and </word>
+    <word normalized="one" start="76030" stop="76070">one </word>
+    <word normalized="M D eight one" start="77050" stop="77560">MD-81 </word>
+    <word normalized="airplanes" start="77560" stop="77780">airplanes</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="78950" stop="79210">Table </word>
+    <word normalized="of" start="79780" stop="79810">of </word>
+    <word normalized="contents" start="79810" stop="80180">contents </word>
+  </sentence>
+</alignment>

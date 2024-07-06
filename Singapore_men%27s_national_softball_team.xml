@@ -1,0 +1,51 @@
+<alignment>
+  <sentence>
+    <word normalized="Singapore" start="1260" stop="2000">Singapore </word>
+    <word normalized="men s" start="2040" stop="2440">men's </word>
+    <word normalized="national" start="2440" stop="2750">national </word>
+    <word normalized="softball" start="2750" stop="3130">softball </word>
+    <word normalized="team" start="3130" stop="3400">team </word>
+    <word normalized="The" start="3770" stop="4220">The </word>
+    <word normalized="nineteen" start="7620" stop="8630">19 </word>
+    <word normalized="hundred" start="8630" stop="9080">hundred </word>
+    <word normalized="ninety two" start="9080" stop="9490">92 </word>
+    <word normalized="World" start="9710" stop="9830">World </word>
+    <word normalized="Championships" start="9830" stop="10180">Championships</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="10170" stop="10280">the </word>
+    <word normalized="eighth" start="10780" stop="11230">eighth </word>
+    <word normalized="time" start="11480" stop="11730">time </word>
+    <word normalized="the" start="11730" stop="11800">the </word>
+    <word normalized="event" start="11800" stop="12000">event </word>
+    <word normalized="was" start="12000" stop="12120">was </word>
+    <word normalized="competed" start="12120" stop="12450">competed </word>
+    <word normalized="for" start="12450" stop="12750">for</word>
+    <word normalized="">, </word>
+    <word normalized="was" start="12970" stop="13090">was </word>
+    <word normalized="held" start="13090" stop="13260">held </word>
+    <word normalized="in" start="13260" stop="13350">in </word>
+    <word normalized="Manila" start="13350" stop="13710">Manila</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Australia" start="14330" stop="14710">Australia </word>
+    <word normalized="beat" start="14710" stop="14940">beat </word>
+    <word normalized="Singapore" start="14940" stop="15390">Singapore </word>
+    <word normalized="fourteen to zero" start="15390" stop="16090">14-0 </word>
+    <word normalized="in">in </word>
+    <word normalized="one" start="16090" stop="16380">one </word>
+    <word normalized="game" start="16380" stop="16660">game </word>
+    <word normalized="in" start="16660" stop="16720">in </word>
+    <word normalized="the" start="16720" stop="16780">the </word>
+    <word normalized="first" start="16780" stop="17090">first </word>
+    <word normalized="round" start="17090" stop="17340">round </word>
+    <word normalized="robin" start="17370" stop="17690">robin </word>
+    <word normalized="round" start="17690" stop="18060">round</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of" start="19520" stop="19760">of </word>
+    <word normalized="contents" start="20040" stop="20490">contents </word>
+  </sentence>
+</alignment>

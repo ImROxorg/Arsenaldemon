@@ -1,0 +1,915 @@
+<alignment>
+  <sentence>
+    <word normalized="Ship" start="430" stop="780">Ship </word>
+    <word normalized="commissioning" start="780" stop="1500">commissioning </word>
+    <word normalized="The" start="7290" stop="7390">The </word>
+    <word normalized="ceremonies" start="7390" stop="8060">ceremonies </word>
+    <word normalized="involved" start="8060" stop="8500">involved </word>
+    <word normalized="in" start="8500" stop="8640">in </word>
+    <word normalized="commissioning" start="8640" stop="9270">commissioning </word>
+    <word normalized="ships" start="9270" stop="9700">ships </word>
+    <word normalized="into" start="9700" stop="10000">into </word>
+    <word normalized="a" start="10000" stop="10070">a </word>
+    <word normalized="military" start="10070" stop="10570">military </word>
+    <word normalized="force" start="10570" stop="10970">force </word>
+    <word normalized="are" start="10970" stop="11050">are </word>
+    <word normalized="based" start="11050" stop="11410">based </word>
+    <word normalized="in">in </word>
+    <word normalized="traditions" start="11550" stop="12190">traditions </word>
+    <word normalized="thousands" start="12190" stop="12660">thousands </word>
+    <word normalized="of" start="12660" stop="12750">of </word>
+    <word normalized="years" start="12750" stop="13030">years </word>
+    <word normalized="old">old</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ship" start="13920" stop="14250">Ship </word>
+    <word normalized="naming" start="14250" stop="14700">naming </word>
+    <word normalized="and" start="14700" stop="14820">and </word>
+    <word normalized="launching" start="14820" stop="15340">launching </word>
+    <word normalized="are" start="15340" stop="15520">are </word>
+    <word normalized="the" start="15520" stop="15690">the </word>
+    <word normalized="inseparable" start="15690" stop="16420">inseparable </word>
+    <word normalized="elements" start="16420" stop="16860">elements </word>
+    <word normalized="which" start="16860" stop="17080">which </word>
+    <word normalized="endow" start="17080" stop="17580">endow </word>
+    <word normalized="a" start="17580" stop="17620">a </word>
+    <word normalized="ship" start="17620" stop="17950">ship </word>
+    <word normalized="hull" start="17950" stop="18260">hull </word>
+    <word normalized="with" start="18260" stop="18430">with </word>
+    <word normalized="her" start="18430" stop="18630">her </word>
+    <word normalized="identity" start="18630" stop="19180">identity</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Yet" start="19620" stop="19950">Yet</word>
+    <word normalized="">, </word>
+    <word normalized="just" start="19950" stop="20260">just </word>
+    <word normalized="as" start="20260" stop="20400">as </word>
+    <word normalized="many" start="20400" stop="20680">many </word>
+    <word normalized="developmental" start="20680" stop="21340">developmental </word>
+    <word normalized="milestones" start="21340" stop="21990">milestones </word>
+    <word normalized="must" start="21990" stop="22260">must </word>
+    <word normalized="be" start="22260" stop="22390">be </word>
+    <word normalized="passed" start="22390" stop="22840">passed </word>
+    <word normalized="before" start="22840" stop="23170">before </word>
+    <word normalized="one" start="23170" stop="23450">one </word>
+    <word normalized="takes" start="23450" stop="23730">takes </word>
+    <word normalized="his" start="23730" stop="23910">his </word>
+    <word normalized="place" start="23910" stop="24240">place </word>
+    <word normalized="in" start="24240" stop="24360">in </word>
+    <word normalized="society" start="24360" stop="25020">society</word>
+    <word normalized="">, </word>
+    <word normalized="so" start="25360" stop="25640">so </word>
+    <word normalized="too" start="25640" stop="25960">too </word>
+    <word normalized="must" start="25960" stop="26380">must </word>
+    <word normalized="the" start="26380" stop="26480">the </word>
+    <word normalized="newly launched" start="26480" stop="27200">newly-launched </word>
+    <word normalized="vessel" start="27200" stop="27540">vessel </word>
+    <word normalized="pass" start="27540" stop="27920">pass </word>
+    <word normalized="such" start="27920" stop="28180">such </word>
+    <word normalized="milestones" start="28180" stop="28820">milestones </word>
+    <word normalized="before" start="28820" stop="29130">before </word>
+    <word normalized="she" start="29130" stop="29270">she </word>
+    <word normalized="is" start="29270" stop="29420">is </word>
+    <word normalized="completed" start="29420" stop="29940">completed </word>
+    <word normalized="and" start="29940" stop="30090">and </word>
+    <word normalized="considered" start="30090" stop="30540">considered </word>
+    <word normalized="ready" start="30540" stop="30800">ready </word>
+    <word normalized="to" start="30800" stop="30890">to </word>
+    <word normalized="be" start="30890" stop="31020">be </word>
+    <word normalized="designated" start="31020" stop="31660">designated </word>
+    <word normalized="a" start="31660" stop="31710">a </word>
+    <word normalized="commissioned" start="31710" stop="32230">commissioned </word>
+    <word normalized="ship" start="32230" stop="32600">ship</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="33190" stop="33320">The </word>
+    <word normalized="engineering" start="33320" stop="33880">engineering </word>
+    <word normalized="plant" start="33880" stop="34280">plant</word>
+    <word normalized="">, </word>
+    <word normalized="weapon" start="34280" stop="34880">weapon </word>
+    <word normalized="and" start="34880" stop="35000">and </word>
+    <word normalized="electronic" start="35360" stop="35880">electronic </word>
+    <word normalized="systems" start="35830" stop="35860">systems</word>
+    <word normalized="">, </word>
+    <word normalized="galley" start="36400" stop="36870">galley</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="36870" stop="36980">and </word>
+    <word normalized="multitudinous" start="36980" stop="37740">multitudinous </word>
+    <word normalized="other" start="37740" stop="38050">other </word>
+    <word normalized="equipment">equipment </word>
+    <word normalized="required" start="38440" stop="38920">required </word>
+    <word normalized="to" start="38920" stop="38990">to </word>
+    <word normalized="transform" start="38990" stop="39610">transform </word>
+    <word normalized="the" start="39610" stop="39680">the </word>
+    <word normalized="new" start="39680" stop="39910">new </word>
+    <word normalized="hull" start="39910" stop="40210">hull </word>
+    <word normalized="into" start="40210" stop="40420">into </word>
+    <word normalized="an" start="40420" stop="40490">an </word>
+    <word normalized="operating" start="40490" stop="41020">operating </word>
+    <word normalized="and" start="41020" stop="41110">and </word>
+    <word normalized="habitable" start="41110" stop="41610">habitable </word>
+    <word normalized="warship" start="41610" stop="42170">warship </word>
+    <word normalized="are" start="42470" stop="42660">are </word>
+    <word normalized="installed" start="42660" stop="43230">installed </word>
+    <word normalized="and" start="43230" stop="43370">and </word>
+    <word normalized="tested" start="43370" stop="43770">tested</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="44210" stop="44310">The </word>
+    <word normalized="prospective" start="44310" stop="44920">prospective </word>
+    <word normalized="commanding" start="44920" stop="45340">commanding </word>
+    <word normalized="officer" start="45340" stop="45910">officer</word>
+    <word normalized="">, </word>
+    <word normalized="ship s">ship's </word>
+    <word normalized="officers" start="46320" stop="46930">officers</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="46930" stop="47010">the </word>
+    <word normalized="petty" start="47010" stop="47270">petty </word>
+    <word normalized="officers" start="47270" stop="47850">officers</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="47850" stop="48010">and </word>
+    <word normalized="seamen" start="48010" stop="48490">seamen </word>
+    <word normalized="who">who </word>
+    <word normalized="will" start="48490" stop="48720">will </word>
+    <word normalized="form" start="48720" stop="49030">form </word>
+    <word normalized="the" start="49030" stop="49110">the </word>
+    <word normalized="crew" start="49110" stop="49500">crew </word>
+    <word normalized="report" start="49750" stop="50130">report </word>
+    <word normalized="for" start="50130" stop="50280">for </word>
+    <word normalized="training" start="50280" stop="50700">training </word>
+    <word normalized="and" start="50700" stop="50820">and </word>
+    <word normalized="intensive" start="50820" stop="51330">intensive </word>
+    <word normalized="familiarization" start="51330" stop="52400">familiarization </word>
+    <word normalized="with" start="52400" stop="52570">with </word>
+    <word normalized="their" start="52570" stop="52680">their </word>
+    <word normalized="new" start="52680" stop="52890">new </word>
+    <word normalized="ship" start="52890" stop="53210">ship</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Crew">Crew </word>
+    <word normalized="and">and </word>
+    <word normalized="ship" start="53820" stop="54220">ship </word>
+    <word normalized="must" start="54730" stop="55000">must </word>
+    <word normalized="function" start="55000" stop="55370">function </word>
+    <word normalized="in" start="55370" stop="55510">in </word>
+    <word normalized="total" start="55510" stop="55820">total </word>
+    <word normalized="unison" start="55820" stop="56360">unison </word>
+    <word normalized="if" start="56360" stop="56600">if </word>
+    <word normalized="full" start="56600" stop="56790">full </word>
+    <word normalized="potential" start="56790" stop="57330">potential </word>
+    <word normalized="and" start="57330" stop="57430">and </word>
+    <word normalized="maximum" start="57430" stop="57970">maximum </word>
+    <word normalized="effectiveness" start="57970" stop="58600">effectiveness </word>
+    <word normalized="are" start="58600" stop="58710">are </word>
+    <word normalized="to" start="58710" stop="58790">to </word>
+    <word normalized="be" start="58790" stop="58920">be </word>
+    <word normalized="realized">realized</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="59330" stop="60400">The </word>
+    <word normalized="most" start="60400" stop="60660">most </word>
+    <word normalized="modern" start="60660" stop="61030">modern </word>
+    <word normalized="naval" start="61030" stop="61340">naval </word>
+    <word normalized="vessel" start="61340" stop="61730">vessel </word>
+    <word normalized="embodying" start="61730" stop="62360">embodying </word>
+    <word normalized="every" start="62360" stop="62640">every </word>
+    <word normalized="advantage" start="62640" stop="63090">advantage </word>
+    <word normalized="of" start="63090" stop="63170">of </word>
+    <word normalized="advanced" start="63170" stop="63640">advanced </word>
+    <word normalized="technology" start="63640" stop="64310">technology </word>
+    <word normalized="is" start="64310" stop="64470">is </word>
+    <word normalized="only" start="64470" stop="64800">only </word>
+    <word normalized="as" start="64800" stop="64970">as </word>
+    <word normalized="good" start="64970" stop="65160">good </word>
+    <word normalized="as" start="65160" stop="65320">as </word>
+    <word normalized="those" start="65320" stop="65580">those </word>
+    <word normalized="who" start="65580" stop="65670">who </word>
+    <word normalized="man" start="65670" stop="65980">man </word>
+    <word normalized="her" start="65980" stop="66190">her</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Prior" start="66420" stop="67300">Prior </word>
+    <word normalized="to" start="67300" stop="67400">to </word>
+    <word normalized="commissioning" start="67400" stop="67990">commissioning</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="67990" stop="68070">the </word>
+    <word normalized="new" start="68070" stop="68270">new </word>
+    <word normalized="ship" start="68270" stop="68540">ship </word>
+    <word normalized="undergoes" start="68540" stop="69050">undergoes </word>
+    <word normalized="sea" start="69050" stop="69280">sea </word>
+    <word normalized="trials" start="69280" stop="69800">trials </word>
+    <word normalized="during" start="69800" stop="70040">during </word>
+    <word normalized="which" start="70040" stop="70290">which </word>
+    <word normalized="deficiencies" start="70290" stop="71000">deficiencies </word>
+    <word normalized="needing" start="71000" stop="71310">needing </word>
+    <word normalized="correction" start="71310" stop="71780">correction </word>
+    <word normalized="are" start="71780" stop="72010">are </word>
+    <word normalized="uncovered" start="72010" stop="72480">uncovered</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="72910" stop="73000">The </word>
+    <word normalized="preparation" start="73000" stop="73670">preparation </word>
+    <word normalized="and" start="73670" stop="73780">and </word>
+    <word normalized="readiness" start="73780" stop="74260">readiness </word>
+    <word normalized="time" start="74260" stop="74510">time </word>
+    <word normalized="between" start="74510" stop="74830">between </word>
+    <word normalized="christening launching" start="74830" stop="76070">christening-launching </word>
+    <word normalized="and" start="76370" stop="76550">and </word>
+    <word normalized="commissioning" start="76550" stop="77150">commissioning </word>
+    <word normalized="may" start="77150" stop="77360">may </word>
+    <word normalized="be" start="77360" stop="77530">be </word>
+    <word normalized="as" start="77530" stop="77720">as </word>
+    <word normalized="much" start="77720" stop="77980">much </word>
+    <word normalized="as" start="77980" stop="78210">as </word>
+    <word normalized="three" start="78210" stop="78500">three </word>
+    <word normalized="years" start="78500" stop="78980">years </word>
+    <word normalized="for" start="78980" stop="79150">for </word>
+    <word normalized="a">a </word>
+    <word normalized="nuclear powered" start="79150" stop="79840">nuclear-powered </word>
+    <word normalized="aircraft" start="79840" stop="80320">aircraft </word>
+    <word normalized="carrier" start="80320" stop="80770">carrier </word>
+    <word normalized="to" start="81000" stop="81160">to </word>
+    <word normalized="as" start="81160" stop="81320">as </word>
+    <word normalized="brief" start="81320" stop="81620">brief </word>
+    <word normalized="as" start="81620" stop="81860">as </word>
+    <word normalized="twenty" start="81860" stop="82230">twenty </word>
+    <word normalized="days" start="82230" stop="82640">days </word>
+    <word normalized="for" start="82640" stop="82890">for </word>
+    <word normalized="a">a </word>
+    <word normalized="World" start="82890" stop="83160">World </word>
+    <word normalized="War" start="83160" stop="83380">War </word>
+    <word normalized="II">II </word>
+    <word normalized="landing" start="83570" stop="84070">landing </word>
+    <word normalized="ship" start="84070" stop="84350">ship</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="84340" stop="85010">The </word>
+    <word normalized="Monitor" start="85010" stop="85660">Monitor</word>
+    <word normalized="">, </word>
+    <word normalized="of" start="85660" stop="85750">of </word>
+    <word normalized="American" start="85750" stop="86190">American </word>
+    <word normalized="Civil" start="86190" stop="86500">Civil </word>
+    <word normalized="War" start="86500" stop="86740">War </word>
+    <word normalized="fame" start="86740" stop="87090">fame</word>
+    <word normalized="">, </word>
+    <word normalized="was" start="87090" stop="87260">was </word>
+    <word normalized="commissioned" start="87260" stop="87760">commissioned </word>
+    <word normalized="less" start="87760" stop="88110">less </word>
+    <word normalized="than" start="88110" stop="88280">than </word>
+    <word normalized="three" start="88280" stop="88510">three </word>
+    <word normalized="weeks" start="88510" stop="88860">weeks </word>
+    <word normalized="after" start="88860" stop="89160">after </word>
+    <word normalized="launch" start="89160" stop="89640">launch</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Commissioning" start="90060" stop="90550">Commissioning </word>
+    <word normalized="in" start="90550" stop="90660">in </word>
+    <word normalized="the" start="90660" stop="90780">the </word>
+    <word normalized="early" start="90780" stop="91020">early </word>
+    <word normalized="United" start="91020" stop="91420">United </word>
+    <word normalized="States" start="91420" stop="91740">States </word>
+    <word normalized="Navy" start="91740" stop="92060">Navy </word>
+    <word normalized="under" start="92060" stop="92330">under </word>
+    <word normalized="sail" start="92330" stop="92740">sail </word>
+    <word normalized="was" start="92740" stop="92920">was </word>
+    <word normalized="attended" start="92920" stop="93310">attended </word>
+    <word normalized="by" start="93310" stop="93500">by </word>
+    <word normalized="no" start="93500" stop="93810">no </word>
+    <word normalized="ceremony" start="93810" stop="94450">ceremony</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="An">An </word>
+    <word normalized="officer" start="95000" stop="95430">officer </word>
+    <word normalized="designated" start="95430" stop="96010">designated </word>
+    <word normalized="to" start="96010" stop="96090">to </word>
+    <word normalized="command" start="96090" stop="96490">command </word>
+    <word normalized="a" start="96490" stop="96530">a </word>
+    <word normalized="new" start="96530" stop="96710">new </word>
+    <word normalized="ship" start="96710" stop="97030">ship </word>
+    <word normalized="received" start="97030" stop="97440">received </word>
+    <word normalized="orders" start="97440" stop="97980">orders </word>
+    <word normalized="similar" start="97980" stop="98380">similar </word>
+    <word normalized="to" start="98380" stop="98490">to </word>
+    <word normalized="those" start="98490" stop="98800">those </word>
+    <word normalized="issued" start="98800" stop="99200">issued </word>
+    <word normalized="to" start="99200" stop="99270">to </word>
+    <word normalized="Captain" start="99270" stop="99720">Captain </word>
+    <word normalized="Thomas" start="99720" stop="100110">Thomas </word>
+    <word normalized="Truxtun" start="100110" stop="100650">Truxtun </word>
+    <word normalized="in" start="100650" stop="100800">in </word>
+    <word normalized="seventeen" start="100800" stop="101310">17 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety eight" start="101310" stop="101900">98</word>
+    <word normalized="">: </word>
+    <word normalized="Captain" start="142470" stop="142850">Captain </word>
+    <word normalized="Truxtun s" start="142850" stop="143340">Truxtun's </word>
+    <word normalized="orders" start="143340" stop="143730">orders </word>
+    <word normalized="reveal" start="143730" stop="144170">reveal </word>
+    <word normalized="that" start="144170" stop="144310">that </word>
+    <word normalized="a" start="144310" stop="144350">a </word>
+    <word normalized="prospective" start="144350" stop="144960">prospective </word>
+    <word normalized="commanding" start="144960" stop="145380">commanding </word>
+    <word normalized="officer" start="145380" stop="145880">officer </word>
+    <word normalized="had" start="145880" stop="146050">had </word>
+    <word normalized="responsibility" start="146050" stop="146860">responsibility </word>
+    <word normalized="for" start="146860" stop="147060">for </word>
+    <word normalized="overseeing" start="147060" stop="147630">overseeing </word>
+    <word normalized="construction" start="147630" stop="148230">construction </word>
+    <word normalized="details" start="148230" stop="148840">details</word>
+    <word normalized="">, </word>
+    <word normalized="outfitting" start="149140" stop="149630">outfitting </word>
+    <word normalized="the" start="149630" stop="149730">the </word>
+    <word normalized="ship" start="149730" stop="150070">ship</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="150070" stop="150170">and </word>
+    <word normalized="recruiting" start="150170" stop="150650">recruiting </word>
+    <word normalized="his" start="150650" stop="150830">his </word>
+    <word normalized="crew" start="150830" stop="151210">crew</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="When" start="151220" stop="151770">When </word>
+    <word normalized="a" start="151770" stop="151820">a </word>
+    <word normalized="captain" start="151820" stop="152230">captain </word>
+    <word normalized="of" start="152230" stop="152320">of </word>
+    <word normalized="this" start="152320" stop="152560">this </word>
+    <word normalized="period" start="152560" stop="153020">period </word>
+    <word normalized="in" start="153090" stop="153310">in </word>
+    <word normalized="our" start="153310" stop="153520">our </word>
+    <word normalized="history" start="153520" stop="153920">history </word>
+    <word normalized="determined" start="153920" stop="154430">determined </word>
+    <word normalized="that" start="154470" stop="154610">that </word>
+    <word normalized="his" start="154610" stop="154800">his </word>
+    <word normalized="new" start="154800" stop="154980">new </word>
+    <word normalized="ship" start="154980" stop="155230">ship </word>
+    <word normalized="was" start="155230" stop="155390">was </word>
+    <word normalized="ready" start="155390" stop="155650">ready </word>
+    <word normalized="to" start="155650" stop="155770">to </word>
+    <word normalized="take" start="155770" stop="156020">take </word>
+    <word normalized="to" start="156120" stop="156250">to </word>
+    <word normalized="sea" start="156250" stop="156650">sea</word>
+    <word normalized="">, </word>
+    <word normalized="he" start="156880" stop="156980">he </word>
+    <word normalized="mustered" start="156980" stop="157380">mustered </word>
+    <word normalized="the" start="157380" stop="157460">the </word>
+    <word normalized="crew" start="157460" stop="157680">crew </word>
+    <word normalized="on" start="157680" stop="157900">on </word>
+    <word normalized="deck" start="157900" stop="158130">deck</word>
+    <word normalized="">, </word>
+    <word normalized="read" start="158470" stop="158660">read </word>
+    <word normalized="his" start="158660" stop="158860">his </word>
+    <word normalized="orders" start="158860" stop="159270">orders</word>
+    <word normalized="">, </word>
+    <word normalized="broke" start="159510" stop="160030">broke </word>
+    <word normalized="the" start="160030" stop="160140">the </word>
+    <word normalized="national" start="160140" stop="160670">national </word>
+    <word normalized="ensign" start="160670" stop="161020">ensign </word>
+    <word normalized="and" start="161020" stop="161140">and </word>
+    <word normalized="distinctive" start="161140" stop="161650">distinctive </word>
+    <word normalized="commissioning" start="161650" stop="162220">commissioning </word>
+    <word normalized="pennant" start="162220" stop="162570">pennant</word>
+    <word normalized="">, </word>
+    <word normalized="caused" start="162940" stop="163350">caused </word>
+    <word normalized="the" start="163350" stop="163420">the </word>
+    <word normalized="watch" start="163420" stop="163760">watch </word>
+    <word normalized="to" start="163760" stop="163860">to </word>
+    <word normalized="be" start="163860" stop="163990">be </word>
+    <word normalized="set" start="163990" stop="164370">set</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="164660" stop="164810">and </word>
+    <word normalized="the" start="164810" stop="164870">the </word>
+    <word normalized="first" start="164870" stop="165180">first </word>
+    <word normalized="entry" start="165180" stop="165490">entry </word>
+    <word normalized="to" start="165490" stop="165570">to </word>
+    <word normalized="be" start="165570" stop="165680">be </word>
+    <word normalized="made" start="165680" stop="165930">made </word>
+    <word normalized="in" start="165930" stop="166020">in </word>
+    <word normalized="the" start="166020" stop="166080">the </word>
+    <word normalized="log" start="166080" stop="166510">log</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Thus" start="166800" stop="167190">Thus</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="167190" stop="167300">the </word>
+    <word normalized="ship" start="167300" stop="167580">ship </word>
+    <word normalized="was" start="167580" stop="167740">was </word>
+    <word normalized="placed" start="167740" stop="168090">placed </word>
+    <word normalized="in" start="168090" stop="168220">in </word>
+    <word normalized="commission" start="168200" stop="168760">commission</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Commissionings" start="168950" stop="169970">Commissionings </word>
+    <word normalized="were" start="169970" stop="170130">were </word>
+    <word normalized="not" start="170130" stop="170450">not </word>
+    <word normalized="public" start="170450" stop="170800">public </word>
+    <word normalized="affairs" start="170800" stop="171290">affairs </word>
+    <word normalized="and" start="171290" stop="171580">and</word>
+    <word normalized="">, </word>
+    <word normalized="unlike" start="171580" stop="172030">unlike </word>
+    <word normalized="christening launching" start="172030" stop="173040">christening-launching </word>
+    <word normalized="ceremonies" start="173040" stop="173670">ceremonies</word>
+    <word normalized="">, </word>
+    <word normalized="no" start="173670" stop="174020">no </word>
+    <word normalized="accounts" start="174020" stop="174400">accounts </word>
+    <word normalized="of" start="174400" stop="174520">of </word>
+    <word normalized="them" start="174520" stop="174740">them </word>
+    <word normalized="are" start="174740" stop="174860">are </word>
+    <word normalized="to" start="174860" stop="174940">to </word>
+    <word normalized="be" start="174940" stop="175080">be </word>
+    <word normalized="found" start="175080" stop="175430">found </word>
+    <word normalized="in" start="175430" stop="175550">in </word>
+    <word normalized="contemporary" start="175550" stop="176290">contemporary </word>
+    <word normalized="newspapers" start="176290" stop="177050">newspapers</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="177040" stop="177520">The </word>
+    <word normalized="first" start="177520" stop="177900">first </word>
+    <word normalized="specific" start="177900" stop="178530">specific </word>
+    <word normalized="references" start="178530" stop="179160">references </word>
+    <word normalized="to" start="179160" stop="179300">to </word>
+    <word normalized="commissioning" start="179300" stop="180070">commissioning </word>
+    <word normalized="located" start="180070" stop="180650">located </word>
+    <word normalized="in" start="180650" stop="180740">in </word>
+    <word normalized="naval" start="180740" stop="181060">naval </word>
+    <word normalized="records" start="181060" stop="181570">records </word>
+    <word normalized="is" start="181800" stop="181960">is </word>
+    <word normalized="a" start="181960" stop="182010">a </word>
+    <word normalized="letter" start="182010" stop="182450">letter </word>
+    <word normalized="of" start="182840" stop="182870">of </word>
+    <word normalized="November" start="182870" stop="182930">November </word>
+    <word normalized="six" start="182930" stop="183400">6</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen" start="183400" stop="183540">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="sixty three" start="183980" stop="184920">63</word>
+    <word normalized="">, </word>
+    <word normalized="from" start="185140" stop="185330">from </word>
+    <word normalized="Secretary" start="185330" stop="185920">Secretary </word>
+    <word normalized="of" start="185920" stop="186020">of </word>
+    <word normalized="the" start="186020" stop="186120">the </word>
+    <word normalized="Navy" start="186120" stop="186560">Navy </word>
+    <word normalized="Gideon" start="186560" stop="186950">Gideon </word>
+    <word normalized="Welles" start="186950" stop="187680">Welles </word>
+    <word normalized="to" start="187720" stop="187890">to </word>
+    <word normalized="all" start="187890" stop="188250">all </word>
+    <word normalized="navy" start="188250" stop="188550">navy </word>
+    <word normalized="yards" start="188550" stop="188910">yards </word>
+    <word normalized="and" start="188910" stop="189040">and </word>
+    <word normalized="stations" start="189040" stop="189720">stations</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="190010" stop="190080">The </word>
+    <word normalized="Secretary" start="190080" stop="190630">Secretary </word>
+    <word normalized="directed" start="190630" stop="191220">directed</word>
+    <word normalized="">: </word>
+    <word normalized="">"</word>
+    <word normalized="Hereafter" start="191750" stop="192480">Hereafter </word>
+    <word normalized="the" start="192480" stop="192600">the </word>
+    <word normalized="commandants" start="192600" stop="193340">commandants </word>
+    <word normalized="of" start="193340" stop="193470">of </word>
+    <word normalized="navy" start="193470" stop="193810">navy </word>
+    <word normalized="yards" start="193810" stop="194200">yards </word>
+    <word normalized="and" start="194200" stop="194350">and </word>
+    <word normalized="stations" start="194350" stop="194880">stations </word>
+    <word normalized="will" start="194880" stop="195120">will </word>
+    <word normalized="inform" start="195120" stop="195620">inform </word>
+    <word normalized="the">the </word>
+    <word normalized="Department" start="195840" stop="196240">Department</word>
+    <word normalized="">, </word>
+    <word normalized="by" start="196240" stop="196450">by </word>
+    <word normalized="special">special </word>
+    <word normalized="report" start="196870" stop="197400">report </word>
+    <word normalized="of" start="197670" stop="197850">of </word>
+    <word normalized="the" start="197850" stop="197950">the </word>
+    <word normalized="date" start="197950" stop="198310">date </word>
+    <word normalized="when" start="198310" stop="198570">when </word>
+    <word normalized="each" start="198570" stop="198870">each </word>
+    <word normalized="vessel" start="198870" stop="199210">vessel </word>
+    <word normalized="preparing" start="199210" stop="199680">preparing </word>
+    <word normalized="for" start="199680" stop="199840">for </word>
+    <word normalized="sea" start="199840" stop="200060">sea </word>
+    <word normalized="service" start="200060" stop="200490">service </word>
+    <word normalized="at" start="200490" stop="200620">at </word>
+    <word normalized="their" start="200620" stop="200740">their </word>
+    <word normalized="respective" start="200740" stop="201280">respective </word>
+    <word normalized="commands" start="201280" stop="201840">commands</word>
+    <word normalized="">, </word>
+    <word normalized="is" start="202030" stop="202210">is </word>
+    <word normalized="placed" start="202210" stop="202610">placed </word>
+    <word normalized="in" start="202610" stop="202770">in </word>
+    <word normalized="commission" start="202770" stop="203240">commission</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="Subsequently" start="204250" stop="204990">Subsequently</word>
+    <word normalized="">, </word>
+    <word normalized="various" start="205210" stop="205620">various </word>
+    <word normalized="editions" start="205620" stop="206110">editions </word>
+    <word normalized="of" start="206110" stop="206210">of </word>
+    <word normalized="Navy" start="206210" stop="206530">Navy </word>
+    <word normalized="Regulations" start="206530" stop="207230">Regulations </word>
+    <word normalized="mentioned" start="207230" stop="207700">mentioned </word>
+    <word normalized="the" start="207700" stop="207880">the </word>
+    <word normalized="act" start="207880" stop="208160">act </word>
+    <word normalized="of" start="208160" stop="208240">of </word>
+    <word normalized="putting" start="208240" stop="208550">putting </word>
+    <word normalized="a" start="208550" stop="208600">a </word>
+    <word normalized="ship" start="208600" stop="208860">ship </word>
+    <word normalized="in" start="208860" stop="209000">in </word>
+    <word normalized="commission" start="209000" stop="209530">commission</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="209860" stop="210000">but </word>
+    <word normalized="details" start="210000" stop="210590">details </word>
+    <word normalized="of" start="210590" stop="210690">of </word>
+    <word normalized="a" start="210690" stop="210750">a </word>
+    <word normalized="commissioning" start="210750" stop="211270">commissioning </word>
+    <word normalized="ceremony" start="211270" stop="211790">ceremony </word>
+    <word normalized="were" start="211790" stop="211970">were </word>
+    <word normalized="not" start="211970" stop="212220">not </word>
+    <word normalized="prescribed" start="212220" stop="213000">prescribed</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Through" start="213020" stop="213800">Through </word>
+    <word normalized="custom" start="213800" stop="214200">custom </word>
+    <word normalized="and" start="214200" stop="214300">and </word>
+    <word normalized="usage" start="214300" stop="214730">usage</word>
+    <word normalized="">, </word>
+    <word normalized="however">however</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="215160" stop="215230">a </word>
+    <word normalized="fairly" start="215230" stop="215690">fairly </word>
+    <word normalized="standard" start="215690" stop="216120">standard </word>
+    <word normalized="practice" start="216120" stop="216550">practice </word>
+    <word normalized="emerged" start="216550" stop="217140">emerged</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="217140" stop="217290">the </word>
+    <word normalized="essentials" start="217290" stop="217780">essentials </word>
+    <word normalized="of" start="217780" stop="217900">of </word>
+    <word normalized="which" start="217900" stop="218130">which </word>
+    <word normalized="are" start="218130" stop="218270">are </word>
+    <word normalized="outlined" start="218270" stop="218780">outlined </word>
+    <word normalized="in" start="218780" stop="218910">in </word>
+    <word normalized="current" start="218910" stop="219270">current </word>
+    <word normalized="Navy" start="219270" stop="219570">Navy </word>
+    <word normalized="Regulations" start="219570" stop="220390">Regulations</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Officers" start="220840" stop="221510">Officers </word>
+    <word normalized="and" start="221510" stop="221640">and </word>
+    <word normalized="crew" start="221640" stop="221820">crew </word>
+    <word normalized="members" start="221820" stop="222200">members </word>
+    <word normalized="of" start="222200" stop="222300">of </word>
+    <word normalized="the" start="222300" stop="222390">the </word>
+    <word normalized="new" start="222390" stop="222590">new </word>
+    <word normalized="ship" start="222590" stop="222910">ship </word>
+    <word normalized="are" start="222910" stop="223080">are </word>
+    <word normalized="assembled" start="223080" stop="223540">assembled </word>
+    <word normalized="on" start="223540" stop="223660">on </word>
+    <word normalized="the" start="223660" stop="223730">the </word>
+    <word normalized="quarterdeck" start="223730" stop="224270">quarterdeck </word>
+    <word normalized="or" start="224270" stop="224430">or </word>
+    <word normalized="other" start="224430" stop="224620">other </word>
+    <word normalized="suitable" start="224620" stop="225040">suitable </word>
+    <word normalized="area" start="225040" stop="225430">area</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Formal" start="225830" stop="226180">Formal </word>
+    <word normalized="transfer" start="226180" stop="226760">transfer </word>
+    <word normalized="of" start="226760" stop="226870">of </word>
+    <word normalized="the" start="226870" stop="226950">the </word>
+    <word normalized="ship" start="226950" stop="227220">ship </word>
+    <word normalized="to" start="227260" stop="227420">to </word>
+    <word normalized="the" start="227420" stop="227510">the </word>
+    <word normalized="prospective" start="227510" stop="228120">prospective </word>
+    <word normalized="commanding" start="228120" stop="228530">commanding </word>
+    <word normalized="officer" start="228530" stop="229020">officer </word>
+    <word normalized="is" start="229020" stop="229180">is </word>
+    <word normalized="done" start="229180" stop="229430">done </word>
+    <word normalized="by" start="229430" stop="229610">by </word>
+    <word normalized="the" start="229610" stop="229700">the </word>
+    <word normalized="Naval" start="229700" stop="230060">Naval </word>
+    <word normalized="District" start="230060" stop="230590">District </word>
+    <word normalized="Commandant" start="230590" stop="231250">Commandant </word>
+    <word normalized="or" start="231250" stop="231410">or </word>
+    <word normalized="his" start="231690" stop="231760">his </word>
+    <word normalized="representative" start="231760" stop="231880">representative</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="232220" stop="232810">The </word>
+    <word normalized="transferring" start="232810" stop="233400">transferring </word>
+    <word normalized="officer" start="233400" stop="233910">officer </word>
+    <word normalized="reads" start="233910" stop="234300">reads </word>
+    <word normalized="the" start="234300" stop="234390">the </word>
+    <word normalized="commissioning" start="234390" stop="234910">commissioning </word>
+    <word normalized="directive" start="234910" stop="235460">directive</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="235630" stop="235720">the </word>
+    <word normalized="national" start="235720" stop="236200">national </word>
+    <word normalized="anthem" start="236200" stop="236480">anthem </word>
+    <word normalized="is" start="236480" stop="236610">is </word>
+    <word normalized="played" start="236610" stop="237010">played</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="237260" stop="237390">the </word>
+    <word normalized="ensign" start="237390" stop="237720">ensign </word>
+    <word normalized="is" start="237720" stop="237830">is </word>
+    <word normalized="hoisted" start="237830" stop="238300">hoisted</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="238300" stop="238470">and </word>
+    <word normalized="commissioning" start="238470" stop="238980">commissioning </word>
+    <word normalized="pennant" start="238980" stop="239280">pennant </word>
+    <word normalized="broken" start="239280" stop="239690">broken</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="240200" stop="240330">The </word>
+    <word normalized="prospective" start="240330" stop="240930">prospective </word>
+    <word normalized="commanding" start="240930" stop="241370">commanding </word>
+    <word normalized="officer" start="241370" stop="241890">officer </word>
+    <word normalized="reads" start="241890" stop="242340">reads </word>
+    <word normalized="his">his </word>
+    <word normalized="orders" start="242340" stop="242810">orders</word>
+    <word normalized="">, </word>
+    <word normalized="assumes" start="242840" stop="243320">assumes </word>
+    <word normalized="command" start="243320" stop="243800">command</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="243800" stop="243920">and </word>
+    <word normalized="the" start="243920" stop="243980">the </word>
+    <word normalized="first" start="243980" stop="244330">first </word>
+    <word normalized="watch" start="244330" stop="244680">watch </word>
+    <word normalized="is" start="244680" stop="244790">is </word>
+    <word normalized="set" start="244790" stop="245160">set</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">(</word>
+    <word normalized="Craft" start="245150" stop="246200">Craft </word>
+    <word normalized="assigned" start="246200" stop="246760">assigned </word>
+    <word normalized="to" start="246760" stop="246870">to </word>
+    <word normalized="Naval" start="246870" stop="247190">Naval </word>
+    <word normalized="Districts" start="247190" stop="247720">Districts </word>
+    <word normalized="and" start="247720" stop="247860">and </word>
+    <word normalized="shore" start="247860" stop="248160">shore </word>
+    <word normalized="bases" start="248160" stop="248560">bases </word>
+    <word normalized="for" start="248560" stop="248710">for </word>
+    <word normalized="local" start="248710" stop="249050">local </word>
+    <word normalized="use" start="249050" stop="249410">use</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="249630" stop="249880">such </word>
+    <word normalized="as" start="249880" stop="250000">as </word>
+    <word normalized="harbor" start="250000" stop="250320">harbor </word>
+    <word normalized="tugs" start="250330" stop="250360">tugs </word>
+    <word normalized="and" start="250330" stop="250400">and </word>
+    <word normalized="floating" start="250790" stop="251150">floating </word>
+    <word normalized="drydocks" start="251150" stop="251730">drydocks</word>
+    <word normalized="">, </word>
+    <word normalized="are" start="251950" stop="252100">are </word>
+    <word normalized="not" start="252100" stop="252350">not </word>
+    <word normalized="usually" start="252350" stop="252750">usually </word>
+    <word normalized="placed" start="252750" stop="253130">placed </word>
+    <word normalized="">"</word>
+    <word normalized="in" start="253170" stop="253380">in </word>
+    <word normalized="commission" start="253380" stop="253930">commission</word>
+    <word normalized="">" </word>
+    <word normalized="but" start="253970" stop="254390">but </word>
+    <word normalized="are" start="254390" stop="254580">are </word>
+    <word normalized="in" start="254580" stop="254840">in </word>
+    <word normalized="an" start="254840" stop="255120">an </word>
+    <word normalized="">"</word>
+    <word normalized="in" start="255120" stop="255380">in </word>
+    <word normalized="service" start="255380" stop="255970">service</word>
+    <word normalized="">" </word>
+    <word normalized="status" start="256000" stop="256670">status</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="They" start="256670" stop="256810">They </word>
+    <word normalized="do" start="256810" stop="257050">do </word>
+    <word normalized="fly" start="257050" stop="257320">fly </word>
+    <word normalized="the" start="257320" stop="257420">the </word>
+    <word normalized="national" start="257420" stop="257910">national </word>
+    <word normalized="ensign" start="257910" stop="258410">ensign</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="258570" stop="258750">but </word>
+    <word normalized="not" start="258750" stop="258980">not </word>
+    <word normalized="a" start="258980" stop="259030">a </word>
+    <word normalized="commissioning" start="259030" stop="259590">commissioning </word>
+    <word normalized="pennant" start="259590" stop="259910">pennant</word>
+    <word normalized="">.</word>
+    <word normalized="">) </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="recent" start="261030" stop="261400">recent </word>
+    <word normalized="years" start="261400" stop="261760">years</word>
+    <word normalized="">, </word>
+    <word normalized="commissionings" start="261760" stop="262350">commissionings </word>
+    <word normalized="have">have </word>
+    <word normalized="come" start="262450" stop="262720">come </word>
+    <word normalized="to" start="262720" stop="262800">to </word>
+    <word normalized="be" start="262800" stop="262930">be </word>
+    <word normalized="public" start="262930" stop="263290">public </word>
+    <word normalized="occasions" start="263290" stop="263950">occasions </word>
+    <word normalized="more" start="263950" stop="264350">more </word>
+    <word normalized="than" start="264350" stop="264610">than </word>
+    <word normalized="heretofore" start="264610" stop="265220">heretofore </word>
+    <word normalized="had" start="265220" stop="265360">had </word>
+    <word normalized="been" start="265360" stop="265520">been </word>
+    <word normalized="the" start="265520" stop="265600">the </word>
+    <word normalized="practice" start="265600" stop="266190">practice</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Guests" start="266210" stop="267070">Guests</word>
+    <word normalized="">, </word>
+    <word normalized="including" start="267070" stop="267580">including </word>
+    <word normalized="the">the </word>
+    <word normalized="ship s" start="267610" stop="267840">ship's </word>
+    <word normalized="sponsor" start="267840" stop="268460">sponsor</word>
+    <word normalized="">, </word>
+    <word normalized="are" start="268660" stop="268770">are </word>
+    <word normalized="frequently" start="268770" stop="269250">frequently </word>
+    <word normalized="invited" start="269250" stop="269680">invited </word>
+    <word normalized="to" start="269680" stop="269820">to </word>
+    <word normalized="attend" start="269820" stop="270290">attend</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="270490" stop="270630">and </word>
+    <word normalized="a" start="270630" stop="270680">a </word>
+    <word normalized="prominent" start="270680" stop="271240">prominent </word>
+    <word normalized="individual" start="271240" stop="271840">individual </word>
+    <word normalized="may" start="271840" stop="272000">may </word>
+    <word normalized="deliver" start="272000" stop="272430">deliver </word>
+    <word normalized="a">a </word>
+    <word normalized="commissioning" start="272430" stop="272970">commissioning </word>
+    <word normalized="address" start="272970" stop="273550">address</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="On">On </word>
+    <word normalized="May" start="274340" stop="274410">May </word>
+    <word normalized="3" start="274410" stop="274720">3</word>
+    <word normalized="">, </word>
+    <word normalized="nineteen" start="274820" stop="275310">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy five" start="275310" stop="276180">75</word>
+    <word normalized="">, </word>
+    <word normalized="more" start="276450" stop="276740">more </word>
+    <word normalized="than" start="276740" stop="276930">than </word>
+    <word normalized="twenty" start="276930" stop="277290">twenty </word>
+    <word normalized="thousand" start="277290" stop="277780">thousand </word>
+    <word normalized="people" start="277780" stop="278140">people </word>
+    <word normalized="witnessed" start="278140" stop="278550">witnessed </word>
+    <word normalized="the" start="278550" stop="278630">the </word>
+    <word normalized="commissioning" start="278630" stop="279220">commissioning </word>
+    <word normalized="of" start="279220" stop="279340">of </word>
+    <word normalized="USS">USS </word>
+    <word normalized="Nimitz" start="279940" stop="280570">Nimitz </word>
+    <word normalized="">(</word>
+    <word normalized="C V N">CVN </word>
+    <word normalized="sixty eight" start="281450" stop="282120">68</word>
+    <word normalized="">) </word>
+    <word normalized="at" start="282420" stop="282450">at </word>
+    <word normalized="Norfolk" start="282450" stop="282620">Norfolk</word>
+    <word normalized="">, </word>
+    <word normalized="Virginia" start="283140" stop="283720">Virginia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="283960" stop="284070">The </word>
+    <word normalized="carrier s" start="284070" stop="284520">carrier's </word>
+    <word normalized="sponsor" start="284520" stop="285140">sponsor</word>
+    <word normalized="">, </word>
+    <word normalized="daughter" start="285140" stop="285720">daughter </word>
+    <word normalized="of" start="285720" stop="285810">of </word>
+    <word normalized="the" start="285810" stop="285890">the </word>
+    <word normalized="late" start="285890" stop="286160">late </word>
+    <word normalized="Fleet" start="286160" stop="286490">Fleet </word>
+    <word normalized="Admiral" start="286490" stop="286880">Admiral </word>
+    <word normalized="Chester" start="286880" stop="287270">Chester </word>
+    <word normalized="Nimitz" start="287270" stop="287680">Nimitz</word>
+    <word normalized="">, </word>
+    <word normalized="was" start="287680" stop="287870">was </word>
+    <word normalized="introduced" start="287870" stop="288580">introduced</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="288840" stop="288990">and </word>
+    <word normalized="the" start="288990" stop="289050">the </word>
+    <word normalized="President" start="289050" stop="289550">President </word>
+    <word normalized="of" start="289550" stop="289670">of </word>
+    <word normalized="the" start="289670" stop="289740">the </word>
+    <word normalized="United" start="289740" stop="290110">United </word>
+    <word normalized="States" start="290110" stop="290530">States </word>
+    <word normalized="was" start="290530" stop="290720">was </word>
+    <word normalized="the" start="290720" stop="290800">the </word>
+    <word normalized="principal" start="290800" stop="291290">principal </word>
+    <word normalized="speaker" start="291290" stop="291770">speaker</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Whether" start="292950" stop="292980">Whether </word>
+    <word normalized="for" start="292980" stop="293160">for </word>
+    <word normalized="a" start="293160" stop="293360">a </word>
+    <word normalized="massive" start="293360" stop="293390">massive </word>
+    <word normalized="nuclear" start="293390" stop="293680">nuclear </word>
+    <word normalized="aircraft" start="293980" stop="294240">aircraft </word>
+    <word normalized="carrier">carrier</word>
+    <word normalized="">, </word>
+    <word normalized="destroyer">destroyer</word>
+    <word normalized="">, </word>
+    <word normalized="submarine">submarine</word>
+    <word normalized="">, </word>
+    <word normalized="or">or </word>
+    <word normalized="amphibious">amphibious </word>
+    <word normalized="type">type</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="294510" stop="294670">the </word>
+    <word normalized="brief" start="294670" stop="295060">brief </word>
+    <word normalized="but" start="295060" stop="295210">but </word>
+    <word normalized="impressive" start="295210" stop="295710">impressive </word>
+    <word normalized="commissioning" start="295710" stop="296190">commissioning </word>
+    <word normalized="ceremony" start="296190" stop="296710">ceremony </word>
+    <word normalized="completes" start="296710" stop="297250">completes </word>
+    <word normalized="the" start="297250" stop="297350">the </word>
+    <word normalized="cycle" start="297350" stop="297750">cycle </word>
+    <word normalized="from" start="297750" stop="297920">from </word>
+    <word normalized="christening" start="297920" stop="298600">christening </word>
+    <word normalized="and" start="298600" stop="298800">and </word>
+    <word normalized="launching" start="298800" stop="299390">launching </word>
+    <word normalized="to" start="299390" stop="299570">to </word>
+    <word normalized="full" start="299570" stop="299850">full </word>
+    <word normalized="status" start="299850" stop="300370">status </word>
+    <word normalized="as" start="300370" stop="300530">as </word>
+    <word normalized="a" start="300530" stop="300610">a </word>
+    <word normalized="ship" start="301780" stop="302640">ship </word>
+    <word normalized="of" start="302770" stop="303140">of </word>
+    <word normalized="the" start="303420" stop="303450">the </word>
+    <word normalized="United" start="303620" stop="303650">United </word>
+    <word normalized="States" start="303650" stop="304090">States </word>
+    <word normalized="Navy" start="304090" stop="304410">Navy</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Now" start="304410" stop="304660">Now</word>
+    <word normalized="">, </word>
+    <word normalized="regardless" start="304660" stop="304720">regardless </word>
+    <word normalized="of" start="304720" stop="305150">of </word>
+    <word normalized="size" start="305150" stop="305210">size </word>
+    <word normalized="and" start="305210" stop="305440">and </word>
+    <word normalized="mission" start="305440" stop="305530">mission</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="305530" stop="305730">the </word>
+    <word normalized="vessel" start="305920" stop="306000">vessel </word>
+    <word normalized="and" start="306000" stop="306620">and </word>
+    <word normalized="her" start="306620" stop="307040">her </word>
+    <word normalized="crew" start="307040" stop="307120">crew </word>
+    <word normalized="stand" start="307120" stop="307250">stand </word>
+    <word normalized="ready" start="307860" stop="307960">ready </word>
+    <word normalized="to" start="307960" stop="308210">to </word>
+    <word normalized="take" start="308470" stop="308870">take </word>
+    <word normalized="their" start="309150" stop="309280">their </word>
+    <word normalized="place" start="309280" stop="309540">place </word>
+    <word normalized="in" start="309890" stop="310150">in </word>
+    <word normalized="America s" start="310220" stop="311100">America's </word>
+    <word normalized="historic" start="311100" stop="311160">historic </word>
+    <word normalized="heritage" start="311160" stop="311540">heritage </word>
+    <word normalized="of" start="311540" stop="311930">of </word>
+    <word normalized="the" start="312080" stop="312350">the </word>
+    <word normalized="sea" start="313010" stop="313190">sea</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="313190" stop="313400">Table </word>
+    <word normalized="of" start="313400" stop="313730">of </word>
+    <word normalized="contents" start="313730" stop="313810">contents </word>
+    <word normalized="Section" start="314160" stop="314240">Section </word>
+    <word normalized="1" start="314240" stop="314580">1 </word>
+    <word normalized="See" start="314580" stop="314720">See </word>
+    <word normalized="also" start="314720" stop="314830">also </word>
+    <word normalized="Navy" start="314830" stop="315060">Navy </word>
+    <word normalized="Traditions" start="317960" stop="318760">Traditions </word>
+    <word normalized="and" start="319390" stop="319440">and </word>
+    <word normalized="Customs" start="319870" stop="320050">Customs </word>
+    <word normalized="from" start="320570" stop="320630">from </word>
+    <word normalized="Naval" start="320630" stop="320800">Naval </word>
+    <word normalized="Historical" start="320800" stop="321330">Historical </word>
+    <word normalized="Center" start="322470" stop="323370">Center </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,44 @@
+<alignment>
+  <sentence>
+    <word normalized="Selleophytum" start="960" stop="2360">Selleophytum </word>
+    <word normalized="Selleophytum" start="12330" stop="13700">Selleophytum </word>
+    <word normalized="is" start="14240" stop="14420">is </word>
+    <word normalized="a" start="14420" stop="14490">a </word>
+    <word normalized="genus" start="14490" stop="15200">genus </word>
+    <word normalized="of">of </word>
+    <word normalized="flowering" start="15400" stop="16370">flowering </word>
+    <word normalized="plants" start="16440" stop="17100">plants </word>
+    <word normalized="in" start="17150" stop="17340">in </word>
+    <word normalized="the" start="17340" stop="17540">the </word>
+    <word normalized="tickseed" start="17540" stop="18360">tickseed </word>
+    <word normalized="tribe" start="18400" stop="19000">tribe </word>
+    <word normalized="within" start="19350" stop="19840">within </word>
+    <word normalized="the" start="19840" stop="19970">the </word>
+    <word normalized="daisy" start="19970" stop="20530">daisy </word>
+    <word normalized="family" start="20530" stop="21210">family</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="22500" stop="22840">The </word>
+    <word normalized="only" start="22840" stop="23340">only </word>
+    <word normalized="known" start="23340" stop="23720">known </word>
+    <word normalized="species" start="23720" stop="24630">species </word>
+    <word normalized="is" start="24630" stop="24980">is </word>
+    <word normalized="Selleophytum" start="24980" stop="26190">Selleophytum </word>
+    <word normalized="buchii" start="26190" stop="26850">buchii</word>
+    <word normalized="">, </word>
+    <word normalized="native" start="27660" stop="28240">native </word>
+    <word normalized="to" start="28370" stop="28630">to </word>
+    <word normalized="Haiti" start="28630" stop="29330">Haiti </word>
+    <word normalized="and" start="29810" stop="30050">and </word>
+    <word normalized="the" start="30050" stop="30220">the </word>
+    <word normalized="Dominican" start="30220" stop="30940">Dominican </word>
+    <word normalized="Republic" start="30940" stop="31670">Republic</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="33100" stop="33640">Table </word>
+    <word normalized="of" start="35310" stop="35520">of </word>
+    <word normalized="contents" start="38140" stop="38810">contents </word>
+  </sentence>
+</alignment>

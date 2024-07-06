@@ -1,0 +1,35 @@
+<alignment>
+  <sentence>
+    <word normalized="Ropica" start="16030" stop="16560">Ropica </word>
+    <word normalized="biroi" start="16840" stop="16890">biroi </word>
+    <word normalized="Ropica" start="17380" stop="17810">Ropica </word>
+    <word normalized="biroi" start="18500" stop="18580">biroi </word>
+    <word normalized="is" start="18910" stop="19450">is </word>
+    <word normalized="a" start="19680" stop="19830">a </word>
+    <word normalized="species" start="19830" stop="19890">species </word>
+    <word normalized="of" start="20210" stop="20270">of </word>
+    <word normalized="beetle" start="20270" stop="20580">beetle </word>
+    <word normalized="in" start="20580" stop="20920">in </word>
+    <word normalized="the" start="21020" stop="21070">the </word>
+    <word normalized="family" start="21620" stop="21930">family </word>
+    <word normalized="Cerambycidae" start="21930" stop="22320">Cerambycidae</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="was" start="23000" stop="23180">was </word>
+    <word normalized="described" start="23440" stop="23850">described </word>
+    <word normalized="by" start="23850" stop="24590">by </word>
+    <word normalized="Breuning" start="24840" stop="25150">Breuning </word>
+    <word normalized="in" start="25430" stop="25540">in </word>
+    <word normalized="nineteen" start="25540" stop="25600">19 </word>
+    <word normalized="hundred" start="25600" stop="25830">hundred </word>
+    <word normalized="fifty three" start="25830" stop="26280">53</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="26490" stop="26640">Table </word>
+    <word normalized="of" start="27150" stop="27420">of </word>
+    <word normalized="contents" start="27620" stop="27650">contents </word>
+  </sentence>
+</alignment>

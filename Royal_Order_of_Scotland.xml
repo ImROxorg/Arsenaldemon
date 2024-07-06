@@ -1,0 +1,263 @@
+<alignment>
+  <sentence>
+    <word normalized="Royal" start="120" stop="380">Royal </word>
+    <word normalized="Order" start="380" stop="650">Order </word>
+    <word normalized="of" start="650" stop="730">of </word>
+    <word normalized="Scotland" start="730" stop="1380">Scotland </word>
+    <word normalized="The" start="2670" stop="3020">The </word>
+    <word normalized="Royal" start="10890" stop="11150">Royal </word>
+    <word normalized="Order" start="11150" stop="11420">Order </word>
+    <word normalized="of" start="11420" stop="11500">of </word>
+    <word normalized="Scotland" start="11500" stop="12030">Scotland </word>
+    <word normalized="is" start="12030" stop="12140">is </word>
+    <word normalized="an" start="12140" stop="12230">an </word>
+    <word normalized="international" start="12230" stop="12790">international </word>
+    <word normalized="fraternity" start="12790" stop="13360">fraternity </word>
+    <word normalized="linked" start="13360" stop="13690">linked </word>
+    <word normalized="to" start="13690" stop="13790">to </word>
+    <word normalized="freemasonry" start="13790" stop="14460">freemasonry</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Membership" start="15060" stop="15570">Membership </word>
+    <word normalized="is" start="15570" stop="15700">is </word>
+    <word normalized="an">an </word>
+    <word normalized="honor">honor </word>
+    <word normalized="extended" start="16080" stop="16550">extended </word>
+    <word normalized="to" start="16550" stop="16670">to </word>
+    <word normalized="masons" start="16670" stop="17050">masons </word>
+    <word normalized="by" start="17050" stop="17230">by </word>
+    <word normalized="invitation" start="17230" stop="17900">invitation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="18550" stop="18620">The </word>
+    <word normalized="Grand" start="18850" stop="19120">Grand </word>
+    <word normalized="Lodge" start="19390" stop="19530">Lodge </word>
+    <word normalized="of" start="19530" stop="20330">of </word>
+    <word normalized="the" start="20890" stop="21330">the </word>
+    <word normalized="Royal" start="21630" stop="21700">Royal </word>
+    <word normalized="Order" start="22250" stop="22690">Order </word>
+    <word normalized="of" start="22690" stop="22760">of </word>
+    <word normalized="Scotland" start="22760" stop="23290">Scotland </word>
+    <word normalized="is" start="23290" stop="23410">is </word>
+    <word normalized="headquartered" start="23410" stop="23980">headquartered </word>
+    <word normalized="in" start="23970" stop="24080">in </word>
+    <word normalized="Edinburgh" start="24080" stop="24420">Edinburgh</word>
+    <word normalized="">, </word>
+    <word normalized="with">with </word>
+    <word normalized="Provincial" start="25130" stop="25600">Provincial </word>
+    <word normalized="Grand" start="25600" stop="25830">Grand </word>
+    <word normalized="Lodges" start="25830" stop="26240">Lodges </word>
+    <word normalized="in" start="26240" stop="26320">in </word>
+    <word normalized="several" start="26320" stop="26820">several </word>
+    <word normalized="locations">locations </word>
+    <word normalized="around" start="27350" stop="27620">around </word>
+    <word normalized="Britain" start="27620" stop="28000">Britain</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="28440" stop="28720">and </word>
+    <word normalized="in" start="28720" stop="28830">in </word>
+    <word normalized="a" start="28830" stop="28870">a </word>
+    <word normalized="number" start="28870" stop="29120">number </word>
+    <word normalized="of" start="29120" stop="29190">of </word>
+    <word normalized="countries" start="29190" stop="29640">countries </word>
+    <word normalized="around" start="29640" stop="29840">around </word>
+    <word normalized="the" start="29840" stop="29910">the </word>
+    <word normalized="world">world</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="31130" stop="31260">The </word>
+    <word normalized="order" start="31260" stop="31510">order </word>
+    <word normalized="claims" start="31510" stop="31900">claims </word>
+    <word normalized="the">the </word>
+    <word normalized="King" start="31900" stop="32130">King </word>
+    <word normalized="of" start="32130" stop="32200">of </word>
+    <word normalized="Scots" start="32290" stop="32710">Scots </word>
+    <word normalized="as" start="32710" stop="32850">as </word>
+    <word normalized="hereditary" start="32850" stop="33400">hereditary </word>
+    <word normalized="Grand" start="33400" stop="33670">Grand </word>
+    <word normalized="Master" start="33670" stop="34020">Master</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="34970" stop="35050">The </word>
+    <word normalized="Deputy" start="35050" stop="35460">Deputy </word>
+    <word normalized="Grand" start="35460" stop="35730">Grand </word>
+    <word normalized="Master" start="35730" stop="36070">Master </word>
+    <word normalized="and" start="36140" stop="36300">and </word>
+    <word normalized="Governor" start="36300" stop="36730">Governor </word>
+    <word normalized="of" start="36880" stop="37010">of </word>
+    <word normalized="the" start="37010" stop="37100">the </word>
+    <word normalized="order" start="37100" stop="37460">order </word>
+    <word normalized="is" start="37460" stop="37620">is </word>
+    <word normalized="currently" start="37620" stop="38160">currently </word>
+    <word normalized="Brother" start="38290" stop="38540">Brother </word>
+    <word normalized="The" start="38540" stop="38680">The </word>
+    <word normalized="Rt">Rt. </word>
+    <word normalized="Hon" start="38930" stop="39100">Hon. </word>
+    <word normalized="The">The </word>
+    <word normalized="Earl" start="39100" stop="39410">Earl </word>
+    <word normalized="of" start="39590" stop="39850">of </word>
+    <word normalized="Elgin" start="39850" stop="40150">Elgin </word>
+    <word normalized="and" start="40150" stop="40280">and </word>
+    <word normalized="Kincardine" start="40440" stop="40470">Kincardine</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="times" start="42050" stop="42420">times </word>
+    <word normalized="in" start="42420" stop="42490">in </word>
+    <word normalized="which" start="42490" stop="42740">which </word>
+    <word normalized="there" start="42740" stop="42850">there </word>
+    <word normalized="is" start="42850" stop="43000">is </word>
+    <word normalized="no" start="43000" stop="43220">no </word>
+    <word normalized="King" start="43220" stop="43450">King </word>
+    <word normalized="of" start="43450" stop="43530">of </word>
+    <word normalized="Scots" start="43610" stop="44180">Scots </word>
+    <word normalized="the" start="44440" stop="44510">the </word>
+    <word normalized="Deputy" start="44510" stop="44900">Deputy </word>
+    <word normalized="Grand">Grand </word>
+    <word normalized="Master">Master </word>
+    <word normalized="and">and </word>
+    <word normalized="Governor" start="45760" stop="46240">Governor </word>
+    <word normalized="is" start="46470" stop="46570">is </word>
+    <word normalized="the" start="46570" stop="46640">the </word>
+    <word normalized="worldwide" start="46640" stop="47130">worldwide </word>
+    <word normalized="leader" start="47130" stop="47510">leader </word>
+    <word normalized="of" start="47510" stop="47640">of </word>
+    <word normalized="the" start="47640" stop="47740">the </word>
+    <word normalized="Order" start="47740" stop="48050">Order</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="49880" stop="50060">The </word>
+    <word normalized="ROS">ROS </word>
+    <word normalized="Grand" start="53530" stop="53840">Grand </word>
+    <word normalized="Lodge" start="53840" stop="54170">Lodge </word>
+    <word normalized="and" start="54170" stop="54260">and </word>
+    <word normalized="the" start="54260" stop="54320">the </word>
+    <word normalized="Provincial" start="54320" stop="54770">Provincial </word>
+    <word normalized="Grand" start="54770" stop="55030">Grand </word>
+    <word normalized="Lodges" start="55030" stop="55360">Lodges </word>
+    <word normalized="confer" start="55360" stop="55690">confer </word>
+    <word normalized="two" start="55690" stop="55950">two </word>
+    <word normalized="degrees" start="55950" stop="56500">degrees</word>
+    <word normalized="">: </word>
+    <word normalized="Heredom" start="56950" stop="57410">Heredom </word>
+    <word normalized="of" start="57410" stop="57500">of </word>
+    <word normalized="Kilwinning" start="57500" stop="57910">Kilwinning </word>
+    <word normalized="Knight" start="58340" stop="58850">Knight </word>
+    <word normalized="of" start="58850" stop="59030">of </word>
+    <word normalized="the">the </word>
+    <word normalized="Rosy" start="59030" stop="59300">Rosy </word>
+    <word normalized="Cross" start="59300" stop="59810">Cross </word>
+    <word normalized="Qualification" start="60890" stop="63320">Qualification </word>
+    <word normalized="for" start="64030" stop="64120">for </word>
+    <word normalized="membership" start="64120" stop="64590">membership </word>
+    <word normalized="varies" start="64590" stop="65070">varies </word>
+    <word normalized="but" start="65070" stop="65220">but </word>
+    <word normalized="is" start="65220" stop="65330">is </word>
+    <word normalized="typically" start="65330" stop="65770">typically </word>
+    <word normalized="by" start="65770" stop="65970">by </word>
+    <word normalized="invitation" start="65970" stop="66560">invitation</word>
+    <word normalized="">, </word>
+    <word normalized="having" start="66940" stop="66980">having </word>
+    <word normalized="been" start="66980" stop="67200">been </word>
+    <word normalized="a" start="67370" stop="67420">a </word>
+    <word normalized="Master" start="67420" stop="67760">Master </word>
+    <word normalized="Mason" start="67760" stop="68090">Mason </word>
+    <word normalized="for" start="68090" stop="68230">for </word>
+    <word normalized="five" start="68230" stop="68550">5 </word>
+    <word normalized="years" start="68550" stop="69010">years</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Other" start="69690" stop="69930">Other </word>
+    <word normalized="restrictions">restrictions </word>
+    <word normalized="may" start="70520" stop="70690">may </word>
+    <word normalized="include" start="70690" stop="71220">include</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="71520" stop="71700">but </word>
+    <word normalized="are" start="71700" stop="71900">are </word>
+    <word normalized="not">not </word>
+    <word normalized="restricted" start="71900" stop="72470">restricted </word>
+    <word normalized="to" start="72500" stop="72820">to</word>
+    <word normalized="">: </word>
+    <word normalized="Active" start="73370" stop="73710">Active </word>
+    <word normalized="membership" start="73710" stop="74230">membership </word>
+    <word normalized="of" start="74230" stop="74320">of </word>
+    <word normalized="the" start="74320" stop="74500">the </word>
+    <word normalized="eighteenth" start="74500" stop="74860">18th </word>
+    <word normalized="degree" start="74860" stop="75220">degree </word>
+    <word normalized="of" start="75220" stop="75290">of </word>
+    <word normalized="the" start="75290" stop="75390">the </word>
+    <word normalized="Ancient" start="75390" stop="75720">Ancient </word>
+    <word normalized="and" start="75720" stop="75830">and </word>
+    <word normalized="Accepted" start="75830" stop="76350">Accepted </word>
+    <word normalized="Scottish">Scottish </word>
+    <word normalized="Rite" start="76350" stop="76670">Rite </word>
+    <word normalized="and" start="77060" stop="77160">and </word>
+    <word normalized="at">at </word>
+    <word normalized="least" start="77240" stop="77520">least </word>
+    <word normalized="one" start="77520" stop="77770">one </word>
+    <word normalized="other" start="77770" stop="77990">other </word>
+    <word normalized="Christian" start="77990" stop="78430">Christian </word>
+    <word normalized="Order" start="78430" stop="78670">Order</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="OR">OR </word>
+    <word normalized="Membership" start="79890" stop="80440">Membership </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="80440" stop="80550">the </word>
+    <word normalized="Holy" start="80550" stop="80880">Holy </word>
+    <word normalized="Royal" start="80880" stop="81150">Royal </word>
+    <word normalized="Arch" start="81150" stop="81540">Arch </word>
+    <word normalized="and" start="81600" stop="81690">and </word>
+    <word normalized="at" start="81690" stop="81790">at </word>
+    <word normalized="least" start="81790" stop="82120">least </word>
+    <word normalized="one" start="82150" stop="82400">one </word>
+    <word normalized="other" start="82400" stop="82610">other </word>
+    <word normalized="Christian" start="82610" stop="83030">Christian </word>
+    <word normalized="Order" start="83030" stop="83340">Order</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="OR">OR </word>
+    <word normalized="In">In </word>
+    <word normalized="the" start="84770" stop="84870">the </word>
+    <word normalized="United" start="84870" stop="85230">United </word>
+    <word normalized="States" start="85230" stop="85790">States </word>
+    <word normalized="membership" start="86190" stop="86670">membership </word>
+    <word normalized="of" start="86670" stop="86780">of </word>
+    <word normalized="the" start="86780" stop="86860">the </word>
+    <word normalized="Knight" start="86860" stop="87130">Knight </word>
+    <word normalized="Templar" start="87130" stop="87480">Templar </word>
+    <word normalized="Degree" start="87480" stop="87850">Degree </word>
+    <word normalized="in" start="87850" stop="87970">in </word>
+    <word normalized="the">the </word>
+    <word normalized="York" start="88020" stop="88350">York </word>
+    <word normalized="Rite" start="88350" stop="88660">Rite</word>
+    <word normalized="">, </word>
+    <word normalized="or" start="89050" stop="89150">or </word>
+    <word normalized="membership" start="89150" stop="89700">membership </word>
+    <word normalized="of" start="89700" stop="89790">of </word>
+    <word normalized="the" start="89790" stop="89860">the </word>
+    <word normalized="thirty second" start="89860" stop="90610">32nd </word>
+    <word normalized="Degree" start="90610" stop="90970">Degree </word>
+    <word normalized="in" start="90970" stop="91110">in </word>
+    <word normalized="the" start="91110" stop="91180">the </word>
+    <word normalized="Ancient" start="91180" stop="91520">Ancient </word>
+    <word normalized="and" start="91520" stop="91630">and </word>
+    <word normalized="Accepted" start="91630" stop="92090">Accepted </word>
+    <word normalized="Scottish" start="92090" stop="92530">Scottish </word>
+    <word normalized="Rite" start="92530" stop="92900">Rite</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="107160" stop="107610">Table </word>
+    <word normalized="of" start="107790" stop="108090">of </word>
+    <word normalized="contents" start="108090" stop="108570">contents </word>
+  </sentence>
+</alignment>

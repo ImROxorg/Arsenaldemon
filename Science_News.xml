@@ -1,0 +1,124 @@
+<alignment>
+  <sentence>
+    <word normalized="Science" start="2500" stop="3120">Science </word>
+    <word normalized="News" start="3120" stop="3460">News </word>
+    <word normalized="Science" start="6260" stop="6840">Science </word>
+    <word normalized="News" start="6840" stop="7320">News </word>
+    <word normalized="is" start="7320" stop="7490">is </word>
+    <word normalized="an" start="7490" stop="7580">an </word>
+    <word normalized="American" start="7580" stop="8220">American </word>
+    <word normalized="bi weekly" start="8220" stop="8850">bi-weekly </word>
+    <word normalized="magazine" start="8850" stop="9520">magazine </word>
+    <word normalized="devoted" start="9860" stop="10260">devoted </word>
+    <word normalized="to" start="10260" stop="10410">to </word>
+    <word normalized="short" start="10410" stop="10830">short </word>
+    <word normalized="articles" start="10830" stop="11360">articles </word>
+    <word normalized="about" start="11410" stop="11710">about </word>
+    <word normalized="new" start="11710" stop="12040">new </word>
+    <word normalized="scientific" start="12040" stop="12840">scientific </word>
+    <word normalized="and" start="12840" stop="13160">and </word>
+    <word normalized="technical" start="13160" stop="13680">technical </word>
+    <word normalized="developments">developments</word>
+    <word normalized="">, </word>
+    <word normalized="typically">typically </word>
+    <word normalized="gleaned" start="15230" stop="15600">gleaned </word>
+    <word normalized="from" start="15600" stop="15810">from </word>
+    <word normalized="recent" start="15810" stop="16260">recent </word>
+    <word normalized="scientific" start="16260" stop="17030">scientific </word>
+    <word normalized="and" start="17030" stop="17220">and </word>
+    <word normalized="technical" start="17220" stop="17780">technical </word>
+    <word normalized="journals" start="17780" stop="18410">journals</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Science" start="18770" stop="19330">Science </word>
+    <word normalized="News" start="19330" stop="19690">News </word>
+    <word normalized="has" start="19850" stop="20050">has </word>
+    <word normalized="been" start="20050" stop="20220">been </word>
+    <word normalized="published" start="20220" stop="20730">published </word>
+    <word normalized="since" start="20730" stop="21040">since </word>
+    <word normalized="nineteen" start="21040" stop="21500">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty two" start="21500" stop="22260">22 </word>
+    <word normalized="by" start="22250" stop="22820">by </word>
+    <word normalized="Society" start="22820" stop="23450">Society </word>
+    <word normalized="for" start="23450" stop="23630">for </word>
+    <word normalized="Science" start="23630" stop="24160">Science </word>
+    <word normalized="and" start="24160" stop="24270">&amp; </word>
+    <word normalized="the" start="24270" stop="24330">the </word>
+    <word normalized="Public" start="24330" stop="24770">Public</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="25170" stop="25220">a </word>
+    <word normalized="non profit" start="25220" stop="25950">non-profit </word>
+    <word normalized="organization" start="25950" stop="26770">organization</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="From" start="27270" stop="27450">From </word>
+    <word normalized="nineteen" start="27450" stop="28040">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty two" start="28040" stop="28730">22 </word>
+    <word normalized="to" start="28730" stop="28880">to </word>
+    <word normalized="nineteen" start="28880" stop="29540">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="sixty six" start="29540" stop="30490">66</word>
+    <word normalized="">, </word>
+    <word normalized="it" start="30790" stop="30910">it </word>
+    <word normalized="was" start="30910" stop="31160">was </word>
+    <word normalized="called" start="31160" stop="31520">called </word>
+    <word normalized="Science" start="31690" stop="32340">Science </word>
+    <word normalized="News Letter" start="32400" stop="32970">News-Letter</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Kendrick" start="33930" stop="34390">Kendrick </word>
+    <word normalized="Frazier" start="34390" stop="35010">Frazier </word>
+    <word normalized="is" start="35190" stop="35350">is </word>
+    <word normalized="a" start="35350" stop="35400">a </word>
+    <word normalized="former" start="35400" stop="35880">former </word>
+    <word normalized="editor" start="35880" stop="36390">editor</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="two thousand seven" start="37120" stop="38180">2007</word>
+    <word normalized="">, </word>
+    <word normalized="Tom" start="38430" stop="38850">Tom </word>
+    <word normalized="Siegfried" start="38850" stop="39600">Siegfried </word>
+    <word normalized="became" start="39780" stop="40100">became </word>
+    <word normalized="the" start="40100" stop="40180">the </word>
+    <word normalized="editor in chief" start="40180" stop="41080">editor-in-chief </word>
+    <word normalized="of" start="41080" stop="41180">of </word>
+    <word normalized="the" start="41180" stop="41260">the </word>
+    <word normalized="magazine">magazine</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="41200" stop="41260">The </word>
+    <word normalized="current" start="42550" stop="42910">current </word>
+    <word normalized="website" start="42910" stop="43530">website </word>
+    <word normalized="was" start="43780" stop="44030">was </word>
+    <word normalized="redeployed" start="44080" stop="44840">redeployed </word>
+    <word normalized="in" start="44880" stop="45050">in </word>
+    <word normalized="April" start="45050" stop="45550">April </word>
+    <word normalized="of" start="45580" stop="45700">of </word>
+    <word normalized="two thousand eight" start="45700" stop="46850">2008</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Audible dot com" start="48030" stop="49040">Audible.com </word>
+    <word normalized="distributes" start="49040" stop="49190">distributes </word>
+    <word normalized="an" start="49820" stop="49990">an </word>
+    <word normalized="audio" start="50030" stop="50450">audio </word>
+    <word normalized="edition" start="50450" stop="50950">edition </word>
+    <word normalized="of" start="51140" stop="51260">of </word>
+    <word normalized="Science" start="51260" stop="51800">Science </word>
+    <word normalized="News" start="51800" stop="52360">News</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of" start="54370" stop="54640">of </word>
+    <word normalized="contents" start="55490" stop="56420">contents </word>
+  </sentence>
+</alignment>
