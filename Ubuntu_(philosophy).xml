@@ -1,0 +1,615 @@
+<alignment>
+  <sentence>
+    <word normalized="Ubuntu" start="114830" stop="118380">Ubuntu </word>
+    <word normalized="">(</word>
+    <word normalized="philosophy" start="118980" stop="119380">philosophy</word>
+    <word normalized="">) </word>
+    <word normalized="Ubuntu" start="119710" stop="119840">Ubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="pronounced" start="120180" stop="120710">pronounced </word>
+    <word normalized="forward slash" start="121280" stop="122040">/</word>
+    <word normalized="ubuntu" start="122500" stop="123250">ùbúntú</word>
+    <word normalized="forward slash" start="123250" stop="124150">/ </word>
+    <word normalized="">(</word>
+    <word normalized="oo BOON too" start="124470" stop="124860">oo-BOON-too</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="is" start="124860" stop="124980">is </word>
+    <word normalized="a" start="125170" stop="125510">a </word>
+    <word normalized="sub Saharan" start="125510" stop="126160">sub-Saharan </word>
+    <word normalized="African" start="126470" stop="127050">African </word>
+    <word normalized="ethic" start="127050" stop="127600">ethic </word>
+    <word normalized="or" start="127870" stop="127900">or </word>
+    <word normalized="ideology" start="128060" stop="128310">ideology </word>
+    <word normalized="focusing" start="128780" stop="129190">focusing </word>
+    <word normalized="on" start="129640" stop="129910">on </word>
+    <word normalized="people s" start="129910" stop="130420">people's </word>
+    <word normalized="allegiances" start="130600" stop="130990">allegiances </word>
+    <word normalized="and" start="138650" stop="139830">and </word>
+    <word normalized="relations" start="140250" stop="140490">relations </word>
+    <word normalized="with" start="141030" stop="141090">with </word>
+    <word normalized="each" start="141090" stop="141280">each </word>
+    <word normalized="other" start="141380" stop="141690">other</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="141860" stop="141890">The </word>
+    <word normalized="word" start="142030" stop="142080">word </word>
+    <word normalized="has" start="142080" stop="142220">has </word>
+    <word normalized="its" start="142630" stop="143210">its </word>
+    <word normalized="origin" start="143210" stop="143400">origin </word>
+    <word normalized="in" start="143940" stop="145060">in </word>
+    <word normalized="the" start="145060" stop="145330">the </word>
+    <word normalized="Bantu" start="145560" stop="146900">Bantu </word>
+    <word normalized="languages" start="146900" stop="147250">languages </word>
+    <word normalized="of" start="148130" stop="148160">of </word>
+    <word normalized="Southern" start="148310" stop="148960">Southern </word>
+    <word normalized="Africa" start="149360" stop="152940">Africa</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu" start="153330" stop="154440">Ubuntu </word>
+    <word normalized="is" start="155170" stop="155860">is </word>
+    <word normalized="seen" start="156010" stop="156570">seen </word>
+    <word normalized="as" start="156570" stop="156770">as </word>
+    <word normalized="a" start="157020" stop="157290">a </word>
+    <word normalized="traditional" start="157660" stop="158910">traditional </word>
+    <word normalized="African">African </word>
+    <word normalized="concept">concept</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="rough">rough </word>
+    <word normalized="translation">translation </word>
+    <word normalized="in">in </word>
+    <word normalized="English">English </word>
+    <word normalized="could">could </word>
+    <word normalized="be">be </word>
+    <word normalized="">"</word>
+    <word normalized="humanity">humanity </word>
+    <word normalized="towards">towards </word>
+    <word normalized="others">others</word>
+    <word normalized="">,</word>
+    <word normalized="">" </word>
+    <word normalized="or">or </word>
+    <word normalized="">"</word>
+    <word normalized="I">I </word>
+    <word normalized="am">am </word>
+    <word normalized="because">because </word>
+    <word normalized="we">we </word>
+    <word normalized="are">are</word>
+    <word normalized="">,</word>
+    <word normalized="">" </word>
+    <word normalized="or">or </word>
+    <word normalized="">"</word>
+    <word normalized="A">A </word>
+    <word normalized="person">person </word>
+    <word normalized="">'</word>
+    <word normalized="becomes">becomes </word>
+    <word normalized="human">human</word>
+    <word normalized="">' </word>
+    <word normalized="through">through </word>
+    <word normalized="other">other </word>
+    <word normalized="persons">persons</word>
+    <word normalized="">,</word>
+    <word normalized="">" </word>
+    <word normalized="or">or </word>
+    <word normalized="also">also</word>
+    <word normalized="">, </word>
+    <word normalized="">"</word>
+    <word normalized="A">A </word>
+    <word normalized="person">person </word>
+    <word normalized="is">is </word>
+    <word normalized="a">a </word>
+    <word normalized="person">person </word>
+    <word normalized="because">because </word>
+    <word normalized="of">of </word>
+    <word normalized="other">other </word>
+    <word normalized="persons">persons</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="Another">Another </word>
+    <word normalized="translation">translation </word>
+    <word normalized="could">could </word>
+    <word normalized="be">be</word>
+    <word normalized="">: </word>
+    <word normalized="">"</word>
+    <word normalized="The">The </word>
+    <word normalized="belief">belief </word>
+    <word normalized="in">in </word>
+    <word normalized="a">a </word>
+    <word normalized="universal">universal </word>
+    <word normalized="bond">bond </word>
+    <word normalized="of">of </word>
+    <word normalized="sharing">sharing </word>
+    <word normalized="that">that </word>
+    <word normalized="connects">connects </word>
+    <word normalized="all">all </word>
+    <word normalized="humanity">humanity</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="">[</word>
+    <word normalized="1">1</word>
+    <word normalized="">] </word>
+    <word normalized="An">An </word>
+    <word normalized="attempt">attempt </word>
+    <word normalized="at">at </word>
+    <word normalized="a">a </word>
+    <word normalized="longer">longer </word>
+    <word normalized="definition">definition </word>
+    <word normalized="has">has </word>
+    <word normalized="been">been </word>
+    <word normalized="made">made </word>
+    <word normalized="by">by </word>
+    <word normalized="Archbishop">Archbishop </word>
+    <word normalized="Desmond">Desmond </word>
+    <word normalized="Tutu">Tutu </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety nine">99</word>
+    <word normalized="">)</word>
+    <word normalized="">: </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="is">is </word>
+    <word normalized="seen">seen </word>
+    <word normalized="as">as </word>
+    <word normalized="one">one </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="founding">founding </word>
+    <word normalized="principles">principles </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="new">new </word>
+    <word normalized="republic">republic </word>
+    <word normalized="of">of </word>
+    <word normalized="South">South </word>
+    <word normalized="Africa">Africa</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="is">is </word>
+    <word normalized="connected">connected </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="idea">idea </word>
+    <word normalized="of">of </word>
+    <word normalized="an">an </word>
+    <word normalized="African">African </word>
+    <word normalized="Renaissance">Renaissance</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="the">the </word>
+    <word normalized="political">political </word>
+    <word normalized="sphere">sphere</word>
+    <word normalized="">, </word>
+    <word normalized="the">the </word>
+    <word normalized="concept">concept </word>
+    <word normalized="of">of </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="is">is </word>
+    <word normalized="used">used </word>
+    <word normalized="to">to </word>
+    <word normalized="emphasise">emphasise </word>
+    <word normalized="the">the </word>
+    <word normalized="need">need </word>
+    <word normalized="for">for </word>
+    <word normalized="unity">unity </word>
+    <word normalized="or">or </word>
+    <word normalized="consensus">consensus </word>
+    <word normalized="in">in </word>
+    <word normalized="decision making">decision-making</word>
+    <word normalized="">, </word>
+    <word normalized="as">as </word>
+    <word normalized="well">well </word>
+    <word normalized="as">as </word>
+    <word normalized="the">the </word>
+    <word normalized="need">need </word>
+    <word normalized="for">for </word>
+    <word normalized="a">a </word>
+    <word normalized="suitably">suitably </word>
+    <word normalized="humanitarian">humanitarian </word>
+    <word normalized="ethic">ethic </word>
+    <word normalized="to">to </word>
+    <word normalized="inform">inform </word>
+    <word normalized="those">those </word>
+    <word normalized="decisions">decisions</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Louw">Louw </word>
+    <word normalized="">(</word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety eight">98</word>
+    <word normalized="">) </word>
+    <word normalized="suggests">suggests </word>
+    <word normalized="that">that </word>
+    <word normalized="the">the </word>
+    <word normalized="concept">concept </word>
+    <word normalized="of">of </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="defines">defines </word>
+    <word normalized="the">the </word>
+    <word normalized="individual">individual </word>
+    <word normalized="in">in </word>
+    <word normalized="terms">terms </word>
+    <word normalized="of">of </word>
+    <word normalized="their">their </word>
+    <word normalized="several">several </word>
+    <word normalized="relationships">relationships </word>
+    <word normalized="with">with </word>
+    <word normalized="others">others</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="stresses">stresses </word>
+    <word normalized="the">the </word>
+    <word normalized="importance">importance </word>
+    <word normalized="of">of </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="as">as </word>
+    <word normalized="a">a </word>
+    <word normalized="religious">religious </word>
+    <word normalized="concept">concept</word>
+    <word normalized="">, </word>
+    <word normalized="stating">stating </word>
+    <word normalized="that">that </word>
+    <word normalized="while">while </word>
+    <word normalized="the">the </word>
+    <word normalized="Zulu">Zulu </word>
+    <word normalized="maxim">maxim </word>
+    <word normalized="umuntu">umuntu </word>
+    <word normalized="ngumuntu">ngumuntu </word>
+    <word normalized="ngabantu">ngabantu </word>
+    <word normalized="">(</word>
+    <word normalized="">"</word>
+    <word normalized="a">a </word>
+    <word normalized="person">person </word>
+    <word normalized="is">is </word>
+    <word normalized="a">a </word>
+    <word normalized="person">person </word>
+    <word normalized="through">through </word>
+    <word normalized="other">other </word>
+    <word normalized="persons">persons</word>
+    <word normalized="">"</word>
+    <word normalized="">) </word>
+    <word normalized="may">may </word>
+    <word normalized="have">have </word>
+    <word normalized="no">no </word>
+    <word normalized="apparent">apparent </word>
+    <word normalized="religious">religious </word>
+    <word normalized="connotations">connotations </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="context">context </word>
+    <word normalized="of">of </word>
+    <word normalized="Western">Western </word>
+    <word normalized="society">society</word>
+    <word normalized="">, </word>
+    <word normalized="in">in </word>
+    <word normalized="an">an </word>
+    <word normalized="African">African </word>
+    <word normalized="context">context </word>
+    <word normalized="it">it </word>
+    <word normalized="suggests">suggests </word>
+    <word normalized="that">that </word>
+    <word normalized="the">the </word>
+    <word normalized="person">person </word>
+    <word normalized="one">one </word>
+    <word normalized="is">is </word>
+    <word normalized="to">to </word>
+    <word normalized="become">become </word>
+    <word normalized="by">by </word>
+    <word normalized="behaving">behaving </word>
+    <word normalized="with">with </word>
+    <word normalized="humanity">humanity </word>
+    <word normalized="is">is </word>
+    <word normalized="an">an </word>
+    <word normalized="ancestor">ancestor </word>
+    <word normalized="worthy">worthy </word>
+    <word normalized="of">of </word>
+    <word normalized="respect">respect </word>
+    <word normalized="or">or </word>
+    <word normalized="veneration">veneration</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Those">Those </word>
+    <word normalized="who">who </word>
+    <word normalized="uphold">uphold </word>
+    <word normalized="the">the </word>
+    <word normalized="principle">principle </word>
+    <word normalized="of">of </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="throughout">throughout </word>
+    <word normalized="their">their </word>
+    <word normalized="lives">lives </word>
+    <word normalized="will">will</word>
+    <word normalized="">, </word>
+    <word normalized="in">in </word>
+    <word normalized="death">death</word>
+    <word normalized="">, </word>
+    <word normalized="achieve">achieve </word>
+    <word normalized="a">a </word>
+    <word normalized="unity">unity </word>
+    <word normalized="with">with </word>
+    <word normalized="those">those </word>
+    <word normalized="still">still </word>
+    <word normalized="living">living</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="">"</word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">" </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="Linux">Linux </word>
+    <word normalized="computer">computer </word>
+    <word normalized="operating">operating </word>
+    <word normalized="system">system </word>
+    <word normalized="is">is </word>
+    <word normalized="inspired">inspired </word>
+    <word normalized="by">by </word>
+    <word normalized="the">the </word>
+    <word normalized="concept">concept</word>
+    <word normalized="">, </word>
+    <word normalized="arguing">arguing </word>
+    <word normalized="that">that </word>
+    <word normalized="it">it </word>
+    <word normalized="">"</word>
+    <word normalized="brings">brings </word>
+    <word normalized="the">the </word>
+    <word normalized="spirit">spirit </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="software">software </word>
+    <word normalized="world">world</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="">[</word>
+    <word normalized="2">2</word>
+    <word normalized="">] </word>
+    <word normalized="">[</word>
+    <word normalized="three">3</word>
+    <word normalized="">] </word>
+    <word normalized="Template Video">Template:Video </word>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="References">References </word>
+    <word normalized="and">and </word>
+    <word normalized="external">external </word>
+    <word normalized="links">links </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="minus">– </word>
+    <word normalized="African">African </word>
+    <word normalized="Philosophy">Philosophy </word>
+    <word normalized="A">A </word>
+    <word normalized="definition">definition </word>
+    <word normalized="of">of </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="Abstract">Abstract </word>
+    <word normalized="of">of </word>
+    <word normalized="an">an </word>
+    <word normalized="article">article </word>
+    <word normalized="about">about </word>
+    <word normalized="the">the </word>
+    <word normalized="relation">relation </word>
+    <word normalized="between">between </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="and">and </word>
+    <word normalized="the">the </word>
+    <word normalized="law">law </word>
+    <word normalized="by">by </word>
+    <word normalized="Y">Y. </word>
+    <word normalized="Mokgoro">Mokgoro </word>
+    <word normalized="Tutu">Tutu</word>
+    <word normalized="">, </word>
+    <word normalized="Desmond">Desmond </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety nine">99</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="No">No </word>
+    <word normalized="Future">Future </word>
+    <word normalized="Without">Without </word>
+    <word normalized="Forgiveness">Forgiveness</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Image">Image</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="ISBN">ISBN </word>
+    <word normalized="0385496907">0385496907</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Louw">Louw</word>
+    <word normalized="">, </word>
+    <word normalized="Dirk">Dirk </word>
+    <word normalized="J">J. </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety eight">98</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">"</word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">: </word>
+    <word normalized="An">An </word>
+    <word normalized="African">African </word>
+    <word normalized="Assessment">Assessment </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="Religious">Religious </word>
+    <word normalized="Other">Other</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Twentieth">Twentieth </word>
+    <word normalized="World">World </word>
+    <word normalized="Congress">Congress </word>
+    <word normalized="of">of </word>
+    <word normalized="Philosophy">Philosophy</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="A">A </word>
+    <word normalized="brief">brief </word>
+    <word normalized="discussion">discussion </word>
+    <word normalized="including">including </word>
+    <word normalized="an">an </word>
+    <word normalized="expanded">expanded </word>
+    <word normalized="description">description </word>
+    <word normalized="by">by </word>
+    <word normalized="Desmond">Desmond </word>
+    <word normalized="Tutu">Tutu </word>
+    <word normalized="Web">Web </word>
+    <word normalized="video">video </word>
+    <word normalized="of">of </word>
+    <word normalized="Nelson">Nelson </word>
+    <word normalized="Mandela">Mandela </word>
+    <word normalized="explaining">explaining </word>
+    <word normalized="what">what </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="is">is </word>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="Further">Further </word>
+    <word normalized="reading">reading </word>
+    <word normalized="Ramose">Ramose</word>
+    <word normalized="">, </word>
+    <word normalized="Mogobe">Mogobe </word>
+    <word normalized="B">B. </word>
+    <word normalized="">(</word>
+    <word normalized="two thousand three">2003</word>
+    <word normalized="">) </word>
+    <word normalized="">'</word>
+    <word normalized="The">The </word>
+    <word normalized="philosophy">philosophy </word>
+    <word normalized="of">of </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="and">and </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="as">as </word>
+    <word normalized="a">a </word>
+    <word normalized="philosophy">philosophy</word>
+    <word normalized="">'</word>
+    <word normalized="">, </word>
+    <word normalized="in">in </word>
+    <word normalized="P H">P.H. </word>
+    <word normalized="Coetzee">Coetzee </word>
+    <word normalized="and">&amp; </word>
+    <word normalized="A P J">A.P.J. </word>
+    <word normalized="Roux">Roux </word>
+    <word normalized="">(</word>
+    <word normalized="eds">eds</word>
+    <word normalized="">.</word>
+    <word normalized="">) </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="African">African </word>
+    <word normalized="Philosophy">Philosophy </word>
+    <word normalized="Reader">Reader </word>
+    <word normalized="">(</word>
+    <word normalized="second">2nd </word>
+    <word normalized="ed">ed</word>
+    <word normalized="">.</word>
+    <word normalized="">) </word>
+  </sentence>
+  <sentence>
+    <word normalized="New">New </word>
+    <word normalized="York forward slash London">York/London</word>
+    <word normalized="">: </word>
+    <word normalized="Routledge">Routledge</word>
+    <word normalized="">, </word>
+    <word normalized="two hundred thirty to two hundred thirty eight">230–238</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Samkange">Samkange</word>
+    <word normalized="">, </word>
+    <word normalized="S">S. </word>
+    <word normalized="and">&amp; </word>
+    <word normalized="Samkange">Samkange</word>
+    <word normalized="">, </word>
+    <word normalized="T M">T.M. </word>
+    <word normalized="">(</word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty">80</word>
+    <word normalized="">) </word>
+    <word normalized="Hunhuism">Hunhuism </word>
+    <word normalized="or">or </word>
+    <word normalized="Ubuntuism">Ubuntuism</word>
+    <word normalized="">: </word>
+    <word normalized="A">A </word>
+    <word normalized="Zimbabwe">Zimbabwe </word>
+    <word normalized="indigenous">indigenous </word>
+    <word normalized="political">political </word>
+    <word normalized="philosophy">philosophy</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Salisburg">Salisburg</word>
+    <word normalized="">: </word>
+    <word normalized="Graham">Graham </word>
+    <word normalized="Publishing">Publishing</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ambrose">Ambrose</word>
+    <word normalized="">, </word>
+    <word normalized="David">David</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">(</word>
+    <word normalized="2006">2006</word>
+    <word normalized="">) </word>
+    <word normalized="">'</word>
+    <word normalized="Your">Your </word>
+    <word normalized="Life">Life </word>
+    <word normalized="Manual">Manual</word>
+    <word normalized="">: </word>
+    <word normalized="Practical">Practical </word>
+    <word normalized="Steps">Steps </word>
+    <word normalized="to">to </word>
+    <word normalized="Genuine">Genuine </word>
+    <word normalized="Happiness">Happiness</word>
+    <word normalized="">'</word>
+    <word normalized="">: </word>
+    <word normalized="Revolution">Revolution </word>
+    <word normalized="Mind">Mind </word>
+    <word normalized="Publishing">Publishing</word>
+    <word normalized="">, </word>
+    <word normalized="thirty seven to forty">37-40</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,61 @@
+<alignment>
+  <sentence>
+    <word normalized="Vignacourt" start="970" stop="1830">Vignacourt </word>
+    <word normalized="Vignacourt" start="14880" stop="15770">Vignacourt </word>
+    <word normalized="is" start="15810" stop="15940">is </word>
+    <word normalized="a" start="15940" stop="16000">a </word>
+    <word normalized="commune" start="16000" stop="16540">commune </word>
+    <word normalized="in" start="16820" stop="17050">in </word>
+    <word normalized="the" start="17130" stop="17240">the </word>
+    <word normalized="Somme" start="17240" stop="17570">Somme </word>
+    <word normalized="department" start="17570" stop="18140">department </word>
+    <word normalized="in" start="18140" stop="18270">in </word>
+    <word normalized="Picardie" start="18270" stop="18890">Picardie </word>
+    <word normalized="in" start="19010" stop="19120">in </word>
+    <word normalized="northern" start="19150" stop="19490">northern </word>
+    <word normalized="France" start="19490" stop="20120">France</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="21020" stop="21310">Table </word>
+    <word normalized="of" start="21310" stop="21820">of </word>
+    <word normalized="contents" start="21940" stop="22290">contents </word>
+    <word normalized="Section" start="22970" stop="24750">Section </word>
+    <word normalized="one" start="25240" stop="25600">1 </word>
+    <word normalized="Geography" start="26160" stop="26300">Geography </word>
+    <word normalized="Vignacourt" start="26870" stop="27020">Vignacourt </word>
+    <word normalized="is" start="27020" stop="27650">is </word>
+    <word normalized="situated" start="27880" stop="28370">situated </word>
+    <word normalized="ten" start="28370" stop="28850">10 </word>
+    <word normalized="miles" start="28850" stop="29040">miles </word>
+    <word normalized="">(</word>
+    <word normalized="sixteen" start="29390" stop="30080">16 </word>
+    <word normalized="k m" start="30080" stop="31200">km</word>
+    <word normalized="">) </word>
+    <word normalized="northwest" start="31390" stop="31700">northwest </word>
+    <word normalized="of">of </word>
+    <word normalized="Amiens">Amiens</word>
+    <word normalized="">, </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="D one two">D12 </word>
+    <word normalized="and">and </word>
+    <word normalized="D four nine" start="31990" stop="32290">D49 </word>
+    <word normalized="junction" start="32290" stop="32810">junction</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="34190" stop="34740">Section </word>
+    <word normalized="2" start="34740" stop="35130">2 </word>
+    <word normalized="Population" start="35620" stop="36470">Population </word>
+    <word normalized="Section" start="37330" stop="37870">Section </word>
+    <word normalized="three" start="38090" stop="38400">3 </word>
+    <word normalized="See" start="38400" stop="38590">See </word>
+    <word normalized="also" start="38590" stop="38790">also </word>
+    <word normalized="Communes" start="41580" stop="41940">Communes </word>
+    <word normalized="of" start="42420" stop="42570">of </word>
+    <word normalized="the" start="43270" stop="43380">the </word>
+    <word normalized="Somme" start="53960" stop="54140">Somme </word>
+    <word normalized="department" start="54140" stop="55130">department </word>
+  </sentence>
+</alignment>

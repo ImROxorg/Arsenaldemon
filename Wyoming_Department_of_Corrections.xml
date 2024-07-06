@@ -1,0 +1,266 @@
+<alignment>
+  <sentence>
+    <word normalized="Wyoming" start="40" stop="1110">Wyoming </word>
+    <word normalized="Department" start="1320" stop="2560">Department </word>
+    <word normalized="of" start="2730" stop="3000">of </word>
+    <word normalized="Corrections" start="3000" stop="4320">Corrections </word>
+    <word normalized="The" start="14830" stop="15170">The </word>
+    <word normalized="Wyoming" start="15170" stop="16010">Wyoming </word>
+    <word normalized="Department" start="16040" stop="17300">Department </word>
+    <word normalized="of" start="17420" stop="17720">of </word>
+    <word normalized="Corrections" start="17890" stop="18990">Corrections </word>
+    <word normalized="">(</word>
+    <word normalized="WDOC">WDOC</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="19490" stop="19730">is </word>
+    <word normalized="a" start="19730" stop="19920">a </word>
+    <word normalized="state" start="19920" stop="20610">state </word>
+    <word normalized="agency" start="20680" stop="21550">agency </word>
+    <word normalized="of" start="21880" stop="22120">of </word>
+    <word normalized="Wyoming" start="22120" stop="22800">Wyoming </word>
+    <word normalized="that" start="23200" stop="23550">that </word>
+    <word normalized="operates" start="23550" stop="24450">operates </word>
+    <word normalized="adult" start="24500" stop="25070">adult </word>
+    <word normalized="correctional" start="25160" stop="26070">correctional </word>
+    <word normalized="facilities" start="26100" stop="27180">facilities</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="28160" stop="28390">is </word>
+    <word normalized="headquartered" start="28390" stop="29310">headquartered </word>
+    <word normalized="in" start="29530" stop="29840">in </word>
+    <word normalized="Suite" start="29840" stop="30340">Suite </word>
+    <word normalized="100" start="30380" stop="30780">100 </word>
+    <word normalized="of" start="31300" stop="31650">of </word>
+    <word normalized="the" start="31850" stop="31880">the </word>
+    <word normalized="nineteen" start="32080" stop="32280">19 </word>
+    <word normalized="hundred" start="32880" stop="32910">hundred </word>
+    <word normalized="thirty four" start="33120" stop="33570">34 </word>
+    <word normalized="Wyott" start="33570" stop="34450">Wyott </word>
+    <word normalized="Drive" start="34480" stop="35060">Drive </word>
+    <word normalized="building" start="35210" stop="35730">building </word>
+    <word normalized="in" start="36000" stop="36270">in </word>
+    <word normalized="Cheyenne" start="36270" stop="37010">Cheyenne</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section" start="38240" stop="38980">Section </word>
+    <word normalized="one" start="38980" stop="39600">1 </word>
+    <word normalized="History" start="40060" stop="40830">History </word>
+    <word normalized="In">In </word>
+    <word normalized="November" start="42090" stop="42640">November </word>
+    <word normalized="nineteen" start="42640" stop="43290">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety" start="43290" stop="43940">90 </word>
+    <word normalized="Wyoming" start="44360" stop="45080">Wyoming </word>
+    <word normalized="voters" start="45080" stop="45830">voters </word>
+    <word normalized="approved" start="45830" stop="46500">approved </word>
+    <word normalized="a" start="46500" stop="46750">a </word>
+    <word normalized="constitutional" start="46750" stop="48180">constitutional </word>
+    <word normalized="amendment" start="48180" stop="48860">amendment </word>
+    <word normalized="that" start="48870" stop="49550">that </word>
+    <word normalized="abolished" start="49550" stop="50250">abolished </word>
+    <word normalized="the" start="50250" stop="50470">the </word>
+    <word normalized="Wyoming" start="50470" stop="51230">Wyoming </word>
+    <word normalized="State" start="51230" stop="51780">State </word>
+    <word normalized="Board" start="51880" stop="52230">Board </word>
+    <word normalized="of" start="52230" stop="52440">of </word>
+    <word normalized="Charities" start="52440" stop="53230">Charities </word>
+    <word normalized="and" start="53230" stop="53500">and </word>
+    <word normalized="Reform" start="53500" stop="54190">Reform</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="55010" stop="55350">The </word>
+    <word normalized="institutions" start="55350" stop="56590">institutions </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="former" start="57010" stop="57510">former </word>
+    <word normalized="state" start="57510" stop="58040">state </word>
+    <word normalized="agency" start="58040" stop="58830">agency </word>
+    <word normalized="were" start="59010" stop="59290">were </word>
+    <word normalized="divided" start="59290" stop="60040">divided </word>
+    <word normalized="and" start="60040" stop="60360">and </word>
+    <word normalized="given" start="60360" stop="60700">given </word>
+    <word normalized="to" start="60930" stop="61210">to </word>
+    <word normalized="other" start="61310" stop="61590">other </word>
+    <word normalized="agencies" start="61590" stop="62590">agencies</word>
+    <word normalized="">; </word>
+    <word normalized="the" start="63200" stop="63420">the </word>
+    <word normalized="Department" start="63420" stop="64060">Department </word>
+    <word normalized="of" start="64060" stop="64250">of </word>
+    <word normalized="Corrections" start="64250" stop="65180">Corrections</word>
+    <word normalized="">, </word>
+    <word normalized="created" start="65520" stop="66110">created </word>
+    <word normalized="in" start="66110" stop="66350">in </word>
+    <word normalized="nineteen" start="66350" stop="66840">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety one" start="66840" stop="67730">91</word>
+    <word normalized="">, </word>
+    <word normalized="took" start="68150" stop="68540">took </word>
+    <word normalized="responsibility" start="68820" stop="68850">responsibility </word>
+    <word normalized="of" start="69840" stop="69940">of </word>
+    <word normalized="the" start="69940" stop="70130">the </word>
+    <word normalized="adult" start="70210" stop="70820">adult </word>
+    <word normalized="correctional" start="70890" stop="71710">correctional </word>
+    <word normalized="facilities" start="71710" stop="72710">facilities </word>
+    <word normalized="and" start="72700" stop="73930">and </word>
+    <word normalized="also">also </word>
+    <word normalized="absorbed">absorbed </word>
+    <word normalized="the" start="74390" stop="74700">the </word>
+    <word normalized="adult" start="74700" stop="75260">adult </word>
+    <word normalized="parole" start="75350" stop="75820">parole </word>
+    <word normalized="functions" start="75820" stop="76720">functions </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="77270" stop="77440">the </word>
+    <word normalized="Wyoming" start="77440" stop="78270">Wyoming </word>
+    <word normalized="Department" start="78370" stop="79120">Department </word>
+    <word normalized="of" start="79120" stop="79370">of </word>
+    <word normalized="Probation" start="79460" stop="80220">Probation </word>
+    <word normalized="and" start="80220" stop="80470">and </word>
+    <word normalized="Parole" start="80520" stop="81130">Parole</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="82330" stop="83130">Section </word>
+    <word normalized="two" start="83130" stop="83760">2 </word>
+    <word normalized="Facilities" start="84270" stop="85630">Facilities </word>
+    <word normalized="Institutions" start="87070" stop="88340">Institutions </word>
+    <word normalized="include" start="88340" stop="89240">include</word>
+    <word normalized="">: </word>
+    <word normalized="Wyoming" start="89780" stop="90540">Wyoming </word>
+    <word normalized="State" start="90540" stop="91010">State </word>
+    <word normalized="Penitentiary" start="91050" stop="92170">Penitentiary </word>
+    <word normalized="">(</word>
+    <word normalized="Rawlins" start="92390" stop="93450">Rawlins</word>
+    <word normalized="">) </word>
+    <word normalized="Wyoming" start="94960" stop="95690">Wyoming </word>
+    <word normalized="Women s" start="95750" stop="96260">Women's </word>
+    <word normalized="Center">Center </word>
+    <word normalized="">(</word>
+    <word normalized="Lusk">Lusk</word>
+    <word normalized="">; </word>
+    <word normalized="inmate" start="98750" stop="99310">inmate </word>
+    <word normalized="capacity" start="99310" stop="100260">capacity </word>
+    <word normalized="261" start="103560" stop="103800">261</word>
+    <word normalized="">) </word>
+    <word normalized="Wyoming" start="103800" stop="104710">Wyoming </word>
+    <word normalized="Honor" start="104760" stop="105000">Honor </word>
+    <word normalized="Farm" start="105030" stop="105500">Farm </word>
+    <word normalized="">(</word>
+    <word normalized="Riverton" start="105500" stop="106460">Riverton</word>
+    <word normalized="">; </word>
+    <word normalized="inmate" start="107260" stop="107690">inmate </word>
+    <word normalized="capacity" start="107690" stop="108670">capacity </word>
+    <word normalized="283" start="110010" stop="110610">283</word>
+    <word normalized="">) </word>
+    <word normalized="Wyoming" start="111770" stop="112540">Wyoming </word>
+    <word normalized="Honor" start="112640" stop="112900">Honor </word>
+    <word normalized="Conservation" start="113240" stop="114180">Conservation </word>
+    <word normalized="Camp" start="114180" stop="114630">Camp </word>
+    <word normalized="and" start="114630" stop="114980">&amp; </word>
+    <word normalized="Boot" start="115030" stop="115300">Boot </word>
+    <word normalized="Camp" start="115300" stop="115860">Camp </word>
+    <word normalized="">(</word>
+    <word normalized="Newcastle" start="115860" stop="117000">Newcastle</word>
+    <word normalized="">; </word>
+    <word normalized="combined" start="117670" stop="118270">combined </word>
+    <word normalized="inmate" start="118270" stop="118680">inmate </word>
+    <word normalized="capacity" start="118680" stop="119500">capacity </word>
+    <word normalized="261" start="121030" stop="121610">261</word>
+    <word normalized="">) </word>
+    <word normalized="Wyoming" start="122800" stop="123620">Wyoming </word>
+    <word normalized="Medium" start="123800" stop="124450">Medium </word>
+    <word normalized="Correctional" start="124450" stop="125310">Correctional </word>
+    <word normalized="Institution" start="125310" stop="126350">Institution </word>
+    <word normalized="">(</word>
+    <word normalized="Torrington" start="126610" stop="127440">Torrington</word>
+    <word normalized="">) </word>
+    <word normalized="The" start="128320" stop="128570">The </word>
+    <word normalized="grand" start="128570" stop="129020">grand </word>
+    <word normalized="opening" start="129020" stop="129770">opening </word>
+    <word normalized="and" start="129820" stop="130220">and </word>
+    <word normalized="ribbon" start="130220" stop="130780">ribbon </word>
+    <word normalized="cutting" start="130780" stop="131300">cutting </word>
+    <word normalized="occurred" start="131300" stop="131760">occurred </word>
+    <word normalized="on" start="131760" stop="131960">on </word>
+    <word normalized="January" start="132380" stop="132790">January </word>
+    <word normalized="6" start="132790" stop="133260">6</word>
+    <word normalized="">, </word>
+    <word normalized="twenty ten" start="133330" stop="134230">2010</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="serves" start="135260" stop="135870">serves </word>
+    <word normalized="as" start="135870" stop="136160">as </word>
+    <word normalized="an" start="136160" stop="136350">an </word>
+    <word normalized="intake" start="136350" stop="136970">intake </word>
+    <word normalized="center" start="136970" stop="137540">center </word>
+    <word normalized="for" start="137610" stop="138100">for </word>
+    <word normalized="men" start="138100" stop="138480">men </word>
+    <word normalized="who" start="138480" stop="138770">who </word>
+    <word normalized="are" start="138770" stop="138850">are </word>
+    <word normalized="not" start="138850" stop="139230">not </word>
+    <word normalized="sentenced" start="139890" stop="140610">sentenced </word>
+    <word normalized="to" start="140610" stop="140810">to </word>
+    <word normalized="death" start="140890" stop="141350">death</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="141950" stop="142680">Section </word>
+    <word normalized="three" start="142680" stop="143280">3 </word>
+    <word normalized="Fallen" start="143820" stop="144520">Fallen </word>
+    <word normalized="officers" start="144590" stop="145370">officers </word>
+    <word normalized="Since" start="145860" stop="146360">Since </word>
+    <word normalized="the" start="146360" stop="146520">the </word>
+    <word normalized="establishment" start="146520" stop="147640">establishment </word>
+    <word normalized="of" start="147640" stop="147800">of </word>
+    <word normalized="the" start="147830" stop="148080">the </word>
+    <word normalized="Wyoming" start="148080" stop="148840">Wyoming </word>
+    <word normalized="Department" start="148870" stop="149790">Department </word>
+    <word normalized="of" start="149790" stop="149990">of </word>
+    <word normalized="Corrections" start="149990" stop="151060">Corrections</word>
+    <word normalized="">, </word>
+    <word normalized="two" start="151580" stop="151940">two </word>
+    <word normalized="officers" start="151940" stop="152580">officers </word>
+    <word normalized="have" start="152580" stop="152860">have </word>
+    <word normalized="died" start="152860" stop="153360">died </word>
+    <word normalized="in" start="153360" stop="153540">in </word>
+    <word normalized="the" start="153540" stop="153650">the </word>
+    <word normalized="line" start="153650" stop="154020">line </word>
+    <word normalized="of" start="154020" stop="154170">of </word>
+    <word normalized="duty" start="154170" stop="154680">duty</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="156200" stop="157270">Section </word>
+    <word normalized="four" start="157270" stop="157820">4 </word>
+    <word normalized="See" start="157820" stop="158140">See </word>
+    <word normalized="also" start="158140" stop="158200">also </word>
+    <word normalized="List" start="158450" stop="158650">List </word>
+    <word normalized="of" start="159280" stop="160020">of </word>
+    <word normalized="law" start="160360" stop="160470">law </word>
+    <word normalized="enforcement" start="160670" stop="161120">enforcement </word>
+    <word normalized="agencies" start="162020" stop="162090">agencies </word>
+    <word normalized="in" start="162520" stop="162800">in </word>
+    <word normalized="Wyoming" start="162960" stop="163240">Wyoming </word>
+    <word normalized="List" start="163240" stop="163610">List </word>
+    <word normalized="of" start="163790" stop="164120">of </word>
+    <word normalized="United" start="164120" stop="164250">United </word>
+    <word normalized="States" start="164760" stop="165150">States </word>
+    <word normalized="state" start="165500" stop="165890">state </word>
+    <word normalized="correction" start="166080" stop="166110">correction </word>
+    <word normalized="agencies" start="166110" stop="166800">agencies </word>
+    <word normalized="List" start="167140" stop="167760">List </word>
+    <word normalized="of" start="167760" stop="168040">of </word>
+    <word normalized="U S">U.S. </word>
+    <word normalized="state" start="168590" stop="168700">state </word>
+    <word normalized="prisons" start="169410" stop="169520">prisons </word>
+    <word normalized="Prison" start="170610" stop="171560">Prison </word>
+  </sentence>
+</alignment>

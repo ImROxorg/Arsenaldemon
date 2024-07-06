@@ -1,0 +1,899 @@
+<alignment>
+  <sentence>
+    <word normalized="Washington" start="0" stop="690">Washington </word>
+    <word normalized="Army" start="1710" stop="1830">Army </word>
+    <word normalized="National">National </word>
+    <word normalized="Guard">Guard </word>
+    <word normalized="The">The </word>
+    <word normalized="Washington">Washington </word>
+    <word normalized="Army">Army </word>
+    <word normalized="National" start="2230" stop="2760">National </word>
+    <word normalized="Guard" start="2760" stop="3260">Guard </word>
+    <word normalized="is" start="3260" stop="3520">is </word>
+    <word normalized="a" start="3520" stop="3650">a </word>
+    <word normalized="component" start="3650" stop="4310">component </word>
+    <word normalized="of" start="4310" stop="4490">of </word>
+    <word normalized="the" start="4490" stop="4620">the </word>
+    <word normalized="United">United </word>
+    <word normalized="States" start="5030" stop="5490">States </word>
+    <word normalized="Army" start="5430" stop="5480">Army </word>
+    <word normalized="and" start="6360" stop="6600">and </word>
+    <word normalized="the" start="6600" stop="6750">the </word>
+    <word normalized="Washington" start="6750" stop="7610">Washington </word>
+    <word normalized="National">National </word>
+    <word normalized="Guard" start="8130" stop="8640">Guard </word>
+    <word normalized="based" start="8990" stop="9360">based </word>
+    <word normalized="in" start="9360" stop="9490">in </word>
+    <word normalized="Washington" start="9490" stop="10490">Washington</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="11400" stop="11900">The </word>
+    <word normalized="history" start="12250" stop="12690">history </word>
+    <word normalized="of" start="12690" stop="12780">of </word>
+    <word normalized="the" start="12780" stop="12890">the </word>
+    <word normalized="Washington" start="12890" stop="13620">Washington </word>
+    <word normalized="Army" start="13780" stop="14270">Army </word>
+    <word normalized="National" start="14270" stop="14840">National </word>
+    <word normalized="Guard" start="14840" stop="15290">Guard </word>
+    <word normalized="dates" start="15290" stop="15620">dates </word>
+    <word normalized="back" start="15620" stop="15950">back </word>
+    <word normalized="to" start="15950" stop="16250">to </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty four" start="16740" stop="17600">54 </word>
+    <word normalized="with" start="17830" stop="18120">with </word>
+    <word normalized="formation" start="18120" stop="18880">formation </word>
+    <word normalized="of" start="18880" stop="19110">of </word>
+    <word normalized="the" start="19110" stop="19370">the </word>
+    <word normalized="Washington" start="19370" stop="20250">Washington </word>
+    <word normalized="Territorial" start="20250" stop="20920">Territorial </word>
+    <word normalized="Militia" start="20920" stop="21600">Militia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="22130" stop="22390">The </word>
+    <word normalized="command" start="22390" stop="22970">command </word>
+    <word normalized="is" start="22970" stop="23290">is </word>
+    <word normalized="headquartered" start="23290" stop="24100">headquartered </word>
+    <word normalized="at" start="24100" stop="24550">at </word>
+    <word normalized="Camp" start="24550" stop="24930">Camp </word>
+    <word normalized="Murray" start="24930" stop="25460">Murray </word>
+    <word normalized="in" start="25460" stop="25590">in </word>
+    <word normalized="Pierce" start="25590" stop="25940">Pierce </word>
+    <word normalized="County">County</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="consists" start="26890" stop="27560">consists </word>
+    <word normalized="of" start="27560" stop="27900">of </word>
+    <word normalized="six thousand two hundred" start="28140" stop="29200">6,200 </word>
+    <word normalized="soldiers" start="29510" stop="30130">soldiers </word>
+    <word normalized="in" start="30130" stop="30340">in </word>
+    <word normalized="two" start="30340" stop="30530">two </word>
+    <word normalized="brigades" start="30530" stop="31330">brigades </word>
+    <word normalized="and" start="31610" stop="32060">and </word>
+    <word normalized="various" start="32060" stop="32530">various </word>
+    <word normalized="smaller" start="32530" stop="32940">smaller </word>
+    <word normalized="units" start="32940" stop="33430">units </word>
+    <word normalized="located" start="33430" stop="33990">located </word>
+    <word normalized="throughout" start="33990" stop="34290">throughout </word>
+    <word normalized="the" start="34290" stop="34350">the </word>
+    <word normalized="state" start="34350" stop="34750">state</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="80300" stop="83220">Table </word>
+    <word normalized="of" start="83220" stop="83400">of </word>
+    <word normalized="contents" start="83400" stop="83620">contents </word>
+    <word normalized="Section" start="83620" stop="84110">Section </word>
+    <word normalized="one" start="84110" stop="84410">1 </word>
+    <word normalized="Units" start="84410" stop="84660">Units </word>
+    <word normalized="Joint" start="85110" stop="85540">Joint </word>
+    <word normalized="Forces" start="85540" stop="85690">Forces </word>
+    <word normalized="Headquarters" start="86450" stop="86500">Headquarters </word>
+    <word normalized="sixty sixth" start="87120" stop="88440">66th </word>
+    <word normalized="Theater" start="88440" stop="88660">Theater </word>
+    <word normalized="Aviation" start="88660" stop="88820">Aviation </word>
+    <word normalized="Command" start="89400" stop="89940">Command</word>
+    <word normalized="">[</word>
+    <word normalized="one" start="89940" stop="90820">1</word>
+    <word normalized="">] </word>
+    <word normalized="one one hundred sixty eighth" start="91470" stop="93380">1-168th </word>
+    <word normalized="General" start="94080" stop="94680">General </word>
+    <word normalized="Support" start="94680" stop="95300">Support </word>
+    <word normalized="Aviation" start="95300" stop="95930">Aviation </word>
+    <word normalized="Battalion" start="95930" stop="96610">Battalion </word>
+    <word normalized="eighty first" start="97220" stop="97990">81st </word>
+    <word normalized="Armored" start="97990" stop="98460">Armored </word>
+    <word normalized="Brigade" start="98460" stop="99210">Brigade </word>
+    <word normalized="Combat" start="99210" stop="99870">Combat </word>
+    <word normalized="Team" start="99870" stop="100280">Team </word>
+    <word normalized="">(</word>
+    <word normalized="fortieth" start="100280" stop="100820">40th </word>
+    <word normalized="Infantry" start="100820" stop="101440">Infantry </word>
+    <word normalized="Division" start="101440" stop="101960">Division</word>
+    <word normalized="">)</word>
+    <word normalized="">[</word>
+    <word normalized="2" start="102960" stop="103290">2</word>
+    <word normalized="">] </word>
+    <word normalized="Headquarters" start="103720" stop="103750">Headquarters </word>
+    <word normalized="and" start="104610" stop="104770">&amp; </word>
+    <word normalized="Headquarters" start="104770" stop="105470">Headquarters </word>
+    <word normalized="Company" start="105470" stop="106030">Company </word>
+    <word normalized="Special" start="106030" stop="106570">Special </word>
+    <word normalized="Troops" start="106570" stop="106920">Troops </word>
+    <word normalized="Battalion" start="106940" stop="106970">Battalion</word>
+    <word normalized="">[</word>
+    <word normalized="three" start="106970" stop="107590">3</word>
+    <word normalized="">] </word>
+    <word normalized="first" start="107720" stop="108000">1st </word>
+    <word normalized="Battalion" start="108000" stop="108330">Battalion</word>
+    <word normalized="">, </word>
+    <word normalized="one hundred sixty first" start="108330" stop="110280">161st </word>
+    <word normalized="Infantry" start="110280" stop="111160">Infantry </word>
+    <word normalized="Regiment" start="111160" stop="112030">Regiment</word>
+    <word normalized="">[</word>
+    <word normalized="four" start="112030" stop="112650">4</word>
+    <word normalized="">] </word>
+    <word normalized="first" start="112740" stop="113160">1st </word>
+    <word normalized="Squadron" start="113160" stop="113450">Squadron</word>
+    <word normalized="">, </word>
+    <word normalized="three zero three d" start="113450" stop="115200">303d </word>
+    <word normalized="Cavalry" start="115200" stop="115300">Cavalry </word>
+    <word normalized="Regiment" start="115300" stop="116070">Regiment</word>
+    <word normalized="">[</word>
+    <word normalized="five" start="116740" stop="117170">5</word>
+    <word normalized="">] </word>
+    <word normalized="two d" start="117170" stop="117500">2d </word>
+    <word normalized="Battalion" start="117500" stop="117570">Battalion</word>
+    <word normalized="">, </word>
+    <word normalized="one hundred forty sixth" start="118360" stop="120920">146th </word>
+    <word normalized="Field" start="120960" stop="121350">Field </word>
+    <word normalized="Artillery" start="121350" stop="122040">Artillery </word>
+    <word normalized="Regiment" start="122040" stop="122600">Regiment</word>
+    <word normalized="">[</word>
+    <word normalized="six" start="123010" stop="123070">6</word>
+    <word normalized="">] </word>
+    <word normalized="one hundred eighty first" start="123650" stop="125130">181st </word>
+    <word normalized="Support" start="125130" stop="125550">Support </word>
+    <word normalized="Battalion" start="125550" stop="126180">Battalion</word>
+    <word normalized="">[</word>
+    <word normalized="seven">7</word>
+    <word normalized="">] </word>
+    <word normalized="ninety sixth" start="127590" stop="128730">96th </word>
+    <word normalized="Troop" start="128730" stop="129030">Troop </word>
+    <word normalized="Command" start="129030" stop="129730">Command </word>
+    <word normalized="Headquarters" start="130990" stop="131870">Headquarters </word>
+    <word normalized="and" start="131870" stop="132110">&amp; </word>
+    <word normalized="Headquarters" start="132110" stop="132750">Headquarters </word>
+    <word normalized="Company" start="134250" stop="134850">Company </word>
+    <word normalized="one hundred forty fourth" start="135600" stop="137010">144th </word>
+    <word normalized="Army" start="137010" stop="137360">Army </word>
+    <word normalized="Liaison" start="137360" stop="138110">Liaison </word>
+    <word normalized="Team" start="138110" stop="138590">Team </word>
+    <word normalized="">(</word>
+    <word normalized="ARFORCOM">ARFORCOM</word>
+    <word normalized="">) </word>
+    <word normalized="one hundred sixteenth" start="141220" stop="145350">116th </word>
+    <word normalized="Rear" start="145350" stop="145790">Rear </word>
+    <word normalized="Operations" start="145790" stop="146610">Operations </word>
+    <word normalized="Center" start="146610" stop="147230">Center </word>
+    <word normalized="one two two d" start="147830" stop="149950">122d </word>
+    <word normalized="Public" start="150450" stop="150840">Public </word>
+    <word normalized="Affairs" start="150840" stop="151500">Affairs </word>
+    <word normalized="Operations" start="151500" stop="152180">Operations </word>
+    <word normalized="Center" start="152180" stop="152510">Center </word>
+    <word normalized="one hundred forty first" start="152510" stop="165540">141st </word>
+    <word normalized="military" start="165540" stop="166040">military </word>
+    <word normalized="history" start="166040" stop="166610">history </word>
+    <word normalized="detachment" start="166610" stop="167110">detachment </word>
+    <word normalized="one three three d" start="167110" stop="170490">133d </word>
+    <word normalized="Army" start="170490" stop="170550">Army </word>
+    <word normalized="Band" start="170550" stop="170670">Band </word>
+    <word normalized="four hundred twentieth" start="170670" stop="171610">420th </word>
+    <word normalized="Chemical" start="171610" stop="172050">Chemical </word>
+    <word normalized="Battalion" start="172050" stop="172460">Battalion</word>
+    <word normalized="">[</word>
+    <word normalized="8" start="173040" stop="173140">8</word>
+    <word normalized="">] </word>
+    <word normalized="five hundred sixth" start="173990" stop="175170">506th </word>
+    <word normalized="Military" start="175520" stop="176490">Military </word>
+    <word normalized="Police" start="176530" stop="176950">Police </word>
+    <word normalized="Detachment" start="177300" stop="178090">Detachment </word>
+    <word normalized="five hundred fortieth" start="178320" stop="180920">540th </word>
+    <word normalized="Chemical" start="180920" stop="181470">Chemical </word>
+    <word normalized="Detachment" start="181470" stop="182240">Detachment </word>
+    <word normalized="seven hundred ninetieth" start="182600" stop="183880">790th </word>
+    <word normalized="Chemical" start="183880" stop="184350">Chemical </word>
+    <word normalized="Company" start="184350" stop="184920">Company </word>
+    <word normalized="">(</word>
+    <word normalized="M V R">MVR </word>
+    <word normalized="Support" start="185480" stop="186100">Support</word>
+    <word normalized="">) </word>
+    <word normalized="seven hundred ninety second" start="186980" stop="188660">792nd </word>
+    <word normalized="Chemical" start="188660" stop="189140">Chemical </word>
+    <word normalized="Company" start="189140" stop="189580">Company </word>
+    <word normalized="">(</word>
+    <word normalized="Heavy" start="190430" stop="190720">Heavy</word>
+    <word normalized="">) </word>
+    <word normalized="one thousand forty first" start="190900" stop="193300">1041st </word>
+    <word normalized="Transportation" start="193520" stop="194380">Transportation </word>
+    <word normalized="Company" start="194380" stop="194810">Company </word>
+    <word normalized="">(</word>
+    <word normalized="Light forward slash Medium" start="194810" stop="197490">Light/Medium</word>
+    <word normalized="">) </word>
+    <word normalized="one thousand one hundred sixty first" start="197490" stop="200030">1161st </word>
+    <word normalized="Transportation" start="200030" stop="200900">Transportation </word>
+    <word normalized="Company" start="206770" stop="207710">Company </word>
+    <word normalized="">(</word>
+    <word normalized="P L S">PLS</word>
+    <word normalized="">) </word>
+    <word normalized="seven hundred forty first" start="208250" stop="210320">741st </word>
+    <word normalized="Ordnance" start="210320" stop="210990">Ordnance </word>
+    <word normalized="Battalion" start="212600" stop="213050">Battalion </word>
+    <word normalized="three hundred nineteenth" start="213820" stop="215100">319th </word>
+    <word normalized="Ordnance" start="215100" stop="215660">Ordnance </word>
+    <word normalized="Company" start="215660" stop="216150">Company </word>
+    <word normalized="">(</word>
+    <word normalized="EOD">EOD</word>
+    <word normalized="">) </word>
+    <word normalized="one hundred seventy sixth" start="218280" stop="220030">176th </word>
+    <word normalized="Engineer" start="220080" stop="220690">Engineer </word>
+    <word normalized="Company" start="221220" stop="221250">Company </word>
+    <word normalized="">(</word>
+    <word normalized="Vertical" start="221250" stop="221780">Vertical</word>
+    <word normalized="">) </word>
+    <word normalized="nine hundred fifty first" start="222130" stop="224090">951st </word>
+    <word normalized="Maintenance" start="224090" stop="224220">Maintenance </word>
+    <word normalized="Company" start="224220" stop="224630">Company </word>
+    <word normalized="fifty sixth" start="224630" stop="225470">56th </word>
+    <word normalized="Theater" start="225470" stop="225840">Theater </word>
+    <word normalized="Information" start="227090" stop="230010">Information </word>
+    <word normalized="Operations" start="230690" stop="230950">Operations </word>
+    <word normalized="Group" start="231570" stop="231780">Group </word>
+    <word normalized="one hundred fifty sixth" start="233850" stop="235530">156th </word>
+    <word normalized="Information">Information </word>
+    <word normalized="Operations">Operations </word>
+    <word normalized="Battalion">Battalion </word>
+    <word normalized="three hundred forty first">341st </word>
+    <word normalized="Military">Military </word>
+    <word normalized="Intelligence">Intelligence </word>
+    <word normalized="Battalion">Battalion </word>
+    <word normalized="">(</word>
+    <word normalized="Linguist">Linguist</word>
+    <word normalized="">) </word>
+    <word normalized="Company">Company </word>
+    <word normalized="_a">A</word>
+    <word normalized="">, </word>
+    <word normalized="three hundred forty first">341st </word>
+    <word normalized="Military">Military </word>
+    <word normalized="Intelligence">Intelligence </word>
+    <word normalized="Battalion">Battalion </word>
+    <word normalized="Company">Company </word>
+    <word normalized="B">B</word>
+    <word normalized="">, </word>
+    <word normalized="three hundred forty first">341st </word>
+    <word normalized="Military">Military </word>
+    <word normalized="Intelligence">Intelligence </word>
+    <word normalized="Battalion">Battalion </word>
+    <word normalized="Company">Company </word>
+    <word normalized="_a">A</word>
+    <word normalized="">, </word>
+    <word normalized="first">1st </word>
+    <word normalized="Battalion">Battalion</word>
+    <word normalized="">, </word>
+    <word normalized="nineteenth" start="261120" stop="261820">19th </word>
+    <word normalized="Special" start="261820" stop="262380">Special </word>
+    <word normalized="Forces" start="262410" stop="262950">Forces </word>
+    <word normalized="Group" start="262950" stop="263300">Group </word>
+    <word normalized="">(</word>
+    <word normalized="Airborne" start="263300" stop="263970">Airborne</word>
+    <word normalized="">) </word>
+    <word normalized="Special" start="264840" stop="265320">Special </word>
+    <word normalized="Operations" start="265320" stop="266070">Operations </word>
+    <word normalized="Detachment" start="266160" stop="266840">Detachment </word>
+    <word normalized="">- </word>
+    <word normalized="Pacific" start="266840" stop="267290">Pacific </word>
+    <word normalized="Command" start="267290" stop="267970">Command </word>
+    <word normalized="two hundred fifth" start="271960" stop="273510">205th </word>
+    <word normalized="Training" start="273540" stop="274010">Training </word>
+    <word normalized="Regiment" start="274010" stop="274870">Regiment </word>
+    <word normalized="">(</word>
+    <word normalized="Leadership" start="274870" stop="275510">Leadership</word>
+    <word normalized="">)</word>
+    <word normalized="">[</word>
+    <word normalized="9" start="275670" stop="277210">9</word>
+    <word normalized="">] </word>
+    <word normalized="Headquarters" start="277390" stop="278080">Headquarters </word>
+    <word normalized="Company" start="278080" stop="278650">Company </word>
+    <word normalized="first" start="279430" stop="279970">1st </word>
+    <word normalized="Battalion" start="279930" stop="280350">Battalion</word>
+    <word normalized="">, </word>
+    <word normalized="two hundred fifth" start="280650" stop="281960">205th </word>
+    <word normalized="Regiment" start="281960" stop="282570">Regiment </word>
+    <word normalized="second" start="283180" stop="283600">2nd </word>
+    <word normalized="Battalion" start="283600" stop="284240">Battalion</word>
+    <word normalized="">, </word>
+    <word normalized="two hundred fifth" start="284240" stop="285260">205th </word>
+    <word normalized="Regiment" start="285260" stop="285830">Regiment </word>
+    <word normalized="Section" start="287370" stop="287900">Section </word>
+    <word normalized="two" start="289420" stop="290120">2 </word>
+    <word normalized="History" start="290400" stop="290440">History </word>
+    <word normalized="Section" start="290910" stop="291950">Section </word>
+    <word normalized="two" start="291950" stop="292340">2 </word>
+    <word normalized="point" start="292510" stop="292760">point </word>
+    <word normalized="one" start="292760" stop="293370">1 </word>
+    <word normalized="Activations" start="293810" stop="294370">Activations </word>
+    <word normalized="nineteen" start="295020" stop="295140">19 </word>
+    <word normalized="hundred" start="295140" stop="295500">hundred </word>
+    <word normalized="seventeen" start="295500" stop="296010">17 </word>
+    <word normalized="minus" start="296620" stop="297010">— </word>
+    <word normalized="World" start="297010" stop="297320">World </word>
+    <word normalized="War" start="297320" stop="297490">War </word>
+    <word normalized="I">I </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty">40 </word>
+    <word normalized="minus">— </word>
+    <word normalized="World">World </word>
+    <word normalized="War">War </word>
+    <word normalized="II">II </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty eight">48 </word>
+    <word normalized="minus">— </word>
+    <word normalized="Flood" start="298310" stop="298750">Flood </word>
+    <word normalized="relief" start="298750" stop="299210">relief </word>
+    <word normalized="in" start="299210" stop="299420">in </word>
+    <word normalized="Ellensburg" start="299420" stop="300340">Ellensburg </word>
+    <word normalized="nineteen" start="300820" stop="301270">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty">50 </word>
+    <word normalized="minus">— </word>
+    <word normalized="Korean" start="301770" stop="302200">Korean </word>
+    <word normalized="War" start="302200" stop="302770">War </word>
+    <word normalized="nineteen" start="303360" stop="303820">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty" start="303820" stop="304290">80 </word>
+    <word normalized="minus">— </word>
+    <word normalized="Mount" start="304290" stop="304590">Mount </word>
+    <word normalized="saint" start="304590" stop="304830">St. </word>
+    <word normalized="Helens" start="304830" stop="305270">Helens </word>
+    <word normalized="eruption" start="305270" stop="305940">eruption </word>
+    <word normalized="nineteen" start="306510" stop="306910">19 </word>
+    <word normalized="hundred" start="307740" stop="308020">hundred </word>
+    <word normalized="ninety forward slash ninety one" start="308020" stop="310890">90/91 </word>
+    <word normalized="minus" start="310890" stop="310980">— </word>
+    <word normalized="Persian" start="311590" stop="312760">Persian </word>
+    <word normalized="Gulf" start="312760" stop="313440">Gulf </word>
+    <word normalized="War" start="313610" stop="313650">War </word>
+    <word normalized="nineteen" start="314490" stop="315180">19 </word>
+    <word normalized="hundred" start="315180" stop="315520">hundred </word>
+    <word normalized="ninety s">90's </word>
+    <word normalized="minus">— </word>
+    <word normalized="Bosnia Herzegovina">Bosnia-Herzegovina </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety four">94 </word>
+    <word normalized="minus">— </word>
+    <word normalized="Central" start="316300" stop="316700">Central </word>
+    <word normalized="Washington" start="316700" stop="317400">Washington </word>
+    <word normalized="forest" start="317400" stop="317790">forest </word>
+    <word normalized="fires" start="317790" stop="318460">fires </word>
+    <word normalized="nineteen" start="319070" stop="319380">19 </word>
+    <word normalized="hundred" start="319700" stop="319730">hundred </word>
+    <word normalized="ninety nine" start="319730" stop="320390">99 </word>
+    <word normalized="minus" start="320600" stop="320960">— </word>
+    <word normalized="Seattle" start="320960" stop="321170">Seattle </word>
+    <word normalized="WTO">WTO </word>
+    <word normalized="riots" start="321480" stop="321570">riots </word>
+    <word normalized="two thousand" start="322660" stop="323810">2000 </word>
+    <word normalized="minus" start="323830" stop="323970">— </word>
+    <word normalized="Kosovo" start="324430" stop="325310">Kosovo </word>
+    <word normalized="two thousand" start="325690" stop="326450">2000 </word>
+    <word normalized="minus" start="326450" stop="326890">— </word>
+    <word normalized="Macedonia" start="326960" stop="327890">Macedonia </word>
+    <word normalized="two zero zero two present" start="328390" stop="328550">2002–present </word>
+    <word normalized="minus">— </word>
+    <word normalized="Operation" start="329970" stop="330550">Operation </word>
+    <word normalized="Enduring" start="330550" stop="331030">Enduring </word>
+    <word normalized="Freedom" start="331030" stop="331600">Freedom </word>
+    <word normalized="two zero zero three present" start="332120" stop="333570">2003–present </word>
+    <word normalized="minus">— </word>
+    <word normalized="Operation" start="333980" stop="334620">Operation </word>
+    <word normalized="Iraqi" start="334620" stop="335150">Iraqi </word>
+    <word normalized="Freedom" start="335150" stop="335710">Freedom </word>
+    <word normalized="two thousand six" start="336340" stop="337480">2006 </word>
+    <word normalized="minus">— </word>
+    <word normalized="Eastern" start="337520" stop="338000">Eastern </word>
+    <word normalized="Washington" start="338000" stop="338750">Washington </word>
+    <word normalized="forest" start="338750" stop="339150">forest </word>
+    <word normalized="fires" start="339150" stop="339740">fires </word>
+    <word normalized="two thousand seven" start="340310" stop="341340">2007 </word>
+    <word normalized="minus" start="341370" stop="341410">— </word>
+    <word normalized="Flood" start="341410" stop="341640">Flood </word>
+    <word normalized="relief" start="341640" stop="341770">relief </word>
+    <word normalized="for" start="341770" stop="342010">for </word>
+    <word normalized="five" start="342230" stop="342260">five </word>
+    <word normalized="western" start="342260" stop="342590">western </word>
+    <word normalized="counties" start="342590" stop="343100">counties </word>
+    <word normalized="twenty fourteen" start="343930" stop="345340">2014 </word>
+    <word normalized="minus" start="345340" stop="346000">— </word>
+    <word normalized="Oso" start="346000" stop="346200">Oso </word>
+    <word normalized="landslide" start="346200" stop="346620">landslide </word>
+    <word normalized="twenty fourteen" start="347630" stop="348660">2014 </word>
+    <word normalized="minus" start="348660" stop="349320">— </word>
+    <word normalized="twenty fourteen" start="349480" stop="350280">2014 </word>
+    <word normalized="Wildfires" start="350280" stop="350680">Wildfires </word>
+    <word normalized="twenty fifteen" start="351530" stop="352200">2015 </word>
+    <word normalized="minus" start="352610" stop="352650">— </word>
+    <word normalized="twenty fifteen" start="352920" stop="353590">2015 </word>
+    <word normalized="Wildfires" start="353590" stop="354600">Wildfires </word>
+    <word normalized="Section" start="355390" stop="357920">Section </word>
+    <word normalized="two" start="358180" stop="358360">2 </word>
+    <word normalized="point" start="358360" stop="358580">point </word>
+    <word normalized="two" start="358580" stop="358700">2 </word>
+    <word normalized="Historic" start="358700" stop="358760">Historic </word>
+    <word normalized="units" start="359640" stop="359670">units </word>
+    <word normalized="one hundred sixty first">161st </word>
+    <word normalized="inf">inf </word>
+    <word normalized="r g t dot jpeg">rgt.jpeg </word>
+    <word normalized="one hundred sixty first" start="359810" stop="361400">161st </word>
+    <word normalized="Infantry" start="361400" stop="362050">Infantry </word>
+    <word normalized="Regiment" start="362050" stop="362720">Regiment </word>
+    <word normalized="one thousand four hundred forty fourth" start="363410" stop="365830">1444th </word>
+    <word normalized="and" start="365940" stop="366590">and </word>
+    <word normalized="two hundred forty first" start="366630" stop="368670">241st </word>
+    <word normalized="T C">TC </word>
+    <word normalized="Detachment" start="369230" stop="370040">Detachment </word>
+    <word normalized="one four six FARegtCOA dot j p g">146FARegtCOA.jpg </word>
+    <word normalized="one hundred forty sixth" start="370780" stop="372410">146th </word>
+    <word normalized="Field" start="372410" stop="372870">Field </word>
+    <word normalized="Artillery" start="372870" stop="373540">Artillery </word>
+    <word normalized="Regiment" start="373540" stop="374170">Regiment </word>
+    <word normalized="two zero five CARegtCOA dot j p g" start="374740" stop="374970">205CARegtCOA.jpg </word>
+    <word normalized="two hundred fifth" start="375370" stop="375730">205th </word>
+    <word normalized="Air" start="375730" stop="375950">Air </word>
+    <word normalized="Defense" start="375950" stop="376510">Defense </word>
+    <word normalized="Artillery" start="376510" stop="377300">Artillery </word>
+    <word normalized="Regiment" start="377300" stop="377920">Regiment </word>
+    <word normalized="three zero three rdArmorReg dot p n g" start="380700" stop="384950">303rdArmorReg.png </word>
+    <word normalized="three zero three d" start="384950" stop="385820">303d </word>
+    <word normalized="Armor">Armor </word>
+    <word normalized="minus">- </word>
+    <word normalized="The">The </word>
+    <word normalized="regiment">regiment </word>
+    <word normalized="traces">traces </word>
+    <word normalized="its">its </word>
+    <word normalized="history">history </word>
+    <word normalized="from">from </word>
+    <word normalized="the">the </word>
+    <word normalized="eight zero three d">803d </word>
+    <word normalized="Tank" start="385970" stop="386270">Tank </word>
+    <word normalized="Battalion" start="386270" stop="386840">Battalion</word>
+    <word normalized="">, </word>
+    <word normalized="redesignated" start="386840" stop="387980">redesignated </word>
+    <word normalized="from" start="387980" stop="388220">from </word>
+    <word normalized="eight zero three d" start="388220" stop="389240">803d </word>
+    <word normalized="Tank" start="389600" stop="389930">Tank </word>
+    <word normalized="Destroyer" start="389910" stop="389940">Destroyer </word>
+    <word normalized="Battalion" start="390590" stop="391220">Battalion </word>
+    <word normalized="on" start="391220" stop="391690">on </word>
+    <word normalized="thirteen" start="391690" stop="392250">13 </word>
+    <word normalized="September" start="392360" stop="393130">September </word>
+    <word normalized="nineteen" start="393130" stop="393720">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty six" start="394090" stop="394930">46</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Reorganized" start="395410" stop="396310">Reorganized </word>
+    <word normalized="and" start="396310" stop="396460">and </word>
+    <word normalized="federally" start="396460" stop="396950">federally </word>
+    <word normalized="recognized" start="397210" stop="397240">recognized </word>
+    <word normalized="eighteen" start="397770" stop="398300">18 </word>
+    <word normalized="March" start="398510" stop="399110">March </word>
+    <word normalized="nineteen" start="399250" stop="399720">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty seven" start="399720" stop="400540">47 </word>
+    <word normalized="with" start="401450" stop="402060">with </word>
+    <word normalized="H Q">HQ </word>
+    <word normalized="at" start="402320" stop="402550">at </word>
+    <word normalized="Centralia" start="402550" stop="403490">Centralia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Reorganized" start="405260" stop="406220">Reorganized </word>
+    <word normalized="and" start="406220" stop="406340">and </word>
+    <word normalized="redesignated" start="406340" stop="407390">redesignated </word>
+    <word normalized="fifteen" start="407430" stop="407580">15 </word>
+    <word normalized="April" start="408270" stop="408550">April </word>
+    <word normalized="nineteen" start="408550" stop="409000">19 </word>
+    <word normalized="hundred" start="409000" stop="409430">hundred </word>
+    <word normalized="fifty nine" start="409430" stop="409760">59 </word>
+    <word normalized="as" start="409760" stop="410180">as </word>
+    <word normalized="the" start="410180" stop="410500">the </word>
+    <word normalized="three zero three d" start="410500" stop="411660">303d </word>
+    <word normalized="Armor" start="411660" stop="411720">Armor</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="411720" stop="412220">with </word>
+    <word normalized="one" start="412500" stop="412530">one </word>
+    <word normalized="battalion" start="412530" stop="412750">battalion </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen" start="412750" stop="413490">19 </word>
+    <word normalized="hundred" start="413490" stop="413820">hundred </word>
+    <word normalized="fifty nine to nineteen" start="413820" stop="414590">59-19 </word>
+    <word normalized="hundred" start="414590" stop="414950">hundred </word>
+    <word normalized="sixty three" start="414950" stop="415480">63</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="two" start="415530" stop="416310">two </word>
+    <word normalized="battalions" start="416310" stop="416470">battalions </word>
+    <word normalized="">(</word>
+    <word normalized="19" start="417350" stop="417620">19 </word>
+    <word normalized="hundred" start="417620" stop="417830">hundred </word>
+    <word normalized="sixty three to nineteen" start="417830" stop="418860">63-19 </word>
+    <word normalized="hundred" start="418860" stop="419270">hundred </word>
+    <word normalized="sixty eight" start="419270" stop="419750">68</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="420170" stop="420540">and </word>
+    <word normalized="one" start="420540" stop="420820">one </word>
+    <word normalized="battalion" start="421090" stop="421770">battalion </word>
+    <word normalized="from" start="421770" stop="422030">from </word>
+    <word normalized="that" start="422030" stop="422300">that </word>
+    <word normalized="date" start="422300" stop="422780">date</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Consolidated" start="423610" stop="424680">Consolidated </word>
+    <word normalized="with" start="424680" stop="425160">with </word>
+    <word normalized="eight zero three d" start="428550" stop="430800">803d </word>
+    <word normalized="Armor" start="430800" stop="431050">Armor </word>
+    <word normalized="">(</word>
+    <word normalized="constituted" start="431050" stop="431380">constituted </word>
+    <word normalized="1" start="431380" stop="432040">1 </word>
+    <word normalized="January" start="432770" stop="433170">January </word>
+    <word normalized="nineteen" start="433170" stop="433640">19 </word>
+    <word normalized="hundred" start="434320" stop="434460">hundred </word>
+    <word normalized="seventy four" start="435190" stop="437240">74</word>
+    <word normalized="">) </word>
+    <word normalized="between" start="437540" stop="437650">between </word>
+    <word normalized="15" start="437650" stop="438000">15 </word>
+    <word normalized="April" start="438000" stop="438100">April </word>
+    <word normalized="and" start="438970" stop="439660">and </word>
+    <word normalized="one" start="440300" stop="440590">1 </word>
+    <word normalized="September" start="440590" stop="440910">September </word>
+    <word normalized="nineteen" start="440910" stop="441270">19 </word>
+    <word normalized="hundred" start="441270" stop="441670">hundred </word>
+    <word normalized="ninety three" start="441670" stop="442330">93</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="three hundred third" start="442470" stop="443020">303rd </word>
+    <word normalized="CAV">CAV </word>
+    <word normalized="r g t" start="443110" stop="444170">rgt </word>
+    <word normalized="COA dot p n g" start="445070" stop="445570">COA.png </word>
+    <word normalized="three zero three d" start="445870" stop="446910">303d </word>
+    <word normalized="Cavalry" start="446910" stop="447140">Cavalry </word>
+    <word normalized="Regiment" start="447920" stop="447950">Regiment </word>
+    <word normalized="minus" start="447950" stop="449070">- </word>
+    <word normalized="The" start="449070" stop="449520">The </word>
+    <word normalized="Regiment" start="450150" stop="450570">Regiment </word>
+    <word normalized="was">was </word>
+    <word normalized="constituted">constituted </word>
+    <word normalized="on">on </word>
+    <word normalized="one">1 </word>
+    <word normalized="January">January </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="sixty eight">68 </word>
+    <word normalized="as">as </word>
+    <word normalized="the">the </word>
+    <word normalized="three zero three d">303d </word>
+    <word normalized="Cavalry" start="451410" stop="452100">Cavalry</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="452440" stop="452620">a </word>
+    <word normalized="parent" start="452620" stop="453220">parent </word>
+    <word normalized="regiment" start="453220" stop="453840">regiment </word>
+    <word normalized="under" start="453840" stop="454210">under </word>
+    <word normalized="CARS">CARS</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="455240" stop="455510">and </word>
+    <word normalized="on" start="455510" stop="455720">on </word>
+    <word normalized="the" start="455720" stop="455820">the </word>
+    <word normalized="same" start="455820" stop="456190">same </word>
+    <word normalized="day" start="456190" stop="456500">day </word>
+    <word normalized="">(</word>
+    <word normalized="">'</word>
+    <word normalized="concurrently" start="456780" stop="456810">concurrently</word>
+    <word normalized="">'</word>
+    <word normalized="">) </word>
+    <word normalized="organized" start="456810" stop="457390">organized </word>
+    <word normalized="to" start="458160" stop="458630">to </word>
+    <word normalized="consist" start="458630" stop="459250">consist </word>
+    <word normalized="of" start="459250" stop="459460">of </word>
+    <word normalized="Troop" start="459460" stop="459770">Troop </word>
+    <word normalized="E">E</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="460560" stop="460700">a </word>
+    <word normalized="component" start="460700" stop="461400">component </word>
+    <word normalized="of" start="461450" stop="461650">of </word>
+    <word normalized="the" start="461650" stop="461850">the </word>
+    <word normalized="eighty first" start="461850" stop="462550">81st </word>
+    <word normalized="Infantry" start="462550" stop="463060">Infantry </word>
+    <word normalized="Brigade" start="463830" stop="464520">Brigade</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Transferred" start="465070" stop="465820">Transferred </word>
+    <word normalized="from" start="465820" stop="466060">from </word>
+    <word normalized="CARS">CARS </word>
+    <word normalized="to" start="466660" stop="466830">to </word>
+    <word normalized="USARS">USARS </word>
+    <word normalized="1" start="468730" stop="468910">1 </word>
+    <word normalized="June" start="468910" stop="469350">June </word>
+    <word normalized="nineteen" start="469350" stop="469830">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty nine" start="470100" stop="470740">89 </word>
+    <word normalized="with" start="470740" stop="471020">with </word>
+    <word normalized="headquarters" start="471020" stop="471850">headquarters </word>
+    <word normalized="at" start="471850" stop="472040">at </word>
+    <word normalized="Camp" start="472040" stop="472350">Camp </word>
+    <word normalized="Murray" start="472350" stop="472920">Murray</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Reorganized" start="473530" stop="474510">Reorganized</word>
+    <word normalized="">, </word>
+    <word normalized="redesignated" start="474510" stop="475460">redesignated</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="475460" stop="475600">and </word>
+    <word normalized="consolidated" start="475600" stop="476820">consolidated </word>
+    <word normalized="one" start="476820" stop="476950">1 </word>
+    <word normalized="May" start="477390" stop="477750">May </word>
+    <word normalized="nineteen" start="477750" stop="478170">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety two" start="478500" stop="478800">92</word>
+    <word normalized="">, </word>
+    <word normalized="consisting" start="478800" stop="479480">consisting </word>
+    <word normalized="">(</word>
+    <word normalized="unchanged" start="479480" stop="480310">unchanged</word>
+    <word normalized="">) </word>
+    <word normalized="as" start="480310" stop="480830">as </word>
+    <word normalized="Troop" start="481090" stop="481480">Troop </word>
+    <word normalized="E">E</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="481920" stop="482190">a </word>
+    <word normalized="component" start="482190" stop="482970">component </word>
+    <word normalized="of" start="483150" stop="483230">of </word>
+    <word normalized="the" start="483230" stop="483730">the </word>
+    <word normalized="eighty first" start="483760" stop="484170">81st </word>
+    <word normalized="Infantry" start="484170" stop="484740">Infantry </word>
+    <word normalized="Brigade" start="484740" stop="485500">Brigade</word>
+    <word normalized="">, </word>
+    <word normalized="at" start="485900" stop="486300">at </word>
+    <word normalized="Puyallup" start="486700" stop="487290">Puyallup</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="487320" stop="487360">Section </word>
+    <word normalized="3" start="487360" stop="487630">3 </word>
+    <word normalized="See" start="490300" stop="490660">See </word>
+    <word normalized="also" start="490660" stop="491350">also </word>
+    <word normalized="Washington" start="491410" stop="492300">Washington </word>
+    <word normalized="Air" start="492340" stop="492590">Air </word>
+    <word normalized="National" start="492590" stop="493130">National </word>
+    <word normalized="Guard" start="493130" stop="493630">Guard </word>
+    <word normalized="Washington" start="494190" stop="494880">Washington </word>
+    <word normalized="State" start="494880" stop="495280">State </word>
+    <word normalized="Guard" start="495280" stop="495750">Guard </word>
+    <word normalized="Washington" start="512830" stop="515720">Washington </word>
+    <word normalized="Military" start="516720" stop="516780">Military </word>
+    <word normalized="Department" start="516780" stop="517280">Department </word>
+    <word normalized="Section" start="517280" stop="518100">Section </word>
+    <word normalized="four" start="518850" stop="519080">4 </word>
+    <word normalized="References" start="519080" stop="519390">References </word>
+    <word normalized="Section" start="520240" stop="520330">Section </word>
+    <word normalized="five" start="522080" stop="522570">5 </word>
+    <word normalized="Further" start="522570" stop="522680">Further </word>
+    <word normalized="reading" start="522680" stop="522930">reading </word>
+    <word normalized="McLatchy" start="522930" stop="523530">McLatchy</word>
+    <word normalized="">, </word>
+    <word normalized="Patrick" start="524290" stop="525060">Patrick </word>
+    <word normalized="H">H.</word>
+    <word normalized="">, </word>
+    <word normalized="The" start="528120" stop="528290">The </word>
+    <word normalized="Development" start="528290" stop="528870">Development </word>
+    <word normalized="of" start="528870" stop="529010">of </word>
+    <word normalized="the" start="529010" stop="529170">the </word>
+    <word normalized="National" start="529170" stop="529660">National </word>
+    <word normalized="Guard" start="529660" stop="529950">Guard </word>
+    <word normalized="of" start="529950" stop="530050">of </word>
+    <word normalized="Washington" start="530050" stop="530830">Washington </word>
+    <word normalized="as" start="531080" stop="531380">as </word>
+    <word normalized="an" start="531380" stop="531470">an </word>
+    <word normalized="Instrument" start="531470" stop="532030">Instrument </word>
+    <word normalized="of" start="532030" stop="532170">of </word>
+    <word normalized="Social" start="532170" stop="532610">Social </word>
+    <word normalized="Control" start="532610" stop="533290">Control</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen" start="534190" stop="534420">18 </word>
+    <word normalized="hundred" start="534420" stop="534590">hundred </word>
+    <word normalized="fifty four to nineteen" start="534590" stop="537230">54-19 </word>
+    <word normalized="hundred" start="537790" stop="538120">hundred </word>
+    <word normalized="sixteen" start="538120" stop="538460">16</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Unpub" start="539020" stop="539880">Unpub</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ph D">Ph.D </word>
+    <word normalized="dissertation" start="541080" stop="541330">dissertation</word>
+    <word normalized="">, </word>
+    <word normalized="University" start="541560" stop="541690">University </word>
+    <word normalized="of" start="542170" stop="542370">of </word>
+    <word normalized="Washington" start="542440" stop="543230">Washington</word>
+    <word normalized="">, </word>
+    <word normalized="nineteen" start="544490" stop="544520">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy three">73</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Carey">Carey</word>
+    <word normalized="">, </word>
+    <word normalized="Daniel">Daniel </word>
+    <word normalized="C">C.</word>
+    <word normalized="">, </word>
+    <word normalized="The" start="545290" stop="545750">The </word>
+    <word normalized="Washington" start="545780" stop="546400">Washington </word>
+    <word normalized="State" start="546400" stop="546770">State </word>
+    <word normalized="National" start="546770" stop="547210">National </word>
+    <word normalized="Guard" start="547210" stop="547660">Guard</word>
+    <word normalized="">, </word>
+    <word normalized="nineteen" start="548010" stop="548410">19 </word>
+    <word normalized="hundred" start="553080" stop="553950">hundred </word>
+    <word normalized="one to nineteen" start="553950" stop="554480">01-19 </word>
+    <word normalized="hundred" start="554480" stop="555060">hundred </word>
+    <word normalized="seventeen" start="555060" stop="555390">17</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Unpub" start="555390" stop="555730">Unpub</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="MA">MA </word>
+    <word normalized="thesis">thesis</word>
+    <word normalized="">, </word>
+    <word normalized="Washington">Washington </word>
+    <word normalized="State">State </word>
+    <word normalized="University">University</word>
+    <word normalized="">, </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety three" start="556300" stop="556820">93</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Washington" start="557990" stop="558690">Washington </word>
+    <word normalized="State" start="558690" stop="559100">State</word>
+    <word normalized="">, </word>
+    <word normalized="Military" start="559100" stop="559720">Military </word>
+    <word normalized="Department" start="559720" stop="560350">Department</word>
+    <word normalized="">, </word>
+    <word normalized="Office" start="560350" stop="561050">Office </word>
+    <word normalized="of" start="561050" stop="561310">of </word>
+    <word normalized="the" start="561310" stop="561670">the </word>
+    <word normalized="Adjutant" start="561670" stop="562450">Adjutant </word>
+    <word normalized="General" start="562520" stop="563210">General</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Washington" start="563470" stop="564120">Washington </word>
+    <word normalized="National" start="564120" stop="564590">National </word>
+    <word normalized="Guard" start="564590" stop="564960">Guard </word>
+    <word normalized="Pamphlet" start="564960" stop="565620">Pamphlet</word>
+    <word normalized="">: </word>
+    <word normalized="The" start="565930" stop="566380">The </word>
+    <word normalized="Official" start="566820" stop="567380">Official </word>
+    <word normalized="History" start="567380" stop="567920">History </word>
+    <word normalized="of" start="567920" stop="568180">of </word>
+    <word normalized="the" start="568180" stop="568330">the </word>
+    <word normalized="Washington" start="568330" stop="569060">Washington </word>
+    <word normalized="National" start="569060" stop="569550">National </word>
+    <word normalized="Guard" start="569550" stop="569920">Guard</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="seven" start="569920" stop="570290">7 </word>
+    <word normalized="vols">vols</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Compiled" start="570760" stop="571810">Compiled </word>
+    <word normalized="by" start="571810" stop="572020">by </word>
+    <word normalized="Virgil" start="572020" stop="572720">Virgil </word>
+    <word normalized="F">F. </word>
+    <word normalized="Field" start="573060" stop="573560">Field</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Camp" start="573560" stop="573960">Camp </word>
+    <word normalized="Murray" start="573960" stop="574450">Murray</word>
+    <word normalized="">, </word>
+    <word normalized="WA">WA</word>
+    <word normalized="">, </word>
+    <word normalized="nineteen" start="575590" stop="576040">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty nine" start="576040" stop="576820">59</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Washington" start="578120" stop="578730">Washington </word>
+    <word normalized="State" start="578730" stop="579140">State</word>
+    <word normalized="">, </word>
+    <word normalized="Military" start="579430" stop="579470">Military </word>
+    <word normalized="Department" start="579730" stop="580400">Department</word>
+    <word normalized="">, </word>
+    <word normalized="Office" start="580430" stop="580940">Office </word>
+    <word normalized="of" start="580940" stop="581100">of </word>
+    <word normalized="the" start="581100" stop="581230">the </word>
+    <word normalized="Adjutant" start="581230" stop="581930">Adjutant </word>
+    <word normalized="General" start="581930" stop="582570">General</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="Brief" start="582670" stop="582960">Brief </word>
+    <word normalized="History" start="582960" stop="583550">History </word>
+    <word normalized="of" start="583920" stop="584290">of </word>
+    <word normalized="the" start="584290" stop="584520">the </word>
+    <word normalized="Washington" start="584520" stop="585330">Washington </word>
+    <word normalized="Territorial" start="585330" stop="586110">Territorial </word>
+    <word normalized="Militia" start="586110" stop="586860">Militia</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen" start="587090" stop="587130">18 </word>
+    <word normalized="hundred" start="587100" stop="587130">hundred </word>
+    <word normalized="fifty five to eighteen" start="587580" stop="588790">55–18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty nine" start="588790" stop="589560">89 </word>
+    <word normalized="and" start="589560" stop="589870">and </word>
+    <word normalized="the">the </word>
+    <word normalized="National" start="590490" stop="590970">National </word>
+    <word normalized="Guard" start="590970" stop="591310">Guard </word>
+    <word normalized="of" start="591310" stop="591480">of </word>
+    <word normalized="the" start="591480" stop="591560">the </word>
+    <word normalized="State" start="591560" stop="591900">State </word>
+    <word normalized="of" start="591900" stop="592000">of </word>
+    <word normalized="Washington" start="592000" stop="592730">Washington</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen" start="593060" stop="593420">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty nine to nineteen" start="593420" stop="594530">89-19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty seven" start="594850" stop="595480">57</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Compiled" start="595480" stop="596070">Compiled </word>
+    <word normalized="by" start="596070" stop="596260">by </word>
+    <word normalized="Virgil" start="596260" stop="596810">Virgil </word>
+    <word normalized="F">F. </word>
+    <word normalized="Field" start="597000" stop="597510">Field</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Mimeographed" start="597840" stop="598840">Mimeographed</word>
+    <word normalized="">, </word>
+    <word normalized="nineteen" start="598840" stop="599300">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty seven" start="599300" stop="600040">57</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,371 @@
+<alignment>
+  <sentence>
+    <word normalized="University" start="110" stop="870">University </word>
+    <word normalized="of" start="870" stop="1070">of </word>
+    <word normalized="Rhode" start="1070" stop="1340">Rhode </word>
+    <word normalized="Island" start="1340" stop="1830">Island </word>
+    <word normalized="The" start="4170" stop="5550">The </word>
+    <word normalized="University" start="5550" stop="6190">University </word>
+    <word normalized="of" start="6190" stop="6330">of </word>
+    <word normalized="Rhode" start="6330" stop="6560">Rhode </word>
+    <word normalized="Island" start="6560" stop="6930">Island</word>
+    <word normalized="">, </word>
+    <word normalized="commonly" start="6930" stop="7450">commonly </word>
+    <word normalized="abbreviated" start="7450" stop="8090">abbreviated </word>
+    <word normalized="as" start="8090" stop="8330">as </word>
+    <word normalized="U R I">U.R.I.</word>
+    <word normalized="">, </word>
+    <word normalized="is" start="9520" stop="9660">is </word>
+    <word normalized="the" start="9660" stop="9720">the </word>
+    <word normalized="principal" start="9720" stop="10210">principal </word>
+    <word normalized="public" start="10210" stop="10640">public </word>
+    <word normalized="research" start="10640" stop="11100">research </word>
+    <word normalized="university" start="11100" stop="11790">university </word>
+    <word normalized="in" start="11790" stop="11910">in </word>
+    <word normalized="the" start="11910" stop="11970">the </word>
+    <word normalized="State" start="11970" stop="12300">State </word>
+    <word normalized="of" start="12300" stop="12430">of </word>
+    <word normalized="Rhode" start="12430" stop="12690">Rhode </word>
+    <word normalized="Island" start="12640" stop="12670">Island</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="12640" stop="12800">with </word>
+    <word normalized="its" start="12920" stop="13590">its </word>
+    <word normalized="main" start="13590" stop="13870">main </word>
+    <word normalized="campus" start="13870" stop="14290">campus </word>
+    <word normalized="in" start="14290" stop="14440">in </word>
+    <word normalized="Kingston" start="14440" stop="14910">Kingston</word>
+    <word normalized="">, </word>
+    <word normalized="Rhode" start="14910" stop="15140">Rhode </word>
+    <word normalized="Island">Island</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="15320" stop="15890">and </word>
+    <word normalized="three" start="15890" stop="16160">three </word>
+    <word normalized="other" start="16160" stop="16340">other </word>
+    <word normalized="campuses" start="16340" stop="16900">campuses </word>
+    <word normalized="located" start="16900" stop="17320">located </word>
+    <word normalized="throughout" start="17320" stop="17650">throughout </word>
+    <word normalized="the" start="17650" stop="17730">the </word>
+    <word normalized="state" start="17730" stop="18250">state</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="URI">URI </word>
+    <word normalized="has" start="19850" stop="20110">has </word>
+    <word normalized="ten thousand three hundred twenty" start="20110" stop="21730">10,320 </word>
+    <word normalized="undergraduates" start="21730" stop="22610">undergraduates </word>
+    <word normalized="and" start="22820" stop="22970">and </word>
+    <word normalized="three thousand one hundred fifteen" start="22970" stop="24830">3,115 </word>
+    <word normalized="graduate" start="24830" stop="25270">graduate </word>
+    <word normalized="students" start="25270" stop="25880">students</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="26590" stop="26720">is </word>
+    <word normalized="a" start="26720" stop="26760">a </word>
+    <word normalized="land" start="26760" stop="27210">land </word>
+    <word normalized="grant" start="27210" stop="27600">grant</word>
+    <word normalized="">, </word>
+    <word normalized="sea" start="27600" stop="27900">sea </word>
+    <word normalized="grant" start="27900" stop="28320">grant</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="28320" stop="28480">and </word>
+    <word normalized="urban" start="28480" stop="28860">urban </word>
+    <word normalized="grant" start="28860" stop="29210">grant </word>
+    <word normalized="institution" start="29210" stop="30050">institution</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="History" start="31340" stop="31900">History </word>
+    <word normalized="The" start="32030" stop="33210">The </word>
+    <word normalized="University" start="33210" stop="33790">University </word>
+    <word normalized="was" start="33790" stop="33970">was </word>
+    <word normalized="first" start="33970" stop="34280">first </word>
+    <word normalized="chartered" start="34280" stop="34660">chartered </word>
+    <word normalized="as" start="34660" stop="34830">as </word>
+    <word normalized="the" start="34830" stop="34910">the </word>
+    <word normalized="state s" start="34910" stop="35270">state's </word>
+    <word normalized="agricultural">agricultural </word>
+    <word normalized="school">school </word>
+    <word normalized="in">in </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty eight" start="37060" stop="37720">88</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="38200" stop="38270">The </word>
+    <word normalized="site" start="38270" stop="38540">site </word>
+    <word normalized="of" start="38540" stop="38630">of </word>
+    <word normalized="the" start="38630" stop="38720">the </word>
+    <word normalized="school" start="38720" stop="39080">school </word>
+    <word normalized="was">was </word>
+    <word normalized="originally" start="39260" stop="39740">originally </word>
+    <word normalized="the" start="39740" stop="39850">the </word>
+    <word normalized="Oliver" start="39850" stop="40310">Oliver </word>
+    <word normalized="Watson" start="40310" stop="40750">Watson </word>
+    <word normalized="Farm" start="40750" stop="41210">Farm</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="41480" stop="41600">and </word>
+    <word normalized="the" start="41600" stop="41680">the </word>
+    <word normalized="original" start="41680" stop="42070">original </word>
+    <word normalized="farmhouse" start="42070" stop="42590">farmhouse </word>
+    <word normalized="still" start="42590" stop="42820">still </word>
+    <word normalized="lies" start="42820" stop="43120">lies </word>
+    <word normalized="on" start="43120" stop="43270">on </word>
+    <word normalized="the">the </word>
+    <word normalized="campus" start="43270" stop="43720">campus </word>
+    <word normalized="today" start="43720" stop="44160">today</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety two" start="45760" stop="46400">92</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="46400" stop="46470">the </word>
+    <word normalized="school" start="46470" stop="46750">school </word>
+    <word normalized="became" start="46750" stop="47200">became </word>
+    <word normalized="the" start="47200" stop="47260">the </word>
+    <word normalized="Rhode" start="47260" stop="47550">Rhode </word>
+    <word normalized="Island" start="47550" stop="47920">Island </word>
+    <word normalized="College" start="47920" stop="48360">College </word>
+    <word normalized="of">of </word>
+    <word normalized="Agriculture" start="48490" stop="49160">Agriculture </word>
+    <word normalized="and" start="49160" stop="49250">and </word>
+    <word normalized="Mechanic" start="49250" stop="49730">Mechanic </word>
+    <word normalized="Arts" start="49730" stop="50210">Arts</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="first" start="50200" stop="50960">first </word>
+    <word normalized="class" start="50960" stop="51380">class </word>
+    <word normalized="was" start="51380" stop="51490">was </word>
+    <word normalized="comprised" start="51490" stop="52020">comprised </word>
+    <word normalized="of" start="52020" stop="52110">of </word>
+    <word normalized="only" start="52110" stop="52340">only </word>
+    <word normalized="seventeen" start="52340" stop="52910">seventeen </word>
+    <word normalized="students">students</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="they">they </word>
+    <word normalized="graduated" start="53920" stop="54590">graduated </word>
+    <word normalized="two" start="54590" stop="54750">two </word>
+    <word normalized="years" start="54750" stop="55030">years </word>
+    <word normalized="later" start="55030" stop="55420">later</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="nineteen" start="56260" stop="56780">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="nine" start="56870" stop="57270">09</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="57270" stop="57330">the </word>
+    <word normalized="school s" start="57330" stop="57710">school's </word>
+    <word normalized="name" start="57710" stop="58000">name </word>
+    <word normalized="was" start="58000" stop="58160">was </word>
+    <word normalized="again" start="58160" stop="58500">again </word>
+    <word normalized="changed" start="58500" stop="58950">changed </word>
+    <word normalized="to" start="58950" stop="59090">to </word>
+    <word normalized="Rhode" start="59090" stop="59370">Rhode </word>
+    <word normalized="Island" start="59370" stop="59720">Island </word>
+    <word normalized="State" start="59720" stop="60050">State </word>
+    <word normalized="College" start="60050" stop="60590">College </word>
+    <word normalized="and" start="60810" stop="61010">and </word>
+    <word normalized="the">the </word>
+    <word normalized="school s" start="61010" stop="61380">school's </word>
+    <word normalized="programs" start="61380" stop="61920">programs </word>
+    <word normalized="expanded" start="61920" stop="62470">expanded </word>
+    <word normalized="beyond" start="62470" stop="62800">beyond </word>
+    <word normalized="its" start="62800" stop="62930">its </word>
+    <word normalized="original" start="62930" stop="63270">original </word>
+    <word normalized="mandate" start="63270" stop="63920">mandate</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="nineteen" start="64650" stop="65110">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty one" start="65110" stop="65770">51</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="65770" stop="65840">the </word>
+    <word normalized="college" start="65840" stop="66250">college </word>
+    <word normalized="became" start="66250" stop="66700">became </word>
+    <word normalized="the" start="66700" stop="66810">the </word>
+    <word normalized="University" start="66810" stop="67390">University </word>
+    <word normalized="of" start="67390" stop="67510">of </word>
+    <word normalized="Rhode" start="67510" stop="67750">Rhode </word>
+    <word normalized="Island" start="67780" stop="68200">Island </word>
+    <word normalized="by" start="68420" stop="68690">by </word>
+    <word normalized="an">an </word>
+    <word normalized="act" start="68730" stop="69010">act </word>
+    <word normalized="of" start="69010" stop="69090">of </word>
+    <word normalized="the" start="69090" stop="69180">the </word>
+    <word normalized="General" start="69180" stop="69540">General </word>
+    <word normalized="Assembly" start="69540" stop="70100">Assembly</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="Board" start="70210" stop="71120">Board </word>
+    <word normalized="of" start="71120" stop="71240">of </word>
+    <word normalized="Governors" start="71240" stop="71710">Governors </word>
+    <word normalized="for" start="71710" stop="71820">for </word>
+    <word normalized="Higher" start="71820" stop="72120">Higher </word>
+    <word normalized="Education" start="72120" stop="72820">Education </word>
+    <word normalized="appointed" start="72820" stop="73270">appointed </word>
+    <word normalized="by" start="73270" stop="73440">by </word>
+    <word normalized="the" start="73440" stop="73540">the </word>
+    <word normalized="governor" start="73540" stop="73980">governor </word>
+    <word normalized="became" start="73980" stop="74380">became </word>
+    <word normalized="the" start="74380" stop="74450">the </word>
+    <word normalized="governing" start="74450" stop="74880">governing </word>
+    <word normalized="body" start="74880" stop="75200">body </word>
+    <word normalized="of" start="75200" stop="75280">of </word>
+    <word normalized="the" start="75280" stop="75380">the </word>
+    <word normalized="University" start="75380" stop="76080">University </word>
+    <word normalized="in" start="76080" stop="76210">in </word>
+    <word normalized="nineteen" start="76210" stop="76700">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty one">81</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="Athletics">Athletics </word>
+    <word normalized="The">The </word>
+    <word normalized="University" start="80400" stop="81100">University </word>
+    <word normalized="of" start="81100" stop="81220">of </word>
+    <word normalized="Rhode" start="81220" stop="81470">Rhode </word>
+    <word normalized="Island" start="81470" stop="81810">Island </word>
+    <word normalized="Department" start="81810" stop="82310">Department </word>
+    <word normalized="of" start="82310" stop="82470">of </word>
+    <word normalized="Athletics" start="82470" stop="83040">Athletics </word>
+    <word normalized="and" start="83040" stop="83170">and </word>
+    <word normalized="Recreation" start="83170" stop="83920">Recreation </word>
+    <word normalized="offers" start="84140" stop="84460">offers </word>
+    <word normalized="twenty two" start="84460" stop="84980">22 </word>
+    <word normalized="intercollegiate" start="84980" stop="85780">intercollegiate </word>
+    <word normalized="sports" start="85780" stop="86270">sports </word>
+    <word normalized="">(</word>
+    <word normalized="twelve">12 </word>
+    <word normalized="women" start="86920" stop="87280">women </word>
+    <word normalized="and" start="87280" stop="87480">and </word>
+    <word normalized="ten" start="87480" stop="87700">10 </word>
+    <word normalized="for" start="87700" stop="87820">for </word>
+    <word normalized="men" start="87820" stop="88140">men</word>
+    <word normalized="">) </word>
+    <word normalized="and" start="88550" stop="88690">and </word>
+    <word normalized="17">17 </word>
+    <word normalized="club" start="89210" stop="89450">club </word>
+    <word normalized="sports" start="89450" stop="89790">sports </word>
+    <word normalized="programs" start="89790" stop="90460">programs</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="91070" stop="91170">The </word>
+    <word normalized="university" start="91170" stop="91710">university </word>
+    <word normalized="is" start="91710" stop="91830">is </word>
+    <word normalized="a" start="91830" stop="91860">a </word>
+    <word normalized="member" start="91860" stop="92220">member </word>
+    <word normalized="of" start="92220" stop="92320">of </word>
+    <word normalized="the" start="92320" stop="92420">the </word>
+    <word normalized="Atlantic" start="92420" stop="92880">Atlantic </word>
+    <word normalized="ten" start="92880" stop="93140">10 </word>
+    <word normalized="Conference" start="96370" stop="96840">Conference</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="96840" stop="97380">the </word>
+    <word normalized="Eastern" start="98060" stop="98120">Eastern </word>
+    <word normalized="Collegiate" start="98620" stop="98940">Collegiate </word>
+    <word normalized="Hockey" start="98940" stop="99430">Hockey </word>
+    <word normalized="Association" start="99720" stop="99920">Association</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="99920" stop="100510">and </word>
+    <word normalized="the" start="100600" stop="100630">the </word>
+    <word normalized="NCAA">NCAA </word>
+    <word normalized="Division">Division </word>
+    <word normalized="I">I </word>
+    <word normalized="">(</word>
+    <word normalized="Division">Division </word>
+    <word normalized="I AA">I-AA </word>
+    <word normalized="for">for </word>
+    <word normalized="football">football</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="101110" stop="102050">The </word>
+    <word normalized="wide" start="102050" stop="102390">wide </word>
+    <word normalized="range" start="102390" stop="102780">range </word>
+    <word normalized="of" start="102780" stop="102900">of </word>
+    <word normalized="athletic" start="102900" stop="103300">athletic </word>
+    <word normalized="facilities" start="103300" stop="103890">facilities </word>
+    <word normalized="include" start="103890" stop="104350">include </word>
+    <word normalized="Keaney" start="104410" stop="104740">Keaney </word>
+    <word normalized="Gymnasium" start="104740" stop="105520">Gymnasium</word>
+    <word normalized="">, </word>
+    <word normalized="Meade" start="105610" stop="105910">Meade </word>
+    <word normalized="Stadium" start="105910" stop="106510">Stadium</word>
+    <word normalized="">, </word>
+    <word normalized="Mackal" start="106710" stop="107180">Mackal </word>
+    <word normalized="Field" start="107180" stop="107580">Field </word>
+    <word normalized="House">House</word>
+    <word normalized="">, </word>
+    <word normalized="Tootell" start="108270" stop="108710">Tootell </word>
+    <word normalized="Aquatic" start="108830" stop="109350">Aquatic </word>
+    <word normalized="Center" start="109350" stop="109840">Center</word>
+    <word normalized="">, </word>
+    <word normalized="URI">URI </word>
+    <word normalized="Soccer" start="110750" stop="111180">Soccer </word>
+    <word normalized="Complex" start="111180" stop="111900">Complex</word>
+    <word normalized="">, </word>
+    <word normalized="Beck" start="112040" stop="112350">Beck </word>
+    <word normalized="Field" start="112350" stop="112730">Field </word>
+    <word normalized="and" start="112920" stop="113100">and </word>
+    <word normalized="URI">URI </word>
+    <word normalized="Softball" start="113680" stop="114270">Softball </word>
+    <word normalized="Field" start="114270" stop="114630">Field</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Other" start="115510" stop="115730">Other </word>
+    <word normalized="facilities" start="115730" stop="116340">facilities </word>
+    <word normalized="available" start="116340" stop="116780">available </word>
+    <word normalized="for">for </word>
+    <word normalized="students">students </word>
+    <word normalized="include" start="117370" stop="117740">include </word>
+    <word normalized="fitness" start="117740" stop="118200">fitness </word>
+    <word normalized="rooms" start="118200" stop="118600">rooms</word>
+    <word normalized="">, </word>
+    <word normalized="indoor" start="118640" stop="119010">indoor </word>
+    <word normalized="track" start="119010" stop="119490">track</word>
+    <word normalized="">, </word>
+    <word normalized="swimming" start="119570" stop="119980">swimming </word>
+    <word normalized="and" start="119980" stop="120100">and </word>
+    <word normalized="diving" start="120100" stop="120480">diving </word>
+    <word normalized="pools" start="120480" stop="120890">pools</word>
+    <word normalized="">, </word>
+    <word normalized="twelve" start="121110" stop="121410">twelve </word>
+    <word normalized="tennis" start="121410" stop="121750">tennis </word>
+    <word normalized="courts" start="121750" stop="122170">courts</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="122370" stop="122520">and </word>
+    <word normalized="two" start="122520" stop="122730">two </word>
+    <word normalized="beach" start="122730" stop="123010">beach </word>
+    <word normalized="volleyball" start="123010" stop="123480">volleyball </word>
+    <word normalized="courts" start="123480" stop="123870">courts</word>
+    <word normalized="">, </word>
+    <word normalized="among" start="123870" stop="124170">among </word>
+    <word normalized="others" start="124170" stop="124670">others</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

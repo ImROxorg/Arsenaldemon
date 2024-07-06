@@ -1,0 +1,80 @@
+<alignment>
+  <sentence>
+    <word normalized="Tulskaya" start="40" stop="870">Tulskaya </word>
+    <word normalized="">(</word>
+    <word normalized="Moscow" start="2120" stop="2230">Moscow </word>
+    <word normalized="Metro" start="2230" stop="2430">Metro</word>
+    <word normalized="">) </word>
+    <word normalized="Tulskaya" start="2430" stop="2770">Tulskaya </word>
+    <word normalized="">(</word>
+    <word normalized="Russian" start="2770" stop="3150">Russian</word>
+    <word normalized="">: </word>
+    <word normalized="Tульская" start="3320" stop="3390">Tульская</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="3390" stop="3560">is </word>
+    <word normalized="a" start="3560" stop="3640">a </word>
+    <word normalized="station" start="3640" stop="3670">station </word>
+    <word normalized="of" start="3910" stop="3940">of </word>
+    <word normalized="the" start="4060" stop="4100">the </word>
+    <word normalized="Serpukhovsko Timiryazevskaya" start="5270" stop="7800">Serpukhovsko-Timiryazevskaya </word>
+    <word normalized="Line" start="14670" stop="15120">Line </word>
+    <word normalized="of" start="15200" stop="15340">of </word>
+    <word normalized="the" start="15340" stop="15420">the </word>
+    <word normalized="Moscow" start="15420" stop="15840">Moscow </word>
+    <word normalized="Metro" start="15840" stop="16410">Metro</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="was" start="17060" stop="17300">was </word>
+    <word normalized="opened" start="17300" stop="17920">opened </word>
+    <word normalized="in" start="17960" stop="18270">in </word>
+    <word normalized="19" start="18270" stop="18480">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty three" start="18760" stop="19310">83 </word>
+    <word normalized="as" start="19310" stop="19450">as </word>
+    <word normalized="part" start="19450" stop="19850">part </word>
+    <word normalized="of" start="19850" stop="19960">of </word>
+    <word normalized="the" start="19960" stop="20040">the </word>
+    <word normalized="pilot" start="20040" stop="20410">pilot </word>
+    <word normalized="stage" start="20410" stop="20830">stage </word>
+    <word normalized="of" start="20830" stop="20940">of </word>
+    <word normalized="the" start="20940" stop="21040">the </word>
+    <word normalized="line" start="22430" stop="22460">line</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="22460" stop="22570">The </word>
+    <word normalized="station" start="22570" stop="22650">station </word>
+    <word normalized="is" start="22650" stop="22860">is </word>
+    <word normalized="a" start="22860" stop="22990">a </word>
+    <word normalized="single" start="22990" stop="23020">single </word>
+    <word normalized="vault" start="23020" stop="23450">vault </word>
+    <word normalized="located" start="23450" stop="23800">located </word>
+    <word normalized="underneath" start="23800" stop="24350">underneath </word>
+    <word normalized="the" start="24350" stop="24820">the </word>
+    <word normalized="Tula" start="24820" stop="24900">Tula </word>
+    <word normalized="square" start="24900" stop="25230">square </word>
+    <word normalized="for" start="25820" stop="25860">for </word>
+    <word normalized="which" start="25860" stop="25980">which </word>
+    <word normalized="its" start="25980" stop="26230">its </word>
+    <word normalized="named" start="26230" stop="26480">named</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Coordinates" start="28280" stop="29640">Coordinates</word>
+    <word normalized="">: </word>
+    <word normalized="55 42 thirty one" start="29640" stop="32350">55°42′31</word>
+    <word normalized="">″</word>
+    <word normalized="N">N </word>
+    <word normalized="37 37 twenty one" start="33370" stop="34810">37°37′21</word>
+    <word normalized="">″</word>
+    <word normalized="E">E﻿ </word>
+    <word normalized="forward slash" start="39350" stop="39560">/ </word>
+    <word normalized="55 7086111211 N" start="39560" stop="40300">﻿55.7086111211°N </word>
+    <word normalized="thirty seven 62250001 E" start="41190" stop="42030">37.62250001°E </word>
+    <word normalized="Table" start="42460" stop="42490">Table </word>
+    <word normalized="of" start="42490" stop="42690">of </word>
+    <word normalized="contents" start="42830" stop="43200">contents </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,20 @@
+<alignment>
+  <sentence>
+    <word normalized="Wikipedia WikiProject" start="5410" stop="8250">Wikipedia:WikiProject </word>
+    <word normalized="Spoken" start="8250" stop="8690">Spoken </word>
+    <word normalized="Wikipedia" start="8690" stop="9550">Wikipedia </word>
+    <word normalized="Table" start="53660" stop="54070">Table </word>
+    <word normalized="of" start="54070" stop="54410">of </word>
+    <word normalized="contents" start="196400" stop="196860">contents </word>
+    <word normalized="Section" start="196860" stop="197250">Section </word>
+    <word normalized="one" start="197350" stop="197510">1 </word>
+    <word normalized="External" start="197510" stop="197880">External </word>
+    <word normalized="watchlist" start="197880" stop="198910">watchlist </word>
+    <word normalized="Wikiproject" start="355170" stop="355900">Wikiproject </word>
+    <word normalized="Watchlist" start="357720" stop="358480">Watchlist </word>
+    <word normalized="minus" start="358570" stop="359090">- </word>
+    <word normalized="WikiProject" start="391820" stop="392860">WikiProject </word>
+    <word normalized="Spoken" start="392910" stop="393420">Spoken </word>
+    <word normalized="Wikipedia" start="393420" stop="394410">Wikipedia </word>
+  </sentence>
+</alignment>

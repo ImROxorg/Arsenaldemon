@@ -1,0 +1,472 @@
+<alignment>
+  <sentence>
+    <word normalized="William" start="2860" stop="3960">William </word>
+    <word normalized="Brydon" start="3960" stop="4290">Brydon </word>
+    <word normalized="William" start="4790" stop="4820">William </word>
+    <word normalized="Brydon" start="5120" stop="5190">Brydon </word>
+    <word normalized="C B">CB </word>
+    <word normalized="">(</word>
+    <word normalized="ten" start="5750" stop="6040">10 </word>
+    <word normalized="October" start="6040" stop="6250">October </word>
+    <word normalized="eighteen" start="6250" stop="6550">18 </word>
+    <word normalized="hundred" start="6860" stop="6890">hundred </word>
+    <word normalized="eleven" start="7410" stop="7660">11 </word>
+    <word normalized="minus">– </word>
+    <word normalized="twenty">20 </word>
+    <word normalized="March">March </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy three" start="8240" stop="9020">73</word>
+    <word normalized="">) </word>
+    <word normalized="was" start="9320" stop="9470">was </word>
+    <word normalized="an" start="9470" stop="9550">an </word>
+    <word normalized="assistant" start="9550" stop="9990">assistant </word>
+    <word normalized="surgeon" start="9990" stop="10450">surgeon </word>
+    <word normalized="in" start="10450" stop="10510">in </word>
+    <word normalized="the">the </word>
+    <word normalized="British" start="10510" stop="10840">British </word>
+    <word normalized="Army" start="10840" stop="11090">Army </word>
+    <word normalized="during" start="11090" stop="11330">during </word>
+    <word normalized="the" start="11330" stop="11390">the </word>
+    <word normalized="First" start="11390" stop="11720">First </word>
+    <word normalized="Anglo Afghan" start="11720" stop="12620">Anglo-Afghan </word>
+    <word normalized="War" start="12620" stop="13060">War </word>
+    <word normalized="and" start="13260" stop="13410">and </word>
+    <word normalized="is" start="13410" stop="13520">is </word>
+    <word normalized="famous" start="13520" stop="13840">famous </word>
+    <word normalized="for" start="13840" stop="13970">for </word>
+    <word normalized="being" start="13970" stop="14180">being </word>
+    <word normalized="the">the </word>
+    <word normalized="only" start="14280" stop="14540">only </word>
+    <word normalized="">(</word>
+    <word normalized="European" start="14540" stop="14990">European</word>
+    <word normalized="">) </word>
+    <word normalized="survivor" start="14990" stop="15570">survivor </word>
+    <word normalized="of" start="15570" stop="15690">of </word>
+    <word normalized="an" start="15690" stop="15810">an </word>
+    <word normalized="army" start="15810" stop="16100">army </word>
+    <word normalized="of" start="16100" stop="16170">of </word>
+    <word normalized="16500" start="17410" stop="17660">16,500 </word>
+    <word normalized="men" start="17660" stop="17910">men</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="He">He </word>
+    <word normalized="studied" start="18560" stop="18870">studied </word>
+    <word normalized="medicine" start="18870" stop="19360">medicine </word>
+    <word normalized="at" start="19360" stop="19500">at </word>
+    <word normalized="University" start="19500" stop="20140">University </word>
+    <word normalized="College" start="20140" stop="20540">College </word>
+    <word normalized="London" start="20540" stop="20950">London </word>
+    <word normalized="and" start="21230" stop="21400">and </word>
+    <word normalized="at" start="21400" stop="21540">at </word>
+    <word normalized="the" start="21540" stop="21610">the </word>
+    <word normalized="University" start="21610" stop="22160">University </word>
+    <word normalized="of">of </word>
+    <word normalized="Edinburgh">Edinburgh</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="The" start="22730" stop="23820">The </word>
+    <word normalized="war" start="23820" stop="24200">war </word>
+    <word normalized="The" start="24220" stop="25500">The </word>
+    <word normalized="British" start="25500" stop="25810">British </word>
+    <word normalized="army" start="25810" stop="26090">army </word>
+    <word normalized="began" start="26090" stop="26420">began </word>
+    <word normalized="its" start="26420" stop="26540">its </word>
+    <word normalized="retreat" start="26540" stop="26880">retreat </word>
+    <word normalized="from" start="26880" stop="27070">from </word>
+    <word normalized="Kabul" start="27070" stop="27440">Kabul </word>
+    <word normalized="in" start="27440" stop="27670">in </word>
+    <word normalized="January" start="27730" stop="28230">January </word>
+    <word normalized="eighteen" start="28230" stop="28680">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty two" start="28680" stop="29230">42 </word>
+    <word normalized="following" start="29230" stop="29630">following </word>
+    <word normalized="the">the </word>
+    <word normalized="killing" start="29670" stop="30050">killing </word>
+    <word normalized="of" start="30050" stop="30120">of </word>
+    <word normalized="the" start="30120" stop="30210">the </word>
+    <word normalized="British" start="30210" stop="30520">British </word>
+    <word normalized="representative" start="30520" stop="31160">representative </word>
+    <word normalized="there" start="31160" stop="31430">there</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="31440" stop="32090">The </word>
+    <word normalized="nearest" start="32090" stop="32390">nearest </word>
+    <word normalized="British" start="32390" stop="32660">British </word>
+    <word normalized="garrison" start="32660" stop="33150">garrison </word>
+    <word normalized="was" start="33150" stop="33340">was </word>
+    <word normalized="in" start="33340" stop="33490">in </word>
+    <word normalized="Jalalabad" start="33490" stop="34340">Jalalabad</word>
+    <word normalized="">, </word>
+    <word normalized="ninety" start="34620" stop="34970">90 </word>
+    <word normalized="miles" start="34970" stop="35330">miles </word>
+    <word normalized="away" start="35330" stop="35710">away</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="the">the </word>
+    <word normalized="army" start="36200" stop="36490">army </word>
+    <word normalized="would" start="36490" stop="36640">would </word>
+    <word normalized="need" start="36640" stop="36840">need </word>
+    <word normalized="to" start="36840" stop="36910">to </word>
+    <word normalized="pass" start="36910" stop="37260">pass </word>
+    <word normalized="through" start="37260" stop="37400">through </word>
+    <word normalized="mountain" start="37400" stop="37730">mountain </word>
+    <word normalized="passes" start="37730" stop="38250">passes </word>
+    <word normalized="with" start="38310" stop="38540">with </word>
+    <word normalized="the" start="38540" stop="38610">the </word>
+    <word normalized="January" start="38610" stop="39100">January </word>
+    <word normalized="snow" start="39100" stop="39350">snow </word>
+    <word normalized="hindering" start="39350" stop="39860">hindering </word>
+    <word normalized="them">them</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="sixteen thousand five hundred" start="40600" stop="41980">16,500 </word>
+    <word normalized="British" start="41980" stop="42320">British </word>
+    <word normalized="and" start="42320" stop="42510">and </word>
+    <word normalized="Indian" start="42510" stop="42860">Indian </word>
+    <word normalized="soldiers" start="42860" stop="43300">soldiers</word>
+    <word normalized="">, </word>
+    <word normalized="civilians" start="43300" stop="43880">civilians</word>
+    <word normalized="">, </word>
+    <word normalized="wives" start="43880" stop="44250">wives </word>
+    <word normalized="and" start="44250" stop="44350">and </word>
+    <word normalized="children" start="44350" stop="44740">children </word>
+    <word normalized="set" start="44740" stop="44920">set </word>
+    <word normalized="out">out </word>
+    <word normalized="for" start="45050" stop="45200">for </word>
+    <word normalized="Jalalabad" start="45200" stop="46010">Jalalabad </word>
+    <word normalized="on" start="46260" stop="46500">on </word>
+    <word normalized="six" start="46500" stop="46900">6 </word>
+    <word normalized="January" start="47000" stop="47590">January </word>
+    <word normalized="with" start="47860" stop="47970">with </word>
+    <word normalized="the" start="47970" stop="48070">the </word>
+    <word normalized="understanding" start="48070" stop="48550">understanding </word>
+    <word normalized="that" start="48550" stop="48660">that </word>
+    <word normalized="they" start="48660" stop="48820">they </word>
+    <word normalized="had" start="48820" stop="48990">had </word>
+    <word normalized="been" start="48990" stop="49160">been </word>
+    <word normalized="offered" start="49160" stop="49500">offered </word>
+    <word normalized="safe" start="49500" stop="49760">safe </word>
+    <word normalized="passage" start="49760" stop="50390">passage</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="50880" stop="50960">The </word>
+    <word normalized="Afghan" start="50960" stop="51390">Afghan </word>
+    <word normalized="soldiers" start="51390" stop="51740">soldiers </word>
+    <word normalized="however" start="51740" stop="52080">however </word>
+    <word normalized="intercepted" start="52080" stop="52690">intercepted </word>
+    <word normalized="them" start="52690" stop="52870">them </word>
+    <word normalized="and" start="52870" stop="52980">and </word>
+    <word normalized="proceeded" start="52980" stop="53400">proceeded </word>
+    <word normalized="to" start="53400" stop="53480">to </word>
+    <word normalized="massacre" start="53480" stop="54000">massacre </word>
+    <word normalized="them" start="54000" stop="54180">them </word>
+    <word normalized="during" start="54180" stop="54460">during </word>
+    <word normalized="the" start="54460" stop="54520">the </word>
+    <word normalized="next" start="54520" stop="54770">next </word>
+    <word normalized="seven" start="54770" stop="55050">seven </word>
+    <word normalized="days">days</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="small" start="55990" stop="56300">small </word>
+    <word normalized="number">number </word>
+    <word normalized="of" start="56500" stop="56610">of </word>
+    <word normalized="prisoners" start="56610" stop="57040">prisoners </word>
+    <word normalized="were" start="57040" stop="57240">were</word>
+    <word normalized="">, </word>
+    <word normalized="however" start="57240" stop="57620">however</word>
+    <word normalized="">, </word>
+    <word normalized="taken" start="57620" stop="58050">taken </word>
+    <word normalized="and">and </word>
+    <word normalized="returned" start="58090" stop="58760">returned </word>
+    <word normalized="to" start="59100" stop="59180">to </word>
+    <word normalized="the" start="59180" stop="59260">the </word>
+    <word normalized="British" start="59260" stop="59600">British </word>
+    <word normalized="at" start="59600" stop="59700">at </word>
+    <word normalized="a" start="59700" stop="59740">a </word>
+    <word normalized="later" start="59740" stop="60040">later </word>
+    <word normalized="date" start="60040" stop="60350">date</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Many" start="61220" stop="61470">Many </word>
+    <word normalized="of" start="61470" stop="61550">of </word>
+    <word normalized="the" start="61550" stop="61700">the </word>
+    <word normalized="Indian" start="61700" stop="62000">Indian </word>
+    <word normalized="soldiers" start="62000" stop="62410">soldiers </word>
+    <word normalized="and" start="62410" stop="62540">and </word>
+    <word normalized="camp" start="62540" stop="62870">camp </word>
+    <word normalized="followers" start="62870" stop="63310">followers </word>
+    <word normalized="captured" start="63310" stop="63820">captured </word>
+    <word normalized="were" start="63860" stop="64070">were </word>
+    <word normalized="enslaved">enslaved </word>
+    <word normalized="and" start="64310" stop="64400">and </word>
+    <word normalized="few" start="64770" stop="65030">few </word>
+    <word normalized="probably" start="65030" stop="65490">probably </word>
+    <word normalized="found" start="65490" stop="65780">found </word>
+    <word normalized="their">their </word>
+    <word normalized="way" start="65780" stop="65970">way </word>
+    <word normalized="home" start="65970" stop="66240">home </word>
+    <word normalized="again" start="66240" stop="66520">again</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="On">On </word>
+    <word normalized="thirteen" start="67840" stop="68360">13 </word>
+    <word normalized="January" start="68500" stop="69000">January</word>
+    <word normalized="">, </word>
+    <word normalized="doctor" start="69000" stop="69320">Dr. </word>
+    <word normalized="Brydon" start="69320" stop="69730">Brydon </word>
+    <word normalized="rode" start="69730" stop="70020">rode</word>
+    <word normalized="">, </word>
+    <word normalized="alone" start="70020" stop="70580">alone</word>
+    <word normalized="">, </word>
+    <word normalized="up" start="70800" stop="70980">up </word>
+    <word normalized="to" start="70980" stop="71080">to </word>
+    <word normalized="the" start="71080" stop="71170">the </word>
+    <word normalized="gates" start="71170" stop="71490">gates </word>
+    <word normalized="of" start="71490" stop="71550">of </word>
+    <word normalized="Jalalabad" start="71550" stop="72220">Jalalabad</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="He">He </word>
+    <word normalized="became" start="72770" stop="73230">became </word>
+    <word normalized="famous" start="73230" stop="73740">famous </word>
+    <word normalized="for" start="73740" stop="73950">for </word>
+    <word normalized="being" start="74060" stop="74090">being </word>
+    <word normalized="the" start="74090" stop="74300">the </word>
+    <word normalized="only" start="74430" stop="74760">only </word>
+    <word normalized="European" start="74760" stop="75200">European </word>
+    <word normalized="survivor" start="75200" stop="75830">survivor </word>
+    <word normalized="of" start="76090" stop="76190">of </word>
+    <word normalized="the" start="76190" stop="76310">the </word>
+    <word normalized="entire" start="76310" stop="76820">entire </word>
+    <word normalized="contingent" start="76820" stop="77380">contingent </word>
+    <word normalized="to" start="77380" stop="77450">to </word>
+    <word normalized="have">have </word>
+    <word normalized="escaped" start="77450" stop="77910">escaped </word>
+    <word normalized="the" start="77910" stop="78030">the </word>
+    <word normalized="Afghan" start="78030" stop="78520">Afghan </word>
+    <word normalized="guerrillas">guerrillas</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Part" start="79790" stop="79990">Part </word>
+    <word normalized="of" start="79990" stop="80090">of </word>
+    <word normalized="his" start="80090" stop="80250">his </word>
+    <word normalized="skull" start="80250" stop="80640">skull </word>
+    <word normalized="had">had </word>
+    <word normalized="been" start="80730" stop="80880">been </word>
+    <word normalized="sheared" start="80880" stop="81200">sheared </word>
+    <word normalized="off" start="81200" stop="81380">off </word>
+    <word normalized="by" start="81380" stop="81580">by </word>
+    <word normalized="an" start="81580" stop="81640">an </word>
+    <word normalized="Afghan" start="81640" stop="82140">Afghan </word>
+    <word normalized="sword" start="82140" stop="82570">sword</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="fact" start="82890" stop="83170">fact</word>
+    <word normalized="">, </word>
+    <word normalized="he" start="83170" stop="83270">he </word>
+    <word normalized="only" start="83270" stop="83470">only </word>
+    <word normalized="survived" start="83470" stop="84000">survived </word>
+    <word normalized="as" start="84000" stop="84230">as </word>
+    <word normalized="he" start="85200" stop="85230">he </word>
+    <word normalized="had" start="85290" stop="85370">had </word>
+    <word normalized="stuffed" start="85370" stop="85600">stuffed </word>
+    <word normalized="a" start="85600" stop="85750">a </word>
+    <word normalized="copy" start="85750" stop="85870">copy </word>
+    <word normalized="of" start="86290" stop="86340">of </word>
+    <word normalized="Blackwood s" start="86340" stop="86520">Blackwood's </word>
+    <word normalized="Magazine">Magazine </word>
+    <word normalized="into">into </word>
+    <word normalized="his">his </word>
+    <word normalized="hat">hat </word>
+    <word normalized="to">to </word>
+    <word normalized="fight" start="86850" stop="87080">fight </word>
+    <word normalized="the" start="87080" stop="87160">the </word>
+    <word normalized="intense" start="87160" stop="87540">intense </word>
+    <word normalized="cold" start="87540" stop="87820">cold </word>
+    <word normalized="weather" start="87820" stop="88240">weather</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="magazine" start="88760" stop="89270">magazine </word>
+    <word normalized="took" start="89270" stop="89430">took </word>
+    <word normalized="most" start="89430" stop="89720">most </word>
+    <word normalized="of" start="89720" stop="89780">of </word>
+    <word normalized="the" start="89780" stop="89840">the </word>
+    <word normalized="blow" start="89840" stop="90120">blow</word>
+    <word normalized="">, </word>
+    <word normalized="saving" start="90120" stop="90550">saving </word>
+    <word normalized="the">the </word>
+    <word normalized="doctor s" start="90550" stop="90960">doctor's </word>
+    <word normalized="life" start="90960" stop="91020">life</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="91290" stop="92530">The </word>
+    <word normalized="episode" start="92530" stop="92900">episode </word>
+    <word normalized="was" start="92900" stop="93060">was </word>
+    <word normalized="made" start="93060" stop="93410">made </word>
+    <word normalized="the" start="93410" stop="93550">the </word>
+    <word normalized="subject" start="93550" stop="93960">subject </word>
+    <word normalized="of" start="93960" stop="94040">of </word>
+    <word normalized="a" start="94040" stop="94090">a </word>
+    <word normalized="famous" start="94090" stop="94430">famous </word>
+    <word normalized="painting" start="94430" stop="94940">painting </word>
+    <word normalized="by" start="94940" stop="95100">by </word>
+    <word normalized="the" start="95100" stop="95170">the </word>
+    <word normalized="Victorian" start="95170" stop="95670">Victorian </word>
+    <word normalized="artist" start="95670" stop="96120">artist</word>
+    <word normalized="">, </word>
+    <word normalized="Lady" start="96120" stop="96440">Lady </word>
+    <word normalized="Elizabeth">Elizabeth </word>
+    <word normalized="Butler" start="96920" stop="97350">Butler</word>
+    <word normalized="">, </word>
+    <word normalized="who" start="97570" stop="97660">who </word>
+    <word normalized="portrayed">portrayed </word>
+    <word normalized="doctor" start="98030" stop="98360">Dr. </word>
+    <word normalized="Brydon" start="98360" stop="98710">Brydon </word>
+    <word normalized="hobbling" start="98710" stop="99150">hobbling </word>
+    <word normalized="to" start="99150" stop="99250">to </word>
+    <word normalized="the" start="99250" stop="99350">the </word>
+    <word normalized="gates" start="99350" stop="99630">gates </word>
+    <word normalized="of" start="99630" stop="99750">of </word>
+    <word normalized="the" start="99730" stop="99760">the </word>
+    <word normalized="Jalalabad" start="100330" stop="100420">Jalalabad </word>
+    <word normalized="fort" start="100410" stop="100440">fort </word>
+    <word normalized="perched" start="100740" stop="101380">perched </word>
+    <word normalized="on" start="101380" stop="101520">on </word>
+    <word normalized="his" start="101520" stop="101660">his </word>
+    <word normalized="dying" start="101660" stop="101970">dying </word>
+    <word normalized="horse" start="101970" stop="102450">horse</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="102730" stop="102800">The </word>
+    <word normalized="painting" start="102800" stop="103150">painting </word>
+    <word normalized="is" start="103150" stop="103250">is </word>
+    <word normalized="titled" start="103240" stop="103270">titled </word>
+    <word normalized="Remnants" start="103600" stop="104030">Remnants </word>
+    <word normalized="of" start="104030" stop="104110">of </word>
+    <word normalized="an" start="104110" stop="104220">an </word>
+    <word normalized="Army" start="104220" stop="104550">Army</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="eighteen" start="105820" stop="106250">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty seven" start="106250" stop="106930">57</word>
+    <word normalized="">, </word>
+    <word normalized="he" start="107230" stop="107310">he </word>
+    <word normalized="was" start="107310" stop="107480">was </word>
+    <word normalized="a" start="107480" stop="107520">a </word>
+    <word normalized="regimental" start="107520" stop="108060">regimental </word>
+    <word normalized="doctor" start="108060" stop="108450">doctor </word>
+    <word normalized="at" start="108450" stop="108540">at </word>
+    <word normalized="Lucknow" start="108540" stop="109050">Lucknow </word>
+    <word normalized="and" start="109050" stop="109210">and </word>
+    <word normalized="survived" start="109210" stop="109540">survived </word>
+    <word normalized="his" start="109540" stop="109680">his </word>
+    <word normalized="second" start="109680" stop="110040">second </word>
+    <word normalized="siege" start="110040" stop="110510">siege</word>
+    <word normalized="">, </word>
+    <word normalized="that" start="110500" stop="111050">that </word>
+    <word normalized="of" start="111050" stop="111130">of </word>
+    <word normalized="the" start="111130" stop="111230">the </word>
+    <word normalized="Lucknow" start="111230" stop="111600">Lucknow </word>
+    <word normalized="residency" start="111600" stop="112300">residency </word>
+    <word normalized="">(</word>
+    <word normalized="June" start="112300" stop="112710">June </word>
+    <word normalized="minus" start="112950" stop="113050">- </word>
+    <word normalized="November" start="113050" stop="113200">November </word>
+    <word normalized="eighteen" start="113680" stop="113720">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty seven" start="114090" stop="114790">57 </word>
+    <word normalized="">) </word>
+    <word normalized="being" start="115060" stop="115340">being </word>
+    <word normalized="badly" start="115340" stop="115660">badly </word>
+    <word normalized="wounded" start="115660" stop="115970">wounded </word>
+    <word normalized="in" start="115970" stop="116100">in </word>
+    <word normalized="the" start="116100" stop="116190">the </word>
+    <word normalized="thigh" start="116360" stop="116940">thigh </word>
+    <word normalized="at" start="116980" stop="117320">at </word>
+    <word normalized="one" start="117440" stop="117690">one </word>
+    <word normalized="stage" start="117690" stop="118230">stage</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="His" start="118770" stop="118910">His </word>
+    <word normalized="wife" start="118910" stop="119100">wife </word>
+    <word normalized="published" start="119100" stop="119450">published </word>
+    <word normalized="a" start="119450" stop="119480">a </word>
+    <word normalized="memoir" start="119480" stop="120030">memoir </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="siege">siege</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="2">2 </word>
+    <word normalized="Sources">Sources </word>
+    <word normalized="Claire">Claire </word>
+    <word normalized="E">E. </word>
+    <word normalized="J">J. </word>
+    <word normalized="Herrick">Herrick</word>
+    <word normalized="">, </word>
+    <word normalized="">"</word>
+    <word normalized="Brydon">Brydon</word>
+    <word normalized="">, </word>
+    <word normalized="William">William </word>
+    <word normalized="">(</word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eleven to eighteen">11–18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy three">73</word>
+    <word normalized="">)</word>
+    <word normalized="">"</word>
+    <word normalized="">, </word>
+    <word normalized="Oxford">Oxford </word>
+    <word normalized="Dictionary">Dictionary </word>
+    <word normalized="of">of </word>
+    <word normalized="National">National </word>
+    <word normalized="Biography">Biography</word>
+    <word normalized="">, </word>
+    <word normalized="Oxford">Oxford </word>
+    <word normalized="University">University </word>
+    <word normalized="Press">Press</word>
+    <word normalized="">, </word>
+    <word normalized="Sept">Sept </word>
+    <word normalized="2004">2004</word>
+    <word normalized="">; </word>
+    <word normalized="online">online </word>
+    <word normalized="edn">edn</word>
+    <word normalized="">, </word>
+    <word normalized="May">May </word>
+    <word normalized="two thousand six">2006 </word>
+    <word normalized="accessed">accessed </word>
+    <word normalized="twenty six">26 </word>
+    <word normalized="Aug">Aug </word>
+    <word normalized="two thousand six">2006 </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,56 @@
+<alignment>
+  <sentence>
+    <word normalized="United" start="980" stop="1300">United </word>
+    <word normalized="States" start="1300" stop="1710">States </word>
+    <word normalized="men s" start="1710" stop="2040">men's </word>
+    <word normalized="national" start="2040" stop="2340">national </word>
+    <word normalized="softball" start="2340" stop="2760">softball </word>
+    <word normalized="team" start="2760" stop="3040">team </word>
+    <word normalized="The" start="7180" stop="8190">The </word>
+    <word normalized="nineteen" start="8190" stop="8620">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty eight" start="8620" stop="9110">88 </word>
+    <word normalized="World" start="9110" stop="9370">World </word>
+    <word normalized="Championships" start="9370" stop="10170">Championships </word>
+    <word normalized="were" start="10170" stop="10300">were </word>
+    <word normalized="held" start="10300" stop="10540">held </word>
+    <word normalized="in" start="10540" stop="10650">in </word>
+    <word normalized="Saskatoon" start="10650" stop="11300">Saskatoon</word>
+    <word normalized="">, </word>
+    <word normalized="Canada" start="11300" stop="11740">Canada</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="11760" stop="12380">The </word>
+    <word normalized="team" start="12380" stop="12660">team </word>
+    <word normalized="played" start="12660" stop="12930">played </word>
+    <word normalized="thirteen" start="12930" stop="13330">13 </word>
+    <word normalized="games" start="13330" stop="13750">games </word>
+    <word normalized="in" start="13750" stop="13870">in </word>
+    <word normalized="the" start="13870" stop="13930">the </word>
+    <word normalized="round" start="14400" stop="14690">round </word>
+    <word normalized="robin" start="14690" stop="14950">robin </word>
+    <word normalized="round" start="14950" stop="15320">round</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="United" start="15910" stop="16210">United </word>
+    <word normalized="States" start="16210" stop="16570">States </word>
+    <word normalized="beat" start="16570" stop="16740">beat </word>
+    <word normalized="Australia" start="16930" stop="16990">Australia </word>
+    <word normalized="twenty one to one" start="17300" stop="18360">21-1 </word>
+    <word normalized="in" start="18360" stop="18510">in </word>
+    <word normalized="one" start="18510" stop="18740">one </word>
+    <word normalized="game" start="18740" stop="18930">game </word>
+    <word normalized="in" start="18930" stop="19000">in </word>
+    <word normalized="this" start="19000" stop="19140">this </word>
+    <word normalized="round" start="19140" stop="19440">round</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="25050" stop="25400">Table </word>
+    <word normalized="of" start="25400" stop="25510">of </word>
+    <word normalized="contents" start="25980" stop="26410">contents </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,689 @@
+<alignment>
+  <sentence>
+    <word normalized="Woodside" start="60" stop="680">Woodside </word>
+    <word normalized="Park">Park </word>
+    <word normalized="tube" start="990" stop="1390">tube </word>
+    <word normalized="station" start="1390" stop="2050">station </word>
+    <word normalized="Woodside" start="16920" stop="17380">Woodside </word>
+    <word normalized="Park" start="17380" stop="17680">Park </word>
+    <word normalized="tube" start="17680" stop="17970">tube </word>
+    <word normalized="station" start="17970" stop="18510">station </word>
+    <word normalized="is" start="18510" stop="18680">is </word>
+    <word normalized="a" start="18680" stop="18750">a </word>
+    <word normalized="London" start="18750" stop="19170">London </word>
+    <word normalized="Underground" start="19170" stop="19670">Underground </word>
+    <word normalized="station" start="19670" stop="20210">station </word>
+    <word normalized="in" start="20260" stop="20320">in </word>
+    <word normalized="Woodside" start="20320" stop="20840">Woodside </word>
+    <word normalized="Park" start="20840" stop="21300">Park</word>
+    <word normalized="">, </word>
+    <word normalized="north" start="21250" stop="21330">north </word>
+    <word normalized="London" start="21630" stop="22070">London</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="22090" stop="22570">The </word>
+    <word normalized="station" start="22570" stop="23050">station </word>
+    <word normalized="is" start="23050" stop="23230">is </word>
+    <word normalized="on" start="23230" stop="23380">on </word>
+    <word normalized="the" start="23380" stop="23470">the </word>
+    <word normalized="High" start="23470" stop="23810">High </word>
+    <word normalized="Barnet" start="23810" stop="24330">Barnet </word>
+    <word normalized="branch">branch </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="24700" stop="24810">the </word>
+    <word normalized="Northern" start="24810" stop="25220">Northern </word>
+    <word normalized="Line" start="25220" stop="25520">Line</word>
+    <word normalized="">, </word>
+    <word normalized="between" start="25740" stop="26220">between </word>
+    <word normalized="West" start="26220" stop="26540">West </word>
+    <word normalized="Finchley" start="26540" stop="27090">Finchley </word>
+    <word normalized="and" start="27090" stop="27410">and </word>
+    <word normalized="Totteridge" start="27620" stop="28150">Totteridge </word>
+    <word normalized="and" start="28150" stop="28280">and </word>
+    <word normalized="Whetstone" start="28280" stop="28790">Whetstone </word>
+    <word normalized="stations" start="28790" stop="29500">stations</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="29890" stop="30060">and </word>
+    <word normalized="in">in </word>
+    <word normalized="Travelcard">Travelcard </word>
+    <word normalized="Zone" start="31000" stop="31340">Zone </word>
+    <word normalized="four" start="31340" stop="31760">4</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Woodside" start="32480" stop="32920">Woodside </word>
+    <word normalized="Park" start="32920" stop="33340">Park </word>
+    <word normalized="is" start="33390" stop="33600">is </word>
+    <word normalized="the" start="33600" stop="33680">the </word>
+    <word normalized="last" start="33680" stop="34010">last </word>
+    <word normalized="station" start="34010" stop="34630">station </word>
+    <word normalized="in" start="34670" stop="34810">in </word>
+    <word normalized="an" start="34810" stop="34940">an </word>
+    <word normalized="alphabetical" start="34940" stop="35650">alphabetical </word>
+    <word normalized="list" start="35650" stop="36010">list </word>
+    <word normalized="of" start="36010" stop="36170">of </word>
+    <word normalized="London" start="36170" stop="36600">London </word>
+    <word normalized="Underground" start="36600" stop="37180">Underground </word>
+    <word normalized="and" start="37490" stop="37760">and </word>
+    <word normalized="D L R">DLR </word>
+    <word normalized="stations" start="39930" stop="39990">stations</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="39990" stop="40500">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="History" start="41210" stop="41810">History </word>
+    <word normalized="Woodside" start="42590" stop="43060">Woodside </word>
+    <word normalized="Park" start="43060" stop="43360">Park </word>
+    <word normalized="station" start="43360" stop="43970">station </word>
+    <word normalized="was" start="44000" stop="44200">was </word>
+    <word normalized="planned" start="44200" stop="44660">planned </word>
+    <word normalized="by" start="44660" stop="44810">by </word>
+    <word normalized="the" start="44810" stop="45000">the </word>
+    <word normalized="Edgware" start="45000" stop="45550">Edgware</word>
+    <word normalized="">, </word>
+    <word normalized="Highgate" start="45690" stop="46250">Highgate </word>
+    <word normalized="and" start="46250" stop="46380">and </word>
+    <word normalized="London" start="46380" stop="46790">London </word>
+    <word normalized="Railway" start="47710" stop="47740">Railway </word>
+    <word normalized="">(</word>
+    <word normalized="EH and L R" start="48600" stop="48770">EH&amp;LR</word>
+    <word normalized="">) </word>
+    <word normalized="and" start="50330" stop="50670">and </word>
+    <word normalized="was" start="51020" stop="51460">was </word>
+    <word normalized="originally" start="51460" stop="51940">originally </word>
+    <word normalized="opened" start="51940" stop="52310">opened </word>
+    <word normalized="as" start="52340" stop="52640">as </word>
+    <word normalized="Torrington" start="52790" stop="53240">Torrington </word>
+    <word normalized="Park">Park </word>
+    <word normalized="on" start="53510" stop="53720">on </word>
+    <word normalized="1" start="53860" stop="54080">1 </word>
+    <word normalized="April" start="54360" stop="54720">April </word>
+    <word normalized="eighteen" start="55040" stop="55480">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy two" start="55480" stop="56300">72 </word>
+    <word normalized="by" start="56320" stop="56760">by </word>
+    <word normalized="the" start="56760" stop="56880">the </word>
+    <word normalized="Great" start="56880" stop="57280">Great </word>
+    <word normalized="Northern" start="57310" stop="57640">Northern </word>
+    <word normalized="Railway" start="57640" stop="58190">Railway </word>
+    <word normalized="">(</word>
+    <word normalized="which" start="58980" stop="59230">which </word>
+    <word normalized="had">had </word>
+    <word normalized="taken" start="59230" stop="59660">taken </word>
+    <word normalized="over" start="59660" stop="59980">over </word>
+    <word normalized="the" start="59980" stop="60230">the </word>
+    <word normalized="EH and L R" start="60960" stop="61270">EH&amp;LR</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="63720" stop="63800">The </word>
+    <word normalized="station" start="63800" stop="64300">station </word>
+    <word normalized="was" start="64300" stop="64510">was </word>
+    <word normalized="on" start="64510" stop="64600">on </word>
+    <word normalized="a" start="64600" stop="64650">a </word>
+    <word normalized="branch" start="64650" stop="65150">branch </word>
+    <word normalized="of" start="65150" stop="65240">of </word>
+    <word normalized="a" start="65240" stop="65290">a </word>
+    <word normalized="line" start="65290" stop="65550">line </word>
+    <word normalized="that" start="65550" stop="65680">that </word>
+    <word normalized="ran" start="65680" stop="65900">ran </word>
+    <word normalized="from" start="65900" stop="66150">from </word>
+    <word normalized="Finsbury" start="66150" stop="66680">Finsbury </word>
+    <word normalized="Park" start="66680" stop="67010">Park </word>
+    <word normalized="to">to </word>
+    <word normalized="Edgware" start="67300" stop="67950">Edgware </word>
+    <word normalized="via" start="67950" stop="68250">via </word>
+    <word normalized="Highgate" start="68250" stop="69000">Highgate</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="After" start="69210" stop="69250">After </word>
+    <word normalized="the" start="69630" stop="69720">the </word>
+    <word normalized="19" start="69720" stop="69860">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty one" start="70290" stop="70910">21 </word>
+    <word normalized="Railways" start="70910" stop="71410">Railways </word>
+    <word normalized="Act" start="71410" stop="71710">Act </word>
+    <word normalized="created" start="71710" stop="72130">created </word>
+    <word normalized="the" start="72130" stop="72260">the </word>
+    <word normalized="Big" start="72260" stop="72540">Big </word>
+    <word normalized="Four" start="72540" stop="72880">Four </word>
+    <word normalized="railway" start="72880" stop="73240">railway </word>
+    <word normalized="companies" start="73240" stop="73810">companies </word>
+    <word normalized="the" start="74110" stop="74210">the </word>
+    <word normalized="line" start="74210" stop="74520">line </word>
+    <word normalized="was" start="74940" stop="74970">was</word>
+    <word normalized="">, </word>
+    <word normalized="from" start="74970" stop="75060">from </word>
+    <word normalized="nineteen" start="75060" stop="75180">19 </word>
+    <word normalized="hundred" start="75180" stop="75570">hundred </word>
+    <word normalized="twenty three" start="76400" stop="76730">23</word>
+    <word normalized="">, </word>
+    <word normalized="part">part </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="76890" stop="77010">the </word>
+    <word normalized="London" start="77010" stop="77510">London </word>
+    <word normalized="and" start="77510" stop="77730">&amp; </word>
+    <word normalized="North" start="77730" stop="78050">North </word>
+    <word normalized="Eastern" start="78050" stop="78450">Eastern </word>
+    <word normalized="Railway" start="78450" stop="79020">Railway </word>
+    <word normalized="">(</word>
+    <word normalized="LNER">LNER</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="82090" stop="82210">The </word>
+    <word normalized="section" start="82210" stop="82630">section </word>
+    <word normalized="of" start="82630" stop="82710">of </word>
+    <word normalized="the" start="82710" stop="82820">the </word>
+    <word normalized="High" start="82820" stop="83080">High </word>
+    <word normalized="Barnet" start="83080" stop="83560">Barnet </word>
+    <word normalized="branch" start="83500" stop="83530">branch </word>
+    <word normalized="north" start="83940" stop="84210">north </word>
+    <word normalized="of" start="84210" stop="84330">of </word>
+    <word normalized="East" start="84330" stop="84560">East </word>
+    <word normalized="Finchley" start="84560" stop="85060">Finchley </word>
+    <word normalized="was" start="85290" stop="85520">was </word>
+    <word normalized="incorporated" start="85520" stop="86360">incorporated </word>
+    <word normalized="into" start="86360" stop="86610">into </word>
+    <word normalized="the" start="86640" stop="86740">the </word>
+    <word normalized="London" start="86740" stop="87150">London </word>
+    <word normalized="Underground" start="87160" stop="87680">Underground </word>
+    <word normalized="network" start="87680" stop="88210">network </word>
+    <word normalized="through" start="88210" stop="88470">through </word>
+    <word normalized="the" start="88470" stop="88710">the </word>
+    <word normalized="">"</word>
+    <word normalized="Northern" start="89630" stop="89980">Northern </word>
+    <word normalized="Heights" start="89980" stop="90410">Heights</word>
+    <word normalized="">" </word>
+    <word normalized="project" start="90520" stop="90890">project </word>
+    <word normalized="begun" start="92190" stop="92600">begun </word>
+    <word normalized="in" start="92600" stop="92700">in </word>
+    <word normalized="the" start="92700" stop="92770">the </word>
+    <word normalized="late" start="92770" stop="93170">late </word>
+    <word normalized="19" start="93140" stop="93170">19 </word>
+    <word normalized="hundred" start="93170" stop="93270">hundred </word>
+    <word normalized="thirties" start="93650" stop="94310">30s</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="High" start="94960" stop="95160">High </word>
+    <word normalized="Barnet" start="95160" stop="95490">Barnet </word>
+    <word normalized="station" start="95490" stop="95950">station </word>
+    <word normalized="was" start="95950" stop="96170">was </word>
+    <word normalized="first" start="96170" stop="96480">first </word>
+    <word normalized="served" start="96480" stop="96860">served </word>
+    <word normalized="by" start="96860" stop="97010">by </word>
+    <word normalized="Northern" start="97010" stop="97410">Northern </word>
+    <word normalized="Line" start="97410" stop="97600">Line </word>
+    <word normalized="trains" start="97600" stop="98090">trains </word>
+    <word normalized="on" start="98320" stop="98460">on </word>
+    <word normalized="fourteen" start="98510" stop="99010">14 </word>
+    <word normalized="April" start="99020" stop="99180">April </word>
+    <word normalized="nineteen" start="99180" stop="99520">19 </word>
+    <word normalized="hundred" start="100010" stop="100070">hundred </word>
+    <word normalized="forty" start="100070" stop="100270">40 </word>
+    <word normalized="and" start="100560" stop="100940">and</word>
+    <word normalized="">, </word>
+    <word normalized="after" start="101280" stop="101330">after </word>
+    <word normalized="a" start="101330" stop="101620">a </word>
+    <word normalized="period" start="101700" stop="102060">period </word>
+    <word normalized="where" start="102060" stop="102290">where </word>
+    <word normalized="the" start="102290" stop="102390">the </word>
+    <word normalized="station" start="102390" stop="102820">station </word>
+    <word normalized="was" start="102820" stop="102950">was </word>
+    <word normalized="serviced" start="102950" stop="103350">serviced </word>
+    <word normalized="by" start="103350" stop="103520">by </word>
+    <word normalized="both" start="103520" stop="103830">both </word>
+    <word normalized="operators" start="103830" stop="104500">operators</word>
+    <word normalized="">, </word>
+    <word normalized="LNER">LNER </word>
+    <word normalized="services">services </word>
+    <word normalized="ended" start="106110" stop="106430">ended </word>
+    <word normalized="in" start="106430" stop="106650">in </word>
+    <word normalized="nineteen" start="106650" stop="107100">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty one" start="107100" stop="107820">41</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="108050" stop="108160">The </word>
+    <word normalized="station" start="108160" stop="108720">station </word>
+    <word normalized="still" start="108720" stop="109080">still </word>
+    <word normalized="retains" start="109080" stop="109710">retains </word>
+    <word normalized="much" start="109710" stop="109990">much </word>
+    <word normalized="of" start="109990" stop="110060">of </word>
+    <word normalized="its" start="110060" stop="110270">its </word>
+    <word normalized="original" start="110270" stop="110750">original </word>
+    <word normalized="Victorian" start="110750" stop="111380">Victorian </word>
+    <word normalized="architectural" start="111380" stop="112360">architectural </word>
+    <word normalized="character" start="112360" stop="112850">character </word>
+    <word normalized="today" start="112850" stop="113370">today</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="113590" stop="114090">Section </word>
+    <word normalized="two" start="114090" stop="114550">2 </word>
+    <word normalized="Transport" start="114770" stop="115380">Transport </word>
+    <word normalized="links" start="115380" stop="115860">links </word>
+    <word normalized="London" start="116300" stop="116690">London </word>
+    <word normalized="Bus" start="116690" stop="116980">Bus </word>
+    <word normalized="route" start="116980" stop="117320">route </word>
+    <word normalized="three hundred eighty three" start="117380" stop="118050">383 </word>
+    <word normalized="terminates" start="118270" stop="118850">terminates </word>
+    <word normalized="by" start="118850" stop="119030">by </word>
+    <word normalized="the" start="119030" stop="119140">the </word>
+    <word normalized="main" start="119140" stop="119470">main </word>
+    <word normalized="station" start="119470" stop="119990">station </word>
+    <word normalized="entrance" start="119990" stop="120650">entrance</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="121010" stop="121220">This </word>
+    <word normalized="is" start="121220" stop="121380">is </word>
+    <word normalized="relatively" start="121440" stop="122070">relatively </word>
+    <word normalized="recent" start="122070" stop="122670">recent</word>
+    <word normalized="">; </word>
+    <word normalized="until" start="123130" stop="123350">until </word>
+    <word normalized="about" start="123350" stop="123640">about </word>
+    <word normalized="two thousand" start="123640" stop="124490">2000</word>
+    <word normalized="">, </word>
+    <word normalized="no" start="124520" stop="124780">no </word>
+    <word normalized="London" start="124780" stop="125140">London </word>
+    <word normalized="Bus" start="125140" stop="125430">Bus </word>
+    <word normalized="routes" start="125430" stop="125700">routes </word>
+    <word normalized="went" start="125700" stop="125910">went </word>
+    <word normalized="near" start="125910" stop="126080">near </word>
+    <word normalized="the" start="126080" stop="126190">the </word>
+    <word normalized="station" start="126190" stop="126760">station</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="127680" stop="128150">Section </word>
+    <word normalized="three" start="128150" stop="128600">3 </word>
+    <word normalized="Local" start="128890" stop="129400">Local </word>
+    <word normalized="information" start="129400" stop="130190">information </word>
+    <word normalized="The" start="131010" stop="131080">The </word>
+    <word normalized="station" start="131080" stop="131560">station </word>
+    <word normalized="has" start="131560" stop="131770">has </word>
+    <word normalized="a" start="131770" stop="131810">a </word>
+    <word normalized="large" start="131810" stop="132300">large </word>
+    <word normalized="adjacent" start="132300" stop="132850">adjacent </word>
+    <word normalized="area" start="132970" stop="133340">area</word>
+    <word normalized="">, </word>
+    <word normalized="originally" start="133610" stop="133640">originally </word>
+    <word normalized="for" start="134110" stop="134250">for </word>
+    <word normalized="storing" start="134250" stop="134670">storing </word>
+    <word normalized="coal" start="134670" stop="135140">coal </word>
+    <word normalized="and" start="135140" stop="135290">and </word>
+    <word normalized="now" start="135290" stop="135480">now </word>
+    <word normalized="used" start="135480" stop="135860">used </word>
+    <word normalized="as" start="135860" stop="135980">as </word>
+    <word normalized="a" start="135980" stop="136030">a </word>
+    <word normalized="car">car </word>
+    <word normalized="park" start="136360" stop="136750">park</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Until" start="137240" stop="137540">Until </word>
+    <word normalized="about" start="137540" stop="137830">about </word>
+    <word normalized="two thousand" start="137830" stop="138620">2000</word>
+    <word normalized="">, </word>
+    <word normalized="there" start="138660" stop="138810">there </word>
+    <word normalized="was" start="138810" stop="138970">was </word>
+    <word normalized="a" start="138970" stop="139010">a </word>
+    <word normalized="second" start="139010" stop="139440">second </word>
+    <word normalized="car" start="139440" stop="139710">car </word>
+    <word normalized="park" start="139710" stop="140150">park</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="block" start="140670" stop="140980">block </word>
+    <word normalized="of" start="140980" stop="141050">of </word>
+    <word normalized="flats" start="141050" stop="141470">flats </word>
+    <word normalized="has">has </word>
+    <word normalized="now">now </word>
+    <word normalized="been">been </word>
+    <word normalized="built">built </word>
+    <word normalized="on">on </word>
+    <word normalized="this">this </word>
+    <word normalized="area">area</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">(</word>
+    <word normalized="The">The </word>
+    <word normalized="flats">flats </word>
+    <word normalized="are">are </word>
+    <word normalized="clearly">clearly </word>
+    <word normalized="visible">visible </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="linked">linked </word>
+    <word normalized="picture">picture </word>
+    <word normalized="of">of </word>
+    <word normalized="platforms">platforms</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="143980" stop="144060">The </word>
+    <word normalized="station" start="144060" stop="144580">station </word>
+    <word normalized="is" start="144580" stop="144750">is </word>
+    <word normalized="above" start="144750" stop="145060">above </word>
+    <word normalized="ground" start="145060" stop="145530">ground</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Both" start="145880" stop="146100">Both </word>
+    <word normalized="platforms" start="146100" stop="146740">platforms </word>
+    <word normalized="are" start="146740" stop="146920">are </word>
+    <word normalized="readily">readily </word>
+    <word normalized="accessible" start="147360" stop="147880">accessible </word>
+    <word normalized="from" start="147880" stop="148120">from </word>
+    <word normalized="the">the </word>
+    <word normalized="street" start="148120" stop="148510">street </word>
+    <word normalized="by" start="148540" stop="148670">by </word>
+    <word normalized="wheelchair" start="148720" stop="149120">wheelchair</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="149750" stop="149820">The </word>
+    <word normalized="main" start="149820" stop="150080">main </word>
+    <word normalized="entrance" start="150080" stop="150660">entrance</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="150710" stop="150890">with </word>
+    <word normalized="ticket" start="150890" stop="151270">ticket </word>
+    <word normalized="office" start="151270" stop="151650">office</word>
+    <word normalized="">, </word>
+    <word normalized="is" start="151910" stop="152080">is </word>
+    <word normalized="at" start="152080" stop="152180">at </word>
+    <word normalized="the" start="152180" stop="152260">the </word>
+    <word normalized="end" start="152260" stop="152450">end </word>
+    <word normalized="of" start="152450" stop="152540">of </word>
+    <word normalized="a" start="152540" stop="152590">a </word>
+    <word normalized="cul de sac" start="152590" stop="153410">cul-de-sac </word>
+    <word normalized="">(</word>
+    <word normalized="Woodside" start="154340" stop="154820">Woodside </word>
+    <word normalized="Park" start="154820" stop="155200">Park </word>
+    <word normalized="Road" start="155200" stop="155560">Road</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="adjacent" start="156980" stop="157630">adjacent </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="car">car </word>
+    <word normalized="park" start="157990" stop="158310">park </word>
+    <word normalized="entrance" start="158310" stop="158900">entrance</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="158920" stop="159470">This </word>
+    <word normalized="leads" start="159470" stop="159790">leads </word>
+    <word normalized="on" start="159790" stop="159930">on </word>
+    <word normalized="to" start="159930" stop="160010">to </word>
+    <word normalized="the" start="160010" stop="160120">the </word>
+    <word normalized="southbound" start="160120" stop="160870">southbound </word>
+    <word normalized="platform" start="160870" stop="161410">platform</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="Victorian" start="162320" stop="162990">Victorian </word>
+    <word normalized="post" start="162980" stop="163290">post </word>
+    <word normalized="box" start="164000" stop="164400">box </word>
+    <word normalized="">(</word>
+    <word normalized="with" start="164450" stop="164590">with </word>
+    <word normalized="the" start="164590" stop="164700">the </word>
+    <word normalized="initials" start="164700" stop="165240">initials </word>
+    <word normalized="V R">VR</word>
+    <word normalized="">, </word>
+    <word normalized="Victoria" start="165890" stop="167020">Victoria </word>
+    <word normalized="Regina" start="167020" stop="167590">Regina</word>
+    <word normalized="">, </word>
+    <word normalized="for" start="167620" stop="167880">for </word>
+    <word normalized="Queen" start="167880" stop="168130">Queen </word>
+    <word normalized="Victoria" start="168130" stop="168730">Victoria</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="169880" stop="169990">is </word>
+    <word normalized="set" start="169990" stop="170270">set </word>
+    <word normalized="into" start="170270" stop="170460">into </word>
+    <word normalized="the" start="170460" stop="170560">the </word>
+    <word normalized="front" start="170560" stop="170860">front </word>
+    <word normalized="wall" start="170860" stop="171080">wall </word>
+    <word normalized="of" start="171080" stop="171140">of </word>
+    <word normalized="the" start="171140" stop="171240">the </word>
+    <word normalized="station" start="171240" stop="171810">station</word>
+    <word normalized="">; </word>
+    <word normalized="it" start="172320" stop="172470">it </word>
+    <word normalized="seems" start="172470" stop="172850">seems </word>
+    <word normalized="to" start="172850" stop="172960">to </word>
+    <word normalized="date" start="172960" stop="173220">date </word>
+    <word normalized="from" start="173220" stop="173370">from </word>
+    <word normalized="the" start="173370" stop="173440">the </word>
+    <word normalized="construction" start="173440" stop="174210">construction </word>
+    <word normalized="of" start="174270" stop="174440">of </word>
+    <word normalized="the" start="174440" stop="174540">the </word>
+    <word normalized="station" start="174540" stop="175110">station</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="176110" stop="176260">The </word>
+    <word normalized="entrance" start="176260" stop="176740">entrance </word>
+    <word normalized="leading" start="176740" stop="177080">leading </word>
+    <word normalized="on" start="177080" stop="177200">on </word>
+    <word normalized="to" start="177200" stop="177290">to </word>
+    <word normalized="the" start="177290" stop="177380">the </word>
+    <word normalized="northbound" start="177380" stop="177980">northbound </word>
+    <word normalized="platform" start="177980" stop="178510">platform </word>
+    <word normalized="is" start="178760" stop="178960">is </word>
+    <word normalized="also" start="178960" stop="179310">also </word>
+    <word normalized="at" start="179310" stop="179510">at </word>
+    <word normalized="the" start="179510" stop="179610">the </word>
+    <word normalized="end" start="179610" stop="179800">end </word>
+    <word normalized="of" start="179800" stop="179900">of </word>
+    <word normalized="a" start="179900" stop="179960">a </word>
+    <word normalized="cul de sac" start="179960" stop="180740">cul-de-sac </word>
+    <word normalized="">(</word>
+    <word normalized="Station" start="181280" stop="181780">Station </word>
+    <word normalized="Road" start="181780" stop="182140">Road</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="182370" stop="182430">a </word>
+    <word normalized="turning" start="183190" stop="183580">turning </word>
+    <word normalized="off" start="184020" stop="184190">off </word>
+    <word normalized="Holden" start="184190" stop="184590">Holden </word>
+    <word normalized="Road">Road</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There" start="184860" stop="185510">There </word>
+    <word normalized="is" start="185510" stop="185680">is </word>
+    <word normalized="no" start="185680" stop="185980">no </word>
+    <word normalized="automatic" start="185980" stop="186670">automatic </word>
+    <word normalized="ticket" start="186670" stop="186990">ticket </word>
+    <word normalized="barrier" start="186990" stop="187400">barrier </word>
+    <word normalized="at" start="187440" stop="187580">at </word>
+    <word normalized="the" start="187610" stop="187670">the </word>
+    <word normalized="latter" start="187670" stop="188010">latter </word>
+    <word normalized="entrance" start="188010" stop="188590">entrance</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Just" start="188650" stop="188920">Just </word>
+    <word normalized="outside" start="188920" stop="189370">outside </word>
+    <word normalized="this" start="189370" stop="189580">this </word>
+    <word normalized="entrance" start="189580" stop="190070">entrance </word>
+    <word normalized="is" start="190070" stop="190220">is </word>
+    <word normalized="a" start="190220" stop="190270">a </word>
+    <word normalized="small" start="190270" stop="190620">small </word>
+    <word normalized="building" start="190620" stop="191080">building </word>
+    <word normalized="housing" start="191080" stop="191640">housing </word>
+    <word normalized="a" start="191640" stop="191710">a </word>
+    <word normalized="minicab" start="191710" stop="192250">minicab </word>
+    <word normalized="firm" start="192250" stop="192640">firm</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="To">To </word>
+    <word normalized="get" start="193620" stop="193830">get </word>
+    <word normalized="from" start="193830" stop="194020">from </word>
+    <word normalized="one" start="194020" stop="194200">one </word>
+    <word normalized="platform" start="194200" stop="194720">platform </word>
+    <word normalized="to" start="194720" stop="194820">to </word>
+    <word normalized="the" start="194820" stop="194940">the </word>
+    <word normalized="other" start="194940" stop="195180">other </word>
+    <word normalized="it" start="195450" stop="195610">it </word>
+    <word normalized="is" start="195610" stop="195770">is </word>
+    <word normalized="necessary">necessary </word>
+    <word normalized="to" start="196280" stop="196420">to </word>
+    <word normalized="cross" start="196420" stop="196740">cross </word>
+    <word normalized="a" start="196740" stop="196790">a </word>
+    <word normalized="footbridge" start="196790" stop="197410">footbridge</word>
+    <word normalized="">, </word>
+    <word normalized="or" start="197600" stop="197830">or </word>
+    <word normalized="to" start="197830" stop="197960">to </word>
+    <word normalized="leave" start="197960" stop="198210">leave </word>
+    <word normalized="the" start="198210" stop="198280">the </word>
+    <word normalized="station" start="198280" stop="198850">station </word>
+    <word normalized="and" start="198850" stop="198980">and </word>
+    <word normalized="make" start="198980" stop="199200">make </word>
+    <word normalized="a" start="199200" stop="199240">a </word>
+    <word normalized="journey" start="199240" stop="199650">journey </word>
+    <word normalized="round" start="199770" stop="200210">round </word>
+    <word normalized="the">the </word>
+    <word normalized="adjacent" start="200210" stop="200820">adjacent </word>
+    <word normalized="streets" start="200820" stop="201440">streets</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There" start="201660" stop="201790">There </word>
+    <word normalized="is" start="201790" stop="202030">is </word>
+    <word normalized="a" start="202030" stop="202110">a </word>
+    <word normalized="route" start="202110" stop="202360">route </word>
+    <word normalized="from" start="202360" stop="202550">from </word>
+    <word normalized="the">the </word>
+    <word normalized="ticket" start="202660" stop="203020">ticket </word>
+    <word normalized="office" start="203020" stop="203370">office </word>
+    <word normalized="onto" start="203370" stop="203650">onto </word>
+    <word normalized="the" start="203650" stop="203770">the </word>
+    <word normalized="bridge" start="203770" stop="204110">bridge </word>
+    <word normalized="without">without </word>
+    <word normalized="going" start="204400" stop="204670">going </word>
+    <word normalized="through" start="204670" stop="204910">through </word>
+    <word normalized="the" start="204910" stop="205010">the </word>
+    <word normalized="ticket" start="205010" stop="205330">ticket </word>
+    <word normalized="barrier" start="205330" stop="205680">barrier</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="205970" stop="206170">but </word>
+    <word normalized="it" start="206170" stop="206330">it </word>
+    <word normalized="is" start="206330" stop="206460">is </word>
+    <word normalized="necessary" start="206460" stop="207040">necessary </word>
+    <word normalized="to" start="207040" stop="207160">to </word>
+    <word normalized="go" start="207160" stop="207340">go </word>
+    <word normalized="through" start="207340" stop="207630">through </word>
+    <word normalized="the" start="207630" stop="207710">the </word>
+    <word normalized="barrier" start="207710" stop="208100">barrier </word>
+    <word normalized="to" start="208100" stop="208250">to </word>
+    <word normalized="get" start="208250" stop="208460">get </word>
+    <word normalized="from" start="208460" stop="208720">from </word>
+    <word normalized="either" start="208820" stop="209070">either </word>
+    <word normalized="the" start="209070" stop="209220">the </word>
+    <word normalized="bridge" start="209220" stop="209610">bridge </word>
+    <word normalized="or" start="209890" stop="210050">or </word>
+    <word normalized="the" start="210050" stop="210140">the </word>
+    <word normalized="ticket" start="210140" stop="210520">ticket </word>
+    <word normalized="office" start="210520" stop="210900">office </word>
+    <word normalized="onto" start="210900" stop="211170">onto </word>
+    <word normalized="the" start="211170" stop="211280">the </word>
+    <word normalized="southbound" start="211280" stop="211930">southbound </word>
+    <word normalized="platform" start="211930" stop="212490">platform</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This">This </word>
+    <word normalized="bridge" start="213570" stop="213870">bridge </word>
+    <word normalized="may" start="213870" stop="214030">may </word>
+    <word normalized="also" start="214030" stop="214340">also </word>
+    <word normalized="be" start="214340" stop="214470">be </word>
+    <word normalized="used" start="214470" stop="214790">used </word>
+    <word normalized="to" start="214790" stop="214870">to </word>
+    <word normalized="cross" start="214870" stop="215180">cross </word>
+    <word normalized="between" start="215180" stop="215520">between </word>
+    <word normalized="Station" start="215520" stop="216030">Station </word>
+    <word normalized="Road" start="216030" stop="216320">Road </word>
+    <word normalized="and" start="216560" stop="216760">and </word>
+    <word normalized="Woodside" start="216760" stop="217160">Woodside </word>
+    <word normalized="Park" start="217160" stop="217540">Park </word>
+    <word normalized="Road" start="217540" stop="217810">Road </word>
+    <word normalized="without" start="218030" stop="218370">without </word>
+    <word normalized="entering" start="218370" stop="218820">entering </word>
+    <word normalized="the" start="218820" stop="218880">the </word>
+    <word normalized="station" start="218880" stop="219460">station</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There">There </word>
+    <word normalized="are" start="219780" stop="219900">are </word>
+    <word normalized="two" start="219900" stop="220170">two </word>
+    <word normalized="sets" start="220170" stop="220510">sets </word>
+    <word normalized="of" start="220510" stop="220600">of </word>
+    <word normalized="stairs" start="220600" stop="221080">stairs </word>
+    <word normalized="at" start="221080" stop="221350">at </word>
+    <word normalized="each" start="221350" stop="221620">each </word>
+    <word normalized="end" start="221620" stop="221950">end</word>
+    <word normalized="">, </word>
+    <word normalized="one" start="222260" stop="222450">one </word>
+    <word normalized="leading" start="222450" stop="222830">leading </word>
+    <word normalized="to" start="222830" stop="222930">to </word>
+    <word normalized="the" start="222930" stop="223050">the </word>
+    <word normalized="platform" start="223050" stop="223610">platform </word>
+    <word normalized="and" start="223910" stop="224080">and </word>
+    <word normalized="the" start="224080" stop="224220">the </word>
+    <word normalized="other" start="224220" stop="224420">other </word>
+    <word normalized="to" start="224420" stop="224620">to </word>
+    <word normalized="outside" start="224650" stop="225150">outside </word>
+    <word normalized="the" start="225150" stop="225260">the </word>
+    <word normalized="station" start="225260" stop="225830">station</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="226580" stop="226670">The </word>
+    <word normalized="station" start="226670" stop="227150">station </word>
+    <word normalized="is" start="227150" stop="227370">is </word>
+    <word normalized="unique" start="227370" stop="227720">unique </word>
+    <word normalized="in" start="227720" stop="227930">in </word>
+    <word normalized="the">the </word>
+    <word normalized="area" start="227930" stop="228270">area </word>
+    <word normalized="as" start="228540" stop="228730">as </word>
+    <word normalized="there">there </word>
+    <word normalized="are">are </word>
+    <word normalized="no">no </word>
+    <word normalized="retail" start="229290" stop="229730">retail </word>
+    <word normalized="stores" start="229730" stop="230180">stores </word>
+    <word normalized="around" start="230180" stop="230440">around </word>
+    <word normalized="the" start="230440" stop="230500">the </word>
+    <word normalized="station" start="230500" stop="231080">station</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="231790" stop="231910">is </word>
+    <word normalized="at" start="231910" stop="232100">at </word>
+    <word normalized="the" start="232100" stop="232180">the </word>
+    <word normalized="centre" start="232180" stop="232640">centre </word>
+    <word normalized="of" start="232690" stop="232850">of </word>
+    <word normalized="a" start="232850" stop="232900">a </word>
+    <word normalized="residential" start="232900" stop="233650">residential </word>
+    <word normalized="area" start="233650" stop="234080">area</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,56 @@
+<alignment>
+  <sentence>
+    <word normalized="Virgin" start="990" stop="1310">Virgin </word>
+    <word normalized="Islands" start="1310" stop="2050">Islands </word>
+    <word normalized="men s">men's </word>
+    <word normalized="national" start="2050" stop="2370">national </word>
+    <word normalized="softball" start="2370" stop="2770">softball </word>
+    <word normalized="team" start="2770" stop="3070">team </word>
+    <word normalized="The" start="7620" stop="7690">The </word>
+    <word normalized="nineteen" start="7690" stop="8030">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty eight" start="8030" stop="8460">88 </word>
+    <word normalized="World" start="8460" stop="8720">World </word>
+    <word normalized="Championships" start="8720" stop="9300">Championships </word>
+    <word normalized="were" start="9300" stop="9380">were </word>
+    <word normalized="held" start="9380" stop="9650">held </word>
+    <word normalized="in">in </word>
+    <word normalized="Saskatoon" start="9650" stop="10260">Saskatoon</word>
+    <word normalized="">, </word>
+    <word normalized="Canada" start="10260" stop="10710">Canada</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="11150" stop="11220">The </word>
+    <word normalized="team" start="11220" stop="11500">team </word>
+    <word normalized="played" start="11500" stop="11770">played </word>
+    <word normalized="thirteen" start="11850" stop="12250">13 </word>
+    <word normalized="games" start="12250" stop="12640">games </word>
+    <word normalized="in">in </word>
+    <word normalized="the" start="12640" stop="12750">the </word>
+    <word normalized="round" start="12750" stop="13000">round </word>
+    <word normalized="robin" start="13000" stop="13250">robin </word>
+    <word normalized="round" start="13250" stop="13640">round</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Australia" start="14160" stop="14550">Australia </word>
+    <word normalized="beat" start="14550" stop="14800">beat </word>
+    <word normalized="the" start="14800" stop="14870">the </word>
+    <word normalized="Virgin" start="14870" stop="15190">Virgin </word>
+    <word normalized="Islands" start="15190" stop="15580">Islands </word>
+    <word normalized="eleven to one" start="15630" stop="16340">11-1 </word>
+    <word normalized="in" start="16530" stop="16670">in </word>
+    <word normalized="one" start="16670" stop="16890">one </word>
+    <word normalized="game" start="16890" stop="17130">game </word>
+    <word normalized="in" start="17130" stop="17220">in </word>
+    <word normalized="this" start="17220" stop="17370">this </word>
+    <word normalized="round" start="17370" stop="17640">round</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="23090" stop="23550">Table </word>
+    <word normalized="of" start="23550" stop="24000">of </word>
+    <word normalized="contents" start="24000" stop="24810">contents </word>
+  </sentence>
+</alignment>

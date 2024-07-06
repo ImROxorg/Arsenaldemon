@@ -1,0 +1,1083 @@
+<alignment>
+  <sentence>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="">(</word>
+    <word normalized="V X M L">VXML</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="18890" stop="19130">is </word>
+    <word normalized="the" start="19130" stop="19340">the </word>
+    <word normalized="W three C s" start="19700" stop="20030">W3C's </word>
+    <word normalized="standard" start="20350" stop="20970">standard </word>
+    <word normalized="X M L">XML </word>
+    <word normalized="format" start="21600" stop="21660">format </word>
+    <word normalized="for" start="22300" stop="22430">for </word>
+    <word normalized="specifying" start="22430" stop="23200">specifying </word>
+    <word normalized="interactive" start="23200" stop="23760">interactive </word>
+    <word normalized="voice" start="23760" stop="24050">voice </word>
+    <word normalized="dialogues" start="24050" stop="24740">dialogues </word>
+    <word normalized="between" start="24930" stop="25270">between </word>
+    <word normalized="a" start="25270" stop="25310">a </word>
+    <word normalized="human" start="25310" stop="25760">human </word>
+    <word normalized="and" start="25760" stop="26020">and </word>
+    <word normalized="a" start="26020" stop="26060">a </word>
+    <word normalized="computer">computer</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="allows" start="27650" stop="28120">allows </word>
+    <word normalized="voice" start="28120" stop="28480">voice </word>
+    <word normalized="applications" start="28480" stop="29340">applications </word>
+    <word normalized="to" start="29420" stop="29510">to </word>
+    <word normalized="be" start="29510" stop="29630">be </word>
+    <word normalized="developed" start="29630" stop="30220">developed </word>
+    <word normalized="and" start="30280" stop="30410">and </word>
+    <word normalized="deployed" start="30410" stop="31010">deployed </word>
+    <word normalized="in" start="31260" stop="31380">in </word>
+    <word normalized="an" start="31380" stop="31550">an </word>
+    <word normalized="analogous" start="31550" stop="32150">analogous </word>
+    <word normalized="way" start="32150" stop="32490">way </word>
+    <word normalized="to" start="32490" stop="32610">to </word>
+    <word normalized="H T M L">HTML </word>
+    <word normalized="for" start="33420" stop="33590">for </word>
+    <word normalized="visual" start="33590" stop="34060">visual </word>
+    <word normalized="applications">applications</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Just" start="35780" stop="36060">Just </word>
+    <word normalized="as" start="36060" stop="36270">as </word>
+    <word normalized="H T M L">HTML </word>
+    <word normalized="documents" start="36970" stop="37590">documents </word>
+    <word normalized="are" start="37590" stop="37730">are </word>
+    <word normalized="interpreted">interpreted </word>
+    <word normalized="by" start="38310" stop="38470">by </word>
+    <word normalized="a" start="38470" stop="38610">a </word>
+    <word normalized="visual" start="38610" stop="39040">visual </word>
+    <word normalized="web" start="39040" stop="39280">web </word>
+    <word normalized="browser" start="39280" stop="39780">browser</word>
+    <word normalized="">, </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="documents" start="41120" stop="41800">documents </word>
+    <word normalized="are" start="41900" stop="42050">are </word>
+    <word normalized="interpreted" start="42050" stop="42700">interpreted </word>
+    <word normalized="by" start="42730" stop="42930">by </word>
+    <word normalized="a" start="42930" stop="43060">a </word>
+    <word normalized="voice" start="43060" stop="43410">voice </word>
+    <word normalized="browser" start="43410" stop="43860">browser</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="common" start="44840" stop="45220">common </word>
+    <word normalized="architecture" start="45220" stop="46010">architecture </word>
+    <word normalized="is" start="46120" stop="46270">is </word>
+    <word normalized="to" start="46270" stop="46400">to </word>
+    <word normalized="deploy" start="46400" stop="46820">deploy </word>
+    <word normalized="banks" start="46820" stop="47250">banks </word>
+    <word normalized="of" start="47250" stop="47350">of </word>
+    <word normalized="voice" start="47350" stop="47620">voice </word>
+    <word normalized="browsers" start="47650" stop="47680">browsers </word>
+    <word normalized="attached" start="48280" stop="48770">attached </word>
+    <word normalized="to" start="48770" stop="48880">to </word>
+    <word normalized="the" start="48880" stop="49030">the </word>
+    <word normalized="Public" start="49030" stop="49520">Public </word>
+    <word normalized="Switched" start="49520" stop="50010">Switched </word>
+    <word normalized="Telephone" start="50080" stop="50570">Telephone </word>
+    <word normalized="Network" start="50570" stop="51120">Network </word>
+    <word normalized="">(</word>
+    <word normalized="P S T N">PSTN</word>
+    <word normalized="">) </word>
+    <word normalized="to" start="52850" stop="53020">to </word>
+    <word normalized="allow" start="53020" stop="53220">allow </word>
+    <word normalized="users" start="53220" stop="53690">users </word>
+    <word normalized="to" start="53690" stop="53780">to </word>
+    <word normalized="interact" start="53780" stop="54260">interact </word>
+    <word normalized="with" start="54260" stop="54430">with </word>
+    <word normalized="voice" start="54470" stop="54800">voice </word>
+    <word normalized="applications" start="54800" stop="55650">applications </word>
+    <word normalized="over" start="55830" stop="56030">over </word>
+    <word normalized="the" start="56030" stop="56110">the </word>
+    <word normalized="telephone" start="56110" stop="56720">telephone</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents" start="58660" stop="59500">contents </word>
+    <word normalized="Section" start="59860" stop="60280">Section </word>
+    <word normalized="1" start="62790" stop="62980">1 </word>
+    <word normalized="Usage" start="73000" stop="73630">Usage </word>
+    <word normalized="Many" start="75000" stop="75330">Many </word>
+    <word normalized="commercial" start="75330" stop="75860">commercial </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="applications" start="76700" stop="77530">applications </word>
+    <word normalized="have" start="77600" stop="77760">have </word>
+    <word normalized="been" start="77760" stop="77930">been </word>
+    <word normalized="deployed" start="77930" stop="78490">deployed</word>
+    <word normalized="">, </word>
+    <word normalized="processing" start="78870" stop="79480">processing </word>
+    <word normalized="millions" start="79480" stop="79940">millions </word>
+    <word normalized="of" start="79940" stop="80080">of </word>
+    <word normalized="telephone" start="80080" stop="80570">telephone </word>
+    <word normalized="calls" start="80570" stop="81020">calls </word>
+    <word normalized="per" start="81050" stop="81180">per </word>
+    <word normalized="day" start="81180" stop="81400">day</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="These" start="82450" stop="82670">These </word>
+    <word normalized="applications" start="82670" stop="83460">applications </word>
+    <word normalized="include" start="83460" stop="84010">include</word>
+    <word normalized="">: </word>
+    <word normalized="order" start="84490" stop="84860">order </word>
+    <word normalized="inquiry" start="84860" stop="85440">inquiry</word>
+    <word normalized="">, </word>
+    <word normalized="package" start="85810" stop="86280">package </word>
+    <word normalized="tracking" start="86280" stop="86900">tracking</word>
+    <word normalized="">, </word>
+    <word normalized="driving" start="87300" stop="87660">driving </word>
+    <word normalized="directions" start="87660" stop="88380">directions</word>
+    <word normalized="">, </word>
+    <word normalized="emergency" start="88680" stop="89370">emergency </word>
+    <word normalized="notification" start="89370" stop="90340">notification</word>
+    <word normalized="">, </word>
+    <word normalized="wake up" start="90730" stop="91290">wake-up</word>
+    <word normalized="">, </word>
+    <word normalized="flight" start="91770" stop="92130">flight </word>
+    <word normalized="tracking" start="92130" stop="92710">tracking</word>
+    <word normalized="">, </word>
+    <word normalized="voice" start="93210" stop="93560">voice </word>
+    <word normalized="access" start="93560" stop="94060">access </word>
+    <word normalized="to" start="94060" stop="94170">to </word>
+    <word normalized="email" start="94170" stop="94700">email</word>
+    <word normalized="">, </word>
+    <word normalized="customer" start="94690" stop="95640">customer </word>
+    <word normalized="relationship" start="95640" stop="96310">relationship </word>
+    <word normalized="management" start="96320" stop="96950">management</word>
+    <word normalized="">, </word>
+    <word normalized="prescription" start="97410" stop="98000">prescription </word>
+    <word normalized="refilling" start="98000" stop="98620">refilling</word>
+    <word normalized="">, </word>
+    <word normalized="audio" start="99030" stop="99390">audio </word>
+    <word normalized="news" start="99390" stop="99740">news </word>
+    <word normalized="magazines" start="99740" stop="100460">magazines</word>
+    <word normalized="">, </word>
+    <word normalized="voice" start="100850" stop="101280">voice </word>
+    <word normalized="dialing" start="101710" stop="102200">dialing</word>
+    <word normalized="">, </word>
+    <word normalized="real estate" start="102490" stop="102550">real-estate </word>
+    <word normalized="information" start="102770" stop="103540">information </word>
+    <word normalized="and" start="103740" stop="104180">and </word>
+    <word normalized="national" start="104460" stop="104960">national </word>
+    <word normalized="directory" start="104960" stop="105510">directory </word>
+    <word normalized="assistance" start="105510" stop="106110">assistance </word>
+    <word normalized="applications" start="106110" stop="106950">applications</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="has" start="109160" stop="109440">has </word>
+    <word normalized="tags" start="109440" stop="109990">tags </word>
+    <word normalized="that" start="110080" stop="110230">that </word>
+    <word normalized="instruct" start="110230" stop="110650">instruct </word>
+    <word normalized="the" start="110650" stop="110740">the </word>
+    <word normalized="voice" start="110740" stop="111030">voice </word>
+    <word normalized="browser" start="111030" stop="111530">browser </word>
+    <word normalized="to" start="111690" stop="111810">to </word>
+    <word normalized="provide" start="111810" stop="112310">provide </word>
+    <word normalized="speech" start="112310" stop="112720">speech </word>
+    <word normalized="synthesis" start="112760" stop="113500">synthesis</word>
+    <word normalized="">, </word>
+    <word normalized="automatic" start="113770" stop="114330">automatic </word>
+    <word normalized="speech" start="114330" stop="114690">speech </word>
+    <word normalized="recognition" start="114690" stop="115410">recognition</word>
+    <word normalized="">, </word>
+    <word normalized="dialog" start="115960" stop="116470">dialog </word>
+    <word normalized="management" start="116470" stop="117120">management</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="117320" stop="117760">and </word>
+    <word normalized="audio" start="117930" stop="118310">audio </word>
+    <word normalized="playback" start="118310" stop="118890">playback</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="119390" stop="119780">The </word>
+    <word normalized="following" start="120490" stop="120750">following </word>
+    <word normalized="is" start="121270" stop="121420">is </word>
+    <word normalized="an" start="121420" stop="121600">an </word>
+    <word normalized="example" start="121600" stop="121680">example </word>
+    <word normalized="of" start="121680" stop="122000">of </word>
+    <word normalized="a" start="122000" stop="122150">a </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="document" start="123930" stop="123960">document</word>
+    <word normalized="">: </word>
+    <word normalized="When" start="124580" stop="124710">When </word>
+    <word normalized="interpreted" start="124710" stop="125460">interpreted </word>
+    <word normalized="by">by </word>
+    <word normalized="a">a </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="interpreter">interpreter </word>
+    <word normalized="this">this </word>
+    <word normalized="will">will </word>
+    <word normalized="output">output </word>
+    <word normalized="">"</word>
+    <word normalized="Hello">Hello </word>
+    <word normalized="world">world</word>
+    <word normalized="">" </word>
+    <word normalized="with">with </word>
+    <word normalized="synthesized">synthesized </word>
+    <word normalized="speech">speech</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Typically" start="126990" stop="127590">Typically</word>
+    <word normalized="">, </word>
+    <word normalized="H T T P">HTTP </word>
+    <word normalized="is" start="128530" stop="128680">is </word>
+    <word normalized="used" start="128680" stop="129020">used </word>
+    <word normalized="as" start="129020" stop="129240">as </word>
+    <word normalized="the" start="129240" stop="129390">the </word>
+    <word normalized="transport" start="129390" stop="130050">transport </word>
+    <word normalized="protocol" start="130090" stop="130680">protocol </word>
+    <word normalized="for" start="130730" stop="131020">for </word>
+    <word normalized="fetching" start="131020" stop="131460">fetching </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="pages" start="131890" stop="132130">pages</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Some" start="133730" stop="134020">Some </word>
+    <word normalized="applications" start="134020" stop="134750">applications </word>
+    <word normalized="may" start="134750" stop="134900">may </word>
+    <word normalized="use" start="134900" stop="135220">use </word>
+    <word normalized="static" start="135260" stop="135790">static </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="pages" start="136590" stop="137130">pages</word>
+    <word normalized="">, </word>
+    <word normalized="while" start="137420" stop="137790">while </word>
+    <word normalized="others" start="137790" stop="138210">others </word>
+    <word normalized="rely" start="138290" stop="138330">rely </word>
+    <word normalized="on" start="138760" stop="138960">on </word>
+    <word normalized="dynamic" start="138960" stop="139590">dynamic </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="page" start="140420" stop="140770">page </word>
+    <word normalized="generation" start="140770" stop="141430">generation </word>
+    <word normalized="using" start="141760" stop="142090">using </word>
+    <word normalized="an" start="142090" stop="142210">an </word>
+    <word normalized="application" start="142210" stop="142870">application </word>
+    <word normalized="server" start="142870" stop="143350">server </word>
+    <word normalized="like" start="143460" stop="143780">like </word>
+    <word normalized="Tomcat" start="143830" stop="144530">Tomcat</word>
+    <word normalized="">, </word>
+    <word normalized="Weblogic" start="144890" stop="145580">Weblogic</word>
+    <word normalized="">, </word>
+    <word normalized="IIS">IIS</word>
+    <word normalized="">, </word>
+    <word normalized="or" start="147030" stop="147210">or </word>
+    <word normalized="WebSphere" start="147210" stop="147830">WebSphere</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Historically" start="149520" stop="150360">Historically</word>
+    <word normalized="">, </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="platform" start="151380" stop="151920">platform </word>
+    <word normalized="vendors" start="151920" stop="152480">vendors </word>
+    <word normalized="have" start="152580" stop="152760">have </word>
+    <word normalized="implemented" start="152760" stop="153260">implemented </word>
+    <word normalized="the" start="153260" stop="153320">the </word>
+    <word normalized="standard" start="153320" stop="153930">standard </word>
+    <word normalized="in" start="153930" stop="154050">in </word>
+    <word normalized="different" start="154050" stop="154370">different </word>
+    <word normalized="ways" start="154370" stop="154720">ways</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="155180" stop="155430">and </word>
+    <word normalized="added" start="155430" stop="155770">added </word>
+    <word normalized="proprietary" start="155770" stop="156470">proprietary </word>
+    <word normalized="features" start="156470" stop="157090">features</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="But" start="157930" stop="158080">But </word>
+    <word normalized="the" start="158080" stop="158140">the </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="two point zero" start="158940" stop="159370">2.0 </word>
+    <word normalized="standard" start="159490" stop="160020">standard</word>
+    <word normalized="">, </word>
+    <word normalized="adopted" start="160220" stop="160730">adopted </word>
+    <word normalized="as" start="160730" stop="160890">as </word>
+    <word normalized="a" start="160890" stop="161020">a </word>
+    <word normalized="W three C" start="161370" stop="161650">W3C </word>
+    <word normalized="Recommendation" start="161930" stop="162830">Recommendation </word>
+    <word normalized="on" start="162910" stop="163100">on </word>
+    <word normalized="sixteen" start="163100" stop="163660">16 </word>
+    <word normalized="March" start="163660" stop="164110">March </word>
+    <word normalized="two thousand four" start="164110" stop="165040">2004</word>
+    <word normalized="">, </word>
+    <word normalized="clarified" start="165500" stop="166190">clarified </word>
+    <word normalized="most" start="166190" stop="166490">most </word>
+    <word normalized="areas" start="166490" stop="166880">areas </word>
+    <word normalized="of" start="166880" stop="166990">of </word>
+    <word normalized="difference" start="166990" stop="167530">difference</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="168640" stop="168710">The </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="Forum" start="169550" stop="170070">Forum</word>
+    <word normalized="">, </word>
+    <word normalized="an">an </word>
+    <word normalized="industry" start="170300" stop="170720">industry </word>
+    <word normalized="group" start="170720" stop="171010">group </word>
+    <word normalized="promoting" start="171140" stop="171570">promoting </word>
+    <word normalized="the" start="171570" stop="171660">the </word>
+    <word normalized="use" start="171660" stop="171970">use </word>
+    <word normalized="of" start="171970" stop="172080">of </word>
+    <word normalized="the" start="172080" stop="172170">the </word>
+    <word normalized="standard" start="172170" stop="172660">standard</word>
+    <word normalized="">, </word>
+    <word normalized="provides" start="173060" stop="173560">provides </word>
+    <word normalized="a" start="173560" stop="173680">a </word>
+    <word normalized="conformance" start="173680" stop="174340">conformance </word>
+    <word normalized="testing" start="174340" stop="174720">testing </word>
+    <word normalized="process" start="174720" stop="175330">process </word>
+    <word normalized="that" start="175530" stop="175720">that </word>
+    <word normalized="certifies" start="175720" stop="176260">certifies </word>
+    <word normalized="vendors" start="176260" stop="176740">vendors</word>
+    <word normalized="">' </word>
+    <word normalized="implementations" start="176740" stop="177680">implementations </word>
+    <word normalized="as" start="177750" stop="177920">as </word>
+    <word normalized="conformant" start="177920" stop="178550">conformant</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="180200" stop="180700">Section </word>
+    <word normalized="two" start="180700" stop="181090">2 </word>
+    <word normalized="History" start="181900" stop="183760">History </word>
+    <word normalized="AT and T" start="184150" stop="184210">AT&amp;T</word>
+    <word normalized="">, </word>
+    <word normalized="IBM">IBM</word>
+    <word normalized="">, </word>
+    <word normalized="Lucent" start="185990" stop="186550">Lucent</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="186790" stop="187020">and </word>
+    <word normalized="Motorola" start="187020" stop="187680">Motorola </word>
+    <word normalized="formed" start="188120" stop="188550">formed </word>
+    <word normalized="the" start="188550" stop="188790">the </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="Forum" start="189600" stop="190140">Forum </word>
+    <word normalized="in" start="190280" stop="190440">in </word>
+    <word normalized="March" start="190440" stop="190770">March </word>
+    <word normalized="nineteen" start="190770" stop="191110">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety nine" start="191110" stop="191830">99</word>
+    <word normalized="">, </word>
+    <word normalized="in" start="192270" stop="192420">in </word>
+    <word normalized="order" start="192420" stop="192700">order </word>
+    <word normalized="to" start="192700" stop="192830">to </word>
+    <word normalized="develop" start="192830" stop="193310">develop </word>
+    <word normalized="a" start="193310" stop="193480">a </word>
+    <word normalized="standard" start="193480" stop="193990">standard </word>
+    <word normalized="markup" start="193990" stop="194390">markup </word>
+    <word normalized="language" start="194390" stop="194930">language </word>
+    <word normalized="for" start="195090" stop="195300">for </word>
+    <word normalized="specifying" start="195300" stop="196100">specifying </word>
+    <word normalized="voice" start="196100" stop="196460">voice </word>
+    <word normalized="dialogs" start="196460" stop="197120">dialogs</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="By">By </word>
+    <word normalized="September" start="198340" stop="198840">September </word>
+    <word normalized="nineteen" start="198840" stop="199220">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety nine" start="199220" stop="199920">99 </word>
+    <word normalized="the" start="200190" stop="200290">the </word>
+    <word normalized="Forum" start="200290" stop="200660">Forum </word>
+    <word normalized="released" start="200660" stop="201180">released </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="zero point nine" start="202460" stop="203460">0.9 </word>
+    <word normalized="for" start="203600" stop="203750">for </word>
+    <word normalized="member" start="203750" stop="204050">member </word>
+    <word normalized="comment" start="204050" stop="204610">comment</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="205170" stop="205580">and </word>
+    <word normalized="in" start="205580" stop="205710">in </word>
+    <word normalized="March" start="205710" stop="206020">March </word>
+    <word normalized="two thousand" start="206020" stop="206670">2000 </word>
+    <word normalized="they" start="206930" stop="207090">they </word>
+    <word normalized="published" start="207090" stop="207580">published </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="one point zero" start="208700" stop="209190">1.0</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Soon" start="210640" stop="210950">Soon </word>
+    <word normalized="afterwards" start="210950" stop="211740">afterwards</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="211930" stop="212000">the </word>
+    <word normalized="Forum" start="212000" stop="212410">Forum </word>
+    <word normalized="turned" start="212410" stop="212730">turned </word>
+    <word normalized="over" start="212730" stop="213030">over </word>
+    <word normalized="the" start="213030" stop="213140">the </word>
+    <word normalized="control" start="213140" stop="213670">control </word>
+    <word normalized="of" start="213670" stop="213740">of </word>
+    <word normalized="the" start="213740" stop="213840">the </word>
+    <word normalized="standard" start="213840" stop="214360">standard </word>
+    <word normalized="to" start="214570" stop="214690">to </word>
+    <word normalized="the" start="214690" stop="214810">the </word>
+    <word normalized="W three C" start="215160" stop="215470">W3C</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="217030" stop="217140">The </word>
+    <word normalized="W three C" start="217500" stop="217790">W3C </word>
+    <word normalized="produced" start="218220" stop="218660">produced </word>
+    <word normalized="several" start="218690" stop="219200">several </word>
+    <word normalized="intermediate" start="219200" stop="219780">intermediate </word>
+    <word normalized="versions" start="219780" stop="220370">versions </word>
+    <word normalized="of" start="220430" stop="220630">of </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="two point zero" start="221480" stop="221970">2.0</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="222700" stop="222930">which </word>
+    <word normalized="reached" start="222930" stop="223280">reached </word>
+    <word normalized="the" start="223280" stop="223440">the </word>
+    <word normalized="final" start="223440" stop="223910">final </word>
+    <word normalized="">"</word>
+    <word normalized="Recommendation" start="223910" stop="224680">Recommendation</word>
+    <word normalized="">" </word>
+    <word normalized="stage" start="224680" stop="225230">stage </word>
+    <word normalized="in" start="225420" stop="225520">in </word>
+    <word normalized="March" start="225520" stop="225900">March </word>
+    <word normalized="two thousand four" start="225900" stop="226780">2004</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="two point one" start="229140" stop="230020">2.1 </word>
+    <word normalized="added" start="230270" stop="230600">added </word>
+    <word normalized="a" start="230600" stop="230740">a </word>
+    <word normalized="relatively" start="230740" stop="231380">relatively </word>
+    <word normalized="small" start="231380" stop="231740">small </word>
+    <word normalized="set" start="231740" stop="232090">set </word>
+    <word normalized="of" start="232120" stop="232250">of </word>
+    <word normalized="additional" start="232250" stop="232670">additional </word>
+    <word normalized="features" start="232670" stop="233280">features </word>
+    <word normalized="to" start="233430" stop="233570">to </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="two point zero" start="234390" stop="234840">2.0</word>
+    <word normalized="">, </word>
+    <word normalized="based" start="235580" stop="235880">based </word>
+    <word normalized="on" start="235880" stop="236020">on </word>
+    <word normalized="feedback" start="236020" stop="236660">feedback </word>
+    <word normalized="from" start="236660" stop="236870">from </word>
+    <word normalized="implementations" start="236870" stop="237750">implementations </word>
+    <word normalized="of" start="237750" stop="237860">of </word>
+    <word normalized="the" start="237860" stop="237950">the </word>
+    <word normalized="two point zero" start="237950" stop="238390">2.0 </word>
+    <word normalized="standard" start="238450" stop="238990">standard</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="240110" stop="240280">is </word>
+    <word normalized="backward" start="240280" stop="240740">backward </word>
+    <word normalized="compatible" start="240740" stop="241390">compatible </word>
+    <word normalized="with" start="241390" stop="241590">with </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="two point zero" start="242480" stop="242950">2.0 </word>
+    <word normalized="and" start="243640" stop="243830">and </word>
+    <word normalized="reached" start="243830" stop="244240">reached </word>
+    <word normalized="W three C" start="244560" stop="244880">W3C </word>
+    <word normalized="Recommendation" start="245220" stop="246000">Recommendation </word>
+    <word normalized="status" start="246000" stop="246510">status </word>
+    <word normalized="in" start="246800" stop="246960">in </word>
+    <word normalized="June" start="246960" stop="247230">June </word>
+    <word normalized="two thousand seven" start="247230" stop="248070">2007</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="249750" stop="250220">Section </word>
+    <word normalized="three" start="250220" stop="250770">3 </word>
+    <word normalized="Future" start="251030" stop="251540">Future </word>
+    <word normalized="versions" start="251540" stop="252090">versions </word>
+    <word normalized="of" start="252090" stop="252210">of </word>
+    <word normalized="the" start="252210" stop="252290">the </word>
+    <word normalized="standard" start="252290" stop="252800">standard </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="three point zero" start="255290" stop="255830">3.0 </word>
+    <word normalized="will" start="256320" stop="256430">will </word>
+    <word normalized="be" start="256430" stop="256560">be </word>
+    <word normalized="the" start="256560" stop="256680">the </word>
+    <word normalized="next" start="256680" stop="257020">next </word>
+    <word normalized="major" start="257020" stop="257290">major </word>
+    <word normalized="release" start="257290" stop="257800">release </word>
+    <word normalized="of" start="257800" stop="257940">of </word>
+    <word normalized="VoiceXML">VoiceXML</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="259220" stop="259440">with </word>
+    <word normalized="new" start="259440" stop="259670">new </word>
+    <word normalized="major" start="259670" stop="260000">major </word>
+    <word normalized="features" start="260000" stop="260600">features</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="includes" start="261880" stop="262480">includes </word>
+    <word normalized="a" start="262480" stop="262570">a </word>
+    <word normalized="new" start="262570" stop="263010">new </word>
+    <word normalized="X M L">XML </word>
+    <word normalized="statechart">statechart </word>
+    <word normalized="description" start="264120" stop="264650">description </word>
+    <word normalized="language" start="264650" stop="265160">language </word>
+    <word normalized="called" start="265340" stop="265580">called </word>
+    <word normalized="S C X M L">SCXML</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="268480" stop="268870">Section </word>
+    <word normalized="four" start="268870" stop="269400">4 </word>
+    <word normalized="Related" start="269640" stop="270080">Related </word>
+    <word normalized="standards" start="270080" stop="270790">standards </word>
+    <word normalized="The" start="272490" stop="272610">The </word>
+    <word normalized="W three C s" start="272960" stop="273290">W3C's </word>
+    <word normalized="Speech" start="273640" stop="274140">Speech </word>
+    <word normalized="Interface" start="274170" stop="274690">Interface </word>
+    <word normalized="Framework" start="274690" stop="275190">Framework </word>
+    <word normalized="also" start="275470" stop="275840">also </word>
+    <word normalized="defines" start="275840" stop="276420">defines </word>
+    <word normalized="these" start="276420" stop="276750">these </word>
+    <word normalized="other" start="276750" stop="276980">other </word>
+    <word normalized="standards" start="276980" stop="277600">standards </word>
+    <word normalized="closely" start="277760" stop="278200">closely </word>
+    <word normalized="associated" start="278200" stop="278900">associated </word>
+    <word normalized="with" start="278940" stop="279130">with </word>
+    <word normalized="VoiceXML">VoiceXML</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="281630" stop="281990">Section </word>
+    <word normalized="four" start="281990" stop="282240">4 </word>
+    <word normalized="point" start="282240" stop="282540">point </word>
+    <word normalized="one" start="282540" stop="282950">1 </word>
+    <word normalized="S R G S">SRGS </word>
+    <word normalized="and" start="284360" stop="284770">and </word>
+    <word normalized="SISR">SISR </word>
+    <word normalized="The" start="287290" stop="287400">The </word>
+    <word normalized="Speech" start="287400" stop="287930">Speech </word>
+    <word normalized="Recognition" start="288010" stop="288620">Recognition </word>
+    <word normalized="Grammar">Grammar </word>
+    <word normalized="Specification" start="289000" stop="290030">Specification </word>
+    <word normalized="">(</word>
+    <word normalized="S R G S">SRGS</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="291820" stop="292050">is </word>
+    <word normalized="used" start="292050" stop="292460">used </word>
+    <word normalized="to" start="292600" stop="292730">to </word>
+    <word normalized="tell" start="292730" stop="292970">tell </word>
+    <word normalized="the" start="292970" stop="293070">the </word>
+    <word normalized="speech" start="293070" stop="293510">speech </word>
+    <word normalized="recognizer" start="293510" stop="294270">recognizer </word>
+    <word normalized="what" start="294430" stop="294650">what </word>
+    <word normalized="sentence" start="294650" stop="295010">sentence </word>
+    <word normalized="patterns" start="295010" stop="295530">patterns </word>
+    <word normalized="it" start="295560" stop="295660">it </word>
+    <word normalized="should" start="295660" stop="295830">should </word>
+    <word normalized="expect" start="295830" stop="296270">expect </word>
+    <word normalized="to" start="296270" stop="296370">to </word>
+    <word normalized="hear" start="296370" stop="296700">hear</word>
+    <word normalized="">: </word>
+    <word normalized="these" start="297640" stop="297890">these </word>
+    <word normalized="patterns" start="297890" stop="298410">patterns </word>
+    <word normalized="are" start="298410" stop="298510">are </word>
+    <word normalized="called" start="298510" stop="298900">called </word>
+    <word normalized="grammars" start="299010" stop="299590">grammars</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Once" start="300660" stop="300940">Once </word>
+    <word normalized="the" start="300940" stop="301030">the </word>
+    <word normalized="speech" start="301030" stop="301470">speech </word>
+    <word normalized="recognizer" start="301470" stop="302180">recognizer </word>
+    <word normalized="determines" start="302180" stop="302720">determines </word>
+    <word normalized="the" start="302720" stop="302800">the </word>
+    <word normalized="most" start="302800" stop="303120">most </word>
+    <word normalized="likely" start="303120" stop="303460">likely </word>
+    <word normalized="sentence" start="303460" stop="303920">sentence </word>
+    <word normalized="it" start="304260" stop="304800">it </word>
+    <word normalized="heard">heard</word>
+    <word normalized="">, </word>
+    <word normalized="it">it </word>
+    <word normalized="needs" start="304800" stop="305070">needs </word>
+    <word normalized="to" start="305070" stop="305200">to </word>
+    <word normalized="extract" start="305200" stop="305740">extract </word>
+    <word normalized="the" start="305740" stop="305810">the </word>
+    <word normalized="semantic" start="305810" stop="306350">semantic </word>
+    <word normalized="meaning" start="306350" stop="306780">meaning </word>
+    <word normalized="from" start="306780" stop="306970">from </word>
+    <word normalized="that" start="306970" stop="307140">that </word>
+    <word normalized="sentence" start="307140" stop="307680">sentence </word>
+    <word normalized="and" start="307940" stop="308080">and </word>
+    <word normalized="return" start="308080" stop="308420">return </word>
+    <word normalized="it" start="308420" stop="308620">it </word>
+    <word normalized="to" start="308710" stop="308810">to </word>
+    <word normalized="the" start="308810" stop="308920">the </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="interpreter">interpreter</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="311450" stop="311650">This </word>
+    <word normalized="semantic" start="311650" stop="312130">semantic </word>
+    <word normalized="interpretation" start="312130" stop="313030">interpretation </word>
+    <word normalized="is" start="313190" stop="313290">is </word>
+    <word normalized="specified" start="313290" stop="314050">specified </word>
+    <word normalized="via" start="314370" stop="314740">via </word>
+    <word normalized="the" start="314740" stop="314930">the </word>
+    <word normalized="Semantic" start="314930" stop="315580">Semantic </word>
+    <word normalized="Interpretation" start="315580" stop="316430">Interpretation </word>
+    <word normalized="for" start="316430" stop="316700">for </word>
+    <word normalized="Speech" start="316700" stop="317160">Speech </word>
+    <word normalized="Recognition" start="317250" stop="317850">Recognition </word>
+    <word normalized="">(</word>
+    <word normalized="SISR">SISR</word>
+    <word normalized="">) </word>
+    <word normalized="standard" start="319390" stop="319930">standard</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="SISR">SISR </word>
+    <word normalized="is" start="321870" stop="322080">is </word>
+    <word normalized="used" start="322080" stop="322400">used </word>
+    <word normalized="inside" start="322400" stop="323120">inside </word>
+    <word normalized="S R G S">SRGS </word>
+    <word normalized="to" start="324370" stop="324520">to </word>
+    <word normalized="specify" start="324520" stop="325190">specify </word>
+    <word normalized="the" start="325190" stop="325370">the </word>
+    <word normalized="semantic" start="325370" stop="325960">semantic </word>
+    <word normalized="results" start="325960" stop="326480">results </word>
+    <word normalized="associated" start="326610" stop="327290">associated </word>
+    <word normalized="with" start="327290" stop="327450">with </word>
+    <word normalized="the" start="327450" stop="327520">the </word>
+    <word normalized="grammars" start="327520" stop="328130">grammars</word>
+    <word normalized="">, </word>
+    <word normalized="i e" start="328500" stop="329070">i.e.</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="329260" stop="329340">the </word>
+    <word normalized="set" start="329340" stop="329740">set </word>
+    <word normalized="of" start="329770" stop="330010">of </word>
+    <word normalized="ECMAScript">ECMAScript </word>
+    <word normalized="assignments" start="331210" stop="331840">assignments </word>
+    <word normalized="that" start="332040" stop="332220">that </word>
+    <word normalized="create" start="332220" stop="332610">create </word>
+    <word normalized="the" start="332610" stop="332730">the </word>
+    <word normalized="semantic" start="332730" stop="333260">semantic </word>
+    <word normalized="structure" start="333260" stop="333850">structure </word>
+    <word normalized="returned" start="334100" stop="334520">returned </word>
+    <word normalized="by" start="334520" stop="334630">by </word>
+    <word normalized="the" start="334630" stop="334740">the </word>
+    <word normalized="speech" start="334740" stop="335140">speech </word>
+    <word normalized="recognizer">recognizer</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="337140" stop="337500">Section </word>
+    <word normalized="4">4 </word>
+    <word normalized="point" start="337770" stop="338100">point </word>
+    <word normalized="two" start="338100" stop="338470">2 </word>
+    <word normalized="S S M L">SSML </word>
+    <word normalized="The" start="341470" stop="341620">The </word>
+    <word normalized="Speech" start="341620" stop="342080">Speech </word>
+    <word normalized="Synthesis" start="342120" stop="342820">Synthesis </word>
+    <word normalized="Markup" start="342850" stop="343260">Markup </word>
+    <word normalized="Language" start="343260" stop="343840">Language </word>
+    <word normalized="">(</word>
+    <word normalized="S S M L">SSML</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="345510" stop="345730">is </word>
+    <word normalized="used" start="345730" stop="346090">used </word>
+    <word normalized="to" start="346090" stop="346280">to </word>
+    <word normalized="decorate" start="346280" stop="346840">decorate </word>
+    <word normalized="textual" start="346840" stop="347310">textual </word>
+    <word normalized="prompts" start="347310" stop="347830">prompts </word>
+    <word normalized="with" start="347830" stop="348020">with </word>
+    <word normalized="information" start="348020" stop="348790">information </word>
+    <word normalized="on" start="348890" stop="349010">on </word>
+    <word normalized="how" start="349010" stop="349220">how </word>
+    <word normalized="best" start="349220" stop="349550">best </word>
+    <word normalized="to" start="349550" stop="349660">to </word>
+    <word normalized="render" start="349660" stop="349960">render </word>
+    <word normalized="them" start="349960" stop="350180">them </word>
+    <word normalized="in">in </word>
+    <word normalized="synthetic" start="350480" stop="350980">synthetic </word>
+    <word normalized="speech" start="350980" stop="351490">speech</word>
+    <word normalized="">, </word>
+    <word normalized="for" start="352130" stop="352340">for </word>
+    <word normalized="example" start="352340" stop="352990">example </word>
+    <word normalized="which" start="353000" stop="353320">which </word>
+    <word normalized="speech" start="353320" stop="353750">speech </word>
+    <word normalized="synthesizer" start="353750" stop="354470">synthesizer </word>
+    <word normalized="voice" start="354470" stop="354800">voice </word>
+    <word normalized="to" start="354800" stop="354900">to </word>
+    <word normalized="use" start="354900" stop="355300">use </word>
+    <word normalized="or" start="355640" stop="356090">or </word>
+    <word normalized="when" start="356120" stop="356330">when </word>
+    <word normalized="to" start="356330" stop="356460">to </word>
+    <word normalized="speak">speak </word>
+    <word normalized="louder" start="356760" stop="357320">louder </word>
+    <word normalized="or" start="357320" stop="357450">or </word>
+    <word normalized="softer" start="357450" stop="357940">softer</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="359720" stop="360100">Section </word>
+    <word normalized="4">4 </word>
+    <word normalized="point" start="360360" stop="360660">point </word>
+    <word normalized="three" start="360660" stop="361160">3 </word>
+    <word normalized="P L S">PLS </word>
+    <word normalized="The" start="363820" stop="364060">The </word>
+    <word normalized="Pronunciation" start="364060" stop="365020">Pronunciation </word>
+    <word normalized="Lexicon" start="365150" stop="365700">Lexicon </word>
+    <word normalized="Specification" start="365700" stop="366710">Specification </word>
+    <word normalized="">(</word>
+    <word normalized="P L S">PLS</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="368140" stop="368370">is </word>
+    <word normalized="used" start="368370" stop="368780">used </word>
+    <word normalized="to" start="368890" stop="368990">to </word>
+    <word normalized="define" start="368990" stop="369430">define </word>
+    <word normalized="how" start="369430" stop="369750">how </word>
+    <word normalized="words" start="369750" stop="370120">words </word>
+    <word normalized="are" start="370120" stop="370180">are </word>
+    <word normalized="pronounced" start="370180" stop="370740">pronounced</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="370730" stop="371790">The </word>
+    <word normalized="generated" start="371790" stop="372310">generated </word>
+    <word normalized="pronunciation" start="372310" stop="373120">pronunciation </word>
+    <word normalized="information" start="373120" stop="373780">information </word>
+    <word normalized="is" start="374080" stop="374230">is </word>
+    <word normalized="meant" start="374230" stop="374440">meant </word>
+    <word normalized="to" start="374440" stop="374550">to </word>
+    <word normalized="be" start="374550" stop="374640">be </word>
+    <word normalized="used" start="374640" stop="375030">used </word>
+    <word normalized="by" start="375030" stop="375200">by </word>
+    <word normalized="both" start="375200" stop="375550">both </word>
+    <word normalized="speech" start="375550" stop="375940">speech </word>
+    <word normalized="recognizers" start="375940" stop="376740">recognizers </word>
+    <word normalized="and" start="376780" stop="376930">and </word>
+    <word normalized="speech" start="376930" stop="377330">speech </word>
+    <word normalized="synthesizers" start="377360" stop="378270">synthesizers </word>
+    <word normalized="in" start="378400" stop="378540">in </word>
+    <word normalized="voice" start="378540" stop="378880">voice </word>
+    <word normalized="browsing" start="378880" stop="379280">browsing </word>
+    <word normalized="applications" start="379280" stop="380080">applications</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="381700" stop="382110">Section </word>
+    <word normalized="4">4 </word>
+    <word normalized="point" start="382390" stop="382680">point </word>
+    <word normalized="four" start="382680" stop="383170">4 </word>
+    <word normalized="C C X M L">CCXML </word>
+    <word normalized="The" start="386940" stop="387150">The </word>
+    <word normalized="Call" start="387150" stop="387530">Call </word>
+    <word normalized="Control" start="387530" stop="388210">Control </word>
+    <word normalized="eXtensible" start="388210" stop="388860">eXtensible </word>
+    <word normalized="Markup" start="388860" stop="389210">Markup </word>
+    <word normalized="Language" start="389210" stop="389750">Language </word>
+    <word normalized="">(</word>
+    <word normalized="C C X M L">CCXML</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="391480" stop="391650">is </word>
+    <word normalized="a" start="391650" stop="391800">a </word>
+    <word normalized="complementary" start="391800" stop="392650">complementary </word>
+    <word normalized="W three C" start="393020" stop="393340">W3C </word>
+    <word normalized="standard" start="393640" stop="394170">standard</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="C C X M L">CCXML </word>
+    <word normalized="interpreter" start="396580" stop="397230">interpreter </word>
+    <word normalized="is" start="397280" stop="397430">is </word>
+    <word normalized="used" start="397430" stop="397890">used </word>
+    <word normalized="on" start="397890" stop="398120">on </word>
+    <word normalized="some" start="398120" stop="398500">some </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="platforms" start="399260" stop="399990">platforms </word>
+    <word normalized="to" start="399980" stop="400460">to </word>
+    <word normalized="handle" start="400460" stop="400860">handle </word>
+    <word normalized="the" start="400860" stop="400980">the </word>
+    <word normalized="initial" start="400980" stop="401350">initial </word>
+    <word normalized="call" start="401350" stop="401620">call </word>
+    <word normalized="setup" start="401620" stop="402030">setup </word>
+    <word normalized="between" start="402260" stop="402630">between </word>
+    <word normalized="the" start="402630" stop="402700">the </word>
+    <word normalized="caller" start="402700" stop="403210">caller </word>
+    <word normalized="and" start="403280" stop="403440">and </word>
+    <word normalized="the" start="403440" stop="403510">the </word>
+    <word normalized="voice" start="403510" stop="403800">voice </word>
+    <word normalized="browser">browser</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="404870" stop="405000">and </word>
+    <word normalized="to" start="405000" stop="405130">to </word>
+    <word normalized="provide" start="405130" stop="405540">provide </word>
+    <word normalized="telephony" start="405540" stop="406040">telephony </word>
+    <word normalized="services" start="406040" stop="406710">services </word>
+    <word normalized="like" start="406880" stop="407200">like </word>
+    <word normalized="call" start="407370" stop="407710">call </word>
+    <word normalized="transfer" start="407710" stop="408410">transfer </word>
+    <word normalized="and" start="408440" stop="408800">and </word>
+    <word normalized="disconnect" start="408800" stop="409420">disconnect </word>
+    <word normalized="to" start="409500" stop="409620">to </word>
+    <word normalized="the" start="409620" stop="409710">the </word>
+    <word normalized="voice" start="409710" stop="410010">voice </word>
+    <word normalized="browser" start="410010" stop="410410">browser</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="C C X M L">CCXML </word>
+    <word normalized="can" start="412370" stop="412540">can </word>
+    <word normalized="also" start="412540" stop="412810">also </word>
+    <word normalized="be" start="412810" stop="412920">be </word>
+    <word normalized="used" start="412920" stop="413350">used </word>
+    <word normalized="in" start="413350" stop="413740">in </word>
+    <word normalized="non VoiceXML" start="413770" stop="414200">non-VoiceXML </word>
+    <word normalized="contexts" start="415070" stop="415890">contexts</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="417440" stop="417820">Section </word>
+    <word normalized="4">4 </word>
+    <word normalized="point" start="418120" stop="418420">point </word>
+    <word normalized="five" start="418420" stop="418980">5 </word>
+    <word normalized="M S M L">MSML</word>
+    <word normalized="">, </word>
+    <word normalized="M S C M L">MSCML</word>
+    <word normalized="">, </word>
+    <word normalized="MediaCTRL">MediaCTRL </word>
+    <word normalized="In">In </word>
+    <word normalized="media" start="425340" stop="425730">media </word>
+    <word normalized="server" start="425730" stop="426170">server </word>
+    <word normalized="applications" start="426170" stop="427060">applications</word>
+    <word normalized="">, </word>
+    <word normalized="it" start="427250" stop="427390">it </word>
+    <word normalized="is" start="427390" stop="427530">is </word>
+    <word normalized="often" start="427530" stop="427880">often </word>
+    <word normalized="necessary" start="427880" stop="428630">necessary </word>
+    <word normalized="for" start="428720" stop="428960">for </word>
+    <word normalized="several" start="428960" stop="429380">several </word>
+    <word normalized="call" start="429380" stop="429700">call </word>
+    <word normalized="legs" start="429700" stop="430070">legs </word>
+    <word normalized="to" start="430180" stop="430370">to </word>
+    <word normalized="interact" start="430370" stop="430750">interact </word>
+    <word normalized="with" start="430750" stop="430910">with </word>
+    <word normalized="each" start="430910" stop="431110">each </word>
+    <word normalized="other" start="431740" stop="431880">other</word>
+    <word normalized="">, </word>
+    <word normalized="for" start="431970" stop="432000">for </word>
+    <word normalized="example" start="432000" stop="432220">example </word>
+    <word normalized="in" start="432810" stop="432950">in </word>
+    <word normalized="a" start="432950" stop="433070">a </word>
+    <word normalized="multi party" start="433070" stop="433760">multi-party </word>
+    <word normalized="conference" start="433760" stop="434400">conference</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Some" start="435470" stop="435760">Some </word>
+    <word normalized="deficiencies" start="435760" stop="436620">deficiencies </word>
+    <word normalized="were" start="436620" stop="436890">were </word>
+    <word normalized="identified">identified </word>
+    <word normalized="in" start="437470" stop="437640">in </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="for" start="438770" stop="438910">for </word>
+    <word normalized="this" start="438910" stop="439140">this </word>
+    <word normalized="application" start="439140" stop="439920">application </word>
+    <word normalized="and" start="440400" stop="440560">and </word>
+    <word normalized="so" start="440560" stop="440790">so </word>
+    <word normalized="companies" start="440790" stop="441440">companies </word>
+    <word normalized="designed" start="441480" stop="441900">designed </word>
+    <word normalized="specific" start="441900" stop="442440">specific </word>
+    <word normalized="scripting" start="442440" stop="442860">scripting </word>
+    <word normalized="languages" start="442860" stop="443510">languages </word>
+    <word normalized="to" start="443680" stop="443790">to </word>
+    <word normalized="deal" start="443790" stop="444040">deal </word>
+    <word normalized="with" start="444040" stop="444200">with </word>
+    <word normalized="this" start="444200" stop="444410">this </word>
+    <word normalized="environment" start="444410" stop="445050">environment</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="445620" stop="445810">The </word>
+    <word normalized="Media" start="446190" stop="446620">Media </word>
+    <word normalized="Server" start="446620" stop="447040">Server </word>
+    <word normalized="Markup" start="447040" stop="447480">Markup </word>
+    <word normalized="Language" start="447480" stop="448060">Language </word>
+    <word normalized="">(</word>
+    <word normalized="M S M L">MSML</word>
+    <word normalized="">) </word>
+    <word normalized="was" start="449470" stop="449730">was </word>
+    <word normalized="Convedia s" start="449730" stop="450340">Convedia's </word>
+    <word normalized="solution" start="450340" stop="450890">solution</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="451300" stop="451520">and </word>
+    <word normalized="Media" start="451670" stop="452070">Media </word>
+    <word normalized="Server" start="452070" stop="452520">Server </word>
+    <word normalized="Control" start="452520" stop="453150">Control </word>
+    <word normalized="Markup" start="453180" stop="453550">Markup </word>
+    <word normalized="Language" start="453550" stop="454140">Language </word>
+    <word normalized="">(</word>
+    <word normalized="M S C M L">MSCML</word>
+    <word normalized="">) </word>
+    <word normalized="was" start="455700" stop="455850">was </word>
+    <word normalized="Snowshore s" start="455850" stop="456450">Snowshore's</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="457070" stop="457260">which </word>
+    <word normalized="is" start="457260" stop="457400">is </word>
+    <word normalized="now" start="457400" stop="457650">now </word>
+    <word normalized="owned" start="457650" stop="458030">owned </word>
+    <word normalized="by" start="458030" stop="458240">by </word>
+    <word normalized="Dialogic" start="458240" stop="459010">Dialogic</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="These" start="459210" stop="460320">These </word>
+    <word normalized="languages" start="460320" stop="460910">languages </word>
+    <word normalized="also" start="460910" stop="461230">also </word>
+    <word normalized="contain" start="461230" stop="461720">contain </word>
+    <word normalized="">'</word>
+    <word normalized="hooks" start="461720" stop="462310">hooks</word>
+    <word normalized="">' </word>
+    <word normalized="so" start="462550" stop="462720">so </word>
+    <word normalized="that" start="462720" stop="462950">that </word>
+    <word normalized="external" start="462950" stop="463430">external </word>
+    <word normalized="scripts" start="463430" stop="463980">scripts </word>
+    <word normalized="">(</word>
+    <word normalized="like" start="464150" stop="464380">like </word>
+    <word normalized="VoiceXML">VoiceXML</word>
+    <word normalized="">) </word>
+    <word normalized="can" start="465350" stop="466010">can </word>
+    <word normalized="run" start="466010" stop="466290">run </word>
+    <word normalized="on" start="466290" stop="466510">on </word>
+    <word normalized="call" start="466510" stop="466830">call </word>
+    <word normalized="legs" start="466830" stop="467330">legs </word>
+    <word normalized="where" start="467420" stop="467630">where </word>
+    <word normalized="IVR">IVR </word>
+    <word normalized="functionality" start="468140" stop="468960">functionality </word>
+    <word normalized="is" start="468990" stop="469130">is </word>
+    <word normalized="required" start="469130" stop="469640">required</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There" start="470770" stop="471010">There </word>
+    <word normalized="is" start="471010" stop="471150">is </word>
+    <word normalized="an" start="471150" stop="471280">an </word>
+    <word normalized="IETF">IETF </word>
+    <word normalized="working" start="472260" stop="472570">working </word>
+    <word normalized="group" start="472570" stop="472860">group </word>
+    <word normalized="called" start="472860" stop="473390">called </word>
+    <word normalized="mediactrl" start="473450" stop="473480">mediactrl </word>
+    <word normalized="">(</word>
+    <word normalized="">"</word>
+    <word normalized="media" start="475210" stop="475510">media </word>
+    <word normalized="control" start="475510" stop="476120">control</word>
+    <word normalized="">"</word>
+    <word normalized="">) </word>
+    <word normalized="that" start="476650" stop="476800">that </word>
+    <word normalized="is" start="476800" stop="476920">is </word>
+    <word normalized="working" start="476920" stop="477340">working </word>
+    <word normalized="on" start="477340" stop="477520">on </word>
+    <word normalized="a" start="477520" stop="477570">a </word>
+    <word normalized="successor" start="477570" stop="478210">successor </word>
+    <word normalized="for" start="478210" stop="478380">for </word>
+    <word normalized="these" start="478380" stop="478560">these </word>
+    <word normalized="scripting" start="478560" stop="478970">scripting </word>
+    <word normalized="systems" start="478970" stop="479600">systems</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="479820" stop="480230">which </word>
+    <word normalized="it" start="480350" stop="480510">it </word>
+    <word normalized="is" start="480510" stop="480660">is </word>
+    <word normalized="hoped" start="480660" stop="481060">hoped </word>
+    <word normalized="will" start="481250" stop="481480">will </word>
+    <word normalized="progress" start="481480" stop="482000">progress </word>
+    <word normalized="to" start="482000" stop="482180">to </word>
+    <word normalized="an" start="482180" stop="482300">an </word>
+    <word normalized="open" start="482300" stop="482830">open </word>
+    <word normalized="and" start="482830" stop="483170">and </word>
+    <word normalized="widely" start="483170" stop="483560">widely </word>
+    <word normalized="adopted" start="483560" stop="483930">adopted </word>
+    <word normalized="standard" start="483930" stop="484470">standard</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="498900" stop="500330">Section </word>
+    <word normalized="5" start="500330" stop="500690">5 </word>
+    <word normalized="See" start="500690" stop="500720">See </word>
+    <word normalized="also" start="500720" stop="500820">also </word>
+    <word normalized="C C X M L">CCXML </word>
+    <word normalized="minus" start="501830" stop="501970">- </word>
+    <word normalized="Call" start="501970" stop="502130">Call </word>
+    <word normalized="Control" start="502430" stop="502690">Control </word>
+    <word normalized="eXtensible" start="502690" stop="502940">eXtensible </word>
+    <word normalized="Markup" start="503580" stop="504050">Markup </word>
+    <word normalized="Language" start="504050" stop="504440">Language </word>
+    <word normalized="ECMAScript">ECMAScript </word>
+    <word normalized="minus" start="505430" stop="506000">- </word>
+    <word normalized="the" start="506000" stop="506260">the </word>
+    <word normalized="scripting" start="506410" stop="506620">scripting </word>
+    <word normalized="language" start="506620" stop="507060">language </word>
+    <word normalized="used" start="507060" stop="507820">used </word>
+    <word normalized="in" start="508220" stop="508660">in </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="OpenVXI">OpenVXI </word>
+    <word normalized="minus" start="509970" stop="510220">- </word>
+    <word normalized="an" start="510220" stop="510460">an </word>
+    <word normalized="open" start="510460" stop="510630">open </word>
+    <word normalized="source" start="511050" stop="511220">source </word>
+    <word normalized="VoiceXML">VoiceXML </word>
+    <word normalized="interpreter" start="511960" stop="512420">interpreter </word>
+    <word normalized="Pronunciation" start="513280" stop="513510">Pronunciation </word>
+    <word normalized="Lexicon" start="514500" stop="514820">Lexicon </word>
+    <word normalized="Specification">Specification </word>
+    <word normalized="">(</word>
+    <word normalized="P L S">PLS</word>
+    <word normalized="">) </word>
+    <word normalized="S C X M L">SCXML </word>
+    <word normalized="">- </word>
+    <word normalized="State">State </word>
+    <word normalized="Chart">Chart </word>
+    <word normalized="X M L">XML </word>
+    <word normalized="SISR">SISR </word>
+    <word normalized="minus">- </word>
+    <word normalized="Semantic">Semantic </word>
+    <word normalized="Interpretation">Interpretation </word>
+    <word normalized="for">for </word>
+    <word normalized="Speech">Speech </word>
+    <word normalized="Recognition">Recognition </word>
+    <word normalized="S R G S">SRGS </word>
+    <word normalized="minus">- </word>
+    <word normalized="Speech">Speech </word>
+    <word normalized="Recognition">Recognition </word>
+    <word normalized="Grammar">Grammar </word>
+    <word normalized="Specification">Specification </word>
+    <word normalized="S S M L">SSML </word>
+    <word normalized="minus">- </word>
+    <word normalized="Speech">Speech </word>
+    <word normalized="Synthesis">Synthesis </word>
+    <word normalized="Markup">Markup </word>
+    <word normalized="Language">Language </word>
+    <word normalized="M S M L">MSML</word>
+    <word normalized="">, </word>
+    <word normalized="M S C M L">MSCML </word>
+    <word normalized="minus">- </word>
+    <word normalized="media">media </word>
+    <word normalized="server">server </word>
+    <word normalized="markup">markup </word>
+    <word normalized="languages">languages </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,2350 @@
+<alignment>
+  <sentence>
+    <word normalized="Ubuntu" start="13370" stop="14590">Ubuntu </word>
+    <word normalized="">(</word>
+    <word normalized="operating" start="14590" stop="15040">operating </word>
+    <word normalized="system" start="15040" stop="15640">system</word>
+    <word normalized="">) </word>
+    <word normalized="Ubuntu" start="15920" stop="17860">Ubuntu </word>
+    <word normalized="">(</word>
+    <word normalized="IPA">IPA </word>
+    <word normalized="pronunciation" start="18880" stop="20140">pronunciation </word>
+    <word normalized="forward slash" start="21170" stop="22860">/</word>
+    <word normalized="ubuntu" start="23320" stop="23690">ùbúntú</word>
+    <word normalized="forward slash" start="44110" stop="46610">/</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="47080" stop="47160">is </word>
+    <word normalized="a" start="47460" stop="48330">a </word>
+    <word normalized="predominantly" start="48580" stop="48810">predominantly </word>
+    <word normalized="desktop oriented" start="48810" stop="50630">desktop-oriented </word>
+    <word normalized="Linux" start="50630" stop="51030">Linux </word>
+    <word normalized="distribution" start="51400" stop="52100">distribution</word>
+    <word normalized="">, </word>
+    <word normalized="based" start="52880" stop="53040">based </word>
+    <word normalized="on" start="53320" stop="53520">on </word>
+    <word normalized="Debian" start="54630" stop="54730">Debian </word>
+    <word normalized="GNU forward slash Linux" start="55920" stop="56880">GNU/Linux </word>
+    <word normalized="but" start="57190" stop="57360">but </word>
+    <word normalized="with" start="57960" stop="58080">with </word>
+    <word normalized="a" start="58180" stop="58490">a </word>
+    <word normalized="stronger" start="58490" stop="58550">stronger </word>
+    <word normalized="focus" start="58550" stop="59370">focus </word>
+    <word normalized="on" start="59830" stop="59990">on </word>
+    <word normalized="usability" start="60080" stop="60560">usability</word>
+    <word normalized="">, </word>
+    <word normalized="regular" start="69790" stop="70720">regular </word>
+    <word normalized="releases" start="71030" stop="71170">releases</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="71170" stop="71820">and </word>
+    <word normalized="ease" start="71940" stop="72520">ease </word>
+    <word normalized="of" start="72970" stop="73530">of </word>
+    <word normalized="installation" start="73530" stop="73630">installation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu" start="73630" stop="74070">Ubuntu </word>
+    <word normalized="is" start="74560" stop="75110">is </word>
+    <word normalized="sponsored" start="75110" stop="75250">sponsored </word>
+    <word normalized="by" start="84270" stop="86370">by </word>
+    <word normalized="Canonical" start="86370" stop="86440">Canonical </word>
+    <word normalized="limited" start="87070" stop="87450">Ltd</word>
+    <word normalized="">, </word>
+    <word normalized="owned" start="87450" stop="87880">owned </word>
+    <word normalized="by" start="88140" stop="88380">by </word>
+    <word normalized="South" start="88510" stop="88820">South </word>
+    <word normalized="African" start="89690" stop="89770">African </word>
+    <word normalized="Mark" start="90030" stop="90390">Mark </word>
+    <word normalized="Shuttleworth" start="90390" stop="90520">Shuttleworth</word>
+    <word normalized="">; </word>
+    <word normalized="the" start="91390" stop="93620">the </word>
+    <word normalized="name" start="93980" stop="94720">name </word>
+    <word normalized="of" start="94850" stop="95600">of </word>
+    <word normalized="the" start="95600" stop="95700">the </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="comes">comes </word>
+    <word normalized="from">from </word>
+    <word normalized="the">the </word>
+    <word normalized="African">African </word>
+    <word normalized="concept">concept </word>
+    <word normalized="of">of </word>
+    <word normalized="ubuntu">ubuntu </word>
+    <word normalized="">(</word>
+    <word normalized="roughly">roughly</word>
+    <word normalized="">, </word>
+    <word normalized="">"</word>
+    <word normalized="humanity">humanity </word>
+    <word normalized="towards">towards </word>
+    <word normalized="others">others</word>
+    <word normalized="">"</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="most">most </word>
+    <word normalized="recent">recent </word>
+    <word normalized="version">version</word>
+    <word normalized="">, </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="6 06">6.06 </word>
+    <word normalized="L T S">LTS </word>
+    <word normalized="">(</word>
+    <word normalized="codenamed">codenamed </word>
+    <word normalized="">"</word>
+    <word normalized="Dapper">Dapper </word>
+    <word normalized="Drake">Drake</word>
+    <word normalized="">"</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="was">was </word>
+    <word normalized="released">released </word>
+    <word normalized="on">on </word>
+    <word normalized="June">June </word>
+    <word normalized="1">1</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand six">2006</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="will">will </word>
+    <word normalized="be">be </word>
+    <word normalized="supported">supported </word>
+    <word normalized="for">for </word>
+    <word normalized="three">three </word>
+    <word normalized="years">years </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="desktop">desktop </word>
+    <word normalized="and">and </word>
+    <word normalized="five">five </word>
+    <word normalized="years">years </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="server">server</word>
+    <word normalized="">, </word>
+    <word normalized="instead">instead </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="usual">usual </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="months">months</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="aims">aims </word>
+    <word normalized="to">to </word>
+    <word normalized="use">use </word>
+    <word normalized="only">only </word>
+    <word normalized="free">free </word>
+    <word normalized="software">software </word>
+    <word normalized="to">to </word>
+    <word normalized="provide">provide </word>
+    <word normalized="an">an </word>
+    <word normalized="up to date">up-to-date </word>
+    <word normalized="yet">yet </word>
+    <word normalized="stable">stable </word>
+    <word normalized="operating">operating </word>
+    <word normalized="system">system </word>
+    <word normalized="for">for </word>
+    <word normalized="the">the </word>
+    <word normalized="average">average </word>
+    <word normalized="user">user</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="has">has </word>
+    <word normalized="a">a </word>
+    <word normalized="lively">lively </word>
+    <word normalized="user">user </word>
+    <word normalized="and">and </word>
+    <word normalized="support">support </word>
+    <word normalized="community">community</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Kubuntu">Kubuntu </word>
+    <word normalized="and">and </word>
+    <word normalized="Xubuntu">Xubuntu </word>
+    <word normalized="are">are </word>
+    <word normalized="official">official </word>
+    <word normalized="subprojects">subprojects </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="project">project</word>
+    <word normalized="">, </word>
+    <word normalized="aiming">aiming </word>
+    <word normalized="to">to </word>
+    <word normalized="bring">bring </word>
+    <word normalized="the">the </word>
+    <word normalized="KDE">KDE </word>
+    <word normalized="and">and </word>
+    <word normalized="Xfce">Xfce </word>
+    <word normalized="desktop">desktop </word>
+    <word normalized="environments">environments </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="core">core</word>
+    <word normalized="">, </word>
+    <word normalized="respectively">respectively</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Edubuntu">Edubuntu </word>
+    <word normalized="is">is </word>
+    <word normalized="an">an </word>
+    <word normalized="official">official </word>
+    <word normalized="subproject">subproject </word>
+    <word normalized="">"</word>
+    <word normalized="designed">designed </word>
+    <word normalized="for">for </word>
+    <word normalized="school">school </word>
+    <word normalized="environments">environments</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="should">should </word>
+    <word normalized="be">be </word>
+    <word normalized="equally">equally </word>
+    <word normalized="suitable">suitable </word>
+    <word normalized="for">for </word>
+    <word normalized="kids">kids </word>
+    <word normalized="to">to </word>
+    <word normalized="use">use </word>
+    <word normalized="at">at </word>
+    <word normalized="home">home</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="History">History </word>
+    <word normalized="and">and </word>
+    <word normalized="development">development </word>
+    <word normalized="process">process </word>
+    <word normalized="Ubuntu s">Ubuntu's </word>
+    <word normalized="first">first </word>
+    <word normalized="release">release </word>
+    <word normalized="was">was </word>
+    <word normalized="on">on </word>
+    <word normalized="October">October </word>
+    <word normalized="twenty">20</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand four">2004</word>
+    <word normalized="">, </word>
+    <word normalized="which">which </word>
+    <word normalized="began">began </word>
+    <word normalized="by">by </word>
+    <word normalized="making">making </word>
+    <word normalized="a">a </word>
+    <word normalized="temporary">temporary </word>
+    <word normalized="fork">fork </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="Debian">Debian </word>
+    <word normalized="Linux">Linux </word>
+    <word normalized="project">project</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This">This </word>
+    <word normalized="was">was </word>
+    <word normalized="done">done </word>
+    <word normalized="so">so </word>
+    <word normalized="that">that </word>
+    <word normalized="a">a </word>
+    <word normalized="new">new </word>
+    <word normalized="version">version </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="could">could </word>
+    <word normalized="be">be </word>
+    <word normalized="released">released </word>
+    <word normalized="every">every </word>
+    <word normalized="six">six </word>
+    <word normalized="months">months</word>
+    <word normalized="">, </word>
+    <word normalized="resulting">resulting </word>
+    <word normalized="in">in </word>
+    <word normalized="a">a </word>
+    <word normalized="more">more </word>
+    <word normalized="frequently">frequently </word>
+    <word normalized="updated">updated </word>
+    <word normalized="system">system</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="releases">releases </word>
+    <word normalized="always">always </word>
+    <word normalized="include">include </word>
+    <word normalized="the">the </word>
+    <word normalized="most" start="106690" stop="106980">most </word>
+    <word normalized="recent" start="106980" stop="107350">recent </word>
+    <word normalized="GNOME">GNOME </word>
+    <word normalized="release" start="107690" stop="108280">release</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="108480" stop="108620">and </word>
+    <word normalized="are" start="108620" stop="108700">are </word>
+    <word normalized="scheduled" start="108700" stop="109110">scheduled </word>
+    <word normalized="to" start="185090" stop="185930">to </word>
+    <word normalized="be" start="186320" stop="186410">be </word>
+    <word normalized="released" start="186470" stop="186680">released </word>
+    <word normalized="about" start="187050" stop="187980">about </word>
+    <word normalized="a" start="187980" stop="189300">a </word>
+    <word normalized="month" start="189300" stop="189360">month </word>
+    <word normalized="after" start="189360" stop="189530">after </word>
+    <word normalized="GNOME">GNOME</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="contrast" start="190510" stop="190850">contrast </word>
+    <word normalized="with" start="191410" stop="191790">with </word>
+    <word normalized="previous" start="191990" stop="192210">previous </word>
+    <word normalized="general purpose" start="192550" stop="194770">general-purpose </word>
+    <word normalized="forks" start="195080" stop="196750">forks </word>
+    <word normalized="of">of </word>
+    <word normalized="Debian such">Debian—such </word>
+    <word normalized="as">as </word>
+    <word normalized="MEPIS">MEPIS</word>
+    <word normalized="">, </word>
+    <word normalized="Xandros">Xandros</word>
+    <word normalized="">, </word>
+    <word normalized="Linspire">Linspire</word>
+    <word normalized="">, </word>
+    <word normalized="Progeny">Progeny </word>
+    <word normalized="and">and </word>
+    <word normalized="Libranet">Libranet</word>
+    <word normalized="">, </word>
+    <word normalized="many">many </word>
+    <word normalized="of">of </word>
+    <word normalized="which">which </word>
+    <word normalized="relied">relied </word>
+    <word normalized="on">on </word>
+    <word normalized="closed source">closed-source </word>
+    <word normalized="add ons">add-ons </word>
+    <word normalized="as">as </word>
+    <word normalized="part">part </word>
+    <word normalized="of">of </word>
+    <word normalized="their">their </word>
+    <word normalized="business">business </word>
+    <word normalized="model Ubuntu">model—Ubuntu </word>
+    <word normalized="has">has </word>
+    <word normalized="stayed">stayed </word>
+    <word normalized="closer">closer </word>
+    <word normalized="to">to </word>
+    <word normalized="Debian s">Debian's </word>
+    <word normalized="philosophy">philosophy </word>
+    <word normalized="and">and </word>
+    <word normalized="uses">uses </word>
+    <word normalized="free">free </word>
+    <word normalized="">(</word>
+    <word normalized="libre">libre</word>
+    <word normalized="">) </word>
+    <word normalized="software">software </word>
+    <word normalized="most">most </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="time">time</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="packages">packages </word>
+    <word normalized="have">have </word>
+    <word normalized="generally">generally </word>
+    <word normalized="been">been </word>
+    <word normalized="based">based </word>
+    <word normalized="on">on </word>
+    <word normalized="packages">packages </word>
+    <word normalized="from">from </word>
+    <word normalized="Debian s">Debian's </word>
+    <word normalized="unstable">unstable </word>
+    <word normalized="branch">branch</word>
+    <word normalized="">: </word>
+    <word normalized="both">both </word>
+    <word normalized="distributions">distributions </word>
+    <word normalized="use">use </word>
+    <word normalized="Debian s">Debian's </word>
+    <word normalized="deb">deb </word>
+    <word normalized="package">package </word>
+    <word normalized="format">format </word>
+    <word normalized="and">and </word>
+    <word normalized="APT forward slash Synaptic">APT/Synaptic </word>
+    <word normalized="to">to </word>
+    <word normalized="manage">manage </word>
+    <word normalized="installed">installed </word>
+    <word normalized="packages">packages</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="has">has </word>
+    <word normalized="contributed">contributed </word>
+    <word normalized="all">all </word>
+    <word normalized="changes">changes </word>
+    <word normalized="directly">directly </word>
+    <word normalized="and">and </word>
+    <word normalized="immediately">immediately </word>
+    <word normalized="back">back </word>
+    <word normalized="to">to </word>
+    <word normalized="Debian">Debian</word>
+    <word normalized="">, </word>
+    <word normalized="rather">rather </word>
+    <word normalized="than">than </word>
+    <word normalized="announcing">announcing </word>
+    <word normalized="them">them </word>
+    <word normalized="only">only </word>
+    <word normalized="at">at </word>
+    <word normalized="release">release </word>
+    <word normalized="time">time</word>
+    <word normalized="">, </word>
+    <word normalized="although">although </word>
+    <word normalized="Debian">Debian </word>
+    <word normalized="and">and </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="packages">packages </word>
+    <word normalized="are">are </word>
+    <word normalized="not">not </word>
+    <word normalized="necessarily">necessarily </word>
+    <word normalized="">'</word>
+    <word normalized="binary">binary </word>
+    <word normalized="compatible">compatible</word>
+    <word normalized="">' </word>
+    <word normalized="with">with </word>
+    <word normalized="each">each </word>
+    <word normalized="other">other</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Many">Many </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="developers">developers </word>
+    <word normalized="are">are </word>
+    <word normalized="also">also </word>
+    <word normalized="maintainers">maintainers </word>
+    <word normalized="of">of </word>
+    <word normalized="key">key </word>
+    <word normalized="packages">packages </word>
+    <word normalized="within">within </word>
+    <word normalized="Debian">Debian </word>
+    <word normalized="itself">itself</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="However">However</word>
+    <word normalized="">, </word>
+    <word normalized="Ian">Ian </word>
+    <word normalized="Murdock">Murdock</word>
+    <word normalized="">, </word>
+    <word normalized="the">the </word>
+    <word normalized="founder">founder </word>
+    <word normalized="of">of </word>
+    <word normalized="Debian">Debian</word>
+    <word normalized="">, </word>
+    <word normalized="has">has </word>
+    <word normalized="criticized">criticized </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="for">for </word>
+    <word normalized="incompatibilities">incompatibilities </word>
+    <word normalized="between">between </word>
+    <word normalized="its">its </word>
+    <word normalized="packages">packages </word>
+    <word normalized="and">and </word>
+    <word normalized="those">those </word>
+    <word normalized="of">of </word>
+    <word normalized="Debian">Debian</word>
+    <word normalized="">, </word>
+    <word normalized="saying">saying </word>
+    <word normalized="that">that </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="had">had </word>
+    <word normalized="diverged">diverged </word>
+    <word normalized="too">too </word>
+    <word normalized="far">far </word>
+    <word normalized="from">from </word>
+    <word normalized="Debian">Debian </word>
+    <word normalized="Sarge">Sarge </word>
+    <word normalized="to">to </word>
+    <word normalized="remain">remain </word>
+    <word normalized="compatible">compatible</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There">There </word>
+    <word normalized="are">are </word>
+    <word normalized="plans">plans </word>
+    <word normalized="for">for </word>
+    <word normalized="a">a </word>
+    <word normalized="branch">branch </word>
+    <word normalized="codenamed">codenamed </word>
+    <word normalized="Grumpy">Grumpy </word>
+    <word normalized="Groundhog">Groundhog</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="will">will </word>
+    <word normalized="be">be </word>
+    <word normalized="a">a </word>
+    <word normalized="permanently">permanently </word>
+    <word normalized="unstable">unstable </word>
+    <word normalized="development">development </word>
+    <word normalized="and">and </word>
+    <word normalized="testing">testing </word>
+    <word normalized="branch">branch</word>
+    <word normalized="">, </word>
+    <word normalized="pulling">pulling </word>
+    <word normalized="the">the </word>
+    <word normalized="source">source </word>
+    <word normalized="directly">directly </word>
+    <word normalized="out">out </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="revision">revision </word>
+    <word normalized="control">control </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="various">various </word>
+    <word normalized="programs">programs </word>
+    <word normalized="and">and </word>
+    <word normalized="applications">applications </word>
+    <word normalized="that">that </word>
+    <word normalized="are">are </word>
+    <word normalized="shipped">shipped </word>
+    <word normalized="as">as </word>
+    <word normalized="part">part </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This">This </word>
+    <word normalized="will">will </word>
+    <word normalized="allow">allow </word>
+    <word normalized="power">power </word>
+    <word normalized="users">users </word>
+    <word normalized="and">and </word>
+    <word normalized="upstream">upstream </word>
+    <word normalized="developers">developers </word>
+    <word normalized="to">to </word>
+    <word normalized="test">test </word>
+    <word normalized="up to the minute">up-to-the-minute </word>
+    <word normalized="versions">versions </word>
+    <word normalized="of">of </word>
+    <word normalized="individual">individual </word>
+    <word normalized="programs">programs </word>
+    <word normalized="as">as </word>
+    <word normalized="they">they </word>
+    <word normalized="would">would </word>
+    <word normalized="appear">appear </word>
+    <word normalized="if">if </word>
+    <word normalized="packaged">packaged </word>
+    <word normalized="for">for </word>
+    <word normalized="the">the </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="today">today</word>
+    <word normalized="">, </word>
+    <word normalized="without">without </word>
+    <word normalized="needing">needing </word>
+    <word normalized="to">to </word>
+    <word normalized="build">build </word>
+    <word normalized="packages">packages </word>
+    <word normalized="themselves">themselves</word>
+    <word normalized="">; </word>
+    <word normalized="it">it </word>
+    <word normalized="will">will </word>
+    <word normalized="be">be </word>
+    <word normalized="able">able </word>
+    <word normalized="to">to </word>
+    <word normalized="provide">provide </word>
+    <word normalized="early">early </word>
+    <word normalized="warning">warning </word>
+    <word normalized="of">of </word>
+    <word normalized="build">build </word>
+    <word normalized="failures">failures </word>
+    <word normalized="on">on </word>
+    <word normalized="various">various </word>
+    <word normalized="architectures">architectures</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is">is </word>
+    <word normalized="intended">intended </word>
+    <word normalized="that">that </word>
+    <word normalized="Grumpy">Grumpy </word>
+    <word normalized="Groundhog">Groundhog </word>
+    <word normalized="should">should </word>
+    <word normalized="merge">merge </word>
+    <word normalized="with">with </word>
+    <word normalized="Debian">Debian </word>
+    <word normalized="Unstable">Unstable </word>
+    <word normalized="every">every </word>
+    <word normalized="six">six </word>
+    <word normalized="months">months</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Grumpy">Grumpy </word>
+    <word normalized="Groundhog">Groundhog </word>
+    <word normalized="has">has </word>
+    <word normalized="not">not </word>
+    <word normalized="been">been </word>
+    <word normalized="made">made </word>
+    <word normalized="available">available </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="public">public </word>
+    <word normalized="yet">yet</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="is">is </word>
+    <word normalized="currently">currently </word>
+    <word normalized="funded">funded </word>
+    <word normalized="by">by </word>
+    <word normalized="Canonical">Canonical </word>
+    <word normalized="limited">Ltd. </word>
+  </sentence>
+  <sentence>
+    <word normalized="On">On </word>
+    <word normalized="July">July </word>
+    <word normalized="8">8</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand five">2005</word>
+    <word normalized="">, </word>
+    <word normalized="Mark">Mark </word>
+    <word normalized="Shuttleworth">Shuttleworth </word>
+    <word normalized="and">and </word>
+    <word normalized="Canonical">Canonical </word>
+    <word normalized="limited">Ltd </word>
+    <word normalized="announced">announced </word>
+    <word normalized="the" start="219140" stop="219280">the </word>
+    <word normalized="creation" start="219280" stop="219700">creation </word>
+    <word normalized="of" start="219700" stop="219780">of </word>
+    <word normalized="the" start="219780" stop="219880">the </word>
+    <word normalized="Ubuntu" start="219880" stop="220380">Ubuntu </word>
+    <word normalized="Foundation" start="220380" stop="220950">Foundation </word>
+    <word normalized="and" start="221330" stop="221500">and </word>
+    <word normalized="provided" start="333690" stop="334220">provided </word>
+    <word normalized="an" start="334550" stop="334650">an </word>
+    <word normalized="initial" start="334650" stop="334740">initial </word>
+    <word normalized="funding" start="334740" stop="335150">funding </word>
+    <word normalized="of" start="335150" stop="335560">of </word>
+    <word normalized="US ten dollars" start="335970" stop="336690">US$10 </word>
+    <word normalized="million" start="337090" stop="337410">million</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="337410" stop="337590">The </word>
+    <word normalized="purpose" start="337740" stop="337770">purpose </word>
+    <word normalized="of" start="337770" stop="338210">of </word>
+    <word normalized="the" start="338270" stop="339050">the </word>
+    <word normalized="foundation" start="354870" stop="355830">foundation </word>
+    <word normalized="is" start="356200" stop="356480">is </word>
+    <word normalized="to" start="356480" stop="356620">to </word>
+    <word normalized="ensure" start="356820" stop="357110">ensure </word>
+    <word normalized="the" start="357110" stop="357370">the </word>
+    <word normalized="support" start="357780" stop="357850">support </word>
+    <word normalized="and" start="357850" stop="358380">and </word>
+    <word normalized="development" start="358530" stop="359150">development </word>
+    <word normalized="for" start="359150" stop="360050">for </word>
+    <word normalized="all" start="360050" stop="360270">all </word>
+    <word normalized="future" start="360570" stop="361180">future </word>
+    <word normalized="versions" start="361990" stop="362030">versions </word>
+    <word normalized="of" start="362030" stop="363130">of </word>
+    <word normalized="Ubuntu" start="363230" stop="364330">Ubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="364330" stop="364710">but </word>
+    <word normalized="as" start="364710" stop="364830">as </word>
+    <word normalized="of" start="365000" stop="365110">of </word>
+    <word normalized="two thousand six" start="365300" stop="368820">2006</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="369080" stop="369330">the </word>
+    <word normalized="foundation" start="370490" stop="372690">foundation </word>
+    <word normalized="remains" start="373010" stop="373040">remains </word>
+    <word normalized="dormant" start="373790" stop="375190">dormant</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Mark" start="375190" stop="375590">Mark </word>
+    <word normalized="Shuttleworth" start="375590" stop="375750">Shuttleworth </word>
+    <word normalized="describes" start="376190" stop="378600">describes </word>
+    <word normalized="the" start="379300" stop="379660">the </word>
+    <word normalized="foundation" start="379880" stop="380090">foundation </word>
+    <word normalized="as" start="380350" stop="381570">as </word>
+    <word normalized="an" start="381570" stop="381650">an </word>
+    <word normalized="emergency" start="381840" stop="382110">emergency </word>
+    <word normalized="fund">fund </word>
+    <word normalized="in">in </word>
+    <word normalized="case">case </word>
+    <word normalized="Canonical s">Canonical's </word>
+    <word normalized="involvement">involvement </word>
+    <word normalized="ends">ends</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="The">The </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="point">point </word>
+    <word normalized="one">1 </word>
+    <word normalized="Features">Features </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="focuses">focuses </word>
+    <word normalized="on">on </word>
+    <word normalized="usability">usability</word>
+    <word normalized="">, </word>
+    <word normalized="including">including </word>
+    <word normalized="the">the </word>
+    <word normalized="widespread">widespread </word>
+    <word normalized="use">use </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="sudo">sudo </word>
+    <word normalized="tool">tool </word>
+    <word normalized="for">for </word>
+    <word normalized="administrative">administrative </word>
+    <word normalized="tasks">tasks</word>
+    <word normalized="">. </word>
+    <word normalized="sudo">sudo </word>
+    <word normalized="authenticates">authenticates </word>
+    <word normalized="users">users </word>
+    <word normalized="against">against </word>
+    <word normalized="their">their </word>
+    <word normalized="own">own </word>
+    <word normalized="password">password </word>
+    <word normalized="rather">rather </word>
+    <word normalized="than">than </word>
+    <word normalized="that">that </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="target">target </word>
+    <word normalized="user">user </word>
+    <word normalized="to">to </word>
+    <word normalized="allow">allow </word>
+    <word normalized="the">the </word>
+    <word normalized="delegation">delegation </word>
+    <word normalized="of">of </word>
+    <word normalized="specific">specific </word>
+    <word normalized="commands">commands </word>
+    <word normalized="to">to </word>
+    <word normalized="specific">specific </word>
+    <word normalized="users">users </word>
+    <word normalized="on">on </word>
+    <word normalized="specific">specific </word>
+    <word normalized="hosts">hosts</word>
+    <word normalized="">, </word>
+    <word normalized="without">without </word>
+    <word normalized="sharing">sharing </word>
+    <word normalized="passwords">passwords </word>
+    <word normalized="among">among </word>
+    <word normalized="them">them </word>
+    <word normalized="and">and </word>
+    <word normalized="while">while </word>
+    <word normalized="mitigating">mitigating </word>
+    <word normalized="the">the </word>
+    <word normalized="risk">risk </word>
+    <word normalized="of">of </word>
+    <word normalized="unattended">unattended </word>
+    <word normalized="terminals">terminals</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Once">Once </word>
+    <word normalized="the">the </word>
+    <word normalized="user">user </word>
+    <word normalized="has">has </word>
+    <word normalized="been">been </word>
+    <word normalized="authenticated">authenticated</word>
+    <word normalized="">, </word>
+    <word normalized="the">the </word>
+    <word normalized="system">system </word>
+    <word normalized="updates">updates </word>
+    <word normalized="a">a </word>
+    <word normalized="timestamp">timestamp </word>
+    <word normalized="and">and </word>
+    <word normalized="the">the </word>
+    <word normalized="user">user </word>
+    <word normalized="may">may </word>
+    <word normalized="then">then </word>
+    <word normalized="use">use </word>
+    <word normalized="sudo">sudo </word>
+    <word normalized="without">without </word>
+    <word normalized="a">a </word>
+    <word normalized="password">password </word>
+    <word normalized="for">for </word>
+    <word normalized="a">a </word>
+    <word normalized="short">short </word>
+    <word normalized="period">period </word>
+    <word normalized="of">of </word>
+    <word normalized="time">time </word>
+    <word normalized="">(</word>
+    <word normalized="fifteen">fifteen </word>
+    <word normalized="minutes">minutes </word>
+    <word normalized="unless">unless </word>
+    <word normalized="overridden">overridden </word>
+    <word normalized="in">in </word>
+    <word normalized="forward slash">/</word>
+    <word normalized="etcetera forward slash sudoers">etc/sudoers</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="Ubiquity">Ubiquity </word>
+    <word normalized="installer">installer </word>
+    <word normalized="">(</word>
+    <word normalized="previously">previously </word>
+    <word normalized="called">called </word>
+    <word normalized="Espresso">Espresso</word>
+    <word normalized="">) </word>
+    <word normalized="included">included </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="LiveCD">LiveCD </word>
+    <word normalized="version">version </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="">"</word>
+    <word normalized="Dapper">Dapper</word>
+    <word normalized="">" </word>
+    <word normalized="release">release </word>
+    <word normalized="allows">allows </word>
+    <word normalized="installing">installing </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="hard">hard </word>
+    <word normalized="disk">disk </word>
+    <word normalized="from">from </word>
+    <word normalized="within">within </word>
+    <word normalized="the">the </word>
+    <word normalized="Live">Live </word>
+    <word normalized="CD">CD </word>
+    <word normalized="environment">environment </word>
+    <word normalized="without">without </word>
+    <word normalized="the">the </word>
+    <word normalized="need">need </word>
+    <word normalized="for">for </word>
+    <word normalized="restarting">restarting </word>
+    <word normalized="the">the </word>
+    <word normalized="computer">computer</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="furthermore">furthermore </word>
+    <word normalized="emphasises">emphasises </word>
+    <word normalized="accessibility">accessibility </word>
+    <word normalized="and">and </word>
+    <word normalized="internationalization">internationalization</word>
+    <word normalized="">, </word>
+    <word normalized="to">to </word>
+    <word normalized="reach">reach </word>
+    <word normalized="as">as </word>
+    <word normalized="many">many </word>
+    <word normalized="people">people </word>
+    <word normalized="as">as </word>
+    <word normalized="possible">possible</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="of">of </word>
+    <word normalized="version">version </word>
+    <word normalized="5 04">5.04</word>
+    <word normalized="">, </word>
+    <word normalized="UTF eight">UTF-8 </word>
+    <word normalized="is">is </word>
+    <word normalized="the">the </word>
+    <word normalized="default">default </word>
+    <word normalized="character">character </word>
+    <word normalized="encoding">encoding</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Besides">Besides </word>
+    <word normalized="standard">standard </word>
+    <word normalized="system">system </word>
+    <word normalized="tools">tools </word>
+    <word normalized="and">and </word>
+    <word normalized="other">other </word>
+    <word normalized="small">small </word>
+    <word normalized="applications">applications</word>
+    <word normalized="">, </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="comes">comes </word>
+    <word normalized="with">with </word>
+    <word normalized="the">the </word>
+    <word normalized="pre installed">pre-installed </word>
+    <word normalized="software">software </word>
+    <word normalized="OpenOffice dot org">OpenOffice.org</word>
+    <word normalized="">, </word>
+    <word normalized="the">the </word>
+    <word normalized="internet">internet </word>
+    <word normalized="browser">browser </word>
+    <word normalized="Firefox">Firefox</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="the">the </word>
+    <word normalized="raster">raster </word>
+    <word normalized="graphics">graphics </word>
+    <word normalized="editor">editor </word>
+    <word normalized="GIMP">GIMP</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Several">Several </word>
+    <word normalized="lightweight">lightweight </word>
+    <word normalized="card">card </word>
+    <word normalized="and">and </word>
+    <word normalized="puzzle">puzzle </word>
+    <word normalized="games">games </word>
+    <word normalized="are">are </word>
+    <word normalized="also">also </word>
+    <word normalized="included">included</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="offers">offers </word>
+    <word normalized="a">a </word>
+    <word normalized="full">full </word>
+    <word normalized="feature">feature </word>
+    <word normalized="set">set </word>
+    <word normalized="that">that </word>
+    <word normalized="works">works </word>
+    <word normalized="straight">straight </word>
+    <word normalized="from">from </word>
+    <word normalized="the">the </word>
+    <word normalized="standard">standard </word>
+    <word normalized="install">install</word>
+    <word normalized="">, </word>
+    <word normalized="but">but </word>
+    <word normalized="nonetheless">nonetheless </word>
+    <word normalized="fits">fits </word>
+    <word normalized="on">on </word>
+    <word normalized="a">a </word>
+    <word normalized="single">single </word>
+    <word normalized="CD">CD</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="Live">Live </word>
+    <word normalized="CD">CD </word>
+    <word normalized="and">and </word>
+    <word normalized="a">a </word>
+    <word normalized="traditional">traditional </word>
+    <word normalized="install">install </word>
+    <word normalized="CD">CD </word>
+    <word normalized="have">have </word>
+    <word normalized="been">been </word>
+    <word normalized="available">available </word>
+    <word normalized="for">for </word>
+    <word normalized="each">each </word>
+    <word normalized="release">release</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Live">Live </word>
+    <word normalized="C D s">CDs </word>
+    <word normalized="allow">allow </word>
+    <word normalized="users">users </word>
+    <word normalized="to">to </word>
+    <word normalized="see">see </word>
+    <word normalized="whether">whether </word>
+    <word normalized="their">their </word>
+    <word normalized="hardware">hardware </word>
+    <word normalized="is">is </word>
+    <word normalized="compatible">compatible </word>
+    <word normalized="before">before </word>
+    <word normalized="installation">installation </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="hard">hard </word>
+    <word normalized="disk">disk</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="Kubuntu">Kubuntu </word>
+    <word normalized="and">and </word>
+    <word normalized="Edubuntu">Edubuntu </word>
+    <word normalized="C D s">CDs </word>
+    <word normalized="are">are </word>
+    <word normalized="mailed">mailed </word>
+    <word normalized="free">free </word>
+    <word normalized="to">to </word>
+    <word normalized="anyone">anyone </word>
+    <word normalized="who">who </word>
+    <word normalized="requests">requests </word>
+    <word normalized="them">them</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="CD">CD </word>
+    <word normalized="images">images </word>
+    <word normalized="are">are </word>
+    <word normalized="available">available </word>
+    <word normalized="for">for </word>
+    <word normalized="download">download</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="requires">requires </word>
+    <word normalized="two hundred fifty six">256 </word>
+    <word normalized="megabytes">megabytes </word>
+    <word normalized="of">of </word>
+    <word normalized="RAM">RAM</word>
+    <word normalized="">, </word>
+    <word normalized="and">and</word>
+    <word normalized="">, </word>
+    <word normalized="when">when </word>
+    <word normalized="installed">installed </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="hard">hard </word>
+    <word normalized="disk">disk</word>
+    <word normalized="">, </word>
+    <word normalized="needs">needs </word>
+    <word normalized="three">three </word>
+    <word normalized="gigabytes">gigabytes </word>
+    <word normalized="of">of </word>
+    <word normalized="hard disk">hard-disk </word>
+    <word normalized="space">space</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="An">An </word>
+    <word normalized="alternate">alternate </word>
+    <word normalized="install">install </word>
+    <word normalized="disc">disc </word>
+    <word normalized="using">using </word>
+    <word normalized="the">the </word>
+    <word normalized="standard">standard </word>
+    <word normalized="debian installer">debian-installer </word>
+    <word normalized="in">in </word>
+    <word normalized="text">text </word>
+    <word normalized="mode">mode </word>
+    <word normalized="is">is </word>
+    <word normalized="available">available </word>
+    <word normalized="for">for </word>
+    <word normalized="download">download </word>
+    <word normalized="only">only</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="is">is </word>
+    <word normalized="aimed">aimed </word>
+    <word normalized="at">at </word>
+    <word normalized="people">people </word>
+    <word normalized="with">with </word>
+    <word normalized="lower">lower </word>
+    <word normalized="system">system </word>
+    <word normalized="specifications">specifications</word>
+    <word normalized="">, </word>
+    <word normalized="computer">computer </word>
+    <word normalized="dealers">dealers </word>
+    <word normalized="selling">selling </word>
+    <word normalized="pre installed">pre-installed </word>
+    <word normalized="systems">systems</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="for">for </word>
+    <word normalized="complex">complex </word>
+    <word normalized="partitioning">partitioning </word>
+    <word normalized="including">including </word>
+    <word normalized="the">the </word>
+    <word normalized="use">use </word>
+    <word normalized="of">of </word>
+    <word normalized="L V M">LVM </word>
+    <word normalized="or">or </word>
+    <word normalized="RAID">RAID</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="default">default </word>
+    <word normalized="appearance">appearance </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="user">user </word>
+    <word normalized="interface">interface </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="current">current </word>
+    <word normalized="version">version </word>
+    <word normalized="is">is </word>
+    <word normalized="characterized">characterized </word>
+    <word normalized="by">by </word>
+    <word normalized="shades">shades </word>
+    <word normalized="of">of </word>
+    <word normalized="brown">brown </word>
+    <word normalized="and">and </word>
+    <word normalized="orange">orange</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Until">Until </word>
+    <word normalized="April">April </word>
+    <word normalized="two thousand five">2005</word>
+    <word normalized="">, </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="had">had </word>
+    <word normalized="an">an </word>
+    <word normalized="optional">optional </word>
+    <word normalized="package">package </word>
+    <word normalized="called">called </word>
+    <word normalized="ubuntu calendar">ubuntu-calendar</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="382830" stop="383100">which </word>
+    <word normalized="downloaded" start="383100" stop="383570">downloaded </word>
+    <word normalized="a" start="383570" stop="383650">a </word>
+    <word normalized="new" start="383650" stop="383890">new </word>
+    <word normalized="desktop" start="383890" stop="384400">desktop </word>
+    <word normalized="wallpaper" start="384400" stop="384880">wallpaper </word>
+    <word normalized="monthly" start="384880" stop="385440">monthly</word>
+    <word normalized="">, </word>
+    <word normalized="matching" start="385660" stop="386150">matching </word>
+    <word normalized="the">the </word>
+    <word normalized="brown">brown </word>
+    <word normalized="colour" start="386480" stop="386780">colour </word>
+    <word normalized="theme">theme</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="These" start="387760" stop="387960">These </word>
+    <word normalized="wallpapers" start="387960" stop="388590">wallpapers </word>
+    <word normalized="featured" start="388600" stop="388630">featured </word>
+    <word normalized="partially" start="388990" stop="389410">partially </word>
+    <word normalized="nude" start="389410" stop="389640">nude </word>
+    <word normalized="people" start="389680" stop="390140">people </word>
+    <word normalized="and" start="390340" stop="390440">and </word>
+    <word normalized="were" start="390440" stop="390590">were </word>
+    <word normalized="criticized" start="390590" stop="391180">criticized </word>
+    <word normalized="as" start="391320" stop="391490">as </word>
+    <word normalized="risque">risqué</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This">This </word>
+    <word normalized="led">led </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="coining">coining </word>
+    <word normalized="of">of </word>
+    <word normalized="nicknames">nicknames </word>
+    <word normalized="such">such </word>
+    <word normalized="as">as </word>
+    <word normalized="">"</word>
+    <word normalized="Linuxxx">Linuxxx</word>
+    <word normalized="">" </word>
+    <word normalized="and">and </word>
+    <word normalized="">"</word>
+    <word normalized="The">The </word>
+    <word normalized="Porn">Porn </word>
+    <word normalized="Distro">Distro</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="point">point </word>
+    <word normalized="two">2 </word>
+    <word normalized="Package">Package </word>
+    <word normalized="classification">classification </word>
+    <word normalized="and">and </word>
+    <word normalized="support">support </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="divides">divides </word>
+    <word normalized="all">all </word>
+    <word normalized="software">software </word>
+    <word normalized="into">into </word>
+    <word normalized="four">four </word>
+    <word normalized="sections">sections</word>
+    <word normalized="">, </word>
+    <word normalized="called">called </word>
+    <word normalized="components">components</word>
+    <word normalized="">, </word>
+    <word normalized="to">to </word>
+    <word normalized="reflect">reflect </word>
+    <word normalized="differences">differences </word>
+    <word normalized="in">in </word>
+    <word normalized="licensing">licensing </word>
+    <word normalized="and">and </word>
+    <word normalized="level">level </word>
+    <word normalized="of">of </word>
+    <word normalized="support">support </word>
+    <word normalized="available">available</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Packages">Packages </word>
+    <word normalized="are">are </word>
+    <word normalized="assigned">assigned </word>
+    <word normalized="to">to </word>
+    <word normalized="components">components </word>
+    <word normalized="as">as </word>
+    <word normalized="follows">follows</word>
+    <word normalized="">: </word>
+    <word normalized="">"</word>
+    <word normalized="Free">Free</word>
+    <word normalized="">" </word>
+    <word normalized="software">software </word>
+    <word normalized="here">here </word>
+    <word normalized="includes">includes </word>
+    <word normalized="only">only </word>
+    <word normalized="that">that </word>
+    <word normalized="which">which </word>
+    <word normalized="meets">meets </word>
+    <word normalized="the">the </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="license">license </word>
+    <word normalized="requirements">requirements</word>
+    <word normalized="">, </word>
+    <word normalized="which">which </word>
+    <word normalized="correspond">correspond </word>
+    <word normalized="roughly">roughly </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="Debian">Debian </word>
+    <word normalized="Free">Free </word>
+    <word normalized="Software">Software </word>
+    <word normalized="Guidelines">Guidelines</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">(</word>
+    <word normalized="There">There </word>
+    <word normalized="is">is </word>
+    <word normalized="one">one </word>
+    <word normalized="caveat">caveat </word>
+    <word normalized="for">for </word>
+    <word normalized="Main">Main </word>
+    <word normalized="however">however</word>
+    <word normalized="">; </word>
+    <word normalized="it">it </word>
+    <word normalized="">"</word>
+    <word normalized="also">also </word>
+    <word normalized="may">may </word>
+    <word normalized="contain">contain </word>
+    <word normalized="binary">binary </word>
+    <word normalized="firmware" start="440130" stop="440630">firmware </word>
+    <word normalized="and" start="440630" stop="440780">and </word>
+    <word normalized="selected" start="440780" stop="441270">selected </word>
+    <word normalized="fonts" start="441340" stop="441820">fonts </word>
+    <word normalized="">(</word>
+    <word normalized="which" start="442140" stop="442340">which </word>
+    <word normalized="are" start="442340" stop="442450">are </word>
+    <word normalized="used" start="442450" stop="442660">used </word>
+    <word normalized="by">by </word>
+    <word normalized="free" start="442920" stop="443150">free </word>
+    <word normalized="components" start="443150" stop="443780">components </word>
+    <word normalized="of">of </word>
+    <word normalized="Main">Main</word>
+    <word normalized="">) </word>
+    <word normalized="that">that </word>
+    <word normalized="cannot">cannot </word>
+    <word normalized="be" start="444870" stop="445030">be </word>
+    <word normalized="modified" start="445030" stop="445560">modified </word>
+    <word normalized="without" start="445560" stop="445890">without </word>
+    <word normalized="permission" start="445890" stop="446360">permission </word>
+    <word normalized="from">from </word>
+    <word normalized="their">their </word>
+    <word normalized="authors" start="446660" stop="447400">authors</word>
+    <word normalized="">" </word>
+    <word normalized="so" start="448530" stop="448720">so </word>
+    <word normalized="long" start="448720" stop="448950">long </word>
+    <word normalized="as" start="448950" stop="449110">as </word>
+    <word normalized="their" start="449110" stop="449430">their </word>
+    <word normalized="">"</word>
+    <word normalized="redistribution" start="450090" stop="450870">redistribution </word>
+    <word normalized="is" start="450870" stop="451020">is </word>
+    <word normalized="unencumbered" start="452760" stop="455340">unencumbered</word>
+    <word normalized="">.</word>
+    <word normalized="">"</word>
+    <word normalized="">) </word>
+  </sentence>
+  <sentence>
+    <word normalized="Non free">Non-free </word>
+    <word normalized="software">software </word>
+    <word normalized="is" start="455470" stop="455610">is </word>
+    <word normalized="usually" start="455610" stop="456070">usually </word>
+    <word normalized="unsupported" start="456070" stop="456800">unsupported </word>
+    <word normalized="">(</word>
+    <word normalized="Multiverse" start="457030" stop="457730">Multiverse</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="458130" stop="458190">but </word>
+    <word normalized="some" start="458190" stop="458310">some </word>
+    <word normalized="exceptions" start="458310" stop="458530">exceptions </word>
+    <word normalized="">(</word>
+    <word normalized="Restricted" start="459280" stop="459340">Restricted</word>
+    <word normalized="">) </word>
+    <word normalized="are" start="459990" stop="460320">are </word>
+    <word normalized="made" start="460320" stop="460450">made </word>
+    <word normalized="for" start="460690" stop="460720">for </word>
+    <word normalized="very" start="460720" stop="460920">very </word>
+    <word normalized="important" start="460920" stop="461180">important </word>
+    <word normalized="non free" start="461180" stop="462030">non-free </word>
+    <word normalized="software" start="462030" stop="462170">software</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="462790" stop="463040">such </word>
+    <word normalized="as" start="463040" stop="463300">as </word>
+    <word normalized="non free" start="463300" stop="463740">non-free </word>
+    <word normalized="device" start="463740" stop="463940">device </word>
+    <word normalized="drivers" start="464320" stop="464370">drivers</word>
+    <word normalized="">, </word>
+    <word normalized="without" start="465010" stop="465110">without </word>
+    <word normalized="which" start="465110" stop="465340">which </word>
+    <word normalized="users" start="465340" stop="465650">users </word>
+    <word normalized="might" start="465650" stop="466000">might </word>
+    <word normalized="be" start="466000" stop="466270">be </word>
+    <word normalized="prevented" start="466270" stop="466400">prevented </word>
+    <word normalized="from" start="466430" stop="466460">from </word>
+    <word normalized="running" start="467060" stop="467340">running </word>
+    <word normalized="Ubuntu" start="467340" stop="467860">Ubuntu </word>
+    <word normalized="on" start="467860" stop="468020">on </word>
+    <word normalized="their" start="468020" stop="468150">their </word>
+    <word normalized="system" start="468150" stop="468630">system</word>
+    <word normalized="">, </word>
+    <word normalized="particularly" start="468640" stop="469770">particularly </word>
+    <word normalized="binary only" start="469770" stop="470670">binary-only </word>
+    <word normalized="graphics" start="470670" stop="471140">graphics </word>
+    <word normalized="card" start="471140" stop="471420">card </word>
+    <word normalized="drivers" start="479290" stop="481270">drivers</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="481640" stop="482120">The </word>
+    <word normalized="level" start="482210" stop="482500">level </word>
+    <word normalized="of" start="482500" stop="482750">of </word>
+    <word normalized="support" start="482750" stop="482870">support </word>
+    <word normalized="is" start="482870" stop="483540">is </word>
+    <word normalized="more" start="483650" stop="483770">more </word>
+    <word normalized="limited" start="483950" stop="484030">limited </word>
+    <word normalized="than">than </word>
+    <word normalized="for">for </word>
+    <word normalized="main">main</word>
+    <word normalized="">, </word>
+    <word normalized="since">since </word>
+    <word normalized="the">the </word>
+    <word normalized="developers">developers </word>
+    <word normalized="may">may </word>
+    <word normalized="not">not </word>
+    <word normalized="have">have </word>
+    <word normalized="access">access </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="source">source </word>
+    <word normalized="code">code</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is">is </word>
+    <word normalized="intended">intended </word>
+    <word normalized="that">that </word>
+    <word normalized="Main">Main </word>
+    <word normalized="and">and </word>
+    <word normalized="Restricted">Restricted </word>
+    <word normalized="should">should </word>
+    <word normalized="contain">contain </word>
+    <word normalized="all">all </word>
+    <word normalized="software">software </word>
+    <word normalized="needed">needed </word>
+    <word normalized="for">for </word>
+    <word normalized="a">a </word>
+    <word normalized="general use">general-use </word>
+    <word normalized="Linux">Linux </word>
+    <word normalized="system">system</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Alternative">Alternative </word>
+    <word normalized="programs">programs </word>
+    <word normalized="for">for </word>
+    <word normalized="the">the </word>
+    <word normalized="same">same </word>
+    <word normalized="tasks">tasks </word>
+    <word normalized="and">and </word>
+    <word normalized="programs">programs </word>
+    <word normalized="for">for </word>
+    <word normalized="specialised">specialised </word>
+    <word normalized="applications" start="489800" stop="490750">applications </word>
+    <word normalized="are" start="490950" stop="491150">are </word>
+    <word normalized="placed" start="491150" stop="491520">placed </word>
+    <word normalized="in" start="491580" stop="491690">in </word>
+    <word normalized="Universe" start="491690" stop="492310">Universe </word>
+    <word normalized="and" start="492360" stop="492490">and </word>
+    <word normalized="Multiverse" start="494030" stop="495160">Multiverse</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Beyond" start="496160" stop="496190">Beyond </word>
+    <word normalized="the" start="496400" stop="496480">the </word>
+    <word normalized="official" start="496600" stop="498160">official </word>
+    <word normalized="repositories" start="498160" stop="498420">repositories </word>
+    <word normalized="is" start="499500" stop="499580">is </word>
+    <word normalized="Ubuntu" start="499790" stop="500410">Ubuntu </word>
+    <word normalized="Backports" start="500760" stop="501090">Backports</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="501640" stop="502700">which </word>
+    <word normalized="is" start="503560" stop="503900">is </word>
+    <word normalized="an" start="503900" stop="504120">an </word>
+    <word normalized="officially" start="505610" stop="506670">officially </word>
+    <word normalized="recognized" start="507230" stop="507690">recognized </word>
+    <word normalized="project" start="508330" stop="508850">project </word>
+    <word normalized="to" start="508850" stop="509130">to </word>
+    <word normalized="backport" start="509320" stop="510080">backport </word>
+    <word normalized="newer" start="510080" stop="510380">newer </word>
+    <word normalized="versions" start="510520" stop="510550">versions </word>
+    <word normalized="of" start="510910" stop="511910">of </word>
+    <word normalized="certain" start="511910" stop="512020">certain </word>
+    <word normalized="software" start="512630" stop="514150">software </word>
+    <word normalized="that" start="532220" stop="532820">that </word>
+    <word normalized="are" start="532820" stop="532910">are </word>
+    <word normalized="available" start="533330" stop="534160">available </word>
+    <word normalized="only" start="534470" stop="535790">only </word>
+    <word normalized="in" start="535790" stop="536060">in </word>
+    <word normalized="unstable" start="536060" stop="536120">unstable </word>
+    <word normalized="versions" start="536620" stop="538240">versions </word>
+    <word normalized="of" start="538710" stop="539780">of </word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="repository">repository </word>
+    <word normalized="is">is </word>
+    <word normalized="not">not </word>
+    <word normalized="comprehensive">comprehensive</word>
+    <word normalized="">; </word>
+    <word normalized="it">it </word>
+    <word normalized="mostly">mostly </word>
+    <word normalized="consists">consists </word>
+    <word normalized="of">of </word>
+    <word normalized="user requested">user-requested </word>
+    <word normalized="packages">packages</word>
+    <word normalized="">, </word>
+    <word normalized="which">which </word>
+    <word normalized="are">are </word>
+    <word normalized="approved">approved </word>
+    <word normalized="if">if </word>
+    <word normalized="they">they </word>
+    <word normalized="meet">meet </word>
+    <word normalized="quality">quality </word>
+    <word normalized="guidelines">guidelines</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="2">2 </word>
+    <word normalized="point">point </word>
+    <word normalized="three">3 </word>
+    <word normalized="Availability">Availability </word>
+    <word normalized="of">of </word>
+    <word normalized="proprietary">proprietary </word>
+    <word normalized="software">software </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="has">has </word>
+    <word normalized="a">a </word>
+    <word normalized="certification">certification </word>
+    <word normalized="system">system </word>
+    <word normalized="for">for </word>
+    <word normalized="third">third </word>
+    <word normalized="party">party </word>
+    <word normalized="software">software</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="certified">certified </word>
+    <word normalized="proprietary">proprietary </word>
+    <word normalized="software">software </word>
+    <word normalized="should">should </word>
+    <word normalized="work">work </word>
+    <word normalized="well">well </word>
+    <word normalized="in">in </word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="However">However</word>
+    <word normalized="">, </word>
+    <word normalized="many">many </word>
+    <word normalized="programs">programs </word>
+    <word normalized="familiar">familiar </word>
+    <word normalized="to">to </word>
+    <word normalized="users">users </word>
+    <word normalized="of">of </word>
+    <word normalized="non free">non-free </word>
+    <word normalized="operating">operating </word>
+    <word normalized="systems">systems</word>
+    <word normalized="">, </word>
+    <word normalized="such">such </word>
+    <word normalized="as">as </word>
+    <word normalized="Microsoft">Microsoft </word>
+    <word normalized="Windows">Windows</word>
+    <word normalized="">, </word>
+    <word normalized="are">are </word>
+    <word normalized="incompatible">incompatible </word>
+    <word normalized="and" start="540090" stop="540210">and </word>
+    <word normalized="are" start="540210" stop="540350">are </word>
+    <word normalized="not" start="540350" stop="540600">not </word>
+    <word normalized="Ubuntu" start="540600" stop="541020">Ubuntu </word>
+    <word normalized="certified" start="541020" stop="541640">certified</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Some" start="542240" stop="542530">Some </word>
+    <word normalized="proprietary" start="542530" stop="543210">proprietary </word>
+    <word normalized="software" start="543210" stop="543890">software </word>
+    <word normalized="that" start="556760" stop="557180">that </word>
+    <word normalized="does" start="557180" stop="557280">does </word>
+    <word normalized="not" start="557400" stop="557600">not </word>
+    <word normalized="limit" start="557600" stop="557940">limit </word>
+    <word normalized="distribution" start="558380" stop="558580">distribution </word>
+    <word normalized="is" start="558580" stop="560080">is </word>
+    <word normalized="included" start="560300" stop="560560">included </word>
+    <word normalized="in" start="561020" stop="561070">in </word>
+    <word normalized="Ubuntu s" start="561070" stop="561700">Ubuntu's </word>
+    <word normalized="multiverse" start="561760" stop="561860">multiverse </word>
+    <word normalized="component" start="562730" stop="563100">component</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Some" start="568380" stop="570510">Some </word>
+    <word normalized="examples" start="570510" stop="570660">examples </word>
+    <word normalized="of" start="570660" stop="571010">of </word>
+    <word normalized="software" start="571150" stop="571230">software </word>
+    <word normalized="not" start="571690" stop="572060">not </word>
+    <word normalized="distributed" start="572060" stop="572230">distributed </word>
+    <word normalized="by" start="572900" stop="572990">by </word>
+    <word normalized="Ubuntu" start="573120" stop="573940">Ubuntu </word>
+    <word normalized="include">include</word>
+    <word normalized="">: </word>
+    <word normalized="Software">Software </word>
+    <word normalized="that">that </word>
+    <word normalized="enables">enables </word>
+    <word normalized="the">the </word>
+    <word normalized="playback">playback </word>
+    <word normalized="of">of </word>
+    <word normalized="region locked">region-locked </word>
+    <word normalized="video">video </word>
+    <word normalized="D V D s">DVDs</word>
+    <word normalized="">, </word>
+    <word normalized="due">due </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="questionable">questionable </word>
+    <word normalized="legal">legal </word>
+    <word normalized="status">status </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="DeCSS">DeCSS </word>
+    <word normalized="open source">open-source </word>
+    <word normalized="D V D decoding">DVD-decoding </word>
+    <word normalized="library">library </word>
+    <word normalized="in">in </word>
+    <word normalized="some">some </word>
+    <word normalized="parts">parts </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="world">world</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">(</word>
+    <word normalized="Note">Note</word>
+    <word normalized="">: </word>
+    <word normalized="the">the </word>
+    <word normalized="library">library </word>
+    <word normalized="is">is </word>
+    <word normalized="needed">needed </word>
+    <word normalized="even">even </word>
+    <word normalized="when">when </word>
+    <word normalized="watching">watching </word>
+    <word normalized="a">a </word>
+    <word normalized="D V D">DVD </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="target">target </word>
+    <word normalized="region">region</word>
+    <word normalized="">.</word>
+    <word normalized="">) </word>
+  </sentence>
+  <sentence>
+    <word normalized="Encoding">Encoding </word>
+    <word normalized="and">and </word>
+    <word normalized="decoding">decoding </word>
+    <word normalized="libraries">libraries </word>
+    <word normalized="for">for </word>
+    <word normalized="many">many </word>
+    <word normalized="proprietary">proprietary </word>
+    <word normalized="media">media </word>
+    <word normalized="formats">formats </word>
+    <word normalized="such">such </word>
+    <word normalized="as">as </word>
+    <word normalized="Windows">Windows </word>
+    <word normalized="Media">Media</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Some" start="575590" stop="575870">Some </word>
+    <word normalized="popular" start="575870" stop="576320">popular </word>
+    <word normalized="proprietary" start="576320" stop="577340">proprietary </word>
+    <word normalized="web browser" start="577340" stop="577850">web-browser </word>
+    <word normalized="plugins" start="578000" stop="578640">plugins</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="578770" stop="578860">such </word>
+    <word normalized="as" start="578860" stop="579010">as </word>
+    <word normalized="Adobe s" start="579010" stop="579330">Adobe's </word>
+    <word normalized="">(</word>
+    <word normalized="formerly" start="579570" stop="579710">formerly </word>
+    <word normalized="Macromedia s" start="579710" stop="580720">Macromedia's</word>
+    <word normalized="">) </word>
+    <word normalized="Shockwave" start="580950" stop="581020">Shockwave </word>
+    <word normalized="">(</word>
+    <word normalized="there" start="581640" stop="582070">there </word>
+    <word normalized="is" start="582070" stop="582280">is </word>
+    <word normalized="no" start="582280" stop="582440">no </word>
+    <word normalized="Linux" start="582440" stop="582610">Linux </word>
+    <word normalized="version" start="582610" stop="582940">version</word>
+    <word normalized="">) </word>
+    <word normalized="and" start="583350" stop="583790">and </word>
+    <word normalized="Flash" start="583790" stop="584030">Flash </word>
+    <word normalized="">(</word>
+    <word normalized="a" start="584470" stop="584860">a </word>
+    <word normalized="workaround" start="584860" stop="584950">workaround </word>
+    <word normalized="to" start="584950" stop="585580">to </word>
+    <word normalized="the" start="585580" stop="585680">the </word>
+    <word normalized="specific" start="585680" stop="585750">specific </word>
+    <word normalized="prohibition" start="586310" stop="586380">prohibition </word>
+    <word normalized="against" start="586380" stop="586980">against </word>
+    <word normalized="redistribution" start="586980" stop="587340">redistribution </word>
+    <word normalized="in" start="588270" stop="588340">in </word>
+    <word normalized="its" start="588340" stop="588410">its </word>
+    <word normalized="EULA">EULA </word>
+    <word normalized="is" start="588810" stop="589230">is </word>
+    <word normalized="the" start="589490" stop="589640">the </word>
+    <word normalized="multiverse" start="589620" stop="590390">multiverse </word>
+    <word normalized="package" start="590960" stop="592420">package </word>
+    <word normalized="">"</word>
+    <word normalized="flashplugin nonfree" start="592870" stop="594450">flashplugin-nonfree</word>
+    <word normalized="">" </word>
+    <word normalized="which" start="594770" stop="594980">which </word>
+    <word normalized="automatically" start="594980" stop="595650">automatically </word>
+    <word normalized="downloads" start="600160" stop="602160">downloads </word>
+    <word normalized="the" start="603020" stop="603390">the </word>
+    <word normalized="Linux" start="603570" stop="603660">Linux </word>
+    <word normalized="Flash" start="604020" stop="604150">Flash </word>
+    <word normalized="plugin" start="604330" stop="604770">plugin </word>
+    <word normalized="directly" start="605280" stop="605940">directly </word>
+    <word normalized="from">from </word>
+    <word normalized="Adobe s">Adobe's </word>
+    <word normalized="site">site </word>
+    <word normalized="and">and </word>
+    <word normalized="then">then </word>
+    <word normalized="installs">installs </word>
+    <word normalized="it">it</word>
+    <word normalized="">) </word>
+    <word normalized="Section">Section </word>
+    <word normalized="2">2 </word>
+    <word normalized="point">point </word>
+    <word normalized="four">4 </word>
+    <word normalized="Releases">Releases </word>
+    <word normalized="Each">Each </word>
+    <word normalized="release">release </word>
+    <word normalized="has">has </word>
+    <word normalized="both">both </word>
+    <word normalized="a">a </word>
+    <word normalized="code">code </word>
+    <word normalized="name">name </word>
+    <word normalized="and">and </word>
+    <word normalized="a">a </word>
+    <word normalized="version">version </word>
+    <word normalized="number">number</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="version">version </word>
+    <word normalized="number">number </word>
+    <word normalized="is">is </word>
+    <word normalized="based">based </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="year">year </word>
+    <word normalized="and">and </word>
+    <word normalized="month">month </word>
+    <word normalized="of">of </word>
+    <word normalized="release">release</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="For">For </word>
+    <word normalized="example">example</word>
+    <word normalized="">, </word>
+    <word normalized="the">the </word>
+    <word normalized="very">very </word>
+    <word normalized="first">first </word>
+    <word normalized="release">release </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="four point one zero" start="636030" stop="636930">4.10</word>
+    <word normalized="">, </word>
+    <word normalized="was" start="637110" stop="637300">was </word>
+    <word normalized="released" start="637300" stop="637780">released </word>
+    <word normalized="on" start="637780" stop="637990">on </word>
+    <word normalized="October" start="637990" stop="638460">October </word>
+    <word normalized="twenty" start="658410" stop="660020">20</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand four" start="660180" stop="660720">2004</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Below" start="660930" stop="660990">Below </word>
+    <word normalized="is" start="660990" stop="661240">is </word>
+    <word normalized="a" start="661240" stop="661400">a </word>
+    <word normalized="list" start="661400" stop="661430">list </word>
+    <word normalized="of" start="661430" stop="661780">of </word>
+    <word normalized="previous" start="661920" stop="662740">previous </word>
+    <word normalized="and" start="663100" stop="663200">and </word>
+    <word normalized="planned" start="663200" stop="663380">planned </word>
+    <word normalized="releases" start="663600" stop="663680">releases</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu" start="663680" stop="663990">Ubuntu </word>
+    <word normalized="six point zero six" start="664660" stop="691500">6.06 </word>
+    <word normalized="">"</word>
+    <word normalized="Dapper" start="691840" stop="692080">Dapper </word>
+    <word normalized="Drake" start="692080" stop="692380">Drake</word>
+    <word normalized="">" </word>
+    <word normalized="was" start="692380" stop="692710">was </word>
+    <word normalized="released" start="692860" stop="692890">released </word>
+    <word normalized="on" start="692890" stop="693380">on </word>
+    <word normalized="June" start="693380" stop="693760">June </word>
+    <word normalized="one" start="693940" stop="694310">1</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand six" start="694310" stop="695310">2006</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="695580" stop="696060">and </word>
+    <word normalized="included" start="696060" stop="696190">included </word>
+    <word normalized="GNOME">GNOME </word>
+    <word normalized="two point one four" start="696780" stop="698230">2.14 </word>
+    <word normalized="">(</word>
+    <word normalized="or" start="698370" stop="700700">or </word>
+    <word normalized="KDE">KDE </word>
+    <word normalized="three five two" start="762270" stop="764660">3.5.2 </word>
+    <word normalized="in" start="764660" stop="764730">in </word>
+    <word normalized="Kubuntu" start="764840" stop="765200">Kubuntu</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="Mozilla" start="765200" stop="765700">Mozilla </word>
+    <word normalized="Firefox" start="766280" stop="766330">Firefox </word>
+    <word normalized="1 five zero three" start="766330" stop="767860">1.5.0.3</word>
+    <word normalized="">, </word>
+    <word normalized="OpenOffice dot org" start="768060" stop="769400">OpenOffice.org </word>
+    <word normalized="two zero two" start="769400" stop="770120">2.0.2</word>
+    <word normalized="">, </word>
+    <word normalized="Xorg" start="770120" stop="770250">Xorg </word>
+    <word normalized="seven point zero" start="770840" stop="774130">7.0</word>
+    <word normalized="">, </word>
+    <word normalized="G C C">GCC </word>
+    <word normalized="four zero three" start="775390" stop="778170">4.0.3</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="778170" stop="778400">and </word>
+    <word normalized="version" start="778560" stop="778640">version </word>
+    <word normalized="two six fifteen" start="778970" stop="779100">2.6.15 </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="Linux">Linux </word>
+    <word normalized="kernel">kernel </word>
+    <word normalized="at">at </word>
+    <word normalized="release">release </word>
+    <word normalized="time">time</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Several">Several </word>
+    <word normalized="packages">packages </word>
+    <word normalized="have">have </word>
+    <word normalized="been">been </word>
+    <word normalized="upgraded">upgraded </word>
+    <word normalized="since">since</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Release">Release </word>
+    <word normalized="six point zero six">6.06 </word>
+    <word normalized="is">is </word>
+    <word normalized="labelled">labelled </word>
+    <word normalized="as">as </word>
+    <word normalized="a">a </word>
+    <word normalized="Long">Long </word>
+    <word normalized="Term">Term </word>
+    <word normalized="Support">Support </word>
+    <word normalized="">(</word>
+    <word normalized="L T S">LTS</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="to">to </word>
+    <word normalized="indicate">indicate </word>
+    <word normalized="that">that </word>
+    <word normalized="it">it </word>
+    <word normalized="will">will </word>
+    <word normalized="be">be </word>
+    <word normalized="supported">supported </word>
+    <word normalized="with">with </word>
+    <word normalized="updates">updates </word>
+    <word normalized="for">for </word>
+    <word normalized="three">three </word>
+    <word normalized="years">years </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="desktop">desktop </word>
+    <word normalized="and">and </word>
+    <word normalized="five">five </word>
+    <word normalized="years">years </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="server">server</word>
+    <word normalized="">, </word>
+    <word normalized="with">with </word>
+    <word normalized="paid">paid </word>
+    <word normalized="technical">technical </word>
+    <word normalized="support">support </word>
+    <word normalized="available">available </word>
+    <word normalized="from">from </word>
+    <word normalized="Canonical">Canonical </word>
+    <word normalized="limited">Ltd. </word>
+    <word normalized="also">also </word>
+    <word normalized="for">for </word>
+    <word normalized="three">three </word>
+    <word normalized="and">and </word>
+    <word normalized="five">five </word>
+    <word normalized="years">years</word>
+    <word normalized="">, </word>
+    <word normalized="respectively">respectively</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="2">2 </word>
+    <word normalized="point">point </word>
+    <word normalized="five">5 </word>
+    <word normalized="Variants">Variants </word>
+    <word normalized="There">There </word>
+    <word normalized="are">are </word>
+    <word normalized="several">several </word>
+    <word normalized="variants">variants </word>
+    <word normalized="besides">besides </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="available">available </word>
+    <word normalized="as">as </word>
+    <word normalized="CD">CD </word>
+    <word normalized="isos">isos </word>
+    <word normalized="for">for </word>
+    <word normalized="download">download </word>
+    <word normalized="and in">and—in </word>
+    <word normalized="the">the </word>
+    <word normalized="case">case </word>
+    <word normalized="of">of </word>
+    <word normalized="Kubuntu">Kubuntu </word>
+    <word normalized="and">and </word>
+    <word normalized="Edubuntu for">Edubuntu—for </word>
+    <word normalized="free">free </word>
+    <word normalized="mail">mail </word>
+    <word normalized="order">order </word>
+    <word normalized="from">from </word>
+    <word normalized="ShipIt">ShipIt</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="These">These </word>
+    <word normalized="simply">simply </word>
+    <word normalized="install">install </word>
+    <word normalized="a">a </word>
+    <word normalized="different">different </word>
+    <word normalized="set">set </word>
+    <word normalized="of">of </word>
+    <word normalized="packages">packages </word>
+    <word normalized="from">from </word>
+    <word normalized="the">the </word>
+    <word normalized="original">original </word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="but">but </word>
+    <word normalized="since">since </word>
+    <word normalized="they">they </word>
+    <word normalized="draw">draw </word>
+    <word normalized="additional">additional </word>
+    <word normalized="packages">packages </word>
+    <word normalized="and">and </word>
+    <word normalized="updates">updates </word>
+    <word normalized="from">from </word>
+    <word normalized="the">the </word>
+    <word normalized="same">same </word>
+    <word normalized="repositories">repositories </word>
+    <word normalized="as">as </word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="all">all </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="same">same </word>
+    <word normalized="software">software </word>
+    <word normalized="is">is </word>
+    <word normalized="available">available </word>
+    <word normalized="for">for </word>
+    <word normalized="each">each </word>
+    <word normalized="of">of </word>
+    <word normalized="them">them</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="These">These </word>
+    <word normalized="different">different </word>
+    <word normalized="versions">versions </word>
+    <word normalized="correspond">correspond </word>
+    <word normalized="to">to </word>
+    <word normalized="development">development </word>
+    <word normalized="efforts">efforts </word>
+    <word normalized="run">run </word>
+    <word normalized="by">by </word>
+    <word normalized="largely">largely </word>
+    <word normalized="separate">separate </word>
+    <word normalized="groups">groups </word>
+    <word normalized="of">of </word>
+    <word normalized="people">people </word>
+    <word normalized="who">who </word>
+    <word normalized="try">try </word>
+    <word normalized="to">to </word>
+    <word normalized="bring">bring </word>
+    <word normalized="different">different </word>
+    <word normalized="functionalities">functionalities </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="distribution">distribution</word>
+    <word normalized="">: </word>
+    <word normalized="Kubuntu">Kubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="desktop">desktop </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="using">using </word>
+    <word normalized="KDE">KDE </word>
+    <word normalized="rather">rather </word>
+    <word normalized="than">than </word>
+    <word normalized="GNOME">GNOME </word>
+    <word normalized="Edubuntu">Edubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="designed">designed </word>
+    <word normalized="for">for </word>
+    <word normalized="classrooms">classrooms </word>
+    <word normalized="using">using </word>
+    <word normalized="GNOME">GNOME </word>
+    <word normalized="Xubuntu">Xubuntu</word>
+    <word normalized="">, </word>
+    <word normalized="_a">a </word>
+    <word normalized="">"</word>
+    <word normalized="lightweight">lightweight</word>
+    <word normalized="">" </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="based">based </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="Xfce">Xfce </word>
+    <word normalized="desktop">desktop </word>
+    <word normalized="environment">environment </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="Server">Server </word>
+    <word normalized="Edition">Edition </word>
+    <word normalized="has">has </word>
+    <word normalized="been">been </word>
+    <word normalized="released">released </word>
+    <word normalized="alongside">alongside </word>
+    <word normalized="the">the </word>
+    <word normalized="desktop">desktop </word>
+    <word normalized="version">version </word>
+    <word normalized="since">since </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="five point one zero">5.10 </word>
+    <word normalized="Breezy">Breezy </word>
+    <word normalized="Badger">Badger</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This">This </word>
+    <word normalized="provides">provides </word>
+    <word normalized="server">server </word>
+    <word normalized="applications">applications </word>
+    <word normalized="such">such </word>
+    <word normalized="as">as </word>
+    <word normalized="an">an </word>
+    <word normalized="e mail">e-mail </word>
+    <word normalized="server">server</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="LAMP">LAMP </word>
+    <word normalized="web">web </word>
+    <word normalized="server">server </word>
+    <word normalized="platform">platform</word>
+    <word normalized="">, </word>
+    <word normalized="as">as </word>
+    <word normalized="well">well </word>
+    <word normalized="as">as </word>
+    <word normalized="tools">tools </word>
+    <word normalized="for">for </word>
+    <word normalized="D N S">DNS</word>
+    <word normalized="">, </word>
+    <word normalized="file">file </word>
+    <word normalized="serving">serving </word>
+    <word normalized="and">and </word>
+    <word normalized="database">database </word>
+    <word normalized="management">management</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Compared">Compared </word>
+    <word normalized="with">with </word>
+    <word normalized="the">the </word>
+    <word normalized="original">original </word>
+    <word normalized="desktop">desktop </word>
+    <word normalized="edition">edition</word>
+    <word normalized="">, </word>
+    <word normalized="the">the </word>
+    <word normalized="server">server </word>
+    <word normalized="edition">edition </word>
+    <word normalized="comes">comes </word>
+    <word normalized="as">as </word>
+    <word normalized="a">a </word>
+    <word normalized="smaller">smaller </word>
+    <word normalized="CD">CD </word>
+    <word normalized="image">image </word>
+    <word normalized="and">and </word>
+    <word normalized="has">has </word>
+    <word normalized="a">a </word>
+    <word normalized="lower">lower </word>
+    <word normalized="level">level </word>
+    <word normalized="of">of </word>
+    <word normalized="hardware">hardware </word>
+    <word normalized="requirements">requirements</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="runs">runs </word>
+    <word normalized="on">on </word>
+    <word normalized="a">a </word>
+    <word normalized="minimum">minimum </word>
+    <word normalized="of">of </word>
+    <word normalized="five hundred">500 </word>
+    <word normalized="megabytes">megabytes </word>
+    <word normalized="of">of </word>
+    <word normalized="hard">hard </word>
+    <word normalized="disk">disk </word>
+    <word normalized="and">and </word>
+    <word normalized="sixty four">64 </word>
+    <word normalized="megabytes">megabytes </word>
+    <word normalized="of">of </word>
+    <word normalized="RAM">RAM</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="point">point </word>
+    <word normalized="six">6 </word>
+    <word normalized="Response">Response </word>
+    <word normalized="The">The </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="page">page </word>
+    <word normalized="on">on </word>
+    <word normalized="Distrowatch dot com">Distrowatch.com </word>
+    <word normalized="has">has </word>
+    <word normalized="been">been </word>
+    <word normalized="the" start="791440" stop="791560">the </word>
+    <word normalized="most" start="791560" stop="791900">most </word>
+    <word normalized="frequently" start="791900" stop="792440">frequently </word>
+    <word normalized="accessed" start="792440" stop="793020">accessed </word>
+    <word normalized="of" start="793020" stop="793090">of </word>
+    <word normalized="their" start="793090" stop="793270">their </word>
+    <word normalized="comprehensive" start="797150" stop="797730">comprehensive </word>
+    <word normalized="list" start="797730" stop="798210">list </word>
+    <word normalized="of" start="798430" stop="799730">of </word>
+    <word normalized="Linux" start="799860" stop="800160">Linux </word>
+    <word normalized="distributions" start="800540" stop="801550">distributions </word>
+    <word normalized="for" start="802220" stop="802480">for </word>
+    <word normalized="more" start="802740" stop="802850">more </word>
+    <word normalized="than" start="803080" stop="803170">than </word>
+    <word normalized="a" start="803320" stop="803350">a </word>
+    <word normalized="year" start="803510" stop="803650">year</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="803650" stop="803760">and </word>
+    <word normalized="Ubuntu" start="804040" stop="804090">Ubuntu </word>
+    <word normalized="was" start="804090" stop="804490">was </word>
+    <word normalized="awarded" start="887920" stop="890530">awarded </word>
+    <word normalized="the" start="890530" stop="891070">the </word>
+    <word normalized="Reader" start="891070" stop="891160">Reader </word>
+    <word normalized="Award" start="891490" stop="893590">Award </word>
+    <word normalized="for" start="893910" stop="894070">for </word>
+    <word normalized="best" start="894410" stop="894440">best </word>
+    <word normalized="Linux" start="894790" stop="895040">Linux </word>
+    <word normalized="distribution" start="895510" stop="895970">distribution </word>
+    <word normalized="at" start="895970" stop="896630">at </word>
+    <word normalized="the" start="896800" stop="898780">the </word>
+    <word normalized="two thousand five" start="899250" stop="930690">2005 </word>
+    <word normalized="LinuxWorld" start="930870" stop="931020">LinuxWorld </word>
+    <word normalized="Conference" start="931680" stop="931940">Conference </word>
+    <word normalized="and" start="932770" stop="933080">and </word>
+    <word normalized="Expo" start="933080" stop="933230">Expo </word>
+    <word normalized="in" start="933230" stop="933670">in </word>
+    <word normalized="London" start="933730" stop="934090">London</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="has" start="935420" stop="937130">has </word>
+    <word normalized="been" start="938050" stop="938360">been </word>
+    <word normalized="favourably" start="938480" stop="938680">favourably </word>
+    <word normalized="reviewed" start="938680" stop="939010">reviewed </word>
+    <word normalized="in" start="939330" stop="939470">in </word>
+    <word normalized="online" start="939470" stop="939530">online </word>
+    <word normalized="and">and </word>
+    <word normalized="print">print </word>
+    <word normalized="publications">publications</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Many">Many </word>
+    <word normalized="reviewers">reviewers </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="point">point </word>
+    <word normalized="out">out </word>
+    <word normalized="a">a </word>
+    <word normalized="main">main </word>
+    <word normalized="part">part </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu s">Ubuntu's </word>
+    <word normalized="success">success </word>
+    <word normalized="is">is </word>
+    <word normalized="the">the </word>
+    <word normalized="fact">fact </word>
+    <word normalized="it">it </word>
+    <word normalized="has">has </word>
+    <word normalized="a">a </word>
+    <word normalized="very">very </word>
+    <word normalized="large">large </word>
+    <word normalized="community">community</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="three">3 </word>
+    <word normalized="Derivative">Derivative </word>
+    <word normalized="projects">projects </word>
+    <word normalized="Mark">Mark </word>
+    <word normalized="Shuttleworth">Shuttleworth </word>
+    <word normalized="has">has </word>
+    <word normalized="endorsed">endorsed </word>
+    <word normalized="the">the </word>
+    <word normalized="creation">creation </word>
+    <word normalized="of">of </word>
+    <word normalized="an">an </word>
+    <word normalized="Ubuntu libre">Ubuntu-libre </word>
+    <word normalized="distribution">distribution</word>
+    <word normalized="">, </word>
+    <word normalized="using">using </word>
+    <word normalized="only">only </word>
+    <word normalized="F S F approved">FSF-approved </word>
+    <word normalized="free">free </word>
+    <word normalized="software">software</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="These">These </word>
+    <word normalized="projects">projects </word>
+    <word normalized="are">are </word>
+    <word normalized="closely">closely </word>
+    <word normalized="linked">linked </word>
+    <word normalized="to">to </word>
+    <word normalized="Ubuntu">Ubuntu</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="of">of </word>
+    <word normalized="two thousand six">2006</word>
+    <word normalized="">, </word>
+    <word normalized="their">their </word>
+    <word normalized="releases">releases </word>
+    <word normalized="are">are </word>
+    <word normalized="simultaneous">simultaneous </word>
+    <word normalized="with">with </word>
+    <word normalized="Ubuntu s">Ubuntu's</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="packages">packages </word>
+    <word normalized="are">are </word>
+    <word normalized="drawn">drawn </word>
+    <word normalized="from">from </word>
+    <word normalized="the">the </word>
+    <word normalized="same">same </word>
+    <word normalized="official">official </word>
+    <word normalized="repositories">repositories </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="uses">uses</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There">There </word>
+    <word normalized="are">are </word>
+    <word normalized="also">also </word>
+    <word normalized="several">several </word>
+    <word normalized="unofficial">unofficial </word>
+    <word normalized="derivatives">derivatives</word>
+    <word normalized="">: </word>
+    <word normalized="nUbuntu">nUbuntu</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="including">including </word>
+    <word normalized="many">many </word>
+    <word normalized="security">security </word>
+    <word normalized="tools">tools</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="Lite">Lite</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="for">for </word>
+    <word normalized="legacy">legacy </word>
+    <word normalized="systems">systems </word>
+    <word normalized="">(</word>
+    <word normalized="older">older </word>
+    <word normalized="computers">computers</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+    <word normalized="zUbuntu">zUbuntu</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="port">port </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="IBM">IBM </word>
+    <word normalized="eServer">eServer </word>
+    <word normalized="zSeries">zSeries </word>
+    <word normalized="mainframe">mainframe</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ebuntu">Ebuntu</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="fork">fork </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="with">with </word>
+    <word normalized="the">the </word>
+    <word normalized="Enlightenment">Enlightenment </word>
+    <word normalized="0 17">0.17 </word>
+    <word normalized="window">window </word>
+    <word normalized="manager">manager</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Fluxbuntu">Fluxbuntu</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="distribution">distribution </word>
+    <word normalized="using">using </word>
+    <word normalized="Fluxbox">Fluxbox </word>
+    <word normalized="It">It </word>
+    <word normalized="was">was </word>
+    <word normalized="widely">widely </word>
+    <word normalized="rumoured">rumoured </word>
+    <word normalized="that">that </word>
+    <word normalized="Google">Google </word>
+    <word normalized="was">was </word>
+    <word normalized="building">building </word>
+    <word normalized="and">and </word>
+    <word normalized="would">would </word>
+    <word normalized="be">be </word>
+    <word normalized="distributing">distributing </word>
+    <word normalized="an">an </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="derivative">derivative </word>
+    <word normalized="called">called </word>
+    <word normalized="Goobuntu">Goobuntu</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Google">Google </word>
+    <word normalized="confirmed">confirmed </word>
+    <word normalized="that">that </word>
+    <word normalized="they">they </word>
+    <word normalized="have">have </word>
+    <word normalized="created">created </word>
+    <word normalized="a">a </word>
+    <word normalized="modified">modified </word>
+    <word normalized="version">version </word>
+    <word normalized="of">of </word>
+    <word normalized="Ubuntu">Ubuntu </word>
+    <word normalized="but">but </word>
+    <word normalized="also">also </word>
+    <word normalized="insisted">insisted </word>
+    <word normalized="that">that </word>
+    <word normalized="they">they </word>
+    <word normalized="have">have </word>
+    <word normalized="no">no </word>
+    <word normalized="plans">plans </word>
+    <word normalized="to">to </word>
+    <word normalized="distribute">distribute </word>
+    <word normalized="this">this </word>
+    <word normalized="version">version </word>
+    <word normalized="outside">outside </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="company">company</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="four">4 </word>
+    <word normalized="See">See </word>
+    <word normalized="also">also </word>
+    <word normalized="Comparison">Comparison </word>
+    <word normalized="of">of </word>
+    <word normalized="Linux">Linux </word>
+    <word normalized="distributions">distributions </word>
+    <word normalized="Go">Go </word>
+    <word normalized="Open">Open </word>
+    <word normalized="Source">Source </word>
+  </sentence>
+</alignment>

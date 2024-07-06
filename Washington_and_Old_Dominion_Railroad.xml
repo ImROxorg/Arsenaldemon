@@ -1,0 +1,34 @@
+<alignment>
+  <sentence>
+    <word normalized="Washington" start="50" stop="750">Washington </word>
+    <word normalized="and" start="750" stop="1060">and </word>
+    <word normalized="Old" start="1060" stop="1290">Old </word>
+    <word normalized="Dominion" start="1290" stop="1730">Dominion </word>
+    <word normalized="Railroad" start="1730" stop="2250">Railroad </word>
+    <word normalized="Washington" start="4570" stop="6360">Washington </word>
+    <word normalized="and" start="6360" stop="6660">and </word>
+    <word normalized="Old" start="6660" stop="6910">Old </word>
+    <word normalized="Dominion" start="6910" stop="7310">Dominion </word>
+    <word normalized="Railroad" start="7310" stop="7810">Railroad </word>
+    <word normalized="is" start="10090" stop="10120">is </word>
+    <word normalized="a" start="10120" stop="10220">a </word>
+    <word normalized="former" start="10220" stop="10360">former </word>
+    <word normalized="railroad" start="10990" stop="11160">railroad </word>
+    <word normalized="located" start="11160" stop="11880">located </word>
+    <word normalized="in" start="11880" stop="12190">in </word>
+    <word normalized="Northern" start="12190" stop="12370">Northern </word>
+    <word normalized="Virginia" start="13050" stop="13440">Virginia </word>
+    <word normalized="now" start="14060" stop="14090">now </word>
+    <word normalized="used" start="14090" stop="14160">used </word>
+    <word normalized="as" start="14160" stop="14410">as </word>
+    <word normalized="a" start="14410" stop="14580">a </word>
+    <word normalized="recreational" start="14580" stop="14620">recreational </word>
+    <word normalized="trail" start="15240" stop="15730">trail</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="15730" stop="16010">Table </word>
+    <word normalized="of" start="16010" stop="16440">of </word>
+    <word normalized="contents" start="16440" stop="16620">contents </word>
+  </sentence>
+</alignment>
