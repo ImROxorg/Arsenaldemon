@@ -1,0 +1,374 @@
+<alignment>
+  <sentence>
+    <word normalized="Three" start="5510" stop="6440">Three </word>
+    <word normalized="men" start="7300" stop="7720">men </word>
+    <word normalized="make" start="7980" stop="8670">make </word>
+    <word normalized="a" start="8990" stop="9470">a </word>
+    <word normalized="tiger" start="9760" stop="10120">tiger </word>
+    <word normalized="Three" start="10120" stop="10490">Three </word>
+    <word normalized="men" start="10490" stop="10810">men </word>
+    <word normalized="make" start="10960" stop="11000">make </word>
+    <word normalized="a" start="11000" stop="11110">a </word>
+    <word normalized="tiger" start="11230" stop="11510">tiger </word>
+    <word normalized="">(</word>
+    <word normalized="Chinese" start="11510" stop="11740">Chinese</word>
+    <word normalized="">: </word>
+    <word normalized="三人成虎" start="11740" stop="12010">三人成虎 </word>
+    <word normalized="">; </word>
+    <word normalized="Pinyin" start="12790" stop="13090">Pinyin</word>
+    <word normalized="">: </word>
+    <word normalized="sān" start="13090" stop="13570">sān </word>
+    <word normalized="ren" start="13740" stop="14150">rén </word>
+    <word normalized="cheng" start="14150" stop="14310">chéng </word>
+    <word normalized="hǔ" start="14500" stop="14530">hǔ</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="18180" stop="18300">is </word>
+    <word normalized="a" start="18300" stop="18340">a </word>
+    <word normalized="Chinese" start="18340" stop="18790">Chinese </word>
+    <word normalized="proverb" start="18790" stop="19350">proverb </word>
+    <word normalized="or" start="19570" stop="19750">or </word>
+    <word normalized="four character" start="19750" stop="20410">four-character </word>
+    <word normalized="idiom" start="20410" stop="20950">idiom</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="refers" start="21790" stop="22210">refers </word>
+    <word normalized="to" start="22210" stop="22410">to </word>
+    <word normalized="the">the </word>
+    <word normalized="idea" start="22410" stop="22830">idea </word>
+    <word normalized="that" start="22830" stop="23190">that </word>
+    <word normalized="if" start="23460" stop="23580">if </word>
+    <word normalized="an" start="23580" stop="23640">an </word>
+    <word normalized="unfounded" start="23640" stop="24150">unfounded </word>
+    <word normalized="premise" start="24150" stop="24740">premise </word>
+    <word normalized="or" start="24780" stop="25010">or </word>
+    <word normalized="urban" start="25010" stop="25360">urban </word>
+    <word normalized="legend" start="25360" stop="25810">legend </word>
+    <word normalized="is" start="26030" stop="26220">is </word>
+    <word normalized="mentioned" start="26220" stop="26700">mentioned </word>
+    <word normalized="and" start="26750" stop="26880">and </word>
+    <word normalized="repeated" start="26880" stop="27290">repeated </word>
+    <word normalized="by" start="27290" stop="27400">by </word>
+    <word normalized="many" start="27400" stop="27890">many </word>
+    <word normalized="individuals">individuals</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="28820" stop="28920">the </word>
+    <word normalized="premise" start="28920" stop="29380">premise </word>
+    <word normalized="will" start="29380" stop="29530">will </word>
+    <word normalized="be" start="29530" stop="29610">be </word>
+    <word normalized="erroneously" start="29610" stop="30360">erroneously </word>
+    <word normalized="accepted" start="30360" stop="30850">accepted </word>
+    <word normalized="as" start="30900" stop="30980">as </word>
+    <word normalized="truth">truth</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This">This </word>
+    <word normalized="concept" start="32700" stop="33110">concept </word>
+    <word normalized="is" start="33110" stop="33230">is </word>
+    <word normalized="analogous" start="33230" stop="33850">analogous </word>
+    <word normalized="to" start="33850" stop="34020">to </word>
+    <word normalized="communal" start="34020" stop="34520">communal </word>
+    <word normalized="reinforcement" start="34520" stop="35320">reinforcement </word>
+    <word normalized="or" start="35600" stop="35790">or </word>
+    <word normalized="the" start="35790" stop="35850">the </word>
+    <word normalized="logical" start="35850" stop="36270">logical </word>
+    <word normalized="fallacy" start="36270" stop="36840">fallacy </word>
+    <word normalized="known">known </word>
+    <word normalized="as" start="37120" stop="37410">as </word>
+    <word normalized="argumentum" start="37620" stop="38420">argumentum </word>
+    <word normalized="ad" start="38690" stop="38900">ad </word>
+    <word normalized="populum" start="38970" stop="39550">populum </word>
+    <word normalized="or" start="39970" stop="40190">or </word>
+    <word normalized="appeal" start="40190" stop="40510">appeal </word>
+    <word normalized="to" start="40510" stop="40740">to </word>
+    <word normalized="belief" start="40740" stop="41210">belief</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="42660" stop="42770">The </word>
+    <word normalized="proverb" start="42770" stop="43410">proverb </word>
+    <word normalized="came" start="43610" stop="43890">came </word>
+    <word normalized="from" start="43890" stop="44150">from </word>
+    <word normalized="the" start="44710" stop="44810">the </word>
+    <word normalized="story" start="45260" stop="45290">story </word>
+    <word normalized="of" start="45900" stop="46190">of </word>
+    <word normalized="an" start="46330" stop="46440">an </word>
+    <word normalized="alleged" start="46440" stop="46700">alleged </word>
+    <word normalized="speech">speech </word>
+    <word normalized="by">by </word>
+    <word normalized="Pang">Pang </word>
+    <word normalized="Cong">Cong</word>
+    <word normalized="">, </word>
+    <word normalized="an">an </word>
+    <word normalized="official">official </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="48310" stop="48400">the </word>
+    <word normalized="state" start="48400" stop="48770">state </word>
+    <word normalized="of" start="48770" stop="48950">of </word>
+    <word normalized="Wei" start="48950" stop="49400">Wei </word>
+    <word normalized="in" start="49440" stop="49550">in </word>
+    <word normalized="the" start="49550" stop="49640">the </word>
+    <word normalized="Warring" start="49640" stop="49940">Warring </word>
+    <word normalized="States" start="49940" stop="50390">States </word>
+    <word normalized="Period" start="50390" stop="50800">Period </word>
+    <word normalized="">(</word>
+    <word normalized="fifth" start="50800" stop="51070">5th </word>
+    <word normalized="to">to </word>
+    <word normalized="second">2th </word>
+    <word normalized="century">century </word>
+    <word normalized="BCE">BCE</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="According" start="52700" stop="53110">According </word>
+    <word normalized="to" start="53110" stop="53190">to </word>
+    <word normalized="the" start="53190" stop="53280">the </word>
+    <word normalized="Warring" start="53280" stop="53600">Warring </word>
+    <word normalized="States" start="53600" stop="54030">States </word>
+    <word normalized="Records" start="54030" stop="54630">Records</word>
+    <word normalized="">, </word>
+    <word normalized="before" start="57070" stop="57330">before </word>
+    <word normalized="he" start="57330" stop="57390">he </word>
+    <word normalized="left" start="57390" stop="57730">left </word>
+    <word normalized="on" start="57730" stop="57890">on </word>
+    <word normalized="a" start="57890" stop="57920">a </word>
+    <word normalized="trip" start="57920" stop="58290">trip </word>
+    <word normalized="to" start="58370" stop="58440">to </word>
+    <word normalized="the" start="58440" stop="58510">the </word>
+    <word normalized="state" start="58510" stop="58860">state </word>
+    <word normalized="of">of </word>
+    <word normalized="Zhao" start="58860" stop="59220">Zhao</word>
+    <word normalized="">, </word>
+    <word normalized="Pang" start="59520" stop="59790">Pang </word>
+    <word normalized="Cong">Cong </word>
+    <word normalized="asked" start="60160" stop="60420">asked </word>
+    <word normalized="the" start="60420" stop="60500">the </word>
+    <word normalized="King" start="60500" stop="60850">King </word>
+    <word normalized="of" start="60850" stop="61100">of </word>
+    <word normalized="Wei" start="61140" stop="61470">Wei </word>
+    <word normalized="whether" start="61680" stop="61880">whether </word>
+    <word normalized="he" start="61880" stop="61980">he </word>
+    <word normalized="would" start="61980" stop="62100">would </word>
+    <word normalized="hypothetically" start="62100" stop="62820">hypothetically </word>
+    <word normalized="believe" start="62820" stop="63200">believe </word>
+    <word normalized="in" start="63230" stop="63380">in </word>
+    <word normalized="one" start="63380" stop="63560">one </word>
+    <word normalized="civilian s" start="63560" stop="64270">civilian's </word>
+    <word normalized="report" start="64330" stop="64370">report </word>
+    <word normalized="that" start="64660" stop="64850">that </word>
+    <word normalized="a" start="64850" stop="64900">a </word>
+    <word normalized="tiger" start="64900" stop="65270">tiger </word>
+    <word normalized="was" start="65270" stop="65470">was </word>
+    <word normalized="roaming" start="65500" stop="65930">roaming </word>
+    <word normalized="the" start="65930" stop="66050">the </word>
+    <word normalized="markets" start="66050" stop="66590">markets </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="capital">capital </word>
+    <word normalized="city">city</word>
+    <word normalized="">, </word>
+    <word normalized="to" start="68220" stop="68330">to </word>
+    <word normalized="which" start="68330" stop="68620">which </word>
+    <word normalized="the" start="68620" stop="68710">the </word>
+    <word normalized="King" start="68710" stop="68940">King </word>
+    <word normalized="replied" start="68940" stop="69550">replied </word>
+    <word normalized="no" start="69550" stop="69820">no</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Pang" start="70550" stop="70830">Pang </word>
+    <word normalized="Cong" start="71170" stop="71200">Cong </word>
+    <word normalized="asked" start="71200" stop="71290">asked </word>
+    <word normalized="what" start="71290" stop="71510">what </word>
+    <word normalized="the" start="71510" stop="71650">the </word>
+    <word normalized="King" start="71650" stop="71750">King </word>
+    <word normalized="thought" start="72070" stop="72400">thought </word>
+    <word normalized="if" start="72830" stop="73020">if </word>
+    <word normalized="two" start="73020" stop="73280">two </word>
+    <word normalized="people" start="73280" stop="73600">people </word>
+    <word normalized="reported" start="73600" stop="74050">reported </word>
+    <word normalized="the" start="74050" stop="74130">the </word>
+    <word normalized="same" start="74130" stop="74440">same </word>
+    <word normalized="thing" start="74440" stop="74850">thing</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="75040" stop="75220">and </word>
+    <word normalized="the" start="75220" stop="75280">the </word>
+    <word normalized="King" start="75280" stop="75620">King </word>
+    <word normalized="said" start="75620" stop="76020">said </word>
+    <word normalized="he" start="76020" stop="76110">he </word>
+    <word normalized="would" start="76110" stop="76250">would </word>
+    <word normalized="begin" start="76320" stop="76680">begin </word>
+    <word normalized="to" start="76680" stop="76750">to </word>
+    <word normalized="wonder" start="76750" stop="77290">wonder</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Pang">Pang </word>
+    <word normalized="Cong" start="77340" stop="78020">Cong </word>
+    <word normalized="then" start="78360" stop="78580">then </word>
+    <word normalized="asked" start="78580" stop="79010">asked</word>
+    <word normalized="">, </word>
+    <word normalized="what" start="79250" stop="79410">what </word>
+    <word normalized="if" start="79410" stop="79510">if </word>
+    <word normalized="three" start="79510" stop="79780">three </word>
+    <word normalized="people" start="79780" stop="80140">people </word>
+    <word normalized="all" start="80140" stop="80350">all </word>
+    <word normalized="claimed" start="80350" stop="80790">claimed </word>
+    <word normalized="to" start="80790" stop="80910">to </word>
+    <word normalized="have">have </word>
+    <word normalized="seen">seen </word>
+    <word normalized="a">a </word>
+    <word normalized="tiger">tiger</word>
+    <word normalized="">? </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="82140" stop="82260">The </word>
+    <word normalized="King" start="82260" stop="82430">King </word>
+    <word normalized="replied" start="82430" stop="82930">replied </word>
+    <word normalized="that" start="82960" stop="83190">that </word>
+    <word normalized="he" start="83190" stop="83250">he </word>
+    <word normalized="would">would </word>
+    <word normalized="believe" start="83340" stop="83700">believe </word>
+    <word normalized="in" start="83750" stop="83900">in </word>
+    <word normalized="it" start="83900" stop="84200">it</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Pang">Pang </word>
+    <word normalized="Cong" start="85130" stop="85340">Cong </word>
+    <word normalized="reminded" start="85750" stop="86260">reminded </word>
+    <word normalized="the" start="86260" stop="86390">the </word>
+    <word normalized="King" start="86390" stop="86700">King </word>
+    <word normalized="that" start="86730" stop="87040">that </word>
+    <word normalized="the" start="87300" stop="87370">the </word>
+    <word normalized="notion" start="87370" stop="87790">notion </word>
+    <word normalized="of" start="87790" stop="87930">of </word>
+    <word normalized="a" start="87930" stop="87970">a </word>
+    <word normalized="live" start="87970" stop="88290">live </word>
+    <word normalized="tiger" start="88290" stop="88710">tiger </word>
+    <word normalized="in" start="88710" stop="88840">in </word>
+    <word normalized="a" start="88840" stop="88880">a </word>
+    <word normalized="crowded" start="88880" stop="89410">crowded </word>
+    <word normalized="market" start="89410" stop="89900">market </word>
+    <word normalized="was" start="90150" stop="90360">was </word>
+    <word normalized="absurd" start="90360" stop="90870">absurd</word>
+    <word normalized="">, </word>
+    <word normalized="yet" start="91640" stop="91970">yet </word>
+    <word normalized="when" start="91970" stop="92240">when </word>
+    <word normalized="repeated" start="92240" stop="92720">repeated </word>
+    <word normalized="by" start="92720" stop="92830">by </word>
+    <word normalized="numerous" start="92830" stop="93340">numerous </word>
+    <word normalized="people" start="93340" stop="93750">people</word>
+    <word normalized="">, </word>
+    <word normalized="it" start="93920" stop="93990">it </word>
+    <word normalized="seemed" start="93990" stop="94320">seemed </word>
+    <word normalized="real" start="94510" stop="94860">real</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="a" start="95990" stop="96030">a </word>
+    <word normalized="high ranking" start="96030" stop="96660">high-ranking </word>
+    <word normalized="official" start="96660" stop="97260">official</word>
+    <word normalized="">, </word>
+    <word normalized="Pang" start="97740" stop="97980">Pang </word>
+    <word normalized="Cong">Cong </word>
+    <word normalized="had">had </word>
+    <word normalized="more">more </word>
+    <word normalized="than">than </word>
+    <word normalized="three" start="98920" stop="99250">three </word>
+    <word normalized="opponents" start="99250" stop="99860">opponents </word>
+    <word normalized="and" start="99860" stop="99980">and </word>
+    <word normalized="critics" start="99980" stop="100650">critics</word>
+    <word normalized="">; </word>
+    <word normalized="naturally" start="101190" stop="101980">naturally</word>
+    <word normalized="">, </word>
+    <word normalized="he" start="102070" stop="102260">he </word>
+    <word normalized="urged" start="102260" stop="102620">urged </word>
+    <word normalized="the" start="102620" stop="102710">the </word>
+    <word normalized="King" start="102710" stop="102960">King </word>
+    <word normalized="to" start="102960" stop="103040">to </word>
+    <word normalized="pay" start="103040" stop="103250">pay </word>
+    <word normalized="no" start="103250" stop="103490">no </word>
+    <word normalized="attention" start="103490" stop="103950">attention </word>
+    <word normalized="to" start="103950" stop="104060">to </word>
+    <word normalized="those" start="104060" stop="104420">those </word>
+    <word normalized="who" start="104420" stop="104520">who </word>
+    <word normalized="would" start="104520" stop="104620">would </word>
+    <word normalized="spread" start="104620" stop="104980">spread </word>
+    <word normalized="rumors" start="104980" stop="105560">rumors </word>
+    <word normalized="about" start="105820" stop="106160">about </word>
+    <word normalized="him" start="106160" stop="106570">him </word>
+    <word normalized="while" start="106710" stop="107020">while </word>
+    <word normalized="he" start="107020" stop="107150">he </word>
+    <word normalized="was" start="107150" stop="107330">was </word>
+    <word normalized="away" start="107330" stop="107750">away</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">"</word>
+    <word normalized="I">I </word>
+    <word normalized="understand" start="108630" stop="109180">understand</word>
+    <word normalized="">,</word>
+    <word normalized="">" </word>
+    <word normalized="the" start="109330" stop="109420">the </word>
+    <word normalized="King" start="109420" stop="109650">King </word>
+    <word normalized="replied" start="109650" stop="110270">replied</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="110580" stop="110740">and </word>
+    <word normalized="Pang" start="110740" stop="110990">Pang </word>
+    <word normalized="Cong">Cong </word>
+    <word normalized="left" start="111520" stop="111990">left </word>
+    <word normalized="for" start="111990" stop="112130">for </word>
+    <word normalized="Zhao" start="112130" stop="112490">Zhao</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Yet" start="113250" stop="113650">Yet</word>
+    <word normalized="">, </word>
+    <word normalized="slanderous" start="113810" stop="114370">slanderous </word>
+    <word normalized="talk" start="114370" stop="114680">talk </word>
+    <word normalized="took" start="114680" stop="114930">took </word>
+    <word normalized="place" start="114930" stop="115420">place</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="When" start="115850" stop="116000">When </word>
+    <word normalized="Pang">Pang </word>
+    <word normalized="Cong" start="116000" stop="116250">Cong </word>
+    <word normalized="returned" start="116500" stop="116970">returned </word>
+    <word normalized="to" start="117010" stop="117120">to </word>
+    <word normalized="Wei" start="117120" stop="117470">Wei</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="117690" stop="117770">the </word>
+    <word normalized="King" start="117770" stop="118030">King </word>
+    <word normalized="indeed" start="118060" stop="118460">indeed </word>
+    <word normalized="stopped" start="118460" stop="118920">stopped </word>
+    <word normalized="seeing" start="118920" stop="119260">seeing </word>
+    <word normalized="him" start="119260" stop="119480">him</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="123470" stop="123910">Table </word>
+    <word normalized="of" start="124140" stop="124210">of </word>
+    <word normalized="contents" start="124460" stop="124630">contents </word>
+    <word normalized="Section" start="124630" stop="125230">Section </word>
+    <word normalized="1" start="125750" stop="125780">1 </word>
+    <word normalized="Original" start="125900" stop="126000">Original </word>
+    <word normalized="text" start="126830" stop="128140">text </word>
+    <word normalized="Section" start="128530" stop="128960">Section </word>
+    <word normalized="two" start="128960" stop="129280">2 </word>
+    <word normalized="See" start="129380" stop="129470">See </word>
+    <word normalized="also" start="129760" stop="130050">also </word>
+    <word normalized="Four character" start="130440" stop="131040">Four-character </word>
+    <word normalized="idiom" start="131470" stop="131800">idiom </word>
+    <word normalized="Zhan" start="132420" stop="132870">Zhan </word>
+    <word normalized="Guo" start="133220" stop="133530">Guo </word>
+    <word normalized="Ce">Ce </word>
+    <word normalized="Wikiquote Chinese" start="133840" stop="134390">Wikiquote:Chinese </word>
+    <word normalized="proverbs" start="134670" stop="135030">proverbs </word>
+  </sentence>
+</alignment>

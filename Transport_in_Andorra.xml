@@ -1,0 +1,184 @@
+<alignment>
+  <sentence>
+    <word normalized="Transport" start="150" stop="660">Transport </word>
+    <word normalized="in" start="660" stop="770">in </word>
+    <word normalized="Andorra" start="770" stop="1390">Andorra </word>
+    <word normalized="This" start="3950" stop="4760">This </word>
+    <word normalized="article" start="4760" stop="5080">article </word>
+    <word normalized="concerns" start="5080" stop="5590">concerns </word>
+    <word normalized="Transport" start="5590" stop="6110">Transport </word>
+    <word normalized="in" start="6110" stop="6230">in </word>
+    <word normalized="Andorra" start="6230" stop="6790">Andorra</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Andorra" start="7360" stop="7810">Andorra </word>
+    <word normalized="is" start="7810" stop="7910">is </word>
+    <word normalized="a" start="7910" stop="7950">a </word>
+    <word normalized="country" start="7950" stop="8310">country </word>
+    <word normalized="in" start="8310" stop="8410">in </word>
+    <word normalized="Europe" start="8410" stop="8780">Europe</word>
+    <word normalized="">, </word>
+    <word normalized="whose" start="8970" stop="9130">whose </word>
+    <word normalized="transport" start="9130" stop="9570">transport </word>
+    <word normalized="infrastructure" start="9570" stop="10220">infrastructure </word>
+    <word normalized="is" start="10220" stop="10370">is </word>
+    <word normalized="largely" start="10370" stop="10810">largely </word>
+    <word normalized="road based" start="10810" stop="11300">road-based</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There">There </word>
+    <word normalized="are" start="12390" stop="12460">are </word>
+    <word normalized="no" start="12460" stop="12700">no </word>
+    <word normalized="railways" start="12700" stop="13100">railways </word>
+    <word normalized="in" start="13100" stop="13190">in </word>
+    <word normalized="Andorra">Andorra</word>
+    <word normalized="">, </word>
+    <word normalized="although" start="13190" stop="13640">although </word>
+    <word normalized="the">the </word>
+    <word normalized="government" start="14660" stop="14990">government </word>
+    <word normalized="is" start="14990" stop="15100">is </word>
+    <word normalized="considering" start="15100" stop="15610">considering </word>
+    <word normalized="a" start="15610" stop="15650">a </word>
+    <word normalized="new" start="15650" stop="15840">new </word>
+    <word normalized="public" start="15840" stop="16230">public </word>
+    <word normalized="transport" start="16230" stop="16700">transport </word>
+    <word normalized="system" start="16700" stop="17230">system</word>
+    <word normalized="">, </word>
+    <word normalized="">"</word>
+    <word normalized="Metro" start="17640" stop="18030">Metro </word>
+    <word normalized="Aeri" start="18030" stop="18510">Aeri</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="18500" stop="19530">This </word>
+    <word normalized="would" start="19530" stop="19640">would </word>
+    <word normalized="be" start="19640" stop="19720">be </word>
+    <word normalized="an" start="19720" stop="19800">an </word>
+    <word normalized="elevated" start="19800" stop="20290">elevated </word>
+    <word normalized="cable" start="20290" stop="20570">cable </word>
+    <word normalized="metro" start="20570" stop="20860">metro </word>
+    <word normalized="system" start="20860" stop="21320">system </word>
+    <word normalized="that" start="21570" stop="21710">that </word>
+    <word normalized="would" start="21710" stop="21840">would </word>
+    <word normalized="glide" start="21840" stop="22120">glide </word>
+    <word normalized="above" start="22120" stop="22330">above </word>
+    <word normalized="the" start="22330" stop="22390">the </word>
+    <word normalized="city s" start="22390" stop="24330">city's </word>
+    <word normalized="river" start="24440" stop="24500">river</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Andorra" start="24820" stop="24880">Andorra </word>
+    <word normalized="has" start="25100" stop="25130">has </word>
+    <word normalized="a" start="25300" stop="25360">a </word>
+    <word normalized="network" start="25440" stop="25470">network </word>
+    <word normalized="of" start="26090" stop="26240">of </word>
+    <word normalized="roads" start="26420" stop="26470">roads</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="26470" stop="26640">with </word>
+    <word normalized="a" start="26640" stop="26890">a </word>
+    <word normalized="total" start="26890" stop="26980">total </word>
+    <word normalized="length" start="27330" stop="27630">length </word>
+    <word normalized="of" start="27630" stop="27940">of </word>
+    <word normalized="two six nine km" start="27940" stop="29000">269km</word>
+    <word normalized="">, </word>
+    <word normalized="of" start="29000" stop="29070">of </word>
+    <word normalized="which" start="29070" stop="29170">which </word>
+    <word normalized="one nine eight km" start="29170" stop="29910">198km </word>
+    <word normalized="are" start="30170" stop="30260">are </word>
+    <word normalized="paved" start="30260" stop="30290">paved</word>
+    <word normalized="">, </word>
+    <word normalized="leaving" start="31000" stop="31180">leaving </word>
+    <word normalized="seven one km" start="31180" stop="31900">71km </word>
+    <word normalized="of" start="31900" stop="32210">of </word>
+    <word normalized="unpaved" start="32510" stop="33030">unpaved </word>
+    <word normalized="road" start="33030" stop="33350">road</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="34100" stop="34170">The </word>
+    <word normalized="main" start="34170" stop="34380">main </word>
+    <word normalized="road" start="34380" stop="34550">road </word>
+    <word normalized="to" start="34550" stop="34660">to </word>
+    <word normalized="the" start="34660" stop="34750">the </word>
+    <word normalized="north" start="34750" stop="35130">north </word>
+    <word normalized="">(</word>
+    <word normalized="France" start="35170" stop="35770">France</word>
+    <word normalized="">) </word>
+    <word normalized="goes" start="36050" stop="36330">goes </word>
+    <word normalized="through">through </word>
+    <word normalized="the">the </word>
+    <word normalized="Envalira" start="36510" stop="37080">Envalira </word>
+    <word normalized="pass" start="37080" stop="37580">pass</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="37810" stop="37930">which </word>
+    <word normalized="is" start="37930" stop="38140">is </word>
+    <word normalized="2409" start="38640" stop="39350">2,409 </word>
+    <word normalized="m">m </word>
+    <word normalized="high" start="39570" stop="39860">high </word>
+    <word normalized="but" start="40060" stop="40220">but </word>
+    <word normalized="nevertheless" start="40220" stop="40740">nevertheless </word>
+    <word normalized="open" start="40740" stop="41030">open </word>
+    <word normalized="all" start="41030" stop="41270">all </word>
+    <word normalized="year" start="41270" stop="41480">year </word>
+    <word normalized="round">round </word>
+    <word normalized="as">as </word>
+    <word normalized="it">it </word>
+    <word normalized="has">has </word>
+    <word normalized="a">a </word>
+    <word normalized="tunnel">tunnel </word>
+    <word normalized="as">as </word>
+    <word normalized="well">well</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="terms">terms </word>
+    <word normalized="of">of </word>
+    <word normalized="air">air </word>
+    <word normalized="and" start="44270" stop="44550">and </word>
+    <word normalized="sea" start="44550" stop="44770">sea </word>
+    <word normalized="travel" start="44770" stop="45140">travel</word>
+    <word normalized="">, </word>
+    <word normalized="there" start="45310" stop="45420">there </word>
+    <word normalized="are" start="45420" stop="45460">are </word>
+    <word normalized="no" start="45460" stop="45620">no </word>
+    <word normalized="ports" start="45620" stop="46250">ports</word>
+    <word normalized="">, </word>
+    <word normalized="harbours" start="46350" stop="46760">harbours </word>
+    <word normalized="or" start="46760" stop="46950">or </word>
+    <word normalized="airports" start="46950" stop="47470">airports </word>
+    <word normalized="in" start="47470" stop="47590">in </word>
+    <word normalized="Andorra" start="47590" stop="48120">Andorra</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="Public" start="48840" stop="49150">Public </word>
+    <word normalized="Transit" start="49150" stop="49650">Transit </word>
+    <word normalized="Andorra" start="50190" stop="50740">Andorra </word>
+    <word normalized="has">has </word>
+    <word normalized="frequent">frequent </word>
+    <word normalized="bus" start="51140" stop="51390">bus </word>
+    <word normalized="service" start="51390" stop="51670">service </word>
+    <word normalized="to" start="51670" stop="51770">to </word>
+    <word normalized="local" start="51770" stop="52050">local </word>
+    <word normalized="locations" start="52050" stop="52610">locations </word>
+    <word normalized="and" start="52610" stop="52740">and </word>
+    <word normalized="other" start="52740" stop="52870">other </word>
+    <word normalized="locations" start="52870" stop="53450">locations </word>
+    <word normalized="in" start="53450" stop="53570">in </word>
+    <word normalized="both" start="53600" stop="53740">both </word>
+    <word normalized="France" start="53740" stop="54180">France </word>
+    <word normalized="and" start="54180" stop="54330">and </word>
+    <word normalized="Spain" start="54330" stop="54800">Spain</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

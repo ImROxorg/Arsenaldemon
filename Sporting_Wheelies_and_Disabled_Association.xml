@@ -1,0 +1,642 @@
+<alignment>
+  <sentence>
+    <word normalized="Sporting" start="960" stop="1410">Sporting </word>
+    <word normalized="Wheelies" start="1410" stop="1860">Wheelies </word>
+    <word normalized="and" start="1860" stop="1960">and </word>
+    <word normalized="Disabled" start="1960" stop="2420">Disabled </word>
+    <word normalized="Association" start="2420" stop="3130">Association </word>
+    <word normalized="Sporting" start="7000" stop="7360">Sporting </word>
+    <word normalized="Wheelies" start="7360" stop="7720">Wheelies </word>
+    <word normalized="and">and </word>
+    <word normalized="Disabled" start="7720" stop="8290">Disabled </word>
+    <word normalized="Association" start="8460" stop="9180">Association </word>
+    <word normalized="is" start="9530" stop="9640">is </word>
+    <word normalized="the" start="9640" stop="9750">the </word>
+    <word normalized="peak" start="9880" stop="10100">peak </word>
+    <word normalized="body" start="10100" stop="10460">body </word>
+    <word normalized="for" start="10460" stop="10600">for </word>
+    <word normalized="sport" start="10600" stop="11030">sport</word>
+    <word normalized="">, </word>
+    <word normalized="recreation" start="11030" stop="11550">recreation </word>
+    <word normalized="and" start="11550" stop="11660">and </word>
+    <word normalized="fitness" start="11660" stop="12020">fitness </word>
+    <word normalized="for" start="12020" stop="12140">for </word>
+    <word normalized="people" start="12140" stop="12470">people </word>
+    <word normalized="with" start="12470" stop="12640">with </word>
+    <word normalized="a" start="12640" stop="12680">a </word>
+    <word normalized="physical" start="12680" stop="13300">physical </word>
+    <word normalized="disability" start="13400" stop="13930">disability </word>
+    <word normalized="or" start="13930" stop="14050">or </word>
+    <word normalized="vision" start="14050" stop="14330">vision </word>
+    <word normalized="impairment" start="14330" stop="14760">impairment </word>
+    <word normalized="in" start="14760" stop="14860">in </word>
+    <word normalized="Queensland" start="14860" stop="15320">Queensland</word>
+    <word normalized="">, </word>
+    <word normalized="Australia" start="15360" stop="15430">Australia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="16530" stop="16620">The </word>
+    <word normalized="not for profit" start="16620" stop="17450">not-for-profit </word>
+    <word normalized="organisation s" start="17860" stop="18500">organisation's </word>
+    <word normalized="mission" start="18500" stop="18850">mission </word>
+    <word normalized="is" start="18850" stop="19230">is </word>
+    <word normalized="">"</word>
+    <word normalized="to" start="19870" stop="20010">to </word>
+    <word normalized="enhance" start="20010" stop="20370">enhance </word>
+    <word normalized="the" start="20370" stop="20450">the </word>
+    <word normalized="lives" start="20450" stop="20770">lives </word>
+    <word normalized="of" start="20770" stop="20830">of </word>
+    <word normalized="people" start="20830" stop="21120">people </word>
+    <word normalized="with" start="21120" stop="21260">with </word>
+    <word normalized="a" start="21260" stop="21310">a </word>
+    <word normalized="disability" start="21310" stop="22020">disability </word>
+    <word normalized="through" start="22020" stop="22290">through </word>
+    <word normalized="community" start="22490" stop="22870">community </word>
+    <word normalized="engagement" start="22870" stop="23490">engagement </word>
+    <word normalized="and">and </word>
+    <word normalized="education" start="23510" stop="24160">education</word>
+    <word normalized="">, </word>
+    <word normalized="sport" start="24400" stop="24820">sport </word>
+    <word normalized="and" start="24820" stop="24920">and </word>
+    <word normalized="healthy" start="24920" stop="25150">healthy </word>
+    <word normalized="activity" start="25150" stop="25650">activity</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="supports" start="26990" stop="27390">supports </word>
+    <word normalized="people">people </word>
+    <word normalized="with" start="27500" stop="27780">with </word>
+    <word normalized="a" start="27780" stop="27820">a </word>
+    <word normalized="range" start="27820" stop="28090">range </word>
+    <word normalized="of" start="28090" stop="28170">of </word>
+    <word normalized="disabilities" start="28170" stop="28850">disabilities </word>
+    <word normalized="including" start="28850" stop="29390">including </word>
+    <word normalized="acquired" start="29420" stop="29810">acquired </word>
+    <word normalized="brain" start="29810" stop="30190">brain </word>
+    <word normalized="injury" start="30190" stop="30550">injury</word>
+    <word normalized="">, </word>
+    <word normalized="amputations" start="30580" stop="31280">amputations</word>
+    <word normalized="">, </word>
+    <word normalized="cerebral" start="31360" stop="31710">cerebral </word>
+    <word normalized="palsy" start="31710" stop="32190">palsy</word>
+    <word normalized="">, </word>
+    <word normalized="multiple" start="33160" stop="33790">multiple </word>
+    <word normalized="sclerosis" start="33790" stop="34070">sclerosis</word>
+    <word normalized="">, </word>
+    <word normalized="muscular" start="34620" stop="34790">muscular </word>
+    <word normalized="dystrophy">dystrophy</word>
+    <word normalized="">, </word>
+    <word normalized="spina">spina </word>
+    <word normalized="bifida">bifida</word>
+    <word normalized="">, </word>
+    <word normalized="spinal">spinal </word>
+    <word normalized="cord">cord </word>
+    <word normalized="injury">injury</word>
+    <word normalized="">, </word>
+    <word normalized="other" start="36980" stop="37410">other </word>
+    <word normalized="neuromuscular" start="37410" stop="38320">neuromuscular </word>
+    <word normalized="and" start="38320" stop="38450">and </word>
+    <word normalized="orthopaedic" start="38450" stop="38920">orthopaedic </word>
+    <word normalized="conditions" start="38920" stop="39490">conditions</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="39490" stop="39710">and </word>
+    <word normalized="vision" start="39710" stop="40080">vision </word>
+    <word normalized="impairment" start="40100" stop="40140">impairment </word>
+    <word normalized="">(</word>
+    <word normalized="partial" start="40810" stop="41220">partial </word>
+    <word normalized="or" start="41220" stop="41340">or </word>
+    <word normalized="total" start="41340" stop="41630">total </word>
+    <word normalized="vision" start="41630" stop="41870">vision </word>
+    <word normalized="loss">loss</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="organisation s" start="41980" stop="43420">organisation's </word>
+    <word normalized="sports" start="43420" stop="43770">sports </word>
+    <word normalized="programs" start="43770" stop="44210">programs </word>
+    <word normalized="and" start="44210" stop="44330">and </word>
+    <word normalized="services" start="44330" stop="44770">services </word>
+    <word normalized="encourage" start="44770" stop="45180">encourage </word>
+    <word normalized="participation">participation </word>
+    <word normalized="from" start="45780" stop="45970">from </word>
+    <word normalized="social" start="45970" stop="46340">social </word>
+    <word normalized="level" start="46340" stop="46660">level </word>
+    <word normalized="through" start="47000" stop="47230">through </word>
+    <word normalized="to" start="47230" stop="47380">to </word>
+    <word normalized="elite" start="47380" stop="47680">elite </word>
+    <word normalized="competition" start="47680" stop="48320">competition </word>
+    <word normalized="such">such </word>
+    <word normalized="as" start="48540" stop="48660">as </word>
+    <word normalized="the" start="48660" stop="48740">the </word>
+    <word normalized="Paralympic" start="48740" stop="49230">Paralympic </word>
+    <word normalized="Games" start="49230" stop="49480">Games</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="49490" stop="50520">The </word>
+    <word normalized="organisation s" start="50520" stop="51120">organisation's </word>
+    <word normalized="headquarters" start="51220" stop="51680">headquarters </word>
+    <word normalized="is" start="51680" stop="51880">is </word>
+    <word normalized="in" start="51880" stop="52000">in </word>
+    <word normalized="Brisbane" start="52000" stop="52380">Brisbane</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="52380" stop="52600">with </word>
+    <word normalized="offices" start="52600" stop="52990">offices </word>
+    <word normalized="in" start="52990" stop="53110">in </word>
+    <word normalized="Cairns" start="53110" stop="53540">Cairns</word>
+    <word normalized="">, </word>
+    <word normalized="Townsville" start="53540" stop="54020">Townsville</word>
+    <word normalized="">, </word>
+    <word normalized="Mackay" start="54020" stop="54500">Mackay </word>
+    <word normalized="and" start="54640" stop="54800">and </word>
+    <word normalized="Capricorn" start="54800" stop="55260">Capricorn </word>
+    <word normalized="region" start="55260" stop="55610">region</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section" start="57020" stop="57410">Section </word>
+    <word normalized="1" start="57410" stop="57620">1 </word>
+    <word normalized="Governance" start="57950" stop="58520">Governance </word>
+    <word normalized="Under" start="59360" stop="59570">Under </word>
+    <word normalized="the" start="59570" stop="59670">the </word>
+    <word normalized="Association s">Association’s </word>
+    <word normalized="Constitution" start="60240" stop="61040">Constitution</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="61070" stop="61160">the </word>
+    <word normalized="general" start="61160" stop="61450">general </word>
+    <word normalized="control" start="61450" stop="61910">control </word>
+    <word normalized="and" start="61910" stop="62000">and </word>
+    <word normalized="management" start="62000" stop="62480">management </word>
+    <word normalized="of" start="63430" stop="63460">of </word>
+    <word normalized="the" start="63570" stop="63690">the </word>
+    <word normalized="administration" start="64110" stop="64170">administration </word>
+    <word normalized="of">of </word>
+    <word normalized="Sporting">Sporting </word>
+    <word normalized="Wheelies">Wheelies </word>
+    <word normalized="and">and </word>
+    <word normalized="Disabled">Disabled </word>
+    <word normalized="Association">Association </word>
+    <word normalized="is" start="65570" stop="65670">is </word>
+    <word normalized="by" start="65670" stop="65790">by </word>
+    <word normalized="a" start="65790" stop="65830">a </word>
+    <word normalized="Board" start="65830" stop="66060">Board </word>
+    <word normalized="of" start="66060" stop="66130">of </word>
+    <word normalized="six" start="66130" stop="66610">six</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="An">An </word>
+    <word normalized="Advisory" start="67110" stop="67530">Advisory </word>
+    <word normalized="Council" start="67530" stop="67960">Council </word>
+    <word normalized="of">of </word>
+    <word normalized="Queensland" start="68050" stop="68540">Queensland </word>
+    <word normalized="business" start="68540" stop="68920">business </word>
+    <word normalized="and" start="68920" stop="69080">and </word>
+    <word normalized="community">community </word>
+    <word normalized="leaders" start="69110" stop="69760">leaders </word>
+    <word normalized="meets" start="69760" stop="70010">meets </word>
+    <word normalized="on" start="70010" stop="70160">on </word>
+    <word normalized="a">a </word>
+    <word normalized="regular">regular </word>
+    <word normalized="basis" start="70430" stop="70850">basis </word>
+    <word normalized="to" start="70850" stop="70980">to </word>
+    <word normalized="advise" start="70980" stop="71390">advise </word>
+    <word normalized="and" start="71390" stop="71490">and </word>
+    <word normalized="assist" start="71490" stop="71810">assist </word>
+    <word normalized="the" start="71810" stop="71890">the </word>
+    <word normalized="Board" start="71890" stop="72240">Board </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="development">development </word>
+    <word normalized="and">and </word>
+    <word normalized="implementation" start="73290" stop="74140">implementation </word>
+    <word normalized="of" start="74360" stop="74460">of </word>
+    <word normalized="Association" start="74460" stop="75000">Association </word>
+    <word normalized="policies" start="75000" stop="75480">policies</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="of" start="76680" stop="76770">of </word>
+    <word normalized="twenty eleven" start="77090" stop="77550">2011</word>
+    <word normalized="">, </word>
+    <word normalized="Paralympian" start="77550" stop="78260">Paralympian </word>
+    <word normalized="Ray" start="78330" stop="78560">Ray </word>
+    <word normalized="Epstein" start="78560" stop="79130">Epstein </word>
+    <word normalized="OAM">OAM </word>
+    <word normalized="is" start="80000" stop="80100">is </word>
+    <word normalized="the" start="80100" stop="80190">the </word>
+    <word normalized="Chief" start="80190" stop="80440">Chief </word>
+    <word normalized="Executive" start="80440" stop="81090">Executive </word>
+    <word normalized="Officer">Officer </word>
+    <word normalized="of">of </word>
+    <word normalized="Sporting" start="81350" stop="81710">Sporting </word>
+    <word normalized="Wheelies" start="81710" stop="82020">Wheelies </word>
+    <word normalized="and" start="82020" stop="82110">and </word>
+    <word normalized="Disabled" start="82110" stop="82500">Disabled </word>
+    <word normalized="Association" start="82500" stop="83080">Association</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="84180" stop="84550">Section </word>
+    <word normalized="two" start="84550" stop="84850">2 </word>
+    <word normalized="History" start="84900" stop="85360">History </word>
+    <word normalized="The" start="86000" stop="86080">The </word>
+    <word normalized="Association" start="86080" stop="86700">Association </word>
+    <word normalized="has" start="86700" stop="86870">has </word>
+    <word normalized="its" start="86870" stop="87020">its </word>
+    <word normalized="origins" start="87020" stop="87490">origins </word>
+    <word normalized="in" start="87490" stop="87530">in </word>
+    <word normalized="the" start="87530" stop="87610">the </word>
+    <word normalized="nineteen" start="87610" stop="87670">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="sixties" start="87980" stop="88430">60s </word>
+    <word normalized="as" start="88610" stop="88710">as </word>
+    <word normalized="a" start="88710" stop="88760">a </word>
+    <word normalized="small" start="88760" stop="89090">small </word>
+    <word normalized="sports" start="89090" stop="89420">sports </word>
+    <word normalized="club" start="89420" stop="89710">club </word>
+    <word normalized="within" start="89710" stop="90030">within </word>
+    <word normalized="the" start="90030" stop="90150">the </word>
+    <word normalized="Paraplegic" start="90260" stop="90960">Paraplegic </word>
+    <word normalized="Welfare" start="90960" stop="91280">Welfare </word>
+    <word normalized="Association" start="91280" stop="91890">Association </word>
+    <word normalized="in" start="91890" stop="91980">in </word>
+    <word normalized="Queensland" start="91980" stop="92460">Queensland</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Sport" start="92450" stop="93630">Sport </word>
+    <word normalized="for" start="93630" stop="93740">for </word>
+    <word normalized="people" start="93740" stop="94040">people </word>
+    <word normalized="with" start="94040" stop="94190">with </word>
+    <word normalized="spinal" start="94190" stop="94490">spinal </word>
+    <word normalized="cord" start="94490" stop="94720">cord </word>
+    <word normalized="injuries" start="94720" stop="95180">injuries </word>
+    <word normalized="was" start="95180" stop="95280">was </word>
+    <word normalized="gaining" start="95280" stop="95550">gaining </word>
+    <word normalized="popularity" start="95550" stop="96200">popularity </word>
+    <word normalized="following" start="96200" stop="96540">following </word>
+    <word normalized="the" start="96540" stop="96610">the </word>
+    <word normalized="first" start="96610" stop="96860">first </word>
+    <word normalized="Paralympic" start="96860" stop="97320">Paralympic </word>
+    <word normalized="Games" start="97320" stop="97690">Games </word>
+    <word normalized="in" start="97690" stop="97810">in </word>
+    <word normalized="Rome" start="97810" stop="98080">Rome </word>
+    <word normalized="in" start="98080" stop="98140">in </word>
+    <word normalized="nineteen" start="98140" stop="98440">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="sixty" start="98440" stop="98930">60</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="the" start="99480" stop="99650">the </word>
+    <word normalized="">‘</word>
+    <word normalized="Queensland" start="99650" stop="100180">Queensland </word>
+    <word normalized="Sports" start="100180" stop="100630">Sports </word>
+    <word normalized="and" start="100630" stop="100780">and </word>
+    <word normalized="Social" start="100780" stop="101440">Social </word>
+    <word normalized="Club" start="101900" stop="102230">Club </word>
+    <word normalized="for" start="102230" stop="102670">for </word>
+    <word normalized="the" start="102670" stop="102810">the </word>
+    <word normalized="Disabled" start="102810" stop="103310">Disabled</word>
+    <word normalized="">’ </word>
+    <word normalized="played">played </word>
+    <word normalized="an" start="103430" stop="103660">an </word>
+    <word normalized="active" start="103660" stop="104010">active </word>
+    <word normalized="role" start="104010" stop="104210">role </word>
+    <word normalized="in" start="104210" stop="104280">in </word>
+    <word normalized="promoting" start="104280" stop="104690">promoting </word>
+    <word normalized="disability" start="104690" stop="105190">disability </word>
+    <word normalized="sport" start="105190" stop="105580">sport </word>
+    <word normalized="and" start="105580" stop="105670">and </word>
+    <word normalized="raising" start="105670" stop="105920">raising </word>
+    <word normalized="funds" start="105920" stop="106290">funds </word>
+    <word normalized="for" start="106290" stop="106450">for </word>
+    <word normalized="Queensland" start="106450" stop="106890">Queensland </word>
+    <word normalized="athletes" start="106890" stop="107310">athletes </word>
+    <word normalized="selected" start="107580" stop="108010">selected </word>
+    <word normalized="for" start="108010" stop="108160">for </word>
+    <word normalized="national" start="108160" stop="108680">national </word>
+    <word normalized="and">and </word>
+    <word normalized="international" start="108680" stop="109190">international </word>
+    <word normalized="competitions" start="109190" stop="109830">competitions</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy seven" start="112060" stop="112720">77</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="112720" stop="112800">the </word>
+    <word normalized="club" start="112800" stop="113020">club </word>
+    <word normalized="became" start="113020" stop="113380">became </word>
+    <word normalized="a" start="113380" stop="113430">a </word>
+    <word normalized="registered" start="113430" stop="113860">registered </word>
+    <word normalized="charity" start="113860" stop="114230">charity </word>
+    <word normalized="in" start="114230" stop="114320">in </word>
+    <word normalized="its" start="114320" stop="114510">its </word>
+    <word normalized="own" start="114510" stop="114740">own </word>
+    <word normalized="right" start="114740" stop="115000">right </word>
+    <word normalized="as" start="115000" stop="115140">as </word>
+    <word normalized="the" start="115140" stop="115230">the </word>
+    <word normalized="Paraplegic" start="115230" stop="115930">Paraplegic </word>
+    <word normalized="and" start="115930" stop="116060">and </word>
+    <word normalized="Quadriplegic" start="116060" stop="116690">Quadriplegic </word>
+    <word normalized="Sport" start="116690" stop="117000">Sport </word>
+    <word normalized="Association" start="117000" stop="117550">Association </word>
+    <word normalized="of" start="117550" stop="117620">of </word>
+    <word normalized="Queensland" start="117620" stop="118140">Queensland</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="By">By </word>
+    <word normalized="the" start="118850" stop="119040">the </word>
+    <word normalized="following" start="119040" stop="119450">following </word>
+    <word normalized="year" start="119450" stop="119720">year</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="119720" stop="120040">the </word>
+    <word normalized="Association">Association </word>
+    <word normalized="had" start="120630" stop="120810">had </word>
+    <word normalized="extended" start="120810" stop="121280">extended </word>
+    <word normalized="its" start="121280" stop="121440">its </word>
+    <word normalized="programs" start="121440" stop="121930">programs </word>
+    <word normalized="and" start="121930" stop="122060">and </word>
+    <word normalized="services" start="122060" stop="122500">services </word>
+    <word normalized="to" start="122500" stop="122610">to </word>
+    <word normalized="include" start="122610" stop="123010">include </word>
+    <word normalized="people" start="123050" stop="123790">people </word>
+    <word normalized="with" start="123790" stop="124030">with </word>
+    <word normalized="physical" start="124030" stop="124460">physical </word>
+    <word normalized="disabilities" start="124630" stop="124780">disabilities </word>
+    <word normalized="other" start="125010" stop="125210">other </word>
+    <word normalized="than" start="125210" stop="125350">than </word>
+    <word normalized="spinal" start="125350" stop="125660">spinal </word>
+    <word normalized="cord" start="125660" stop="125850">cord </word>
+    <word normalized="injuries" start="125850" stop="126270">injuries</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="126260" stop="127180">The </word>
+    <word normalized="decision" start="127180" stop="127690">decision </word>
+    <word normalized="was">was </word>
+    <word normalized="made" start="127690" stop="127900">made </word>
+    <word normalized="to" start="127900" stop="127980">to </word>
+    <word normalized="change" start="127980" stop="128260">change </word>
+    <word normalized="to">to </word>
+    <word normalized="the" start="128260" stop="128360">the </word>
+    <word normalized="current" start="128360" stop="128620">current </word>
+    <word normalized="name" start="128620" stop="128820">name </word>
+    <word normalized="to" start="128820" stop="128910">to </word>
+    <word normalized="reflect" start="128910" stop="129220">reflect </word>
+    <word normalized="the" start="129220" stop="129320">the </word>
+    <word normalized="Association s" start="129320" stop="129970">Association’s </word>
+    <word normalized="broader">broader </word>
+    <word normalized="mission" start="130350" stop="130730">mission </word>
+    <word normalized="and" start="130730" stop="130940">and </word>
+    <word normalized="capitalise" start="130940" stop="131560">capitalise </word>
+    <word normalized="on">on </word>
+    <word normalized="the" start="131560" stop="131710">the </word>
+    <word normalized="popular" start="131760" stop="132240">popular </word>
+    <word normalized="term" start="132240" stop="132530">term </word>
+    <word normalized="">‘</word>
+    <word normalized="sporting" start="132750" stop="133140">sporting </word>
+    <word normalized="wheelies" start="133140" stop="133580">wheelies</word>
+    <word normalized="">’ </word>
+    <word normalized="to">to </word>
+    <word normalized="describe" start="133900" stop="134330">describe </word>
+    <word normalized="wheelchair" start="134330" stop="134690">wheelchair </word>
+    <word normalized="athletes" start="134690" stop="135430">athletes</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Today" start="135440" stop="136580">Today</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="136580" stop="136700">the </word>
+    <word normalized="Association">Association </word>
+    <word normalized="is">is </word>
+    <word normalized="widely" start="137400" stop="137740">widely </word>
+    <word normalized="recognised" start="137740" stop="138350">recognised </word>
+    <word normalized="as" start="138350" stop="138470">as </word>
+    <word normalized="a" start="138470" stop="138510">a </word>
+    <word normalized="leader" start="138510" stop="138760">leader </word>
+    <word normalized="in" start="138760" stop="138890">in </word>
+    <word normalized="the" start="138890" stop="138950">the </word>
+    <word normalized="field" start="138950" stop="139210">field </word>
+    <word normalized="of" start="139210" stop="139280">of </word>
+    <word normalized="sport" start="139280" stop="139640">sport </word>
+    <word normalized="and" start="139640" stop="139730">and </word>
+    <word normalized="healthy" start="139730" stop="139960">healthy </word>
+    <word normalized="activity" start="139960" stop="140500">activity </word>
+    <word normalized="for" start="140810" stop="140920">for </word>
+    <word normalized="people" start="140920" stop="141200">people </word>
+    <word normalized="with" start="141200" stop="141430">with </word>
+    <word normalized="a" start="141430" stop="141470">a </word>
+    <word normalized="disability" start="141470" stop="141500">disability </word>
+    <word normalized="by" start="142060" stop="142220">by </word>
+    <word normalized="national" start="142220" stop="142380">national </word>
+    <word normalized="bodies" start="142380" stop="142750">bodies </word>
+    <word normalized="such" start="142750" stop="143060">such </word>
+    <word normalized="as" start="143060" stop="143260">as </word>
+    <word normalized="the" start="143260" stop="143320">the </word>
+    <word normalized="Australian" start="143320" stop="143390">Australian </word>
+    <word normalized="Sports" start="143390" stop="143760">Sports </word>
+    <word normalized="Commission" start="143760" stop="144060">Commission </word>
+    <word normalized="and" start="146070" stop="146080">and </word>
+    <word normalized="the" start="147020" stop="147160">the </word>
+    <word normalized="Australian" start="148110" stop="148300">Australian </word>
+    <word normalized="Paralympic" start="148300" stop="148650">Paralympic </word>
+    <word normalized="Committee" start="148650" stop="149050">Committee</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="October" start="149330" stop="149480">October </word>
+    <word normalized="twenty eleven" start="149480" stop="150500">2011</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="150500" stop="150930">the </word>
+    <word normalized="Australian">Australian </word>
+    <word normalized="Paralympic">Paralympic </word>
+    <word normalized="Committee">Committee </word>
+    <word normalized="announced">announced </word>
+    <word normalized="their">their </word>
+    <word normalized="commitment">commitment </word>
+    <word normalized="to">to </word>
+    <word normalized="the">the </word>
+    <word normalized="organisation">organisation</word>
+    <word normalized="">, </word>
+    <word normalized="by">by </word>
+    <word normalized="providing" start="151900" stop="152250">providing </word>
+    <word normalized="assistance" start="152250" stop="152690">assistance </word>
+    <word normalized="to" start="152690" stop="152830">to </word>
+    <word normalized="member" start="152830" stop="153080">member </word>
+    <word normalized="athletes" start="153080" stop="153590">athletes</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="154200" stop="154290">The </word>
+    <word normalized="deal" start="154290" stop="154620">deal </word>
+    <word normalized="the" start="154620" stop="154710">the </word>
+    <word normalized="Sporting" start="154710" stop="155060">Sporting </word>
+    <word normalized="Wheelies" start="155060" stop="155450">Wheelies </word>
+    <word normalized="signed" start="155510" stop="155960">signed </word>
+    <word normalized="was" start="157330" stop="157530">was </word>
+    <word normalized="similar" start="157530" stop="157900">similar </word>
+    <word normalized="to">to </word>
+    <word normalized="ones" start="158070" stop="158360">ones </word>
+    <word normalized="signed" start="158360" stop="158640">signed </word>
+    <word normalized="by" start="158640" stop="158730">by </word>
+    <word normalized="New" start="158730" stop="158970">New </word>
+    <word normalized="South" start="158970" stop="159250">South </word>
+    <word normalized="Wales" start="159250" stop="159570">Wales </word>
+    <word normalized="and" start="159570" stop="159660">and </word>
+    <word normalized="South" start="159660" stop="159860">South </word>
+    <word normalized="Australia" start="159860" stop="160270">Australia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="160320" stop="161580">Section </word>
+    <word normalized="three" start="161580" stop="161910">3 </word>
+    <word normalized="Notable">Notable </word>
+    <word normalized="Paralympians" start="162790" stop="163490">Paralympians </word>
+    <word normalized="Christopher">Christopher </word>
+    <word normalized="Scott">Scott </word>
+    <word normalized="Michael">Michael </word>
+    <word normalized="Nugent">Nugent </word>
+    <word normalized="Darren">Darren </word>
+    <word normalized="Thrupp" start="168420" stop="168740">Thrupp </word>
+    <word normalized="Brendan">Brendan </word>
+    <word normalized="Burkett" start="169380" stop="169810">Burkett </word>
+    <word normalized="Warren">Warren </word>
+    <word normalized="Lawton">Lawton </word>
+    <word normalized="Ashley" start="171300" stop="171610">Ashley </word>
+    <word normalized="Adams">Adams </word>
+    <word normalized="Lyn" start="172010" stop="172580">Lyn </word>
+    <word normalized="Coleman">Coleman </word>
+    <word normalized="Geoff" start="173470" stop="173670">Geoff </word>
+    <word normalized="Trappett">Trappett </word>
+    <word normalized="Amanda">Amanda </word>
+    <word normalized="Fraser">Fraser </word>
+    <word normalized="Brooke">Brooke </word>
+    <word normalized="Stockham">Stockham </word>
+    <word normalized="Karni">Karni </word>
+    <word normalized="Liddell">Liddell </word>
+    <word normalized="Stephen">Stephen </word>
+    <word normalized="Eaton">Eaton </word>
+    <word normalized="Rene">Rene </word>
+    <word normalized="Ahrens">Ahrens </word>
+    <word normalized="Greg">Greg </word>
+    <word normalized="Ball">Ball </word>
+    <word normalized="Cameron">Cameron </word>
+    <word normalized="de" start="181540" stop="181630">de </word>
+    <word normalized="Burgh" start="181630" stop="182000">Burgh </word>
+    <word normalized="Darren" start="182710" stop="182740">Darren </word>
+    <word normalized="Gardiner" start="183000" stop="183510">Gardiner </word>
+    <word normalized="Marayke" start="184000" stop="184380">Marayke </word>
+    <word normalized="Jonkers" start="184380" stop="184980">Jonkers </word>
+    <word normalized="Adrian" start="185230" stop="185560">Adrian </word>
+    <word normalized="King" start="185560" stop="185970">King </word>
+    <word normalized="Alison" start="186470" stop="186780">Alison </word>
+    <word normalized="Mosely" start="186780" stop="187130">Mosely </word>
+    <word normalized="Section" start="188100" stop="188420">Section </word>
+    <word normalized="four" start="188420" stop="188770">4 </word>
+    <word normalized="Services" start="189240" stop="189760">Services </word>
+    <word normalized="Member" start="190410" stop="190680">Member </word>
+    <word normalized="services" start="190680" stop="191170">services </word>
+    <word normalized="include" start="191170" stop="191450">include </word>
+    <word normalized="financial" start="191450" stop="191860">financial </word>
+    <word normalized="support" start="191860" stop="192330">support </word>
+    <word normalized="to" start="192360" stop="192430">to </word>
+    <word normalized="participate">participate </word>
+    <word normalized="in" start="192870" stop="192970">in </word>
+    <word normalized="representative" start="192970" stop="193470">representative </word>
+    <word normalized="sporting" start="193470" stop="193830">sporting </word>
+    <word normalized="events" start="193830" stop="194160">events </word>
+    <word normalized="and" start="194160" stop="194250">and </word>
+    <word normalized="training" start="194250" stop="194480">training </word>
+    <word normalized="camps" start="194480" stop="194850">camps</word>
+    <word normalized="">; </word>
+    <word normalized="junior" start="195300" stop="195640">junior </word>
+    <word normalized="development">development </word>
+    <word normalized="squads" start="195970" stop="196310">squads </word>
+    <word normalized="for" start="196310" stop="196400">for </word>
+    <word normalized="young" start="196400" stop="196560">young </word>
+    <word normalized="athletes">athletes</word>
+    <word normalized="">; </word>
+    <word normalized="social" start="197620" stop="198000">social </word>
+    <word normalized="sporting" start="198000" stop="198530">sporting </word>
+    <word normalized="competitions" start="198590" stop="199340">competitions</word>
+    <word normalized="">; </word>
+    <word normalized="subsidised" start="199590" stop="200120">subsidised </word>
+    <word normalized="recreational" start="200120" stop="200670">recreational </word>
+    <word normalized="activities" start="200730" stop="200760">activities</word>
+    <word normalized="">; </word>
+    <word normalized="and" start="200730" stop="200790">and </word>
+    <word normalized="fitness" start="201190" stop="202060">fitness </word>
+    <word normalized="and" start="202060" stop="202150">and </word>
+    <word normalized="rehabilitation" start="202150" stop="202890">rehabilitation </word>
+    <word normalized="services" start="202890" stop="203420">services </word>
+    <word normalized="through" start="203420" stop="203520">through </word>
+    <word normalized="its" start="203520" stop="203650">its </word>
+    <word normalized="Brisbane" start="203650" stop="204050">Brisbane </word>
+    <word normalized="gym" start="204050" stop="204340">gym</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="204360" stop="205210">The </word>
+    <word normalized="organisation" start="205210" stop="205720">organisation </word>
+    <word normalized="also" start="205720" stop="206070">also </word>
+    <word normalized="works" start="206070" stop="206270">works </word>
+    <word normalized="with" start="206270" stop="206520">with </word>
+    <word normalized="partners" start="206520" stop="206910">partners </word>
+    <word normalized="in" start="206910" stop="206990">in </word>
+    <word normalized="disability" start="206990" stop="207430">disability </word>
+    <word normalized="services" start="207430" stop="207930">services</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="207930" stop="208070">the </word>
+    <word normalized="public" start="208070" stop="208380">public </word>
+    <word normalized="sector" start="208380" stop="208790">sector </word>
+    <word normalized="and" start="208960" stop="209080">and </word>
+    <word normalized="sporting" start="209080" stop="209380">sporting </word>
+    <word normalized="bodies" start="209380" stop="209810">bodies </word>
+    <word normalized="to" start="209970" stop="210050">to </word>
+    <word normalized="promote" start="210050" stop="210310">promote </word>
+    <word normalized="inclusion" start="210310" stop="210900">inclusion </word>
+    <word normalized="and">and </word>
+    <word normalized="increase">increase </word>
+    <word normalized="participation" start="211270" stop="211930">participation </word>
+    <word normalized="of" start="212290" stop="212370">of </word>
+    <word normalized="people" start="212370" stop="212640">people </word>
+    <word normalized="with" start="212640" stop="212760">with </word>
+    <word normalized="a" start="212760" stop="212800">a </word>
+    <word normalized="disability" start="212800" stop="213480">disability </word>
+    <word normalized="in" start="213480" stop="213560">in </word>
+    <word normalized="sport" start="213560" stop="213910">sport </word>
+    <word normalized="and" start="213990" stop="214130">and </word>
+    <word normalized="active" start="214370" stop="214690">active </word>
+    <word normalized="recreation" start="214690" stop="215310">recreation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="One" start="216190" stop="216430">One </word>
+    <word normalized="athlete" start="216430" stop="216760">athlete </word>
+    <word normalized="they" start="216760" stop="216900">they </word>
+    <word normalized="helped" start="216900" stop="217240">helped </word>
+    <word normalized="is" start="217320" stop="217420">is </word>
+    <word normalized="Glen" start="217420" stop="217780">Glen </word>
+    <word normalized="">"</word>
+    <word normalized="High" start="217870" stop="218050">High </word>
+    <word normalized="Tower" start="218050" stop="218390">Tower</word>
+    <word normalized="">" </word>
+    <word normalized="McMurtrie" start="218420" stop="218890">McMurtrie</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

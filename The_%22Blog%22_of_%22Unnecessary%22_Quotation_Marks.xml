@@ -1,0 +1,205 @@
+<alignment>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="">"</word>
+    <word normalized="Blog">Blog</word>
+    <word normalized="">" </word>
+    <word normalized="of">of </word>
+    <word normalized="">"</word>
+    <word normalized="Unnecessary">Unnecessary</word>
+    <word normalized="">" </word>
+    <word normalized="Quotation">Quotation </word>
+    <word normalized="Marks">Marks </word>
+    <word normalized="The">The </word>
+    <word normalized="">"</word>
+    <word normalized="Blog" start="950" stop="2150">Blog</word>
+    <word normalized="">" </word>
+    <word normalized="of" start="2380" stop="2710">of </word>
+    <word normalized="">"</word>
+    <word normalized="Unnecessary" start="2960" stop="4080">Unnecessary</word>
+    <word normalized="">" </word>
+    <word normalized="Quotation" start="4080" stop="4680">Quotation </word>
+    <word normalized="Marks" start="4680" stop="5080">Marks </word>
+    <word normalized="is" start="5080" stop="5310">is </word>
+    <word normalized="a" start="5310" stop="5400">a </word>
+    <word normalized="blog" start="5400" stop="5920">blog </word>
+    <word normalized="about" start="5920" stop="6180">about </word>
+    <word normalized="the" start="6180" stop="6240">the </word>
+    <word normalized="misuse" start="6240" stop="6910">misuse </word>
+    <word normalized="of" start="6910" stop="7110">of </word>
+    <word normalized="English" start="7110" stop="7610">English </word>
+    <word normalized="quotation" start="7610" stop="8190">quotation </word>
+    <word normalized="marks" start="8190" stop="8680">marks</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="8980" stop="9080">The </word>
+    <word normalized="blog" start="9080" stop="9510">blog </word>
+    <word normalized="features" start="9510" stop="9980">features </word>
+    <word normalized="photographs" start="9980" stop="10720">photographs </word>
+    <word normalized="of" start="10720" stop="10930">of </word>
+    <word normalized="signs" start="10930" stop="11520">signs</word>
+    <word normalized="">, </word>
+    <word normalized="notes" start="11750" stop="12170">notes </word>
+    <word normalized="and" start="12170" stop="12260">and </word>
+    <word normalized="advertisements" start="12260" stop="13130">advertisements </word>
+    <word normalized="that" start="13410" stop="13610">that </word>
+    <word normalized="misuse" start="13610" stop="14180">misuse </word>
+    <word normalized="quotation" start="14180" stop="14760">quotation </word>
+    <word normalized="marks" start="14760" stop="15200">marks</word>
+    <word normalized="">, </word>
+    <word normalized="usually" start="15540" stop="16000">usually </word>
+    <word normalized="intended" start="16000" stop="16520">intended </word>
+    <word normalized="as" start="16520" stop="16760">as </word>
+    <word normalized="emphasis" start="16760" stop="17450">emphasis</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Most" start="17950" stop="18370">Most </word>
+    <word normalized="photographs" start="18370" stop="19120">photographs </word>
+    <word normalized="are" start="19120" stop="19350">are </word>
+    <word normalized="reader" start="19350" stop="19680">reader </word>
+    <word normalized="submissions" start="19680" stop="20360">submissions</word>
+    <word normalized="">, </word>
+    <word normalized="curated" start="20520" stop="21120">curated </word>
+    <word normalized="and" start="21120" stop="21330">and </word>
+    <word normalized="commented" start="21330" stop="21860">commented </word>
+    <word normalized="on" start="21860" stop="22270">on </word>
+    <word normalized="by" start="22520" stop="22710">by </word>
+    <word normalized="blog" start="22710" stop="23160">blog </word>
+    <word normalized="author" start="23160" stop="23620">author </word>
+    <word normalized="Bethany" start="23620" stop="24150">Bethany </word>
+    <word normalized="Keeley Jonker" start="24150" stop="25330">Keeley-Jonker</word>
+    <word normalized="">, </word>
+    <word normalized="who" start="25770" stop="25950">who </word>
+    <word normalized="generally" start="25950" stop="26540">generally </word>
+    <word normalized="intentionally" start="26540" stop="27220">intentionally </word>
+    <word normalized="misinterprets" start="27220" stop="28180">misinterprets </word>
+    <word normalized="the" start="28180" stop="28270">the </word>
+    <word normalized="depicted" start="28270" stop="28840">depicted </word>
+    <word normalized="sign" start="28840" stop="29440">sign</word>
+    <word normalized="">.</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="blog" start="29440" stop="30360">blog </word>
+    <word normalized="was" start="30360" stop="30690">was </word>
+    <word normalized="started" start="30690" stop="31200">started </word>
+    <word normalized="in" start="31200" stop="31380">in </word>
+    <word normalized="two thousand five" start="31380" stop="32020">2005</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="32710" stop="32800">and </word>
+    <word normalized="after" start="32800" stop="33130">after </word>
+    <word normalized="being" start="33220" stop="33510">being </word>
+    <word normalized="featured" start="34280" stop="34980">featured </word>
+    <word normalized="on" start="35200" stop="35890">on </word>
+    <word normalized="Yahoo" start="35950" stop="36440">Yahoo</word>
+    <word normalized="">! </word>
+    <word normalized="became" start="36440" stop="36990">became </word>
+    <word normalized="an" start="36990" stop="37190">an </word>
+    <word normalized="Internet" start="37190" stop="37650">Internet </word>
+    <word normalized="phenomenon" start="37650" stop="38430">phenomenon</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents" start="40200" stop="41190">contents </word>
+    <word normalized="Section" start="43430" stop="44290">Section </word>
+    <word normalized="one" start="45480" stop="46110">1 </word>
+    <word normalized="Influence" start="46110" stop="46730">Influence </word>
+    <word normalized="The" start="47010" stop="47260">The </word>
+    <word normalized="theme" start="47450" stop="47640">theme </word>
+    <word normalized="of" start="48170" stop="48430">of </word>
+    <word normalized="the" start="50860" stop="51110">the </word>
+    <word normalized="blog" start="51110" stop="51460">blog </word>
+    <word normalized="has" start="51700" stop="52150">has </word>
+    <word normalized="become" start="60310" stop="61630">become </word>
+    <word normalized="an" start="85310" stop="85640">an </word>
+    <word normalized="Internet" start="85640" stop="86150">Internet </word>
+    <word normalized="meme" start="86150" stop="86700">meme</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="On">On </word>
+    <word normalized="occasion" start="87250" stop="87800">occasion</word>
+    <word normalized="">, </word>
+    <word normalized="some" start="87800" stop="88060">some </word>
+    <word normalized="businesses" start="88060" stop="88710">businesses </word>
+    <word normalized="will" start="88710" stop="88910">will </word>
+    <word normalized="correct" start="88910" stop="89460">correct </word>
+    <word normalized="their">their </word>
+    <word normalized="signs" start="89460" stop="89900">signs </word>
+    <word normalized="after" start="89900" stop="90180">after </word>
+    <word normalized="being" start="90180" stop="90470">being </word>
+    <word normalized="featured" start="90470" stop="90890">featured </word>
+    <word normalized="on" start="90890" stop="91060">on </word>
+    <word normalized="the" start="91060" stop="91120">the </word>
+    <word normalized="blog" start="91120" stop="91590">blog</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="May" start="92440" stop="92660">May </word>
+    <word normalized="two thousand eight" start="92660" stop="93510">2008</word>
+    <word normalized="">, </word>
+    <word normalized="Blogger" start="93800" stop="94290">Blogger </word>
+    <word normalized="removed" start="94290" stop="94760">removed </word>
+    <word normalized="unnecessary" start="94760" stop="95540">unnecessary </word>
+    <word normalized="quotation" start="95540" stop="96110">quotation </word>
+    <word normalized="marks" start="96110" stop="96490">marks </word>
+    <word normalized="from" start="96490" stop="96710">from </word>
+    <word normalized="a" start="96710" stop="96810">a </word>
+    <word normalized="cancel" start="96810" stop="97260">cancel </word>
+    <word normalized="button" start="97260" stop="97730">button </word>
+    <word normalized="on" start="98310" stop="98560">on </word>
+    <word normalized="the" start="98560" stop="98630">the </word>
+    <word normalized="service s" start="98630" stop="99090">service's </word>
+    <word normalized="delete" start="99290" stop="99700">delete </word>
+    <word normalized="page" start="99700" stop="100300">page</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="Other" start="100750" stop="100990">Other </word>
+    <word normalized="media" start="100990" stop="101610">media </word>
+    <word normalized="A">A </word>
+    <word normalized="related" start="102210" stop="102700">related </word>
+    <word normalized="book" start="102700" stop="103070">book </word>
+    <word normalized="was" start="103070" stop="103250">was </word>
+    <word normalized="published" start="103250" stop="103810">published </word>
+    <word normalized="by" start="103810" stop="104040">by </word>
+    <word normalized="Chronicle" start="104230" stop="104860">Chronicle </word>
+    <word normalized="Books" start="104860" stop="105370">Books </word>
+    <word normalized="in" start="105600" stop="105810">in </word>
+    <word normalized="July" start="105810" stop="106250">July </word>
+    <word normalized="twenty ten" start="106250" stop="107190">2010</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="107480" stop="107600">The </word>
+    <word normalized="book" start="107600" stop="107870">book </word>
+    <word normalized="is" start="107870" stop="108380">is </word>
+    <word normalized="titled" start="108380" stop="108930">titled </word>
+    <word normalized="The" start="108980" stop="109140">The </word>
+    <word normalized="Book" start="109140" stop="109580">Book </word>
+    <word normalized="of" start="109660" stop="110020">of </word>
+    <word normalized="">"</word>
+    <word normalized="Unnecessary" start="110350" stop="111280">Unnecessary</word>
+    <word normalized="">" </word>
+    <word normalized="Quotation" start="111280" stop="111850">Quotation </word>
+    <word normalized="Marks" start="111850" stop="112400">Marks</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="three">3 </word>
+    <word normalized="See" start="113170" stop="113480">See </word>
+    <word normalized="also" start="113480" stop="114150">also </word>
+    <word normalized="Amphibology" start="114670" stop="116110">Amphibology </word>
+    <word normalized="Scare" start="154830" stop="155450">Scare </word>
+    <word normalized="quotes" start="155450" stop="155930">quotes </word>
+  </sentence>
+</alignment>

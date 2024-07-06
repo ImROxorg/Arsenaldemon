@@ -1,0 +1,55 @@
+<alignment>
+  <sentence>
+    <word normalized="Tracy" start="1590" stop="2020">Tracy </word>
+    <word normalized="Barrell" start="2020" stop="2480">Barrell </word>
+    <word normalized="Tracy" start="7450" stop="8880">Tracy </word>
+    <word normalized="Barrell" start="8880" stop="9330">Barrell </word>
+    <word normalized="OAM">OAM </word>
+    <word normalized="is" start="10130" stop="10250">is </word>
+    <word normalized="a" start="10250" stop="10310">a </word>
+    <word normalized="Paralympic" start="10310" stop="10820">Paralympic </word>
+    <word normalized="swimming" start="10820" stop="11140">swimming </word>
+    <word normalized="competitor" start="11140" stop="11550">competitor </word>
+    <word normalized="from" start="11550" stop="11780">from </word>
+    <word normalized="Australia" start="11780" stop="12340">Australia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="She" start="13190" stop="13340">She </word>
+    <word normalized="won" start="13340" stop="13490">won </word>
+    <word normalized="a" start="13490" stop="13540">a </word>
+    <word normalized="pair" start="13540" stop="13890">pair </word>
+    <word normalized="of" start="13910" stop="13940">of </word>
+    <word normalized="gold" start="13940" stop="14000">gold </word>
+    <word normalized="medals" start="14000" stop="14130">medals </word>
+    <word normalized="at" start="14130" stop="14470">at </word>
+    <word normalized="the" start="14470" stop="14530">the </word>
+    <word normalized="nineteen" start="14530" stop="14600">19 </word>
+    <word normalized="hundred" start="14600" stop="14980">hundred </word>
+    <word normalized="ninety two" start="14980" stop="15370">92 </word>
+    <word normalized="Barcelona" start="15370" stop="15500">Barcelona </word>
+    <word normalized="Games" start="15500" stop="16110">Games </word>
+    <word normalized="in" start="16110" stop="16560">in </word>
+    <word normalized="the" start="16560" stop="16650">the </word>
+    <word normalized="Women s" start="16650" stop="16980">Women's </word>
+    <word normalized="four x five zero" start="16980" stop="17830">4x50 </word>
+    <word normalized="m" start="18080" stop="18110">m </word>
+    <word normalized="Freestyle" start="18110" stop="18210">Freestyle </word>
+    <word normalized="S one six" start="29250" stop="30230">S1-6 </word>
+    <word normalized="event" start="30230" stop="30510">event </word>
+    <word normalized="and" start="30510" stop="30930">and </word>
+    <word normalized="the" start="30930" stop="31870">the </word>
+    <word normalized="Women s" start="32140" stop="32520">Women's </word>
+    <word normalized="fifty" start="32520" stop="32580">50 </word>
+    <word normalized="m" start="32970" stop="33080">m </word>
+    <word normalized="Butterfly" start="33080" stop="33150">Butterfly </word>
+    <word normalized="S three four" start="33700" stop="33940">S3-4 </word>
+    <word normalized="event" start="33940" stop="34160">event</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="34160" stop="34370">Table </word>
+    <word normalized="of" start="34370" stop="34590">of </word>
+    <word normalized="contents" start="34590" stop="34750">contents </word>
+  </sentence>
+</alignment>

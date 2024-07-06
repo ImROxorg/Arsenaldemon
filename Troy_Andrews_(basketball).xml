@@ -1,0 +1,48 @@
+<alignment>
+  <sentence>
+    <word normalized="Troy" start="1150" stop="1530">Troy </word>
+    <word normalized="Andrews" start="1530" stop="2120">Andrews </word>
+    <word normalized="">(</word>
+    <word normalized="basketball" start="2330" stop="3020">basketball</word>
+    <word normalized="">) </word>
+    <word normalized="Troy" start="7800" stop="9210">Troy </word>
+    <word normalized="Andrews" start="9210" stop="9660">Andrews </word>
+    <word normalized="is" start="9660" stop="9780">is </word>
+    <word normalized="a" start="9780" stop="9820">a </word>
+    <word normalized="wheelchair" start="9820" stop="10260">wheelchair </word>
+    <word normalized="basketball" start="10260" stop="10870">basketball </word>
+    <word normalized="player">player </word>
+    <word normalized="from" start="10980" stop="11150">from </word>
+    <word normalized="Australia" start="11150" stop="11720">Australia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="He">He </word>
+    <word normalized="was" start="12450" stop="12670">was </word>
+    <word normalized="part" start="12670" stop="12880">part </word>
+    <word normalized="of" start="12880" stop="12940">of </word>
+    <word normalized="the" start="12940" stop="13020">the </word>
+    <word normalized="gold" start="13020" stop="13430">gold </word>
+    <word normalized="medal" start="13430" stop="13720">medal </word>
+    <word normalized="winning" start="13720" stop="14100">winning </word>
+    <word normalized="Australia" start="14130" stop="14890">Australia </word>
+    <word normalized="men s" start="14930" stop="15360">men's </word>
+    <word normalized="national" start="15540" stop="16100">national </word>
+    <word normalized="wheelchair" start="16100" stop="16480">wheelchair </word>
+    <word normalized="basketball" start="16480" stop="16960">basketball </word>
+    <word normalized="team" start="16960" stop="17320">team </word>
+    <word normalized="at" start="17350" stop="17460">at </word>
+    <word normalized="the" start="17460" stop="17530">the </word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety six" start="17890" stop="18470">96 </word>
+    <word normalized="Summer" start="18470" stop="18750">Summer </word>
+    <word normalized="Paralympics" start="18750" stop="19480">Paralympics</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="27800" stop="28160">Table </word>
+    <word normalized="of" start="28100" stop="28320">of </word>
+    <word normalized="contents" start="28590" stop="28750">contents </word>
+  </sentence>
+</alignment>

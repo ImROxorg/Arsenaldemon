@@ -1,0 +1,250 @@
+<alignment>
+  <sentence>
+    <word normalized="Sydney" start="1000" stop="1510">Sydney </word>
+    <word normalized="Uni" start="1510" stop="1940">Uni </word>
+    <word normalized="Water" start="1980" stop="2330">Water </word>
+    <word normalized="Polo" start="2330" stop="2620">Polo </word>
+    <word normalized="Club" start="2620" stop="2900">Club </word>
+    <word normalized="Sydney" start="7870" stop="8230">Sydney </word>
+    <word normalized="Uni" start="8230" stop="8500">Uni </word>
+    <word normalized="Lions" start="8500" stop="8990">Lions </word>
+    <word normalized="is" start="8990" stop="9070">is </word>
+    <word normalized="an" start="9070" stop="9150">an </word>
+    <word normalized="Australian" start="9150" stop="9610">Australian </word>
+    <word normalized="club">club </word>
+    <word normalized="water" start="9610" stop="9930">water </word>
+    <word normalized="polo" start="9930" stop="10300">polo </word>
+    <word normalized="team" start="10430" stop="11220">team </word>
+    <word normalized="that" start="11220" stop="11370">that </word>
+    <word normalized="competes">competes </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="National" start="11810" stop="12240">National </word>
+    <word normalized="Water" start="12240" stop="12440">Water </word>
+    <word normalized="Polo" start="12440" stop="12710">Polo </word>
+    <word normalized="League" start="12710" stop="13180">League</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="They" start="13740" stop="13830">They </word>
+    <word normalized="have" start="13830" stop="13940">have </word>
+    <word normalized="a" start="13940" stop="14000">a </word>
+    <word normalized="men s" start="14000" stop="14300">men's </word>
+    <word normalized="team" start="14300" stop="14530">team </word>
+    <word normalized="and" start="14530" stop="14620">and </word>
+    <word normalized="a" start="14620" stop="14650">a </word>
+    <word normalized="women s" start="14650" stop="14930">women's </word>
+    <word normalized="team">team </word>
+    <word normalized="and">and </word>
+    <word normalized="are">are </word>
+    <word normalized="based">based </word>
+    <word normalized="in">in </word>
+    <word normalized="Sydney">Sydney</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="General">General </word>
+    <word normalized="information">information </word>
+    <word normalized="The">The </word>
+    <word normalized="club s">club's </word>
+    <word normalized="colours" start="19880" stop="20300">colours </word>
+    <word normalized="are" start="20300" stop="20360">are </word>
+    <word normalized="blue" start="20360" stop="20560">blue </word>
+    <word normalized="and" start="20560" stop="20690">and </word>
+    <word normalized="gold" start="20690" stop="21060">gold</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="21060" stop="21160">and </word>
+    <word normalized="their" start="21160" stop="21250">their </word>
+    <word normalized="major" start="21250" stop="21560">major </word>
+    <word normalized="sponsor" start="21560" stop="22020">sponsor </word>
+    <word normalized="is" start="22020" stop="22130">is </word>
+    <word normalized="Sydney" start="22220" stop="22730">Sydney </word>
+    <word normalized="University" start="22730" stop="23530">University </word>
+    <word normalized="Sports" start="23530" stop="24040">Sports </word>
+    <word normalized="Union" start="24040" stop="24430">Union</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="25110" stop="25200">The </word>
+    <word normalized="team s" start="25200" stop="25480">team's </word>
+    <word normalized="home" start="25480" stop="25730">home </word>
+    <word normalized="pool" start="25730" stop="26050">pool </word>
+    <word normalized="is" start="26050" stop="26120">is </word>
+    <word normalized="the" start="26120" stop="26220">the </word>
+    <word normalized="Peter" start="26220" stop="26510">Peter </word>
+    <word normalized="Montgomery" start="26510" stop="27060">Montgomery </word>
+    <word normalized="Pool" start="27060" stop="27430">Pool </word>
+    <word normalized="at">at </word>
+    <word normalized="the">the </word>
+    <word normalized="Sydney" start="27610" stop="27900">Sydney </word>
+    <word normalized="University" start="27900" stop="28440">University </word>
+    <word normalized="Sports" start="28440" stop="28830">Sports </word>
+    <word normalized="Centre" start="28830" stop="29170">Centre</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="30320" stop="30630">Section </word>
+    <word normalized="two" start="30630" stop="30940">2 </word>
+    <word normalized="Men s" start="31080" stop="31370">Men's </word>
+    <word normalized="team" start="31370" stop="31640">team </word>
+    <word normalized="As">As </word>
+    <word normalized="of" start="32540" stop="32640">of </word>
+    <word normalized="twenty twelve" start="32660" stop="33520">2012</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="33550" stop="33660">the </word>
+    <word normalized="men s" start="33660" stop="33920">men's </word>
+    <word normalized="team" start="33920" stop="34180">team </word>
+    <word normalized="was" start="34180" stop="34310">was </word>
+    <word normalized="coached" start="34310" stop="34600">coached </word>
+    <word normalized="by" start="34600" stop="34730">by </word>
+    <word normalized="Damian" start="34730" stop="35180">Damian </word>
+    <word normalized="Fanning" start="35180" stop="35620">Fanning </word>
+    <word normalized="and" start="35690" stop="35810">and </word>
+    <word normalized="included" start="35810" stop="36270">included </word>
+    <word normalized="Australia" start="36450" stop="36530">Australia </word>
+    <word normalized="men s" start="36530" stop="37040">men's </word>
+    <word normalized="national" start="37040" stop="37160">national </word>
+    <word normalized="water" start="37440" stop="37720">water </word>
+    <word normalized="polo" start="37720" stop="38290">polo </word>
+    <word normalized="team" start="38630" stop="38880">team </word>
+    <word normalized="member" start="38880" stop="39260">member </word>
+    <word normalized="Thomas" start="39380" stop="39730">Thomas </word>
+    <word normalized="Whalan" start="39730" stop="40100">Whalan</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="41010" stop="41370">Section </word>
+    <word normalized="three" start="41370" stop="41720">3 </word>
+    <word normalized="Women s" start="42030" stop="42350">Women's </word>
+    <word normalized="team" start="42350" stop="42590">team </word>
+    <word normalized="As">As </word>
+    <word normalized="of">of </word>
+    <word normalized="twenty twelve" start="43720" stop="44660">2012</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="44660" stop="44740">the </word>
+    <word normalized="team" start="44740" stop="44930">team </word>
+    <word normalized="was" start="44930" stop="45080">was </word>
+    <word normalized="coached" start="45080" stop="45400">coached </word>
+    <word normalized="by" start="45400" stop="45610">by </word>
+    <word normalized="Ian" start="45610" stop="45930">Ian </word>
+    <word normalized="Trent" start="45930" stop="46300">Trent </word>
+    <word normalized="while" start="46410" stop="46790">while </word>
+    <word normalized="Leanne" start="46870" stop="46910">Leanne </word>
+    <word normalized="McKee" start="47520" stop="48530">McKee </word>
+    <word normalized="served" start="48800" stop="49130">served </word>
+    <word normalized="as" start="49130" stop="49270">as </word>
+    <word normalized="the" start="49270" stop="49370">the </word>
+    <word normalized="club s" start="49370" stop="49670">club's </word>
+    <word normalized="manager" start="49670" stop="49730">manager</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Members" start="50740" stop="51110">Members </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="51110" stop="51210">the </word>
+    <word normalized="twenty eleven" start="51210" stop="52100">2011 </word>
+    <word normalized="club" start="52100" stop="52420">club </word>
+    <word normalized="who" start="52420" stop="52480">who </word>
+    <word normalized="had" start="52480" stop="52670">had </word>
+    <word normalized="experience" start="52670" stop="53400">experience </word>
+    <word normalized="as" start="53400" stop="53560">as </word>
+    <word normalized="a" start="53560" stop="53590">a </word>
+    <word normalized="members" start="53590" stop="53950">members </word>
+    <word normalized="of" start="53950" stop="54070">of </word>
+    <word normalized="the" start="54070" stop="54160">the </word>
+    <word normalized="Australia" start="54330" stop="54380">Australia </word>
+    <word normalized="women s" start="54380" stop="54860">women's </word>
+    <word normalized="national" start="54860" stop="54920">national </word>
+    <word normalized="water" start="54920" stop="55270">water </word>
+    <word normalized="polo" start="55500" stop="55810">polo </word>
+    <word normalized="team" start="55810" stop="56150">team </word>
+    <word normalized="included" start="56500" stop="57040">included </word>
+    <word normalized="Elysha" start="57000" stop="57030">Elysha </word>
+    <word normalized="ONeill" start="57420" stop="57950">O'Neill</word>
+    <word normalized="">, </word>
+    <word normalized="Hannah" start="58120" stop="58380">Hannah </word>
+    <word normalized="Buckling" start="58380" stop="58900">Buckling</word>
+    <word normalized="">, </word>
+    <word normalized="Joanne" start="59070" stop="59430">Joanne </word>
+    <word normalized="Whitehorn" start="59430" stop="60030">Whitehorn</word>
+    <word normalized="">, </word>
+    <word normalized="Keesja" start="60390" stop="60420">Keesja </word>
+    <word normalized="Gofers" start="60770" stop="61350">Gofers </word>
+    <word normalized="and" start="61720" stop="62100">and </word>
+    <word normalized="Alicia" start="62370" stop="62680">Alicia </word>
+    <word normalized="Brightwell" start="62680" stop="63120">Brightwell</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="63490" stop="63550">The </word>
+    <word normalized="women s" start="63850" stop="64250">women's </word>
+    <word normalized="team" start="64250" stop="64520">team </word>
+    <word normalized="joined" start="64520" stop="64740">joined </word>
+    <word normalized="the" start="64740" stop="64800">the </word>
+    <word normalized="National" start="64800" stop="65170">National </word>
+    <word normalized="Water" start="65170" stop="65390">Water </word>
+    <word normalized="Polo" start="65390" stop="65650">Polo </word>
+    <word normalized="League" start="65650" stop="65950">League </word>
+    <word normalized="in" start="65950" stop="66040">in </word>
+    <word normalized="two thousand four" start="66040" stop="66790">2004</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="They" start="67390" stop="67420">They </word>
+    <word normalized="were" start="67420" stop="67540">were </word>
+    <word normalized="semi finals" start="67830" stop="68530">semi-finals </word>
+    <word normalized="in" start="68530" stop="68600">in </word>
+    <word normalized="the" start="68600" stop="68660">the </word>
+    <word normalized="league" start="68660" stop="68950">league </word>
+    <word normalized="championships" start="68950" stop="69650">championships </word>
+    <word normalized="in" start="69650" stop="69750">in </word>
+    <word normalized="two thousand six" start="69750" stop="70640">2006 </word>
+    <word normalized="and" start="70640" stop="70750">and </word>
+    <word normalized="two thousand seven" start="70750" stop="71550">2007</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="They">They </word>
+    <word normalized="were">were </word>
+    <word normalized="elimination" start="72110" stop="72880">elimination </word>
+    <word normalized="finalists" start="72880" stop="73330">finalists </word>
+    <word normalized="in" start="73330" stop="73420">in </word>
+    <word normalized="twenty eleven" start="74260" stop="74990">2011</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="twenty eleven" start="75220" stop="75690">2011</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="75690" stop="75760">the </word>
+    <word normalized="team" start="75760" stop="75980">team </word>
+    <word normalized="was" start="75980" stop="76110">was </word>
+    <word normalized="coached" start="76110" stop="76370">coached </word>
+    <word normalized="by" start="76370" stop="76500">by </word>
+    <word normalized="David" start="76500" stop="76810">David </word>
+    <word normalized="Hudson" start="76810" stop="77210">Hudson </word>
+    <word normalized="and" start="77320" stop="77430">and </word>
+    <word normalized="managed" start="77430" stop="77760">managed </word>
+    <word normalized="by" start="77760" stop="77890">by </word>
+    <word normalized="Bruce" start="77890" stop="78160">Bruce </word>
+    <word normalized="Hammond" start="78160" stop="78470">Hammond</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="79330" stop="79410">The </word>
+    <word normalized="team" start="79410" stop="79670">team </word>
+    <word normalized="has" start="79670" stop="79800">has </word>
+    <word normalized="a" start="79800" stop="79860">a </word>
+    <word normalized="crosstown" start="79860" stop="80400">crosstown </word>
+    <word normalized="rival" start="80400" stop="80850">rival</word>
+    <word normalized="">, </word>
+    <word normalized="Cronulla" start="81020" stop="81050">Cronulla </word>
+    <word normalized="Sharks" start="81360" stop="81840">Sharks</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

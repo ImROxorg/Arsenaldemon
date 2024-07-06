@@ -1,0 +1,88 @@
+<alignment>
+  <sentence>
+    <word normalized="The" start="840" stop="960">The </word>
+    <word normalized="Tay" start="960" stop="1230">Tay </word>
+    <word normalized="Bridge" start="1230" stop="1550">Bridge </word>
+    <word normalized="Disaster" start="1550" stop="2100">Disaster </word>
+    <word normalized="The" start="6650" stop="6760">The </word>
+    <word normalized="Tay" start="6760" stop="7020">Tay </word>
+    <word normalized="Bridge" start="7020" stop="7320">Bridge </word>
+    <word normalized="Disaster" start="7320" stop="7870">Disaster </word>
+    <word normalized="is" start="7870" stop="8030">is </word>
+    <word normalized="an" start="8030" stop="8130">an </word>
+    <word normalized="internationally known" start="8130" stop="9100">internationally-known </word>
+    <word normalized="poem" start="9100" stop="9470">poem </word>
+    <word normalized="by" start="9470" stop="9570">by </word>
+    <word normalized="the" start="9570" stop="9670">the </word>
+    <word normalized="Scottish" start="9670" stop="10050">Scottish </word>
+    <word normalized="poet" start="10050" stop="10410">poet </word>
+    <word normalized="William" start="10440" stop="10850">William </word>
+    <word normalized="McGonagall" start="10850" stop="11530">McGonagall </word>
+    <word normalized="and" start="11790" stop="11930">and </word>
+    <word normalized="recounts" start="11930" stop="12310">recounts </word>
+    <word normalized="the" start="12310" stop="12420">the </word>
+    <word normalized="events" start="12420" stop="12760">events </word>
+    <word normalized="of" start="12760" stop="12840">of </word>
+    <word normalized="the" start="12840" stop="13000">the </word>
+    <word normalized="evening" start="13000" stop="13260">evening </word>
+    <word normalized="of" start="13260" stop="13340">of </word>
+    <word normalized="twenty eight" start="13430" stop="13940">28 </word>
+    <word normalized="December" start="13940" stop="14430">December </word>
+    <word normalized="eighteen" start="14460" stop="14840">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy nine" start="14840" stop="15540">79</word>
+    <word normalized="">, </word>
+    <word normalized="when" start="15850" stop="16080">when</word>
+    <word normalized="">, </word>
+    <word normalized="during" start="16080" stop="16350">during </word>
+    <word normalized="a" start="16350" stop="16380">a </word>
+    <word normalized="severe" start="16380" stop="16790">severe </word>
+    <word normalized="gale" start="16790" stop="17220">gale</word>
+    <word normalized="">, </word>
+    <word normalized="Tay" start="17310" stop="17630">Tay </word>
+    <word normalized="Rail" start="17630" stop="17940">Rail </word>
+    <word normalized="Bridge" start="17940" stop="18320">Bridge </word>
+    <word normalized="near" start="18320" stop="18440">near </word>
+    <word normalized="Dundee" start="18440" stop="18980">Dundee </word>
+    <word normalized="collapsed" start="19010" stop="19490">collapsed </word>
+    <word normalized="as" start="19490" stop="19600">as </word>
+    <word normalized="a" start="19600" stop="19650">a </word>
+    <word normalized="train" start="19650" stop="19950">train </word>
+    <word normalized="was" start="19950" stop="20080">was </word>
+    <word normalized="passing" start="20080" stop="20430">passing </word>
+    <word normalized="over" start="20430" stop="20730">over </word>
+    <word normalized="it">it </word>
+    <word normalized="with" start="21170" stop="21290">with </word>
+    <word normalized="the" start="21290" stop="21350">the </word>
+    <word normalized="loss" start="21350" stop="21570">loss </word>
+    <word normalized="of" start="21570" stop="21690">of </word>
+    <word normalized="all" start="21690" stop="21850">all </word>
+    <word normalized="on" start="21850" stop="22000">on </word>
+    <word normalized="board" start="22000" stop="22390">board</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="23030" stop="23130">The </word>
+    <word normalized="poem" start="23130" stop="23510">poem </word>
+    <word normalized="is" start="23510" stop="23570">is </word>
+    <word normalized="still" start="23570" stop="23990">still </word>
+    <word normalized="widely" start="23990" stop="24410">widely </word>
+    <word normalized="quoted" start="24410" stop="24860">quoted</word>
+    <word normalized="">: </word>
+    <word normalized="Table" start="26380" stop="27050">Table </word>
+    <word normalized="of" start="27050" stop="27680">of </word>
+    <word normalized="contents" start="27680" stop="27810">contents </word>
+    <word normalized="Section" start="28450" stop="28660">Section </word>
+    <word normalized="one" start="29040" stop="29380">1 </word>
+    <word normalized="See" start="29380" stop="29480">See </word>
+    <word normalized="also" start="29480" stop="29540">also </word>
+    <word normalized="List" start="30080" stop="30110">List </word>
+    <word normalized="of" start="30110" stop="30440">of </word>
+    <word normalized="natural" start="30440" stop="30500">natural </word>
+    <word normalized="disasters" start="30500" stop="30680">disasters </word>
+    <word normalized="in" start="31240" stop="31540">in </word>
+    <word normalized="the" start="31540" stop="31700">the </word>
+    <word normalized="United" start="31890" stop="31950">United </word>
+    <word normalized="Kingdom" start="31950" stop="32670">Kingdom </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,67 @@
+<alignment>
+  <sentence>
+    <word normalized="Trichord" start="20" stop="650">Trichord </word>
+    <word normalized="In">In </word>
+    <word normalized="music" start="970" stop="1400">music</word>
+    <word normalized="">, </word>
+    <word normalized="especially" start="1400" stop="1870">especially </word>
+    <word normalized="in" start="1870" stop="2010">in </word>
+    <word normalized="musical">musical </word>
+    <word normalized="set" start="2320" stop="2620">set </word>
+    <word normalized="theory" start="2620" stop="3050">theory</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="3350" stop="3400">a </word>
+    <word normalized="trichord" start="3400" stop="3850">trichord </word>
+    <word normalized="is" start="3850" stop="3950">is </word>
+    <word normalized="a" start="3950" stop="4000">a </word>
+    <word normalized="collection" start="4000" stop="4400">collection </word>
+    <word normalized="of" start="4400" stop="4490">of </word>
+    <word normalized="three" start="4490" stop="4810">three </word>
+    <word normalized="pitch" start="4810" stop="5100">pitch </word>
+    <word normalized="classes" start="5100" stop="5620">classes</word>
+    <word normalized="">, </word>
+    <word normalized="often" start="5850" stop="6150">often </word>
+    <word normalized="one" start="6150" stop="6300">one </word>
+    <word normalized="of" start="6300" stop="6400">of </word>
+    <word normalized="the" start="6400" stop="6490">the </word>
+    <word normalized="four" start="6490" stop="6800">four </word>
+    <word normalized="ordered" start="6800" stop="7120">ordered </word>
+    <word normalized="trichords" start="7120" stop="7700">trichords </word>
+    <word normalized="in" start="7700" stop="7780">in </word>
+    <word normalized="a" start="7780" stop="7840">a </word>
+    <word normalized="tone" start="7840" stop="8170">tone </word>
+    <word normalized="row" start="8170" stop="8350">row </word>
+    <word normalized="or" start="8350" stop="8540">or </word>
+    <word normalized="set" start="8540" stop="8800">set </word>
+    <word normalized="form" start="8800" stop="9190">form</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Trichords" start="9960" stop="10390">Trichords </word>
+    <word normalized="may" start="10390" stop="10510">may </word>
+    <word normalized="be" start="10510" stop="10590">be </word>
+    <word normalized="used" start="10590" stop="10860">used </word>
+    <word normalized="to" start="10900" stop="10930">to </word>
+    <word normalized="create" start="10930" stop="10990">create </word>
+    <word normalized="derived" start="10990" stop="11170">derived </word>
+    <word normalized="rows" start="11170" stop="11630">rows </word>
+    <word normalized="and" start="11630" stop="11970">and </word>
+    <word normalized="invariance" start="11970" stop="12220">invariance</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="See">See </word>
+    <word normalized="also">also </word>
+    <word normalized="Monad">Monad </word>
+    <word normalized="Dyad">Dyad </word>
+    <word normalized="Tetrachord">Tetrachord </word>
+    <word normalized="All interval">All-interval </word>
+    <word normalized="tetrachord">tetrachord </word>
+    <word normalized="Hexachord">Hexachord </word>
+  </sentence>
+</alignment>
