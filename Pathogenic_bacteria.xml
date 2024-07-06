@@ -1,0 +1,718 @@
+<alignment>
+  <sentence>
+    <word normalized="Pathogenic" start="29420" stop="30260">Pathogenic </word>
+    <word normalized="bacteria" start="30930" stop="31260">bacteria </word>
+    <word normalized="Pathogenic" start="33120" stop="34080">Pathogenic </word>
+    <word normalized="bacteria" start="51510" stop="52200">bacteria </word>
+    <word normalized="are" start="52660" stop="52730">are </word>
+    <word normalized="bacteria" start="52730" stop="53430">bacteria </word>
+    <word normalized="that" start="53550" stop="53730">that </word>
+    <word normalized="cause">cause </word>
+    <word normalized="infectious" start="54010" stop="54530">infectious </word>
+    <word normalized="diseases" start="54530" stop="55240">diseases</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="56110" stop="56360">This </word>
+    <word normalized="article" start="56360" stop="56840">article </word>
+    <word normalized="deals" start="56840" stop="57160">deals </word>
+    <word normalized="with" start="57160" stop="57300">with </word>
+    <word normalized="human" start="57300" stop="57750">human </word>
+    <word normalized="pathogenic" start="57750" stop="58380">pathogenic </word>
+    <word normalized="bacteria" start="58610" stop="59130">bacteria</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Although" start="60720" stop="61070">Although </word>
+    <word normalized="the" start="61070" stop="61410">the </word>
+    <word normalized="vast">vast </word>
+    <word normalized="majority" start="61440" stop="62030">majority </word>
+    <word normalized="of" start="62030" stop="62190">of </word>
+    <word normalized="bacteria" start="62190" stop="62720">bacteria </word>
+    <word normalized="are" start="62720" stop="62890">are </word>
+    <word normalized="harmless" start="62890" stop="63490">harmless </word>
+    <word normalized="or" start="63570" stop="63680">or </word>
+    <word normalized="beneficial" start="63680" stop="64480">beneficial</word>
+    <word normalized="">, </word>
+    <word normalized="quite" start="65170" stop="65460">quite </word>
+    <word normalized="a" start="65460" stop="65530">a </word>
+    <word normalized="few" start="65590" stop="65800">few </word>
+    <word normalized="bacteria">bacteria </word>
+    <word normalized="are" start="66290" stop="66570">are </word>
+    <word normalized="pathogenic" start="66570" stop="67370">pathogenic</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="One" start="68530" stop="68720">One </word>
+    <word normalized="of" start="68720" stop="68850">of </word>
+    <word normalized="the" start="68850" stop="68930">the </word>
+    <word normalized="bacterial" start="68930" stop="69540">bacterial </word>
+    <word normalized="diseases" start="69540" stop="70260">diseases </word>
+    <word normalized="with" start="70660" stop="70800">with </word>
+    <word normalized="highest" start="70800" stop="71200">highest </word>
+    <word normalized="disease" start="71200" stop="71610">disease </word>
+    <word normalized="burden" start="71610" stop="72200">burden </word>
+    <word normalized="is" start="72390" stop="72570">is </word>
+    <word normalized="tuberculosis" start="72570" stop="74360">tuberculosis</word>
+    <word normalized="">, </word>
+    <word normalized="caused" start="74890" stop="75190">caused </word>
+    <word normalized="by" start="75230" stop="75320">by </word>
+    <word normalized="the" start="75320" stop="75440">the </word>
+    <word normalized="bacterium" start="75440" stop="76290">bacterium </word>
+    <word normalized="Mycobacterium" start="76730" stop="77940">Mycobacterium </word>
+    <word normalized="tuberculosis" start="78140" stop="79150">tuberculosis</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="80020" stop="80250">which </word>
+    <word normalized="kills" start="80250" stop="80600">kills </word>
+    <word normalized="about" start="80600" stop="80870">about </word>
+    <word normalized="two" start="80870" stop="81200">2 </word>
+    <word normalized="million" start="81200" stop="81560">million </word>
+    <word normalized="people" start="81560" stop="82030">people </word>
+    <word normalized="a" start="82030" stop="82070">a </word>
+    <word normalized="year" start="82070" stop="82570">year</word>
+    <word normalized="">, </word>
+    <word normalized="mostly" start="83230" stop="83560">mostly </word>
+    <word normalized="in" start="83560" stop="83680">in </word>
+    <word normalized="sub Saharan" start="83680" stop="84480">sub-Saharan </word>
+    <word normalized="Africa" start="84480" stop="85110">Africa</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Pathogenic" start="86640" stop="87170">Pathogenic </word>
+    <word normalized="bacteria" start="87170" stop="87850">bacteria </word>
+    <word normalized="contribute" start="88230" stop="88870">contribute </word>
+    <word normalized="to" start="88990" stop="89060">to </word>
+    <word normalized="other" start="89060" stop="89250">other </word>
+    <word normalized="globally" start="89250" stop="89740">globally </word>
+    <word normalized="important" start="89740" stop="90290">important </word>
+    <word normalized="diseases" start="90290" stop="90930">diseases</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="91900" stop="92270">such </word>
+    <word normalized="as" start="92270" stop="92570">as </word>
+    <word normalized="pneumonia" start="92570" stop="93290">pneumonia</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="94030" stop="94200">which </word>
+    <word normalized="can" start="94200" stop="94360">can </word>
+    <word normalized="be" start="94360" stop="94430">be </word>
+    <word normalized="caused" start="94430" stop="94790">caused </word>
+    <word normalized="by" start="94790" stop="94900">by </word>
+    <word normalized="bacteria" start="94900" stop="95780">bacteria </word>
+    <word normalized="such" start="95980" stop="96350">such </word>
+    <word normalized="as" start="96350" stop="96740">as </word>
+    <word normalized="Streptococcus" start="96930" stop="98060">Streptococcus </word>
+    <word normalized="and" start="98270" stop="98440">and </word>
+    <word normalized="Pseudomonas" start="98440" stop="99330">Pseudomonas</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="100110" stop="100250">and </word>
+    <word normalized="foodborne" start="100250" stop="100920">foodborne </word>
+    <word normalized="illnesses" start="100920" stop="101630">illnesses</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="102610" stop="102850">which </word>
+    <word normalized="can" start="102850" stop="103100">can </word>
+    <word normalized="be">be </word>
+    <word normalized="caused" start="103100" stop="103490">caused </word>
+    <word normalized="by" start="103490" stop="103640">by </word>
+    <word normalized="bacteria" start="103640" stop="104470">bacteria </word>
+    <word normalized="such" start="104620" stop="104990">such </word>
+    <word normalized="as" start="104990" stop="105390">as </word>
+    <word normalized="Shigella" start="105500" stop="106170">Shigella</word>
+    <word normalized="">, </word>
+    <word normalized="Campylobacter" start="106680" stop="107730">Campylobacter </word>
+    <word normalized="and" start="108440" stop="108620">and </word>
+    <word normalized="Salmonella" start="108620" stop="109390">Salmonella</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Pathogenic" start="110600" stop="111180">Pathogenic </word>
+    <word normalized="bacteria" start="111180" stop="111770">bacteria </word>
+    <word normalized="also" start="112210" stop="112500">also </word>
+    <word normalized="cause" start="112500" stop="112810">cause </word>
+    <word normalized="infections" start="112810" stop="113540">infections </word>
+    <word normalized="such" start="113540" stop="113830">such </word>
+    <word normalized="as">as </word>
+    <word normalized="tetanus" start="114420" stop="115080">tetanus</word>
+    <word normalized="">, </word>
+    <word normalized="typhoid" start="116190" stop="116690">typhoid </word>
+    <word normalized="fever" start="116730" stop="117300">fever</word>
+    <word normalized="">, </word>
+    <word normalized="diphtheria" start="117900" stop="118800">diphtheria</word>
+    <word normalized="">, </word>
+    <word normalized="syphilis" start="119290" stop="120000">syphilis </word>
+    <word normalized="and" start="120400" stop="120560">and </word>
+    <word normalized="leprosy" start="120560" stop="121230">leprosy</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="121250" stop="121760">Table </word>
+    <word normalized="of" start="122430" stop="123190">of </word>
+    <word normalized="contents" start="123190" stop="123460">contents </word>
+    <word normalized="Section" start="123460" stop="123910">Section </word>
+    <word normalized="one" start="124520" stop="124640">1 </word>
+    <word normalized="History" start="124780" stop="124910">History </word>
+    <word normalized="Koch s">Koch's </word>
+    <word normalized="postulates">postulates</word>
+    <word normalized="">, </word>
+    <word normalized="proposed">proposed </word>
+    <word normalized="by">by </word>
+    <word normalized="Robert">Robert </word>
+    <word normalized="Koch">Koch </word>
+    <word normalized="in">in </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety">90</word>
+    <word normalized="">, </word>
+    <word normalized="are">are </word>
+    <word normalized="criteria">criteria </word>
+    <word normalized="designed" start="125260" stop="125750">designed </word>
+    <word normalized="to" start="125750" stop="125810">to </word>
+    <word normalized="establish" start="125810" stop="126480">establish </word>
+    <word normalized="a" start="126710" stop="126770">a </word>
+    <word normalized="causal" start="126770" stop="127310">causal </word>
+    <word normalized="relationship" start="127310" stop="128160">relationship </word>
+    <word normalized="between" start="128720" stop="129100">between </word>
+    <word normalized="a" start="129100" stop="129140">a </word>
+    <word normalized="causative" start="129140" stop="129810">causative </word>
+    <word normalized="microbe" start="129810" stop="130590">microbe </word>
+    <word normalized="and" start="131440" stop="131750">and </word>
+    <word normalized="a" start="131750" stop="131800">a </word>
+    <word normalized="disease" start="131800" stop="132480">disease</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="134220" stop="134620">Section </word>
+    <word normalized="two" start="134990" stop="135170">2 </word>
+    <word normalized="Diseases" start="135770" stop="136550">Diseases </word>
+    <word normalized="Each" start="137400" stop="137440">Each </word>
+    <word normalized="pathogenic" start="137440" stop="137500">pathogenic </word>
+    <word normalized="species" start="139780" stop="140500">species </word>
+    <word normalized="has" start="140680" stop="140830">has </word>
+    <word normalized="a" start="140830" stop="140870">a </word>
+    <word normalized="characteristic" start="140870" stop="141800">characteristic </word>
+    <word normalized="spectrum" start="141800" stop="142370">spectrum </word>
+    <word normalized="of" start="142370" stop="142470">of </word>
+    <word normalized="interactions" start="142470" stop="143440">interactions </word>
+    <word normalized="with" start="143590" stop="143720">with </word>
+    <word normalized="its" start="143720" stop="143930">its </word>
+    <word normalized="human" start="143930" stop="144230">human </word>
+    <word normalized="hosts" start="144230" stop="144770">hosts</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="146900" stop="147270">Section </word>
+    <word normalized="two" start="147200" stop="147530">2 </word>
+    <word normalized="point" start="147710" stop="147960">point </word>
+    <word normalized="one" start="147960" stop="148560">1 </word>
+    <word normalized="Conditionally" start="148970" stop="149640">Conditionally </word>
+    <word normalized="pathogenic" start="149640" stop="150480">pathogenic </word>
+    <word normalized="Some" start="151280" stop="151830">Some </word>
+    <word normalized="organisms" start="151970" stop="152500">organisms</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="153060" stop="153090">such </word>
+    <word normalized="as" start="153090" stop="153330">as </word>
+    <word normalized="Staphylococcus" start="153710" stop="154290">Staphylococcus </word>
+    <word normalized="or" start="155140" stop="155640">or </word>
+    <word normalized="Streptococcus" start="155640" stop="155760">Streptococcus</word>
+    <word normalized="">, </word>
+    <word normalized="can" start="155760" stop="156560">can </word>
+    <word normalized="cause" start="156560" stop="156780">cause </word>
+    <word normalized="skin" start="156970" stop="157560">skin </word>
+    <word normalized="infections" start="157840" stop="158100">infections</word>
+    <word normalized="">, </word>
+    <word normalized="pneumonia" start="158100" stop="158600">pneumonia</word>
+    <word normalized="">, </word>
+    <word normalized="meningitis" start="159270" stop="159360">meningitis </word>
+    <word normalized="and" start="159360" stop="159860">and </word>
+    <word normalized="even" start="159860" stop="160170">even </word>
+    <word normalized="overwhelming" start="160400" stop="160430">overwhelming </word>
+    <word normalized="sepsis" start="161950" stop="162190">sepsis</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="162420" stop="162470">a </word>
+    <word normalized="systemic" start="162630" stop="162660">systemic </word>
+    <word normalized="inflammatory" start="162660" stop="163200">inflammatory </word>
+    <word normalized="response" start="163800" stop="165620">response </word>
+    <word normalized="producing" start="166620" stop="167550">producing </word>
+    <word normalized="shock" start="168240" stop="168420">shock</word>
+    <word normalized="">, </word>
+    <word normalized="massive" start="168420" stop="168720">massive </word>
+    <word normalized="vasodilation" start="169080" stop="169450">vasodilation </word>
+    <word normalized="and">and </word>
+    <word normalized="death">death</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Yet">Yet </word>
+    <word normalized="these">these </word>
+    <word normalized="organisms">organisms </word>
+    <word normalized="are">are </word>
+    <word normalized="also">also </word>
+    <word normalized="part">part </word>
+    <word normalized="of" start="170110" stop="170240">of </word>
+    <word normalized="the" start="170240" stop="170320">the </word>
+    <word normalized="normal" start="170320" stop="170870">normal </word>
+    <word normalized="human" start="170870" stop="171240">human </word>
+    <word normalized="flora" start="171240" stop="171790">flora </word>
+    <word normalized="and" start="172400" stop="172560">and </word>
+    <word normalized="usually" start="172560" stop="172980">usually </word>
+    <word normalized="exist" start="172980" stop="173450">exist </word>
+    <word normalized="on" start="173450" stop="173630">on </word>
+    <word normalized="the" start="173630" stop="173720">the </word>
+    <word normalized="skin" start="173720" stop="174350">skin </word>
+    <word normalized="or" start="174630" stop="174790">or </word>
+    <word normalized="in" start="174790" stop="174870">in </word>
+    <word normalized="the" start="174870" stop="174950">the </word>
+    <word normalized="nose" start="174950" stop="175570">nose </word>
+    <word normalized="without" start="175760" stop="176040">without </word>
+    <word normalized="causing" start="176040" stop="176530">causing </word>
+    <word normalized="disease" start="176530" stop="177080">disease</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="177770" stop="178090">Section </word>
+    <word normalized="two" start="178090" stop="178450">2 </word>
+    <word normalized="point" start="178450" stop="178710">point </word>
+    <word normalized="two" start="178710" stop="179400">2 </word>
+    <word normalized="Intracellular" start="179730" stop="180690">Intracellular </word>
+    <word normalized="Other" start="181440" stop="181920">Other </word>
+    <word normalized="organisms" start="181920" stop="182110">organisms </word>
+    <word normalized="invariably" start="182880" stop="183640">invariably </word>
+    <word normalized="cause" start="183640" stop="184520">cause </word>
+    <word normalized="disease" start="184840" stop="184970">disease </word>
+    <word normalized="in" start="185660" stop="186830">in </word>
+    <word normalized="humans" start="187090" stop="187140">humans</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="187140" stop="187410">such </word>
+    <word normalized="as" start="187410" stop="187600">as </word>
+    <word normalized="the" start="187600" stop="187690">the </word>
+    <word normalized="Rickettsia" start="187690" stop="187800">Rickettsia</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="188430" stop="188760">which </word>
+    <word normalized="are" start="188760" stop="189560">are </word>
+    <word normalized="obligate" start="189810" stop="190370">obligate </word>
+    <word normalized="intracellular" start="190370" stop="190840">intracellular </word>
+    <word normalized="parasites" start="190840" stop="191540">parasites </word>
+    <word normalized="able" start="191540" stop="191850">able </word>
+    <word normalized="to" start="192070" stop="192540">to </word>
+    <word normalized="grow" start="192540" stop="192730">grow </word>
+    <word normalized="and" start="192730" stop="192840">and </word>
+    <word normalized="reproduce" start="194500" stop="195490">reproduce </word>
+    <word normalized="only" start="195490" stop="196060">only </word>
+    <word normalized="within" start="196060" stop="196200">within </word>
+    <word normalized="the" start="196200" stop="196650">the </word>
+    <word normalized="cells">cells </word>
+    <word normalized="of">of </word>
+    <word normalized="other">other </word>
+    <word normalized="organisms">organisms</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="One">One </word>
+    <word normalized="species">species </word>
+    <word normalized="of">of </word>
+    <word normalized="Rickettsia">Rickettsia </word>
+    <word normalized="causes">causes </word>
+    <word normalized="typhus">typhus</word>
+    <word normalized="">, </word>
+    <word normalized="while">while </word>
+    <word normalized="another">another </word>
+    <word normalized="causes">causes </word>
+    <word normalized="Rocky">Rocky </word>
+    <word normalized="Mountain">Mountain </word>
+    <word normalized="spotted">spotted </word>
+    <word normalized="fever">fever</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Chlamydia">Chlamydia</word>
+    <word normalized="">, </word>
+    <word normalized="another">another </word>
+    <word normalized="phylum">phylum </word>
+    <word normalized="of">of </word>
+    <word normalized="obligate">obligate </word>
+    <word normalized="intracellular">intracellular </word>
+    <word normalized="parasites">parasites</word>
+    <word normalized="">, </word>
+    <word normalized="contains">contains </word>
+    <word normalized="species">species </word>
+    <word normalized="that">that </word>
+    <word normalized="can">can </word>
+    <word normalized="cause">cause </word>
+    <word normalized="pneumonia">pneumonia</word>
+    <word normalized="">, </word>
+    <word normalized="or">or </word>
+    <word normalized="urinary">urinary </word>
+    <word normalized="tract">tract </word>
+    <word normalized="infection">infection </word>
+    <word normalized="and">and </word>
+    <word normalized="may">may </word>
+    <word normalized="be">be </word>
+    <word normalized="involved">involved </word>
+    <word normalized="in">in </word>
+    <word normalized="coronary">coronary </word>
+    <word normalized="heart">heart </word>
+    <word normalized="disease">disease</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Mycobacterium">Mycobacterium </word>
+    <word normalized="and">and </word>
+    <word normalized="Brucella">Brucella </word>
+    <word normalized="can">can </word>
+    <word normalized="exist">exist </word>
+    <word normalized="intracellularly">intracellularly</word>
+    <word normalized="">, </word>
+    <word normalized="though">though </word>
+    <word normalized="they">they </word>
+    <word normalized="are">are </word>
+    <word normalized="facultative">facultative </word>
+    <word normalized="">(</word>
+    <word normalized="not">not </word>
+    <word normalized="obligate">obligate </word>
+    <word normalized="intracellular">intracellular </word>
+    <word normalized="parasites">parasites</word>
+    <word normalized="">.</word>
+    <word normalized="">) </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="2">2 </word>
+    <word normalized="point">point </word>
+    <word normalized="three">3 </word>
+    <word normalized="Opportunistic">Opportunistic </word>
+    <word normalized="Some">Some </word>
+    <word normalized="species">species </word>
+    <word normalized="of">of </word>
+    <word normalized="bacteria">bacteria</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="197450" stop="197800">such </word>
+    <word normalized="as" start="197800" stop="198400">as </word>
+    <word normalized="Pseudomonas" start="198730" stop="199630">Pseudomonas </word>
+    <word normalized="aeruginosa" start="199630" stop="200590">aeruginosa</word>
+    <word normalized="">, </word>
+    <word normalized="Burkholderia" start="201360" stop="202300">Burkholderia </word>
+    <word normalized="cenocepacia" start="202440" stop="203570">cenocepacia</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="Mycobacterium" start="204230" stop="205580">Mycobacterium </word>
+    <word normalized="avium" start="206090" stop="206490">avium</word>
+    <word normalized="">, </word>
+    <word normalized="are" start="207000" stop="207120">are </word>
+    <word normalized="opportunistic" start="207120" stop="207960">opportunistic </word>
+    <word normalized="pathogens" start="207960" stop="208790">pathogens </word>
+    <word normalized="and" start="209450" stop="209590">and </word>
+    <word normalized="cause" start="209590" stop="209910">cause </word>
+    <word normalized="disease" start="209910" stop="210470">disease </word>
+    <word normalized="mainly" start="210470" stop="210880">mainly </word>
+    <word normalized="in" start="210880" stop="211130">in </word>
+    <word normalized="people" start="211130" stop="211540">people </word>
+    <word normalized="suffering" start="211540" stop="212180">suffering </word>
+    <word normalized="from" start="212230" stop="212640">from </word>
+    <word normalized="immunosuppression" start="213010" stop="214390">immunosuppression </word>
+    <word normalized="or" start="215160" stop="215430">or </word>
+    <word normalized="cystic" start="215430" stop="215850">cystic </word>
+    <word normalized="fibrosis" start="215850" stop="216760">fibrosis</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="287920" stop="288420">Section </word>
+    <word normalized="three" start="288420" stop="288870">3 </word>
+    <word normalized="Treatment" start="289470" stop="290220">Treatment </word>
+    <word normalized="Bacterial" start="290400" stop="291450">Bacterial </word>
+    <word normalized="infections" start="292730" stop="293710">infections </word>
+    <word normalized="may" start="293870" stop="294000">may </word>
+    <word normalized="be" start="294000" stop="294100">be </word>
+    <word normalized="treated">treated </word>
+    <word normalized="with" start="294660" stop="294830">with </word>
+    <word normalized="antibiotics" start="294830" stop="296050">antibiotics</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="296760" stop="296930">which </word>
+    <word normalized="are" start="296930" stop="297010">are </word>
+    <word normalized="classified" start="297010" stop="297880">classified </word>
+    <word normalized="as" start="298080" stop="298240">as </word>
+    <word normalized="bacteriocidal" start="298240" stop="299490">bacteriocidal </word>
+    <word normalized="if">if </word>
+    <word normalized="they" start="299510" stop="299910">they </word>
+    <word normalized="kill" start="299910" stop="300290">kill </word>
+    <word normalized="bacteria" start="300290" stop="300980">bacteria</word>
+    <word normalized="">, </word>
+    <word normalized="or" start="301770" stop="302010">or </word>
+    <word normalized="bacteriostatic" start="302010" stop="303290">bacteriostatic </word>
+    <word normalized="if" start="303810" stop="303920">if </word>
+    <word normalized="they" start="303920" stop="304160">they </word>
+    <word normalized="just">just </word>
+    <word normalized="prevent" start="304400" stop="304970">prevent </word>
+    <word normalized="bacterial" start="304970" stop="305550">bacterial </word>
+    <word normalized="growth" start="305550" stop="306190">growth</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There" start="307390" stop="307560">There </word>
+    <word normalized="are" start="307560" stop="307640">are </word>
+    <word normalized="many" start="307640" stop="307950">many </word>
+    <word normalized="types" start="307950" stop="308310">types </word>
+    <word normalized="of" start="308300" stop="308330">of </word>
+    <word normalized="antibiotics" start="308330" stop="308410">antibiotics </word>
+    <word normalized="and" start="309790" stop="309950">and </word>
+    <word normalized="each" start="309950" stop="310120">each </word>
+    <word normalized="class" start="310120" stop="310620">class </word>
+    <word normalized="inhibits" start="310760" stop="311100">inhibits </word>
+    <word normalized="a" start="311100" stop="311150">a </word>
+    <word normalized="process" start="311150" stop="311780">process </word>
+    <word normalized="that" start="312150" stop="312290">that </word>
+    <word normalized="is" start="312290" stop="312480">is </word>
+    <word normalized="different" start="312480" stop="313000">different </word>
+    <word normalized="in" start="313000" stop="313100">in </word>
+    <word normalized="the" start="313100" stop="313180">the </word>
+    <word normalized="pathogen" start="313180" stop="313930">pathogen </word>
+    <word normalized="from">from </word>
+    <word normalized="that" start="314190" stop="314480">that </word>
+    <word normalized="found" start="314480" stop="314860">found </word>
+    <word normalized="in" start="314860" stop="314950">in </word>
+    <word normalized="the" start="314950" stop="315060">the </word>
+    <word normalized="host" start="315060" stop="315520">host</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="For" start="316540" stop="316710">For </word>
+    <word normalized="example" start="316710" stop="316840">example</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="317480" stop="318010">the </word>
+    <word normalized="antibiotics" start="318010" stop="318130">antibiotics </word>
+    <word normalized="chloramphenicol" start="319110" stop="320110">chloramphenicol </word>
+    <word normalized="and" start="320420" stop="320540">and </word>
+    <word normalized="tetracyclin" start="320540" stop="321660">tetracyclin </word>
+    <word normalized="inhibit" start="322080" stop="322480">inhibit </word>
+    <word normalized="the" start="322480" stop="322580">the </word>
+    <word normalized="bacterial" start="322580" stop="323260">bacterial </word>
+    <word normalized="ribosome" start="323270" stop="324050">ribosome</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="324450" stop="324610">but </word>
+    <word normalized="not" start="324610" stop="324860">not </word>
+    <word normalized="the" start="324950" stop="325060">the </word>
+    <word normalized="structurally different" start="325060" stop="326540">structurally-different </word>
+    <word normalized="eukaryotic" start="326680" stop="327670">eukaryotic </word>
+    <word normalized="ribosome" start="328120" stop="328150">ribosome</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="329160" stop="329290">and </word>
+    <word normalized="so" start="329290" stop="329700">so </word>
+    <word normalized="exhibit" start="329730" stop="330230">exhibit </word>
+    <word normalized="selective" start="330230" stop="330820">selective </word>
+    <word normalized="toxicity" start="330820" stop="331490">toxicity</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Antibiotics" start="333500" stop="334530">Antibiotics </word>
+    <word normalized="are" start="334750" stop="334870">are </word>
+    <word normalized="used" start="334870" stop="335180">used </word>
+    <word normalized="both" start="335180" stop="335600">both </word>
+    <word normalized="in" start="335600" stop="335730">in </word>
+    <word normalized="treating" start="335730" stop="336270">treating </word>
+    <word normalized="human" start="336270" stop="336540">human </word>
+    <word normalized="disease" start="336540" stop="337180">disease </word>
+    <word normalized="and" start="338000" stop="338260">and </word>
+    <word normalized="in" start="338400" stop="338550">in </word>
+    <word normalized="intensive" start="338550" stop="339210">intensive </word>
+    <word normalized="farming" start="339210" stop="339920">farming </word>
+    <word normalized="to">to </word>
+    <word normalized="promote" start="340260" stop="340780">promote </word>
+    <word normalized="animal" start="340780" stop="341160">animal </word>
+    <word normalized="growth" start="341160" stop="341740">growth</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Both" start="342810" stop="343230">Both </word>
+    <word normalized="uses" start="343230" stop="343940">uses </word>
+    <word normalized="may" start="344110" stop="344260">may </word>
+    <word normalized="be" start="344380" stop="344410">be </word>
+    <word normalized="contributing" start="344410" stop="344470">contributing </word>
+    <word normalized="to" start="345310" stop="345440">to </word>
+    <word normalized="the" start="345440" stop="345570">the </word>
+    <word normalized="rapid" start="345570" stop="346050">rapid </word>
+    <word normalized="development" start="346050" stop="346720">development </word>
+    <word normalized="of" start="346820" stop="346980">of </word>
+    <word normalized="antibiotic" start="346980" stop="347910">antibiotic </word>
+    <word normalized="resistance" start="347910" stop="348730">resistance </word>
+    <word normalized="in" start="349120" stop="349210">in </word>
+    <word normalized="bacterial" start="349210" stop="349820">bacterial </word>
+    <word normalized="populations" start="349820" stop="350790">populations</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Infections" start="352660" stop="353410">Infections </word>
+    <word normalized="can" start="353520" stop="353670">can </word>
+    <word normalized="be" start="353670" stop="353800">be </word>
+    <word normalized="prevented" start="353800" stop="354550">prevented </word>
+    <word normalized="by" start="355300" stop="355490">by </word>
+    <word normalized="antiseptic" start="355520" stop="356320">antiseptic </word>
+    <word normalized="measures" start="356320" stop="357060">measures </word>
+    <word normalized="such" start="357720" stop="358020">such </word>
+    <word normalized="as" start="358020" stop="358210">as </word>
+    <word normalized="sterilizing" start="358210" stop="359130">sterilizing </word>
+    <word normalized="the" start="359130" stop="359230">the </word>
+    <word normalized="skin" start="359230" stop="359870">skin </word>
+    <word normalized="prior" start="360010" stop="360340">prior </word>
+    <word normalized="to" start="360340" stop="360500">to </word>
+    <word normalized="piercing" start="360570" stop="361100">piercing </word>
+    <word normalized="it" start="361100" stop="361270">it </word>
+    <word normalized="with" start="361270" stop="361410">with </word>
+    <word normalized="the" start="361410" stop="361480">the </word>
+    <word normalized="needle" start="361480" stop="361860">needle </word>
+    <word normalized="of" start="361860" stop="361980">of </word>
+    <word normalized="a" start="361980" stop="362040">a </word>
+    <word normalized="syringe" start="362040" stop="362660">syringe</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="363470" stop="363700">and </word>
+    <word normalized="by" start="363700" stop="363820">by </word>
+    <word normalized="proper" start="363820" stop="364190">proper </word>
+    <word normalized="care" start="364190" stop="364570">care </word>
+    <word normalized="of" start="364570" stop="364760">of </word>
+    <word normalized="indwelling" start="364760" stop="365180">indwelling </word>
+    <word normalized="catheters" start="365180" stop="366030">catheters</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Surgical" start="367320" stop="368190">Surgical </word>
+    <word normalized="and" start="368230" stop="368370">and </word>
+    <word normalized="dental" start="368370" stop="368780">dental </word>
+    <word normalized="instruments" start="368780" stop="369530">instruments </word>
+    <word normalized="are" start="370020" stop="370180">are </word>
+    <word normalized="also" start="370180" stop="370390">also </word>
+    <word normalized="sterilized" start="370390" stop="371400">sterilized </word>
+    <word normalized="to" start="371630" stop="371710">to </word>
+    <word normalized="prevent" start="371710" stop="372140">prevent </word>
+    <word normalized="constapation">constapation </word>
+    <word normalized="and">and </word>
+    <word normalized="infection" start="372140" stop="372930">infection </word>
+    <word normalized="by" start="372930" stop="373080">by </word>
+    <word normalized="bacteria" start="373080" stop="373920">bacteria</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Disinfectants" start="375500" stop="376640">Disinfectants </word>
+    <word normalized="such" start="376820" stop="377150">such </word>
+    <word normalized="as" start="377150" stop="377480">as </word>
+    <word normalized="bleach" start="377480" stop="377690">bleach </word>
+    <word normalized="are" start="378750" stop="378870">are </word>
+    <word normalized="used" start="378870" stop="379100">used </word>
+    <word normalized="to" start="379100" stop="379180">to </word>
+    <word normalized="kill" start="379180" stop="379500">kill </word>
+    <word normalized="bacteria" start="379500" stop="380220">bacteria </word>
+    <word normalized="or" start="380440" stop="380650">or </word>
+    <word normalized="other" start="380650" stop="380900">other </word>
+    <word normalized="pathogens" start="380900" stop="381710">pathogens </word>
+    <word normalized="on">on </word>
+    <word normalized="surfaces">surfaces </word>
+    <word normalized="to" start="383280" stop="383410">to </word>
+    <word normalized="prevent" start="383410" stop="383850">prevent </word>
+    <word normalized="contamination" start="383850" stop="384910">contamination </word>
+    <word normalized="and" start="385450" stop="385570">and </word>
+    <word normalized="further" start="385640" stop="386000">further </word>
+    <word normalized="reduce" start="386000" stop="386450">reduce </word>
+    <word normalized="the" start="386450" stop="386580">the </word>
+    <word normalized="risk" start="386580" stop="386930">risk </word>
+    <word normalized="of" start="386930" stop="387030">of </word>
+    <word normalized="infection" start="387030" stop="387740">infection</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Most" start="389220" stop="389530">Most </word>
+    <word normalized="bacteria" start="389530" stop="390110">bacteria </word>
+    <word normalized="in">in </word>
+    <word normalized="food" start="390170" stop="390440">food </word>
+    <word normalized="are">are </word>
+    <word normalized="killed" start="390650" stop="391040">killed </word>
+    <word normalized="by" start="391040" stop="391220">by </word>
+    <word normalized="cooking" start="391220" stop="391880">cooking </word>
+    <word normalized="to" start="391930" stop="391990">to </word>
+    <word normalized="temperatures" start="391990" stop="393160">temperatures </word>
+    <word normalized="above" start="393200" stop="393520">above </word>
+    <word normalized="seventy three" start="393920" stop="394200">73 </word>
+    <word normalized="C">°C </word>
+    <word normalized="">(</word>
+    <word normalized="163 F" start="394480" stop="394550">163°F</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="394820" stop="394880">Section </word>
+    <word normalized="4" start="396190" stop="396270">4 </word>
+    <word normalized="Basic" start="396600" stop="396870">Basic </word>
+    <word normalized="laboratory" start="397110" stop="397140">laboratory </word>
+    <word normalized="characteristics" start="405220" stop="406340">characteristics </word>
+    <word normalized="The" start="407900" stop="408160">The </word>
+    <word normalized="following" start="408740" stop="409410">following </word>
+    <word normalized="genera" start="409850" stop="410530">genera </word>
+    <word normalized="contain" start="410790" stop="411240">contain </word>
+    <word normalized="the" start="411240" stop="411300">the </word>
+    <word normalized="most" start="411300" stop="411690">most </word>
+    <word normalized="important" start="411690" stop="412330">important </word>
+    <word normalized="human" start="412330" stop="412680">human </word>
+    <word normalized="pathogenic" start="412680" stop="413330">pathogenic </word>
+    <word normalized="bacteria" start="413330" stop="413840">bacteria </word>
+    <word normalized="species" start="413840" stop="414700">species</word>
+    <word normalized="">: </word>
+    <word normalized="Section" start="804020" stop="804660">Section </word>
+    <word normalized="five" start="804660" stop="805240">5 </word>
+    <word normalized="Clinical" start="805520" stop="806070">Clinical </word>
+    <word normalized="characteristics" start="806070" stop="806570">characteristics </word>
+    <word normalized="This" start="809930" stop="810140">This </word>
+    <word normalized="is" start="810140" stop="810360">is </word>
+    <word normalized="a" start="810360" stop="810450">a </word>
+    <word normalized="rather" start="810450" stop="810610">rather </word>
+    <word normalized="clinical" start="811550" stop="811820">clinical </word>
+    <word normalized="description" start="812240" stop="812500">description </word>
+    <word normalized="of" start="813360" stop="813950">of </word>
+    <word normalized="the" start="814010" stop="814140">the </word>
+    <word normalized="species" start="814140" stop="814230">species </word>
+    <word normalized="presented" start="814230" stop="814530">presented </word>
+    <word normalized="in" start="814530" stop="814980">in </word>
+    <word normalized="the" start="815100" stop="815240">the </word>
+    <word normalized="previous" start="816050" stop="816080">previous </word>
+    <word normalized="section" start="817230" stop="818110">section</word>
+    <word normalized="">, </word>
+    <word normalized="containing" start="818910" stop="818950">containing </word>
+    <word normalized="the" start="819680" stop="820630">the </word>
+    <word normalized="main" start="821280" stop="821970">main </word>
+    <word normalized="examples" start="823090" stop="823370">examples </word>
+    <word normalized="of" start="823990" stop="824170">of </word>
+    <word normalized="transmission" start="824170" stop="824470">transmission</word>
+    <word normalized="">, </word>
+    <word normalized="diseases" start="1107800" stop="1108790">diseases</word>
+    <word normalized="">, </word>
+    <word normalized="treatment" start="1108790" stop="1109190">treatment</word>
+    <word normalized="">, </word>
+    <word normalized="prevention" start="1109560" stop="1109760">prevention </word>
+    <word normalized="and" start="1110350" stop="1110930">and </word>
+    <word normalized="laboratory" start="1111480" stop="1112050">laboratory </word>
+    <word normalized="diagnosis" start="1112540" stop="1112820">diagnosis</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="1113390" stop="1113660">which </word>
+    <word normalized="all" start="1113870" stop="1114470">all </word>
+    <word normalized="can" start="1114660" stop="1115060">can </word>
+    <word normalized="differ" start="1115060" stop="1115150">differ </word>
+    <word normalized="substantially" start="1117030" stop="1117660">substantially </word>
+    <word normalized="among" start="1118590" stop="1118930">among </word>
+    <word normalized="the" start="1119310" stop="1119370">the </word>
+    <word normalized="species" start="1119590" stop="1119620">species </word>
+    <word normalized="of" start="1119920" stop="1119950">of </word>
+    <word normalized="the" start="1119950" stop="1120210">the </word>
+    <word normalized="same" start="1120580" stop="1121060">same </word>
+    <word normalized="genus" start="1121060" stop="1121150">genus</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="1121150" stop="1121520">Section </word>
+    <word normalized="six" start="1121520" stop="1121780">6 </word>
+    <word normalized="See" start="1121930" stop="1122580">See </word>
+    <word normalized="also" start="1122790" stop="1123110">also </word>
+    <word normalized="Bacteria" start="1123660" stop="1123880">Bacteria </word>
+    <word normalized="Disease" start="1123880" stop="1124210">Disease </word>
+    <word normalized="Pathogen" start="1124210" stop="1124500">Pathogen </word>
+    <word normalized="Human" start="1124500" stop="1124980">Human </word>
+    <word normalized="flora" start="1124980" stop="1125430">flora </word>
+    <word normalized="Human" start="1125430" stop="1125790">Human </word>
+    <word normalized="microbiome" start="1125900" stop="1127280">microbiome </word>
+    <word normalized="project" start="1127280" stop="1128060">project </word>
+    <word normalized="Pathogenic" start="1128860" stop="1131100">Pathogenic </word>
+    <word normalized="viruses" start="1131730" stop="1134840">viruses </word>
+  </sentence>
+</alignment>

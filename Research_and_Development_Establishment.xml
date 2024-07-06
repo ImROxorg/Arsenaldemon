@@ -1,0 +1,61 @@
+<alignment>
+  <sentence>
+    <word normalized="Research" start="1170" stop="1610">Research </word>
+    <word normalized="and" start="1610" stop="1700">and </word>
+    <word normalized="Development" start="1700" stop="2220">Development </word>
+    <word normalized="Establishment" start="2220" stop="2900">Establishment </word>
+    <word normalized="Research" start="9050" stop="10060">Research </word>
+    <word normalized="and" start="10060" stop="10330">and </word>
+    <word normalized="Development" start="10740" stop="11090">Development </word>
+    <word normalized="Establishment" start="12090" stop="12310">Establishment </word>
+    <word normalized="">(</word>
+    <word normalized="R and DE" start="13380" stop="13410">R&amp;DE</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="13530" stop="13650">is </word>
+    <word normalized="a" start="13650" stop="13900">a </word>
+    <word normalized="laboratory">laboratory </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="Defence">Defence </word>
+    <word normalized="Research" start="14300" stop="14920">Research </word>
+    <word normalized="and" start="14920" stop="15080">&amp; </word>
+    <word normalized="Development" start="15080" stop="15200">Development </word>
+    <word normalized="Organization" start="15190" stop="15520">Organization </word>
+    <word normalized="">(</word>
+    <word normalized="DRDO">DRDO</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Located" start="16080" stop="16540">Located </word>
+    <word normalized="in" start="16540" stop="16670">in </word>
+    <word normalized="Pune" start="16670" stop="17050">Pune</word>
+    <word normalized="">, </word>
+    <word normalized="its" start="17110" stop="17300">its </word>
+    <word normalized="primary" start="17300" stop="17710">primary </word>
+    <word normalized="function" start="17710" stop="18160">function </word>
+    <word normalized="is" start="18200" stop="18370">is </word>
+    <word normalized="development" start="18370" stop="18960">development </word>
+    <word normalized="of" start="19440" stop="19570">of </word>
+    <word normalized="mobility" start="19570" stop="20270">mobility </word>
+    <word normalized="equipment" start="20270" stop="20680">equipment </word>
+    <word normalized="for" start="20680" stop="20840">for </word>
+    <word normalized="Indian" start="20840" stop="21440">Indian </word>
+    <word normalized="Army" start="21540" stop="21860">Army </word>
+    <word normalized="Corps" start="21860" stop="22280">Corps </word>
+    <word normalized="of" start="22670" stop="24240">of </word>
+    <word normalized="Engineers" start="24720" stop="24800">Engineers </word>
+    <word normalized="Table" start="24800" stop="25180">Table </word>
+    <word normalized="of" start="25180" stop="25530">of </word>
+    <word normalized="contents" start="25530" stop="25620">contents </word>
+    <word normalized="Section" start="26020" stop="26140">Section </word>
+    <word normalized="1" start="26560" stop="26660">1 </word>
+    <word normalized="See" start="26890" stop="27140">See </word>
+    <word normalized="also" start="27360" stop="27530">also </word>
+    <word normalized="Drdo" start="28100" stop="28320">Drdo </word>
+    <word normalized="Self" start="28490" stop="28690">Self </word>
+    <word normalized="Propelled" start="28690" stop="28970">Propelled </word>
+    <word normalized="Mine" start="28970" stop="29430">Mine </word>
+    <word normalized="Burier" start="29580" stop="29630">Burier </word>
+  </sentence>
+</alignment>

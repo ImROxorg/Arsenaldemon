@@ -1,0 +1,58 @@
+<alignment>
+  <sentence>
+    <word normalized="Paul" start="1200" stop="1540">Paul </word>
+    <word normalized="Barnett" start="1540" stop="2000">Barnett </word>
+    <word normalized="">(</word>
+    <word normalized="swimmer" start="2220" stop="2730">swimmer</word>
+    <word normalized="">) </word>
+    <word normalized="Paul" start="7660" stop="9220">Paul </word>
+    <word normalized="Barnett" start="9220" stop="9640">Barnett </word>
+    <word normalized="is" start="9670" stop="9800">is </word>
+    <word normalized="a" start="9800" stop="9850">a </word>
+    <word normalized="Paralympic" start="9850" stop="10390">Paralympic </word>
+    <word normalized="swimming" start="10390" stop="10700">swimming </word>
+    <word normalized="competitor" start="10700" stop="11100">competitor </word>
+    <word normalized="from" start="11100" stop="11290">from </word>
+    <word normalized="Australia" start="11290" stop="11850">Australia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="He">He </word>
+    <word normalized="won" start="12680" stop="12740">won </word>
+    <word normalized="a" start="12740" stop="12850">a </word>
+    <word normalized="bronze" start="12850" stop="12910">bronze </word>
+    <word normalized="medal" start="12910" stop="13320">medal </word>
+    <word normalized="at" start="13320" stop="13600">at </word>
+    <word normalized="the" start="13600" stop="13660">the </word>
+    <word normalized="2000" start="13660" stop="13750">2000 </word>
+    <word normalized="Sydney" start="13990" stop="14190">Sydney </word>
+    <word normalized="Games" start="14190" stop="14640">Games </word>
+    <word normalized="in" start="14640" stop="15040">in </word>
+    <word normalized="the" start="15040" stop="15100">the </word>
+    <word normalized="Men s" start="15100" stop="15390">Men's </word>
+    <word normalized="four x one zero zero" start="15520" stop="16540">4x100 </word>
+    <word normalized="m" start="16540" stop="16770">m </word>
+    <word normalized="Medley" start="16770" stop="16830">Medley </word>
+    <word normalized="thirty four" start="17320" stop="18010">34 </word>
+    <word normalized="p t s" start="18010" stop="18500">pts </word>
+    <word normalized="event" start="18500" stop="18620">event </word>
+    <word normalized="and" start="19080" stop="19110">and </word>
+    <word normalized="a" start="19110" stop="19230">a </word>
+    <word normalized="gold" start="19230" stop="19270">gold </word>
+    <word normalized="medal" start="19270" stop="19560">medal </word>
+    <word normalized="in" start="19560" stop="19880">in </word>
+    <word normalized="the" start="19880" stop="19940">the </word>
+    <word normalized="Men s" start="19940" stop="20410">Men's </word>
+    <word normalized="one hundred" start="20540" stop="21090">100 </word>
+    <word normalized="m" start="21090" stop="21220">m </word>
+    <word normalized="Breaststroke" start="21270" stop="21860">Breaststroke </word>
+    <word normalized="SB nine" start="22460" stop="22800">SB9 </word>
+    <word normalized="event" start="22800" stop="23240">event</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="25160" stop="25860">Table </word>
+    <word normalized="of" start="29850" stop="29990">of </word>
+    <word normalized="contents" start="29990" stop="30450">contents </word>
+  </sentence>
+</alignment>

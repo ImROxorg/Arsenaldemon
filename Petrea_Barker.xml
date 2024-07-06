@@ -1,0 +1,64 @@
+<alignment>
+  <sentence>
+    <word normalized="Petrea" start="1320" stop="1780">Petrea </word>
+    <word normalized="Barker" start="1810" stop="2350">Barker </word>
+    <word normalized="Petrea" start="2790" stop="3380">Petrea </word>
+    <word normalized="Barker" start="8660" stop="9070">Barker </word>
+    <word normalized="">(</word>
+    <word normalized="born" start="9100" stop="9650">born </word>
+    <word normalized="eighteen" start="9960" stop="10470">18 </word>
+    <word normalized="September" start="10470" stop="10980">September </word>
+    <word normalized="nineteen" start="10980" stop="11300">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy five" start="11300" stop="11940">75</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="12410" stop="12530">is </word>
+    <word normalized="a" start="12530" stop="12590">a </word>
+    <word normalized="Paralympic" start="12590" stop="13190">Paralympic </word>
+    <word normalized="swimming" start="13190" stop="13550">swimming </word>
+    <word normalized="competitor" start="13560" stop="13590">competitor </word>
+    <word normalized="from" start="13900" stop="14070">from </word>
+    <word normalized="Australia" start="14070" stop="14570">Australia</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="She" start="15330" stop="15480">She </word>
+    <word normalized="won" start="15480" stop="15620">won </word>
+    <word normalized="a" start="15620" stop="15680">a </word>
+    <word normalized="bronze" start="15680" stop="16100">bronze </word>
+    <word normalized="medal" start="16100" stop="16370">medal </word>
+    <word normalized="at" start="16370" stop="16430">at </word>
+    <word normalized="the" start="16430" stop="16490">the </word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety six" start="17070" stop="17690">96 </word>
+    <word normalized="Atlanta" start="17690" stop="18020">Atlanta </word>
+    <word normalized="Games" start="18020" stop="18450">Games </word>
+    <word normalized="in" start="18450" stop="18510">in </word>
+    <word normalized="the" start="18510" stop="18570">the </word>
+    <word normalized="Women s" start="18570" stop="28530">Women's </word>
+    <word normalized="one hundred" start="28530" stop="28920">100 </word>
+    <word normalized="m" start="28920" stop="29840">m </word>
+    <word normalized="Freestyle" start="29840" stop="30030">Freestyle </word>
+    <word normalized="M H">MH </word>
+    <word normalized="event" start="30710" stop="30870">event</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="She" start="31120" stop="31150">She </word>
+    <word normalized="was" start="31150" stop="31290">was </word>
+    <word normalized="born" start="31430" stop="31570">born </word>
+    <word normalized="on" start="31990" stop="32450">on </word>
+    <word normalized="eighteen" start="32550" stop="32770">18 </word>
+    <word normalized="September" start="32770" stop="33100">September </word>
+    <word normalized="nineteen" start="33100" stop="33500">19 </word>
+    <word normalized="hundred" start="33830" stop="33980">hundred </word>
+    <word normalized="seventy five" start="33980" stop="34880">75</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="34880" stop="35080">Table </word>
+    <word normalized="of" start="35080" stop="35250">of </word>
+    <word normalized="contents" start="35250" stop="35380">contents </word>
+  </sentence>
+</alignment>

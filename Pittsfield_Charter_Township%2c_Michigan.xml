@@ -1,0 +1,466 @@
+<alignment>
+  <sentence>
+    <word normalized="Pittsfield" start="1040" stop="1700">Pittsfield </word>
+    <word normalized="Charter" start="1700" stop="2150">Charter </word>
+    <word normalized="Township" start="2150" stop="2960">Township</word>
+    <word normalized="">, </word>
+    <word normalized="Michigan" start="3180" stop="3730">Michigan </word>
+    <word normalized="Pittsfield" start="12930" stop="13480">Pittsfield </word>
+    <word normalized="Charter" start="13480" stop="13930">Charter </word>
+    <word normalized="Township" start="13930" stop="14610">Township </word>
+    <word normalized="is" start="14640" stop="14820">is </word>
+    <word normalized="a" start="14820" stop="14870">a </word>
+    <word normalized="charter" start="14870" stop="15300">charter </word>
+    <word normalized="township" start="15300" stop="15870">township </word>
+    <word normalized="south" start="15970" stop="16350">south </word>
+    <word normalized="of" start="16350" stop="16480">of </word>
+    <word normalized="Ann" start="16480" stop="16650">Ann </word>
+    <word normalized="Arbor" start="16650" stop="17000">Arbor </word>
+    <word normalized="in" start="17000" stop="17150">in </word>
+    <word normalized="Washtenaw" start="17150" stop="17760">Washtenaw </word>
+    <word normalized="County">County </word>
+    <word normalized="in">in </word>
+    <word normalized="the" start="18670" stop="18860">the </word>
+    <word normalized="U S">U.S. </word>
+    <word normalized="state" start="19220" stop="19560">state </word>
+    <word normalized="of" start="19560" stop="19700">of </word>
+    <word normalized="Michigan" start="19700" stop="20260">Michigan</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="21210" stop="21290">The </word>
+    <word normalized="population" start="21290" stop="22060">population </word>
+    <word normalized="was" start="22060" stop="22400">was </word>
+    <word normalized="thirty thousand one hundred sixty seven" start="22400" stop="24610">30,167 </word>
+    <word normalized="at" start="24830" stop="24990">at </word>
+    <word normalized="the" start="24990" stop="25060">the </word>
+    <word normalized="two thousand" start="25060" stop="25720">2000 </word>
+    <word normalized="census" start="25720" stop="26420">census</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="Geography" start="28610" stop="29470">Geography </word>
+    <word normalized="According" start="31020" stop="31510">According </word>
+    <word normalized="to" start="31510" stop="31630">to </word>
+    <word normalized="the" start="31630" stop="31860">the </word>
+    <word normalized="United" start="31860" stop="32260">United </word>
+    <word normalized="States" start="32260" stop="32640">States </word>
+    <word normalized="Census" start="32640" stop="33050">Census </word>
+    <word normalized="Bureau" start="33050" stop="33530">Bureau</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="33850" stop="33930">the </word>
+    <word normalized="township" start="33930" stop="34470">township </word>
+    <word normalized="has" start="34470" stop="34670">has </word>
+    <word normalized="a" start="34670" stop="34730">a </word>
+    <word normalized="total" start="34730" stop="35090">total </word>
+    <word normalized="area" start="35090" stop="35500">area </word>
+    <word normalized="of" start="35500" stop="35650">of </word>
+    <word normalized="twenty seven point five" start="35650" stop="37080">27.5 </word>
+    <word normalized="square" start="37080" stop="37460">square </word>
+    <word normalized="miles">miles </word>
+    <word normalized="">(</word>
+    <word normalized="seventy one point three">71.3 </word>
+    <word normalized="km²">km²</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="all">all </word>
+    <word normalized="land">land</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="2">2 </word>
+    <word normalized="Demographics">Demographics </word>
+    <word normalized="As">As </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="censusTemplate G R">censusTemplate:GR </word>
+    <word normalized="of" start="44380" stop="44470">of </word>
+    <word normalized="two thousand" start="44470" stop="45240">2000</word>
+    <word normalized="">, </word>
+    <word normalized="there" start="45580" stop="45740">there </word>
+    <word normalized="were" start="45740" stop="45850">were </word>
+    <word normalized="thirty thousand one hundred sixty seven" start="45850" stop="48140">30,167 </word>
+    <word normalized="people" start="48140" stop="48650">people</word>
+    <word normalized="">, </word>
+    <word normalized="eleven thousand eight hundred seventeen" start="49270" stop="51560">11,817 </word>
+    <word normalized="households" start="51560" stop="52410">households</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="52850" stop="53020">and </word>
+    <word normalized="six thousand nine hundred sixty" start="53020" stop="54890">6,960 </word>
+    <word normalized="families" start="54890" stop="55460">families </word>
+    <word normalized="residing" start="55460" stop="56020">residing </word>
+    <word normalized="in" start="56020" stop="56120">in </word>
+    <word normalized="the" start="56120" stop="56180">the </word>
+    <word normalized="township" start="56180" stop="56740">township</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="56730" stop="57640">The </word>
+    <word normalized="population" start="57640" stop="58400">population </word>
+    <word normalized="density" start="58400" stop="58980">density </word>
+    <word normalized="was" start="59130" stop="59270">was </word>
+    <word normalized="one ninety five four" start="59270" stop="61250">1,095.4 </word>
+    <word normalized="per" start="61250" stop="61570">per </word>
+    <word normalized="square" start="61570" stop="61740">square </word>
+    <word normalized="mile" start="61740" stop="62060">mile </word>
+    <word normalized="">(</word>
+    <word normalized="four hundred twenty two nine forward slash km²" start="63480" stop="65660">422.9/km²</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There">There </word>
+    <word normalized="were">were </word>
+    <word normalized="12337">12,337 </word>
+    <word normalized="housing" start="65850" stop="66270">housing </word>
+    <word normalized="units" start="66270" stop="66700">units </word>
+    <word normalized="at" start="66900" stop="67010">at </word>
+    <word normalized="an" start="67010" stop="67120">an </word>
+    <word normalized="average" start="67120" stop="67540">average </word>
+    <word normalized="density" start="67540" stop="68120">density </word>
+    <word normalized="of" start="68260" stop="68390">of </word>
+    <word normalized="four hundred forty eight zero forward slash s q" start="68390" stop="69770">448.0/sq </word>
+    <word normalized="mi">mi </word>
+    <word normalized="">(</word>
+    <word normalized="one hundred seventy three zero forward slash km²">173.0/km²</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="71870" stop="71960">The </word>
+    <word normalized="racial" start="71960" stop="72350">racial </word>
+    <word normalized="makeup" start="72350" stop="72760">makeup </word>
+    <word normalized="of" start="72760" stop="72890">of </word>
+    <word normalized="the" start="72890" stop="72960">the </word>
+    <word normalized="township" start="72960" stop="73590">township </word>
+    <word normalized="was" start="73590" stop="73730">was </word>
+    <word normalized="70 37" start="74580" stop="74870">70.37</word>
+    <word normalized="per cent" start="75140" stop="75520">% </word>
+    <word normalized="White" start="75630" stop="75970">White</word>
+    <word normalized="">, </word>
+    <word normalized="fourteen point two nine" start="75970" stop="78010">14.29</word>
+    <word normalized="per cent" start="78010" stop="78410">% </word>
+    <word normalized="African" start="78450" stop="78860">African </word>
+    <word normalized="American" start="78860" stop="79470">American</word>
+    <word normalized="">, </word>
+    <word normalized="zero point four four" start="79490" stop="81060">0.44</word>
+    <word normalized="per cent" start="81060" stop="81430">% </word>
+    <word normalized="Native" start="81430" stop="81740">Native </word>
+    <word normalized="American" start="81740" stop="82360">American</word>
+    <word normalized="">, </word>
+    <word normalized="nine point nine six" start="83260" stop="84500">9.96</word>
+    <word normalized="per cent" start="84500" stop="84880">% </word>
+    <word normalized="Asian" start="84920" stop="85420">Asian</word>
+    <word normalized="">, </word>
+    <word normalized="zero point zero five" start="85460" stop="87090">0.05</word>
+    <word normalized="per cent" start="87090" stop="87450">% </word>
+    <word normalized="Pacific" start="87450" stop="87870">Pacific </word>
+    <word normalized="Islander" start="87870" stop="88380">Islander</word>
+    <word normalized="">, </word>
+    <word normalized="one point six eight" start="89230" stop="90280">1.68</word>
+    <word normalized="per cent" start="90280" stop="90630">% </word>
+    <word normalized="from" start="90630" stop="90790">from </word>
+    <word normalized="other" start="90790" stop="90970">other </word>
+    <word normalized="races">races</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="92070" stop="92220">and </word>
+    <word normalized="three point two one" start="92220" stop="93410">3.21</word>
+    <word normalized="per cent" start="93410" stop="93890">% </word>
+    <word normalized="from" start="93890" stop="94110">from </word>
+    <word normalized="two" start="94110" stop="94330">two </word>
+    <word normalized="or" start="94330" stop="94470">or </word>
+    <word normalized="more" start="94470" stop="94750">more </word>
+    <word normalized="races">races</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Hispanic">Hispanic </word>
+    <word normalized="or" start="96760" stop="96920">or </word>
+    <word normalized="Latino" start="96920" stop="97430">Latino </word>
+    <word normalized="of" start="97430" stop="97530">of </word>
+    <word normalized="any" start="97530" stop="97760">any </word>
+    <word normalized="race" start="97760" stop="98230">race </word>
+    <word normalized="were" start="98430" stop="98570">were </word>
+    <word normalized="three point nine seven" start="98570" stop="99850">3.97</word>
+    <word normalized="per cent" start="99850" stop="100290">% </word>
+    <word normalized="of" start="100290" stop="100370">of </word>
+    <word normalized="the" start="100370" stop="100440">the </word>
+    <word normalized="population" start="100690" stop="100720">population</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="There" start="103340" stop="103510">There </word>
+    <word normalized="were" start="103510" stop="103680">were </word>
+    <word normalized="eleven thousand eight hundred seventeen" start="103680" stop="106110">11,817 </word>
+    <word normalized="households">households </word>
+    <word normalized="out">out </word>
+    <word normalized="of" start="106800" stop="107490">of </word>
+    <word normalized="which" start="107490" stop="107810">which </word>
+    <word normalized="thirty one point five" start="107810" stop="109060">31.5</word>
+    <word normalized="per cent" start="109060" stop="109430">% </word>
+    <word normalized="had" start="109430" stop="109680">had </word>
+    <word normalized="children" start="109680" stop="110180">children </word>
+    <word normalized="under" start="110240" stop="110430">under </word>
+    <word normalized="the" start="110430" stop="110620">the </word>
+    <word normalized="age" start="110620" stop="110810">age </word>
+    <word normalized="of" start="110810" stop="110910">of </word>
+    <word normalized="eighteen" start="110910" stop="111410">18 </word>
+    <word normalized="living" start="111410" stop="111760">living </word>
+    <word normalized="with" start="111760" stop="112030">with </word>
+    <word normalized="them">them</word>
+    <word normalized="">, </word>
+    <word normalized="forty eight point five" start="112750" stop="113830">48.5</word>
+    <word normalized="per cent" start="113870" stop="114170">% </word>
+    <word normalized="were" start="114170" stop="114310">were </word>
+    <word normalized="married" start="114310" stop="114620">married </word>
+    <word normalized="couples" start="114620" stop="115070">couples </word>
+    <word normalized="living" start="115070" stop="115320">living </word>
+    <word normalized="together" start="115340" stop="115370">together</word>
+    <word normalized="">, </word>
+    <word normalized="seven point three" start="116250" stop="117190">7.3</word>
+    <word normalized="per cent" start="117190" stop="117680">% </word>
+    <word normalized="had" start="117680" stop="117860">had </word>
+    <word normalized="a" start="117860" stop="117910">a </word>
+    <word normalized="female" start="117910" stop="118390">female </word>
+    <word normalized="householder" start="118390" stop="119020">householder </word>
+    <word normalized="with" start="119020" stop="119250">with </word>
+    <word normalized="no" start="119250" stop="119500">no </word>
+    <word normalized="husband" start="119500" stop="119930">husband </word>
+    <word normalized="present" start="119930" stop="120340">present</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="forty one point one" start="120340" stop="122030">41.1</word>
+    <word normalized="per cent" start="122030" stop="122520">% </word>
+    <word normalized="were" start="122600" stop="122790">were </word>
+    <word normalized="non families" start="123140" stop="123260">non-families</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="twenty nine point eight" start="124740" stop="125560">29.8</word>
+    <word normalized="per cent" start="125770" stop="126180">% </word>
+    <word normalized="of" start="126210" stop="126360">of </word>
+    <word normalized="all" start="126360" stop="126590">all </word>
+    <word normalized="households" start="126590" stop="127220">households </word>
+    <word normalized="were" start="127220" stop="127370">were </word>
+    <word normalized="made" start="127370" stop="127600">made </word>
+    <word normalized="up" start="127600" stop="127720">up </word>
+    <word normalized="of" start="127720" stop="127850">of </word>
+    <word normalized="individuals">individuals </word>
+    <word normalized="and">and </word>
+    <word normalized="four point one" start="129230" stop="130050">4.1</word>
+    <word normalized="per cent" start="130050" stop="130580">% </word>
+    <word normalized="had" start="130750" stop="130930">had </word>
+    <word normalized="someone" start="130930" stop="131340">someone </word>
+    <word normalized="living" start="131340" stop="131600">living </word>
+    <word normalized="alone" start="131600" stop="132020">alone </word>
+    <word normalized="who" start="132020" stop="132160">who </word>
+    <word normalized="was" start="132160" stop="132320">was </word>
+    <word normalized="sixty five" start="132320" stop="132990">65 </word>
+    <word normalized="years" start="132990" stop="133280">years </word>
+    <word normalized="of" start="133280" stop="133380">of </word>
+    <word normalized="age" start="133380" stop="133640">age </word>
+    <word normalized="or" start="133640" stop="133790">or </word>
+    <word normalized="older" start="133740" stop="133770">older</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="135130" stop="135250">The </word>
+    <word normalized="average" start="135250" stop="135540">average </word>
+    <word normalized="household" start="135540" stop="136020">household </word>
+    <word normalized="size" start="136020" stop="136470">size </word>
+    <word normalized="was" start="136470" stop="136610">was </word>
+    <word normalized="two point four two" start="136610" stop="137790">2.42 </word>
+    <word normalized="and" start="138150" stop="138280">and </word>
+    <word normalized="the" start="138280" stop="138380">the </word>
+    <word normalized="average" start="138380" stop="138730">average </word>
+    <word normalized="family" start="138730" stop="139150">family </word>
+    <word normalized="size" start="139150" stop="139580">size </word>
+    <word normalized="was" start="139580" stop="139820">was </word>
+    <word normalized="three point one one" start="139820" stop="140980">3.11</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="the" start="142500" stop="142580">the </word>
+    <word normalized="township" start="142580" stop="143180">township </word>
+    <word normalized="the" start="143180" stop="143260">the </word>
+    <word normalized="population" start="143260" stop="143930">population </word>
+    <word normalized="was" start="143930" stop="144030">was </word>
+    <word normalized="spread" start="144030" stop="144390">spread </word>
+    <word normalized="out" start="144390" stop="144610">out </word>
+    <word normalized="with" start="144610" stop="144780">with </word>
+    <word normalized="twenty four point zero" start="144780" stop="145420">24.0</word>
+    <word normalized="per cent" start="145420" stop="145970">% </word>
+    <word normalized="under" start="145970" stop="146180">under </word>
+    <word normalized="the" start="146180" stop="146490">the </word>
+    <word normalized="age">age </word>
+    <word normalized="of">of </word>
+    <word normalized="eighteen" start="146640" stop="147240">18</word>
+    <word normalized="">, </word>
+    <word normalized="eleven point eight" start="147710" stop="148570">11.8</word>
+    <word normalized="per cent" start="148570" stop="148960">% </word>
+    <word normalized="from" start="148960" stop="149130">from </word>
+    <word normalized="eighteen" start="149130" stop="149580">18 </word>
+    <word normalized="to" start="149580" stop="149660">to </word>
+    <word normalized="twenty four" start="149660" stop="150060">24</word>
+    <word normalized="">, </word>
+    <word normalized="thirty nine point six" start="150920" stop="152080">39.6</word>
+    <word normalized="per cent" start="152080" stop="152660">% </word>
+    <word normalized="from" start="152660" stop="152830">from </word>
+    <word normalized="twenty five" start="152830" stop="153450">25 </word>
+    <word normalized="to" start="153450" stop="153570">to </word>
+    <word normalized="forty four" start="153570" stop="154290">44</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen point nine" start="155680" stop="156270">18.9</word>
+    <word normalized="per cent" start="156270" stop="156770">% </word>
+    <word normalized="from" start="156770" stop="156980">from </word>
+    <word normalized="forty five" start="156980" stop="157620">45 </word>
+    <word normalized="to" start="157620" stop="157750">to </word>
+    <word normalized="sixty four" start="157750" stop="158530">64</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="159340" stop="159470">and </word>
+    <word normalized="five point seven" start="159470" stop="160340">5.7</word>
+    <word normalized="per cent" start="160340" stop="160790">% </word>
+    <word normalized="who">who </word>
+    <word normalized="were" start="160860" stop="161040">were </word>
+    <word normalized="sixty five" start="161040" stop="161720">65 </word>
+    <word normalized="years" start="161720" stop="162060">years </word>
+    <word normalized="of" start="162060" stop="162290">of </word>
+    <word normalized="age" start="162290" stop="162630">age </word>
+    <word normalized="or" start="162700" stop="162860">or </word>
+    <word normalized="older">older</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="164320" stop="164400">The </word>
+    <word normalized="median" start="164400" stop="164810">median </word>
+    <word normalized="age" start="164810" stop="165130">age </word>
+    <word normalized="was" start="165130" stop="165370">was </word>
+    <word normalized="thirty two" start="165370" stop="165890">32 </word>
+    <word normalized="years">years</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="For" start="167300" stop="167450">For </word>
+    <word normalized="every" start="167450" stop="167760">every </word>
+    <word normalized="one hundred" start="167760" stop="168360">100 </word>
+    <word normalized="females" start="168360" stop="169030">females </word>
+    <word normalized="there" start="169030" stop="169180">there </word>
+    <word normalized="were" start="169180" stop="169350">were </word>
+    <word normalized="one hundred seven point eight" start="169350" stop="170920">107.8 </word>
+    <word normalized="males" start="170920" stop="171480">males</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="For" start="172450" stop="172610">For </word>
+    <word normalized="every" start="172610" stop="172840">every </word>
+    <word normalized="one hundred" start="172840" stop="173380">100 </word>
+    <word normalized="females" start="173380" stop="174010">females </word>
+    <word normalized="age" start="174010" stop="174400">age </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="and" start="174870" stop="175010">and </word>
+    <word normalized="over" start="175010" stop="175640">over</word>
+    <word normalized="">, </word>
+    <word normalized="there" start="175890" stop="176030">there </word>
+    <word normalized="were" start="176030" stop="176210">were </word>
+    <word normalized="one hundred eight point one" start="176210" stop="177720">108.1 </word>
+    <word normalized="males" start="177720" stop="178270">males</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="179500" stop="179590">The </word>
+    <word normalized="median" start="179590" stop="179990">median </word>
+    <word normalized="household" start="179990" stop="180590">household </word>
+    <word normalized="income" start="180590" stop="180990">income </word>
+    <word normalized="in" start="180990" stop="181140">in </word>
+    <word normalized="the">the </word>
+    <word normalized="township" start="181140" stop="181790">township </word>
+    <word normalized="was" start="182090" stop="182250">was </word>
+    <word normalized="">$</word>
+    <word normalized="sixty one thousand two hundred sixty two dollars" start="182250" stop="184810">61,262</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="185410" stop="185560">and </word>
+    <word normalized="the" start="185560" stop="185620">the </word>
+    <word normalized="median" start="185620" stop="186100">median </word>
+    <word normalized="income" start="186100" stop="186650">income </word>
+    <word normalized="for" start="186650" stop="186940">for </word>
+    <word normalized="a" start="186940" stop="186980">a </word>
+    <word normalized="family" start="186980" stop="187490">family </word>
+    <word normalized="was" start="187740" stop="188070">was </word>
+    <word normalized="">$</word>
+    <word normalized="eighty two thousand six hundred dollars" start="188130" stop="190200">82,600</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Males" start="190950" stop="191310">Males </word>
+    <word normalized="had" start="191310" stop="191510">had </word>
+    <word normalized="a" start="191510" stop="191550">a </word>
+    <word normalized="median" start="191550" stop="191980">median </word>
+    <word normalized="income" start="191980" stop="192500">income </word>
+    <word normalized="of" start="192570" stop="192830">of </word>
+    <word normalized="">$</word>
+    <word normalized="fifty four thousand one hundred sixty seven dollars" start="192910" stop="195250">54,167 </word>
+    <word normalized="versus" start="196270" stop="196660">versus </word>
+    <word normalized="">$</word>
+    <word normalized="thirty five thousand six hundred eighty four dollars" start="196660" stop="199350">35,684 </word>
+    <word normalized="for" start="199350" stop="199490">for </word>
+    <word normalized="females" start="199490" stop="200160">females</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="201020" stop="201100">The </word>
+    <word normalized="per" start="201100" stop="201380">per </word>
+    <word normalized="capita" start="201380" stop="201840">capita </word>
+    <word normalized="income" start="201840" stop="202380">income </word>
+    <word normalized="for" start="202380" stop="202490">for </word>
+    <word normalized="the" start="202490" stop="202590">the </word>
+    <word normalized="township" start="202590" stop="203180">township </word>
+    <word normalized="was" start="203380" stop="203560">was </word>
+    <word normalized="">$</word>
+    <word normalized="twenty nine thousand six hundred forty five dollars" start="203560" stop="206020">29,645</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="About" start="207400" stop="207670">About </word>
+    <word normalized="five point six" start="207670" stop="208560">5.6</word>
+    <word normalized="per cent" start="208560" stop="208930">% </word>
+    <word normalized="of" start="208930" stop="209010">of </word>
+    <word normalized="families" start="209010" stop="209590">families </word>
+    <word normalized="and" start="209880" stop="210070">and </word>
+    <word normalized="nine point one" start="210070" stop="210900">9.1</word>
+    <word normalized="per cent" start="210900" stop="211320">% </word>
+    <word normalized="of" start="211320" stop="211420">of </word>
+    <word normalized="the" start="211420" stop="211480">the </word>
+    <word normalized="population" start="211480" stop="212350">population </word>
+    <word normalized="were" start="212440" stop="212570">were </word>
+    <word normalized="below" start="212570" stop="212900">below </word>
+    <word normalized="the" start="212900" stop="212970">the </word>
+    <word normalized="poverty" start="212970" stop="213440">poverty </word>
+    <word normalized="line" start="213440" stop="213750">line</word>
+    <word normalized="">, </word>
+    <word normalized="including" start="214210" stop="214710">including </word>
+    <word normalized="nine point five" start="214710" stop="215610">9.5</word>
+    <word normalized="per cent" start="215610" stop="216100">% </word>
+    <word normalized="of" start="216340" stop="216460">of </word>
+    <word normalized="those" start="216460" stop="216720">those </word>
+    <word normalized="under" start="216720" stop="217000">under </word>
+    <word normalized="age" start="217000" stop="217210">age </word>
+    <word normalized="eighteen" start="217210" stop="217840">18 </word>
+    <word normalized="and" start="218290" stop="218470">and </word>
+    <word normalized="eight point eight" start="218650" stop="219250">8.8</word>
+    <word normalized="per cent" start="219310" stop="219600">% </word>
+    <word normalized="of" start="219600" stop="219760">of </word>
+    <word normalized="those" start="219760" stop="220080">those </word>
+    <word normalized="age" start="220080" stop="220300">age </word>
+    <word normalized="sixty five" start="220300" stop="220990">65 </word>
+    <word normalized="or" start="220990" stop="221120">or </word>
+    <word normalized="over" start="225060" stop="225210">over</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>

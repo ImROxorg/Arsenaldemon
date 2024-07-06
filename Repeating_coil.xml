@@ -1,0 +1,140 @@
+<alignment>
+  <sentence>
+    <word normalized="Repeating" start="670" stop="1280">Repeating </word>
+    <word normalized="coil" start="1280" stop="1770">coil </word>
+    <word normalized="In">In </word>
+    <word normalized="telecommunications" start="8910" stop="10300">telecommunications</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="10490" stop="10530">a </word>
+    <word normalized="repeating" start="10530" stop="11120">repeating </word>
+    <word normalized="coil" start="11120" stop="11550">coil </word>
+    <word normalized="is" start="11770" stop="11940">is </word>
+    <word normalized="a" start="11940" stop="12010">a </word>
+    <word normalized="voice frequency" start="12010" stop="13030">voice-frequency </word>
+    <word normalized="transformer" start="13030" stop="13780">transformer </word>
+    <word normalized="characterized" start="14220" stop="15050">characterized </word>
+    <word normalized="by" start="15180" stop="15390">by </word>
+    <word normalized="a" start="15390" stop="15430">a </word>
+    <word normalized="closed" start="15430" stop="15880">closed </word>
+    <word normalized="magnetic" start="15880" stop="16430">magnetic </word>
+    <word normalized="core" start="16430" stop="16810">core</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="17250" stop="17350">a </word>
+    <word normalized="pair" start="17410" stop="17610">pair </word>
+    <word normalized="of">of </word>
+    <word normalized="identical">identical </word>
+    <word normalized="balanced" start="18800" stop="19260">balanced </word>
+    <word normalized="primary" start="19410" stop="19950">primary </word>
+    <word normalized="">(</word>
+    <word normalized="line">line</word>
+    <word normalized="">) </word>
+    <word normalized="windings" start="19950" stop="20670">windings</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="21030" stop="21120">a </word>
+    <word normalized="pair" start="21120" stop="21290">pair </word>
+    <word normalized="of" start="21290" stop="21480">of </word>
+    <word normalized="identical" start="21480" stop="22360">identical </word>
+    <word normalized="but" start="22420" stop="22580">but </word>
+    <word normalized="not" start="22580" stop="22810">not </word>
+    <word normalized="necessarily" start="22810" stop="23620">necessarily </word>
+    <word normalized="balanced" start="23750" stop="24310">balanced </word>
+    <word normalized="secondary">secondary </word>
+    <word normalized="">(</word>
+    <word normalized="drop">drop</word>
+    <word normalized="">) </word>
+    <word normalized="windings" start="24860" stop="25520">windings</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="25930" stop="26240">and </word>
+    <word normalized="low" start="26240" stop="26480">low </word>
+    <word normalized="transmission" start="26480" stop="27270">transmission </word>
+    <word normalized="loss" start="27270" stop="27650">loss </word>
+    <word normalized="at" start="27650" stop="27850">at </word>
+    <word normalized="voice" start="27850" stop="28110">voice </word>
+    <word normalized="frequencies" start="28110" stop="28950">frequencies</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="permits" start="30710" stop="31070">permits </word>
+    <word normalized="transfer" start="31070" stop="31640">transfer </word>
+    <word normalized="of" start="31640" stop="31750">of </word>
+    <word normalized="voice" start="31750" stop="32050">voice </word>
+    <word normalized="currents" start="32070" stop="32100">currents </word>
+    <word normalized="from" start="32520" stop="32760">from </word>
+    <word normalized="one" start="32760" stop="32960">one </word>
+    <word normalized="winding" start="32960" stop="33400">winding </word>
+    <word normalized="to" start="33400" stop="33540">to </word>
+    <word normalized="another" start="33540" stop="33890">another </word>
+    <word normalized="by" start="34090" stop="34180">by </word>
+    <word normalized="magnetic" start="34180" stop="34750">magnetic </word>
+    <word normalized="induction" start="34750" stop="35400">induction</word>
+    <word normalized="">, </word>
+    <word normalized="matches" start="35920" stop="36360">matches </word>
+    <word normalized="line" start="36360" stop="36830">line </word>
+    <word normalized="and" start="36970" stop="37150">and </word>
+    <word normalized="drop" start="37150" stop="37420">drop </word>
+    <word normalized="impedances" start="37420" stop="38370">impedances</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="38870" stop="39000">and </word>
+    <word normalized="prevents" start="39000" stop="39440">prevents </word>
+    <word normalized="direct" start="39440" stop="39470">direct </word>
+    <word normalized="conduction" start="39890" stop="40610">conduction </word>
+    <word normalized="between" start="40770" stop="41110">between </word>
+    <word normalized="the" start="41110" stop="41200">the </word>
+    <word normalized="line" start="41200" stop="41620">line </word>
+    <word normalized="and" start="41620" stop="41840">and </word>
+    <word normalized="the" start="41840" stop="41930">the </word>
+    <word normalized="drop" start="41930" stop="42240">drop</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="43560" stop="43710">is </word>
+    <word normalized="a" start="43710" stop="43750">a </word>
+    <word normalized="special" start="43750" stop="44300">special </word>
+    <word normalized="application" start="44300" stop="45220">application </word>
+    <word normalized="of" start="45310" stop="45460">of </word>
+    <word normalized="an" start="45460" stop="45590">an </word>
+    <word normalized="isolation" start="45750" stop="46380">isolation </word>
+    <word normalized="transformer" start="46380" stop="47170">transformer</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="47700" stop="47830">and </word>
+    <word normalized="is" start="47830" stop="47990">is </word>
+    <word normalized="often" start="47990" stop="48430">often </word>
+    <word normalized="used" start="48430" stop="48850">used </word>
+    <word normalized="to" start="48850" stop="48950">to </word>
+    <word normalized="prevent" start="48950" stop="49480">prevent </word>
+    <word normalized="ground" start="49520" stop="49910">ground </word>
+    <word normalized="loops" start="49910" stop="50360">loops </word>
+    <word normalized="or" start="50450" stop="50720">or </word>
+    <word normalized="earth" start="50720" stop="50940">earth </word>
+    <word normalized="loops" start="50940" stop="51390">loops</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="51840" stop="52060">which </word>
+    <word normalized="cause" start="52060" stop="52360">cause </word>
+    <word normalized="humming" start="52360" stop="52860">humming </word>
+    <word normalized="or" start="52900" stop="53050">or </word>
+    <word normalized="buzzing" start="53050" stop="53520">buzzing </word>
+    <word normalized="in" start="53520" stop="53700">in </word>
+    <word normalized="audio">audio </word>
+    <word normalized="circuits">circuits</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="also" start="55470" stop="55710">also </word>
+    <word normalized="prevents" start="55710" stop="56240">prevents </word>
+    <word normalized="low" start="56240" stop="56690">low </word>
+    <word normalized="direct" start="56830" stop="57200">direct </word>
+    <word normalized="current" start="57340" stop="57740">current </word>
+    <word normalized="voltages" start="60820" stop="62180">voltages </word>
+    <word normalized="from" start="76160" stop="76370">from </word>
+    <word normalized="passing" start="76410" stop="76980">passing</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="77930" stop="78390">Table </word>
+    <word normalized="of" start="78390" stop="78480">of </word>
+    <word normalized="contents">contents </word>
+  </sentence>
+</alignment>

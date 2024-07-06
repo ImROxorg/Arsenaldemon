@@ -1,0 +1,549 @@
+<alignment>
+  <sentence>
+    <word normalized="Pope" start="80" stop="110">Pope </word>
+    <word normalized="Demetrius" start="110" stop="210">Demetrius </word>
+    <word normalized="I">I </word>
+    <word normalized="of" start="660" stop="690">of </word>
+    <word normalized="Alexandria" start="690" stop="750">Alexandria </word>
+    <word normalized="Saint" start="1520" stop="2330">Saint </word>
+    <word normalized="Demetrius" start="2570" stop="2760">Demetrius </word>
+    <word normalized="was" start="2760" stop="3180">was </word>
+    <word normalized="Patriarch" start="3350" stop="3530">Patriarch </word>
+    <word normalized="of" start="11820" stop="13490">of </word>
+    <word normalized="Alexandria" start="13490" stop="13550">Alexandria </word>
+    <word normalized="">(</word>
+    <word normalized="one hundred eighty nine to two hundred thirty two" start="13550" stop="17980">189–232</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Sextus" start="19250" stop="19820">Sextus </word>
+    <word normalized="Julius" start="19820" stop="20250">Julius </word>
+    <word normalized="Africanus" start="20250" stop="21050">Africanus</word>
+    <word normalized="">, </word>
+    <word normalized="who" start="21280" stop="21370">who </word>
+    <word normalized="visited" start="21370" stop="21800">visited </word>
+    <word normalized="Alexandria" start="21800" stop="22670">Alexandria </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="time" start="22930" stop="23300">time </word>
+    <word normalized="of">of </word>
+    <word normalized="Demetrius" start="23300" stop="24070">Demetrius</word>
+    <word normalized="">, </word>
+    <word normalized="places">places </word>
+    <word normalized="his" start="24540" stop="24950">his </word>
+    <word normalized="accession" start="24950" stop="25620">accession </word>
+    <word normalized="as" start="25620" stop="25770">as </word>
+    <word normalized="eleventh" start="25770" stop="26220">eleventh </word>
+    <word normalized="bishop" start="26220" stop="26530">bishop </word>
+    <word normalized="after" start="26530" stop="26840">after </word>
+    <word normalized="Mark" start="26840" stop="27170">Mark </word>
+    <word normalized="in" start="27520" stop="27620">in </word>
+    <word normalized="the">the </word>
+    <word normalized="tenth" start="27620" stop="27900">tenth </word>
+    <word normalized="year" start="27900" stop="28140">year </word>
+    <word normalized="of">of </word>
+    <word normalized="Commodus" start="28270" stop="28850">Commodus</word>
+    <word normalized="">; </word>
+    <word normalized="Eusebius" start="29500" stop="30200">Eusebius</word>
+    <word normalized="">' </word>
+    <word normalized="statement" start="30200" stop="30630">statement </word>
+    <word normalized="that" start="30630" stop="30840">that </word>
+    <word normalized="it" start="30840" stop="30920">it </word>
+    <word normalized="was" start="30920" stop="31130">was </word>
+    <word normalized="in" start="31130" stop="31230">in </word>
+    <word normalized="the" start="31230" stop="31320">the </word>
+    <word normalized="tenth" start="31320" stop="31650">tenth </word>
+    <word normalized="of" start="31640" stop="31820">of </word>
+    <word normalized="Septimius" start="31920" stop="32710">Septimius </word>
+    <word normalized="Severus" start="32710" stop="33290">Severus </word>
+    <word normalized="">(</word>
+    <word normalized="Historia">Historia </word>
+    <word normalized="Ecclesiastica">Ecclesiastica</word>
+    <word normalized="">, </word>
+    <word normalized="VI">VI</word>
+    <word normalized="">, </word>
+    <word normalized="2">2</word>
+    <word normalized="">) </word>
+    <word normalized="is" start="33690" stop="33810">is </word>
+    <word normalized="a" start="33810" stop="33860">a </word>
+    <word normalized="mistake" start="33860" stop="34330">mistake</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="35610" stop="35740">The </word>
+    <word normalized="Catholic" start="35740" stop="36100">Catholic </word>
+    <word normalized="Encyclopedia" start="36100" stop="36880">Encyclopedia </word>
+    <word normalized="states" start="36880" stop="37480">states</word>
+    <word normalized="">, </word>
+    <word normalized="">"</word>
+    <word normalized="Demetrius" start="37920" stop="38480">Demetrius </word>
+    <word normalized="is" start="38480" stop="38590">is </word>
+    <word normalized="the">the </word>
+    <word normalized="first" start="38680" stop="39080">first </word>
+    <word normalized="Alexandrian" start="39080" stop="39810">Alexandrian </word>
+    <word normalized="bishop">bishop </word>
+    <word normalized="of">of </word>
+    <word normalized="whom">whom </word>
+    <word normalized="anything" start="40660" stop="41050">anything </word>
+    <word normalized="is" start="41050" stop="41220">is </word>
+    <word normalized="known" start="41220" stop="41550">known</word>
+    <word normalized="">.</word>
+    <word normalized="">" </word>
+  </sentence>
+  <sentence>
+    <word normalized="While" start="42330" stop="42510">While </word>
+    <word normalized="Jerome" start="42510" stop="42910">Jerome </word>
+    <word normalized="claimed" start="42910" stop="43390">claimed </word>
+    <word normalized="that">that </word>
+    <word normalized="Demetrius" start="43650" stop="44300">Demetrius </word>
+    <word normalized="sent" start="44300" stop="44650">sent </word>
+    <word normalized="Pantaenus" start="44750" stop="45310">Pantaenus </word>
+    <word normalized="on" start="45310" stop="45580">on </word>
+    <word normalized="a" start="45580" stop="45620">a </word>
+    <word normalized="mission" start="45620" stop="46060">mission </word>
+    <word normalized="to" start="46060" stop="46200">to </word>
+    <word normalized="India" start="46200" stop="46560">India</word>
+    <word normalized="">, </word>
+    <word normalized="it" start="46560" stop="46680">it </word>
+    <word normalized="is" start="46880" stop="47120">is </word>
+    <word normalized="likely" start="47310" stop="47340">likely </word>
+    <word normalized="that" start="47860" stop="48110">that </word>
+    <word normalized="Clement" start="48290" stop="49120">Clement </word>
+    <word normalized="had" start="49550" stop="50110">had </word>
+    <word normalized="succeeded">succeeded </word>
+    <word normalized="Pantaenus">Pantaenus </word>
+    <word normalized="as">as </word>
+    <word normalized="the">the </word>
+    <word normalized="head">head </word>
+    <word normalized="of">of </word>
+    <word normalized="the" start="50470" stop="50630">the </word>
+    <word normalized="Catechetical" start="50670" stop="51340">Catechetical </word>
+    <word normalized="School" start="51340" stop="51770">School </word>
+    <word normalized="before" start="51770" stop="52160">before </word>
+    <word normalized="the" start="52160" stop="52280">the </word>
+    <word normalized="accession" start="52280" stop="52820">accession </word>
+    <word normalized="of" start="52820" stop="52960">of </word>
+    <word normalized="Demetrius" start="52950" stop="52980">Demetrius</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="When" start="54360" stop="54460">When </word>
+    <word normalized="Clement" start="54460" stop="54760">Clement </word>
+    <word normalized="retired" start="54760" stop="55400">retired </word>
+    <word normalized="">(</word>
+    <word normalized="c" start="55800" stop="55960">c. </word>
+    <word normalized="203" start="56240" stop="56910">203</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="Demetrius" start="57360" stop="57890">Demetrius </word>
+    <word normalized="appointed" start="57890" stop="58300">appointed </word>
+    <word normalized="Origen" start="58300" stop="58870">Origen</word>
+    <word normalized="">, </word>
+    <word normalized="who" start="59290" stop="59350">who </word>
+    <word normalized="was" start="59350" stop="59510">was </word>
+    <word normalized="in" start="59510" stop="59630">in </word>
+    <word normalized="his" start="59630" stop="59760">his </word>
+    <word normalized="eighteenth" start="59760" stop="60130">eighteenth </word>
+    <word normalized="year" start="60130" stop="60460">year</word>
+    <word normalized="">, </word>
+    <word normalized="as" start="60580" stop="60790">as </word>
+    <word normalized="Clement s" start="61660" stop="64420">Clement's </word>
+    <word normalized="successor" start="64420" stop="64620">successor</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="While" start="64620" stop="65010">While </word>
+    <word normalized="Demetrius" start="65230" stop="66720">Demetrius </word>
+    <word normalized="was">was </word>
+    <word normalized="a">a </word>
+    <word normalized="scholar">scholar </word>
+    <word normalized="in">in </word>
+    <word normalized="his">his </word>
+    <word normalized="own">own </word>
+    <word normalized="right">right</word>
+    <word normalized="">, </word>
+    <word normalized="taking">taking </word>
+    <word normalized="part">part </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="controversy" start="66940" stop="67800">controversy </word>
+    <word normalized="over" start="67800" stop="68030">over </word>
+    <word normalized="the" start="68030" stop="68130">the </word>
+    <word normalized="proper" start="68130" stop="68520">proper </word>
+    <word normalized="calculation" start="68520" stop="69250">calculation </word>
+    <word normalized="of" start="69250" stop="69350">of </word>
+    <word normalized="Easter" start="69350" stop="69830">Easter </word>
+    <word normalized="that" start="70180" stop="70310">that </word>
+    <word normalized="preoccupied" start="70310" stop="70970">preoccupied </word>
+    <word normalized="the" start="70970" stop="71050">the </word>
+    <word normalized="Church" start="71050" stop="71410">Church </word>
+    <word normalized="in" start="71410" stop="71490">in </word>
+    <word normalized="the" start="71490" stop="71570">the </word>
+    <word normalized="time" start="71570" stop="72010">time </word>
+    <word normalized="of" start="72050" stop="72250">of </word>
+    <word normalized="Pope" start="73700" stop="73940">Pope </word>
+    <word normalized="Victor" start="73940" stop="74080">Victor </word>
+    <word normalized="I">I</word>
+    <word normalized="">, </word>
+    <word normalized="Origen s" start="74850" stop="75440">Origen's </word>
+    <word normalized="brilliance" start="75750" stop="76040">brilliance </word>
+    <word normalized="eventually" start="76550" stop="76760">eventually </word>
+    <word normalized="outshone" start="77070" stop="77390">outshone </word>
+    <word normalized="Demetrius" start="77390" stop="77770">Demetrius</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="77770" stop="78370">and </word>
+    <word normalized="it" start="78510" stop="78590">it </word>
+    <word normalized="is" start="78590" stop="78720">is </word>
+    <word normalized="in" start="78720" stop="78860">in </word>
+    <word normalized="his" start="78860" stop="79030">his </word>
+    <word normalized="relationship" start="79030" stop="79260">relationship </word>
+    <word normalized="with" start="79260" stop="80010">with </word>
+    <word normalized="the" start="80010" stop="80100">the </word>
+    <word normalized="famous" start="80100" stop="80270">famous </word>
+    <word normalized="theologian" start="80740" stop="80840">theologian </word>
+    <word normalized="that" start="81310" stop="81350">that </word>
+    <word normalized="Demetrius">Demetrius </word>
+    <word normalized="is">is </word>
+    <word normalized="defined">defined </word>
+    <word normalized="in">in </word>
+    <word normalized="history">history</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Demetrius">Demetrius </word>
+    <word normalized="gave">gave </word>
+    <word normalized="Origen" start="83550" stop="83940">Origen </word>
+    <word normalized="encouragement" start="83940" stop="84570">encouragement </word>
+    <word normalized="at" start="84570" stop="84650">at </word>
+    <word normalized="the" start="84650" stop="84740">the </word>
+    <word normalized="beginning" start="84740" stop="85180">beginning </word>
+    <word normalized="of" start="85180" stop="85260">of </word>
+    <word normalized="his" start="85260" stop="85430">his </word>
+    <word normalized="career" start="85430" stop="85910">career</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="86130" stop="86160">and </word>
+    <word normalized="is" start="86160" stop="86250">is </word>
+    <word normalized="said" start="86250" stop="86320">said </word>
+    <word normalized="to" start="86320" stop="86510">to </word>
+    <word normalized="have" start="86510" stop="86640">have </word>
+    <word normalized="shown" start="86640" stop="86750">shown </word>
+    <word normalized="him" start="86750" stop="87040">him </word>
+    <word normalized="favor" start="87040" stop="87230">favor</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="He">He </word>
+    <word normalized="dispatched" start="88220" stop="88910">dispatched </word>
+    <word normalized="Origen" start="88910" stop="89470">Origen </word>
+    <word normalized="to" start="89470" stop="89640">to </word>
+    <word normalized="the" start="89640" stop="89740">the </word>
+    <word normalized="governor" start="89740" stop="90150">governor </word>
+    <word normalized="of">of </word>
+    <word normalized="Arabia">Arabia</word>
+    <word normalized="">, </word>
+    <word normalized="who">who </word>
+    <word normalized="had" start="91160" stop="91270">had </word>
+    <word normalized="requested" start="91270" stop="91780">requested </word>
+    <word normalized="his" start="91780" stop="91950">his </word>
+    <word normalized="presence" start="91960" stop="91990">presence </word>
+    <word normalized="in" start="92410" stop="92550">in </word>
+    <word normalized="letters" start="92550" stop="92910">letters </word>
+    <word normalized="to" start="93010" stop="93080">to </word>
+    <word normalized="the" start="93080" stop="93180">the </word>
+    <word normalized="prefect" start="93180" stop="93680">prefect </word>
+    <word normalized="of" start="93680" stop="93780">of </word>
+    <word normalized="Egypt" start="93780" stop="94260">Egypt </word>
+    <word normalized="as" start="94260" stop="94430">as </word>
+    <word normalized="well" start="94430" stop="94460">well </word>
+    <word normalized="as" start="94460" stop="94630">as </word>
+    <word normalized="to" start="94760" stop="94920">to </word>
+    <word normalized="Demetrius" start="94920" stop="95710">Demetrius</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="When" start="96490" stop="96660">When </word>
+    <word normalized="the" start="96660" stop="96780">the </word>
+    <word normalized="Emperor" start="96780" stop="97190">Emperor </word>
+    <word normalized="Caracalla" start="97190" stop="98000">Caracalla </word>
+    <word normalized="sacked" start="98000" stop="98470">sacked </word>
+    <word normalized="Alexandria" start="98470" stop="99300">Alexandria </word>
+    <word normalized="">(</word>
+    <word normalized="215" start="99650" stop="99810">215</word>
+    <word normalized="">) </word>
+    <word normalized="in" start="99810" stop="100390">in </word>
+    <word normalized="punishment" start="100480" stop="100740">punishment </word>
+    <word normalized="for" start="101150" stop="101320">for </word>
+    <word normalized="their" start="101320" stop="101500">their </word>
+    <word normalized="satire" start="101500" stop="101990">satire </word>
+    <word normalized="directed" start="101990" stop="102400">directed </word>
+    <word normalized="at" start="102400" stop="102590">at </word>
+    <word normalized="him" start="102590" stop="102830">him</word>
+    <word normalized="">, </word>
+    <word normalized="Origen" start="103700" stop="104100">Origen </word>
+    <word normalized="fled" start="104100" stop="104360">fled </word>
+    <word normalized="to" start="104360" stop="104470">to </word>
+    <word normalized="Caesarea" start="104480" stop="105160">Caesarea</word>
+    <word normalized="">, </word>
+    <word normalized="where">where </word>
+    <word normalized="the" start="105390" stop="105500">the </word>
+    <word normalized="bishops" start="105500" stop="105960">bishops </word>
+    <word normalized="present" start="105960" stop="106300">present </word>
+    <word normalized="requested" start="106300" stop="106850">requested </word>
+    <word normalized="that" start="106850" stop="106980">that </word>
+    <word normalized="he" start="106980" stop="107090">he </word>
+    <word normalized="give" start="107090" stop="107250">give </word>
+    <word normalized="sermons" start="107250" stop="107930">sermons</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Demetrius" start="108440" stop="109010">Demetrius </word>
+    <word normalized="wrote" start="109010" stop="109250">wrote </word>
+    <word normalized="to" start="109250" stop="109310">to </word>
+    <word normalized="him" start="109310" stop="109440">him </word>
+    <word normalized="a" start="109440" stop="109490">a </word>
+    <word normalized="rebuke" start="109490" stop="109950">rebuke </word>
+    <word normalized="that" start="110040" stop="110210">that </word>
+    <word normalized="this" start="110210" stop="110380">this </word>
+    <word normalized="activity" start="110380" stop="110790">activity </word>
+    <word normalized="was" start="110790" stop="110970">was </word>
+    <word normalized="not" start="110970" stop="111240">not </word>
+    <word normalized="fitting" start="111240" stop="111520">fitting </word>
+    <word normalized="for" start="111550" stop="111760">for </word>
+    <word normalized="a" start="111760" stop="111790">a </word>
+    <word normalized="layman" start="111790" stop="112320">layman</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Bishops" start="112690" stop="113010">Bishops </word>
+    <word normalized="Alexander" start="113010" stop="113690">Alexander </word>
+    <word normalized="of">of </word>
+    <word normalized="Jerusalem" start="113690" stop="114250">Jerusalem </word>
+    <word normalized="and" start="114250" stop="114450">and </word>
+    <word normalized="Theoctistus" start="114450" stop="115230">Theoctistus </word>
+    <word normalized="of" start="115230" stop="115360">of </word>
+    <word normalized="Caesarea" start="115380" stop="115500">Caesarea </word>
+    <word normalized="wrote" start="116270" stop="116460">wrote </word>
+    <word normalized="in" start="116460" stop="116560">in </word>
+    <word normalized="his" start="116560" stop="116720">his </word>
+    <word normalized="defense" start="116720" stop="117220">defense </word>
+    <word normalized="and" start="117220" stop="117320">and </word>
+    <word normalized="mentioned" start="117320" stop="117730">mentioned </word>
+    <word normalized="precedents" start="117730" stop="118190">precedents </word>
+    <word normalized="for" start="118230" stop="118260">for </word>
+    <word normalized="laymen" start="118260" stop="118380">laymen </word>
+    <word normalized="to" start="118380" stop="118660">to </word>
+    <word normalized="give" start="118660" stop="118830">give </word>
+    <word normalized="sermons" start="118830" stop="118980">sermons</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="119530" stop="119710">but </word>
+    <word normalized="despite" start="119710" stop="119820">despite </word>
+    <word normalized="their">their </word>
+    <word normalized="efforts" start="120220" stop="120750">efforts </word>
+    <word normalized="Demetrius" start="120750" stop="121290">Demetrius </word>
+    <word normalized="recalled" start="121290" stop="121770">recalled </word>
+    <word normalized="Origen" start="121770" stop="122240">Origen</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Once" start="123100" stop="123350">Once </word>
+    <word normalized="Origen" start="123350" stop="123660">Origen </word>
+    <word normalized="was" start="123660" stop="123860">was </word>
+    <word normalized="back" start="123860" stop="124110">back </word>
+    <word normalized="in">in </word>
+    <word normalized="Alexandria" start="124110" stop="124990">Alexandria</word>
+    <word normalized="">, </word>
+    <word normalized="the">the </word>
+    <word normalized="strain" start="125170" stop="125410">strain </word>
+    <word normalized="in" start="125410" stop="125510">in </word>
+    <word normalized="their" start="125510" stop="125620">their </word>
+    <word normalized="relationship" start="125620" stop="126290">relationship </word>
+    <word normalized="eased" start="128040" stop="128230">eased</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="230" start="128240" stop="128300">230 </word>
+    <word normalized="Origen" start="128660" stop="129110">Origen </word>
+    <word normalized="was" start="129110" stop="129290">was </word>
+    <word normalized="asked" start="129290" stop="129710">asked </word>
+    <word normalized="to" start="129710" stop="129830">to </word>
+    <word normalized="settle" start="129830" stop="130180">settle </word>
+    <word normalized="a" start="130180" stop="130220">a </word>
+    <word normalized="dispute" start="130220" stop="130730">dispute </word>
+    <word normalized="in" start="130730" stop="130830">in </word>
+    <word normalized="Achaea" start="131000" stop="131040">Achaea </word>
+    <word normalized="which" start="131340" stop="131770">which </word>
+    <word normalized="required" start="131770" stop="132060">required </word>
+    <word normalized="his" start="132600" stop="132830">his </word>
+    <word normalized="presence" start="132870" stop="133240">presence</word>
+    <word normalized="">, </word>
+    <word normalized="so" start="133240" stop="133410">so </word>
+    <word normalized="he" start="133410" stop="133490">he </word>
+    <word normalized="set" start="133490" stop="133740">set </word>
+    <word normalized="out" start="133740" stop="133980">out </word>
+    <word normalized="by" start="133980" stop="134140">by </word>
+    <word normalized="way" start="134140" stop="134380">way </word>
+    <word normalized="of" start="134380" stop="134570">of </word>
+    <word normalized="Palestine" start="134660" stop="135380">Palestine</word>
+    <word normalized="">, </word>
+    <word normalized="perhaps" start="135550" stop="135960">perhaps </word>
+    <word normalized="without" start="135960" stop="136290">without </word>
+    <word normalized="the" start="136290" stop="136380">the </word>
+    <word normalized="permission" start="136380" stop="136820">permission </word>
+    <word normalized="of" start="136820" stop="136920">of </word>
+    <word normalized="Demetrius" start="136920" stop="137620">Demetrius</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Moreover" start="138050" stop="138680">Moreover</word>
+    <word normalized="">, </word>
+    <word normalized="Origen" start="138680" stop="139120">Origen </word>
+    <word normalized="was" start="139120" stop="139290">was </word>
+    <word normalized="ordained" start="139290" stop="139680">ordained </word>
+    <word normalized="priest" start="139680" stop="140110">priest </word>
+    <word normalized="at" start="140110" stop="140310">at </word>
+    <word normalized="Caesarea">Caesarea </word>
+    <word normalized="without">without </word>
+    <word normalized="leave">leave </word>
+    <word normalized="">(</word>
+    <word normalized="Eusebius">Eusebius</word>
+    <word normalized="">, </word>
+    <word normalized="H E">H.E. </word>
+    <word normalized="VI twenty three">VI,23</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="When" start="141770" stop="141910">When </word>
+    <word normalized="Demetrius" start="141910" stop="142450">Demetrius </word>
+    <word normalized="learned" start="142450" stop="142690">learned </word>
+    <word normalized="of" start="142690" stop="142750">of </word>
+    <word normalized="this" start="142750" stop="142990">this</word>
+    <word normalized="">, </word>
+    <word normalized="he" start="142990" stop="143120">he </word>
+    <word normalized="considered" start="143120" stop="143640">considered </word>
+    <word normalized="it" start="143640" stop="143700">it </word>
+    <word normalized="an" start="143700" stop="143910">an </word>
+    <word normalized="act" start="143910" stop="144210">act </word>
+    <word normalized="of" start="144210" stop="144330">of </word>
+    <word normalized="insubordination" start="144330" stop="145370">insubordination</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="145430" stop="145620">which </word>
+    <word normalized="ended" start="145620" stop="145890">ended </word>
+    <word normalized="their" start="145890" stop="146030">their </word>
+    <word normalized="relationship" start="146030" stop="146710">relationship</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Demetrius" start="147370" stop="147860">Demetrius </word>
+    <word normalized="convened" start="147860" stop="148220">convened </word>
+    <word normalized="a" start="148220" stop="148260">a </word>
+    <word normalized="synod" start="148260" stop="148770">synod </word>
+    <word normalized="in" start="148770" stop="148910">in </word>
+    <word normalized="232" start="149010" stop="149640">232 </word>
+    <word normalized="that" start="149640" stop="149800">that </word>
+    <word normalized="banished" start="149800" stop="150220">banished </word>
+    <word normalized="Origen" start="150220" stop="150710">Origen</word>
+    <word normalized="">, </word>
+    <word normalized="then" start="151110" stop="151240">then </word>
+    <word normalized="sent">sent </word>
+    <word normalized="a" start="151440" stop="151500">a </word>
+    <word normalized="formal" start="151500" stop="151920">formal </word>
+    <word normalized="condemnation" start="151920" stop="152570">condemnation </word>
+    <word normalized="of" start="152570" stop="152670">of </word>
+    <word normalized="Origen" start="152670" stop="153100">Origen </word>
+    <word normalized="to" start="153100" stop="153260">to </word>
+    <word normalized="all" start="153260" stop="153460">all </word>
+    <word normalized="the" start="153460" stop="153530">the </word>
+    <word normalized="churches" start="153530" stop="154130">churches</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Rome" start="155020" stop="155230">Rome </word>
+    <word normalized="accepted" start="155230" stop="155680">accepted </word>
+    <word normalized="the" start="155680" stop="155790">the </word>
+    <word normalized="decision" start="155790" stop="156350">decision</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="156350" stop="156530">but </word>
+    <word normalized="Palestine" start="156530" stop="157210">Palestine</word>
+    <word normalized="">, </word>
+    <word normalized="Phoenicia" start="157380" stop="157420">Phoenicia</word>
+    <word normalized="">, </word>
+    <word normalized="Arabia" start="157960" stop="158320">Arabia</word>
+    <word normalized="">, </word>
+    <word normalized="Achaea" start="158920" stop="159330">Achaea </word>
+    <word normalized="rejected" start="159970" stop="160030">rejected </word>
+    <word normalized="it" start="160030" stop="160510">it</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="From" start="160690" stop="161150">From </word>
+    <word normalized="Caesarea" start="161150" stop="161300">Caesarea </word>
+    <word normalized="Origen" start="162000" stop="162070">Origen </word>
+    <word normalized="sent" start="162070" stop="162500">sent </word>
+    <word normalized="forth" start="162500" stop="162740">forth </word>
+    <word normalized="letters" start="162740" stop="162960">letters </word>
+    <word normalized="in" start="162960" stop="163300">in </word>
+    <word normalized="his" start="163300" stop="163400">his </word>
+    <word normalized="own" start="163400" stop="163600">own </word>
+    <word normalized="defence" start="163600" stop="163750">defence</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="163750" stop="164220">and </word>
+    <word normalized="attacked" start="164220" stop="164360">attacked </word>
+    <word normalized="Demetrius" start="164720" stop="164790">Demetrius</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Demetrius" start="166080" stop="166570">Demetrius </word>
+    <word normalized="put" start="166570" stop="166730">put </word>
+    <word normalized="the" start="166730" stop="166810">the </word>
+    <word normalized="Catechetical" start="166810" stop="167470">Catechetical </word>
+    <word normalized="School" start="167470" stop="167930">School </word>
+    <word normalized="under" start="167930" stop="168160">under </word>
+    <word normalized="the" start="168160" stop="168260">the </word>
+    <word normalized="charge" start="168260" stop="168570">charge </word>
+    <word normalized="of" start="168570" stop="168640">of </word>
+    <word normalized="Heraclas" start="168680" stop="168710">Heraclas</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="169630" stop="169720">the </word>
+    <word normalized="first" start="169720" stop="170000">first </word>
+    <word normalized="pupil" start="170000" stop="170320">pupil </word>
+    <word normalized="of" start="170320" stop="170460">of </word>
+    <word normalized="Origen" start="170460" stop="170920">Origen</word>
+    <word normalized="">, </word>
+    <word normalized="who" start="171190" stop="171310">who </word>
+    <word normalized="had" start="171310" stop="171410">had </word>
+    <word normalized="long" start="171410" stop="171670">long </word>
+    <word normalized="been" start="171670" stop="171840">been </word>
+    <word normalized="his" start="171840" stop="171990">his </word>
+    <word normalized="assistant" start="171990" stop="172580">assistant</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="175810" stop="177200">This </word>
+    <word normalized="may" start="177200" stop="177430">may </word>
+    <word normalized="have" start="177490" stop="177680">have </word>
+    <word normalized="been" start="177970" stop="178000">been </word>
+    <word normalized="Demetrius" start="178330" stop="178680">Demetrius</word>
+    <word normalized="">' </word>
+    <word normalized="final" start="179170" stop="179320">final </word>
+    <word normalized="act" start="179320" stop="179630">act </word>
+    <word normalized="as" start="179630" stop="179830">as </word>
+    <word normalized="bishop" start="180090" stop="180330">bishop</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="180630" stop="181100">Table </word>
+    <word normalized="of" start="181310" stop="181760">of </word>
+    <word normalized="contents" start="181940" stop="181990">contents </word>
+    <word normalized="Section" start="181990" stop="182280">Section </word>
+    <word normalized="one" start="182280" stop="182600">1 </word>
+    <word normalized="External" start="182800" stop="182960">External </word>
+    <word normalized="link" start="183630" stop="183840">link </word>
+    <word normalized="saint" start="184390" stop="184680">St. </word>
+    <word normalized="Demetrius" start="184680" stop="184890">Demetrius </word>
+    <word normalized="of" start="184890" stop="185480">of </word>
+    <word normalized="Alexandria" start="185560" stop="186000">Alexandria </word>
+  </sentence>
+</alignment>

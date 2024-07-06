@@ -1,0 +1,400 @@
+<alignment>
+  <sentence>
+    <word normalized="Princess">Princess </word>
+    <word normalized="Elizabeth" start="680" stop="1290">Elizabeth </word>
+    <word normalized="of" start="1290" stop="1480">of </word>
+    <word normalized="Clarence" start="1480" stop="2170">Clarence </word>
+    <word normalized="Her" start="2590" stop="2760">Her </word>
+    <word normalized="Royal" start="10140" stop="10430">Royal </word>
+    <word normalized="Highness" start="10430" stop="11120">Highness </word>
+    <word normalized="Princess" start="11160" stop="11710">Princess </word>
+    <word normalized="Elizabeth" start="11710" stop="12310">Elizabeth </word>
+    <word normalized="of" start="12310" stop="12490">of </word>
+    <word normalized="Clarence" start="12490" stop="13190">Clarence </word>
+    <word normalized="">(</word>
+    <word normalized="Elizabeth" start="13450" stop="13950">Elizabeth </word>
+    <word normalized="Georgiana" start="13950" stop="14440">Georgiana </word>
+    <word normalized="Adelaide" start="14440" stop="15080">Adelaide</word>
+    <word normalized="">) </word>
+    <word normalized="">(</word>
+    <word normalized="December">December </word>
+    <word normalized="10">10</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="two zero March">20-March </word>
+    <word normalized="four">4</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty one">21</word>
+    <word normalized="">) </word>
+    <word normalized="was" start="15400" stop="15560">was </word>
+    <word normalized="a" start="15560" stop="15590">a </word>
+    <word normalized="member" start="15590" stop="15960">member </word>
+    <word normalized="of" start="16010" stop="16130">of </word>
+    <word normalized="the" start="16130" stop="16220">the </word>
+    <word normalized="British" start="16220" stop="16570">British </word>
+    <word normalized="Royal" start="16570" stop="16820">Royal </word>
+    <word normalized="Family" start="16820" stop="17350">Family</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="17800" stop="17890">a </word>
+    <word normalized="granddaughter" start="17890" stop="18600">granddaughter </word>
+    <word normalized="of" start="18660" stop="18820">of </word>
+    <word normalized="King" start="18820" stop="19050">King </word>
+    <word normalized="George" start="19050" stop="19380">George </word>
+    <word normalized="III">III</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="At">At </word>
+    <word normalized="the" start="20770" stop="20890">the </word>
+    <word normalized="time" start="20890" stop="21200">time </word>
+    <word normalized="of" start="21200" stop="21330">of </word>
+    <word normalized="her" start="21330" stop="21470">her </word>
+    <word normalized="birth" start="21470" stop="22070">birth </word>
+    <word normalized="she" start="22210" stop="22370">she </word>
+    <word normalized="was" start="22370" stop="22580">was </word>
+    <word normalized="third" start="22580" stop="23040">third </word>
+    <word normalized="in" start="23090" stop="23210">in </word>
+    <word normalized="the" start="23210" stop="23330">the </word>
+    <word normalized="line" start="23330" stop="23600">line </word>
+    <word normalized="of" start="23600" stop="23660">of </word>
+    <word normalized="succession" start="23660" stop="24330">succession </word>
+    <word normalized="to" start="24330" stop="24480">to </word>
+    <word normalized="the" start="24480" stop="24580">the </word>
+    <word normalized="British" start="24580" stop="24950">British </word>
+    <word normalized="throne" start="24950" stop="25340">throne</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Princess" start="25890" stop="26370">Princess </word>
+    <word normalized="Elizabeth" start="26370" stop="27060">Elizabeth </word>
+    <word normalized="was" start="27060" stop="27340">was </word>
+    <word normalized="born" start="27340" stop="27580">born </word>
+    <word normalized="on" start="27580" stop="27720">on </word>
+    <word normalized="December" start="27720" stop="28210">December </word>
+    <word normalized="10">10</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen" start="28780" stop="29150">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty" start="29150" stop="29700">20 </word>
+    <word normalized="at" start="29980" stop="30160">at </word>
+    <word normalized="saint" start="30160" stop="30400">St. </word>
+    <word normalized="James s" start="30400" stop="30800">James's </word>
+    <word normalized="Palace" start="30800" stop="31210">Palace</word>
+    <word normalized="">, </word>
+    <word normalized="London" start="31210" stop="31680">London</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Her" start="32390" stop="32540">Her </word>
+    <word normalized="father" start="32540" stop="33080">father </word>
+    <word normalized="was" start="33260" stop="33470">was </word>
+    <word normalized="H R H">HRH </word>
+    <word normalized="The">The </word>
+    <word normalized="Prince" start="34570" stop="34840">Prince </word>
+    <word normalized="William" start="34840" stop="35300">William</word>
+    <word normalized="">, </word>
+    <word normalized="Duke" start="35550" stop="35790">Duke </word>
+    <word normalized="of" start="35790" stop="35900">of </word>
+    <word normalized="Clarence" start="35900" stop="36580">Clarence</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="36660" stop="36740">the </word>
+    <word normalized="third" start="36740" stop="37110">third </word>
+    <word normalized="eldest" start="37110" stop="37460">eldest </word>
+    <word normalized="son" start="37460" stop="37840">son </word>
+    <word normalized="of" start="37840" stop="38010">of </word>
+    <word normalized="King" start="38010" stop="38230">King </word>
+    <word normalized="George" start="38710" stop="39090">George </word>
+    <word normalized="III">III</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Her" start="39550" stop="39730">Her </word>
+    <word normalized="mother" start="39730" stop="40150">mother </word>
+    <word normalized="was" start="40360" stop="40630">was </word>
+    <word normalized="H R H">HRH </word>
+    <word normalized="The" start="41560" stop="41680">The </word>
+    <word normalized="Duchess" start="41680" stop="42090">Duchess </word>
+    <word normalized="of" start="42090" stop="42160">of </word>
+    <word normalized="Clarence" start="42160" stop="42840">Clarence </word>
+    <word normalized="">(</word>
+    <word normalized="nee" start="43220" stop="43470">nee </word>
+    <word normalized="Princess" start="43470" stop="44010">Princess </word>
+    <word normalized="Adelaide" start="44010" stop="44600">Adelaide </word>
+    <word normalized="of" start="44830" stop="44960">of </word>
+    <word normalized="Saxe Meiningen" start="44960" stop="45330">Saxe-Meiningen</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="a" start="46920" stop="46950">a </word>
+    <word normalized="granddaughter" start="46950" stop="47600">granddaughter </word>
+    <word normalized="of" start="47600" stop="47730">of </word>
+    <word normalized="the" start="47730" stop="47840">the </word>
+    <word normalized="British" start="47840" stop="48190">British </word>
+    <word normalized="monarch" start="48200" stop="48610">monarch</word>
+    <word normalized="">, </word>
+    <word normalized="she" start="48930" stop="49100">she </word>
+    <word normalized="was" start="49100" stop="49240">was </word>
+    <word normalized="styled" start="49240" stop="49740">styled </word>
+    <word normalized="Royal" start="49740" stop="50020">Royal </word>
+    <word normalized="Highness" start="50020" stop="50500">Highness </word>
+    <word normalized="from" start="50500" stop="50710">from </word>
+    <word normalized="birth" start="50710" stop="51150">birth</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="51590" stop="51690">The </word>
+    <word normalized="birth" start="51690" stop="52100">birth </word>
+    <word normalized="of" start="52100" stop="52190">of </word>
+    <word normalized="Princess" start="52190" stop="52660">Princess </word>
+    <word normalized="Elizabeth" start="52660" stop="53320">Elizabeth </word>
+    <word normalized="was" start="53380" stop="53580">was </word>
+    <word normalized="a" start="53580" stop="53630">a </word>
+    <word normalized="significant" start="53630" stop="54370">significant </word>
+    <word normalized="event" start="54370" stop="54880">event </word>
+    <word normalized="in" start="54910" stop="55010">in </word>
+    <word normalized="nineteenth" start="55010" stop="55490">19th </word>
+    <word normalized="century" start="55490" stop="55900">century </word>
+    <word normalized="Britain" start="55900" stop="56330">Britain</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Her" start="56960" stop="57120">Her </word>
+    <word normalized="father" start="57120" stop="57670">father</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="57850" stop="57960">the </word>
+    <word normalized="Duke" start="57960" stop="58220">Duke </word>
+    <word normalized="of" start="58220" stop="58310">of </word>
+    <word normalized="Clarence" start="58310" stop="58970">Clarence</word>
+    <word normalized="">, </word>
+    <word normalized="was" start="59140" stop="59300">was </word>
+    <word normalized="the">the </word>
+    <word normalized="second" start="59300" stop="59860">second </word>
+    <word normalized="in" start="59860" stop="59960">in </word>
+    <word normalized="line" start="59960" stop="60260">line </word>
+    <word normalized="to" start="60260" stop="60390">to </word>
+    <word normalized="the" start="60390" stop="60500">the </word>
+    <word normalized="throne" start="60500" stop="60970">throne </word>
+    <word normalized="following" start="61190" stop="61580">following </word>
+    <word normalized="the" start="61580" stop="61670">the </word>
+    <word normalized="death" start="61670" stop="62090">death </word>
+    <word normalized="of" start="62140" stop="62250">of </word>
+    <word normalized="Elizabeth s" start="62250" stop="62790">Elizabeth's </word>
+    <word normalized="cousin" start="62790" stop="63260">cousin</word>
+    <word normalized="">, </word>
+    <word normalized="H R H">HRH </word>
+    <word normalized="Princess" start="64280" stop="64700">Princess </word>
+    <word normalized="Charlotte" start="64700" stop="65250">Charlotte </word>
+    <word normalized="in" start="65340" stop="65480">in </word>
+    <word normalized="18">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventeen" start="65900" stop="66590">17</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="67050" stop="67200">and </word>
+    <word normalized="their" start="67200" stop="67330">their </word>
+    <word normalized="grandfather" start="67330" stop="68110">grandfather </word>
+    <word normalized="George" start="68390" stop="68710">George </word>
+    <word normalized="III">III </word>
+    <word normalized="in" start="69180" stop="69400">in </word>
+    <word normalized="eighteen" start="69400" stop="69530">18 </word>
+    <word normalized="hundred" start="69530" stop="70000">hundred </word>
+    <word normalized="twenty" start="70000" stop="70250">20</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Since" start="70530" stop="70630">Since </word>
+    <word normalized="the" start="70630" stop="71030">the </word>
+    <word normalized="Duke s" start="71030" stop="71390">Duke's </word>
+    <word normalized="two" start="71390" stop="71560">two </word>
+    <word normalized="elder" start="71560" stop="71890">elder </word>
+    <word normalized="brothers" start="71890" stop="72160">brothers</word>
+    <word normalized="">, </word>
+    <word normalized="King" start="72160" stop="72650">King </word>
+    <word normalized="George" start="72650" stop="72900">George </word>
+    <word normalized="IV">IV </word>
+    <word normalized="and" start="73820" stop="73970">and </word>
+    <word normalized="the" start="73970" stop="74040">the </word>
+    <word normalized="Duke" start="74040" stop="74320">Duke </word>
+    <word normalized="of" start="74320" stop="74450">of </word>
+    <word normalized="York" start="74450" stop="74900">York </word>
+    <word normalized="were" start="75090" stop="75240">were </word>
+    <word normalized="both" start="75240" stop="75530">both </word>
+    <word normalized="without" start="75530" stop="75950">without </word>
+    <word normalized="legitimate" start="75950" stop="76450">legitimate </word>
+    <word normalized="children" start="76450" stop="77040">children</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="77340" stop="77480">and </word>
+    <word normalized="the" start="77480" stop="77550">the </word>
+    <word normalized="King" start="77550" stop="77930">King </word>
+    <word normalized="was" start="77960" stop="78210">was </word>
+    <word normalized="estranged">estranged </word>
+    <word normalized="from" start="78660" stop="78910">from </word>
+    <word normalized="his" start="78910" stop="79100">his </word>
+    <word normalized="wife" start="79100" stop="79500">wife </word>
+    <word normalized="and" start="79720" stop="79830">and </word>
+    <word normalized="the" start="79830" stop="79900">the </word>
+    <word normalized="Duke" start="79900" stop="80140">Duke </word>
+    <word normalized="of" start="80140" stop="80270">of </word>
+    <word normalized="York" start="80270" stop="80560">York </word>
+    <word normalized="unmarried" start="80560" stop="81120">unmarried</word>
+    <word normalized="">, </word>
+    <word normalized="it" start="81500" stop="81650">it </word>
+    <word normalized="seemed" start="81650" stop="81940">seemed </word>
+    <word normalized="likely" start="81940" stop="82470">likely </word>
+    <word normalized="that" start="82660" stop="82840">that </word>
+    <word normalized="Princess" start="82840" stop="83290">Princess </word>
+    <word normalized="Elizabeth" start="83290" stop="83880">Elizabeth </word>
+    <word normalized="would" start="84080" stop="84220">would </word>
+    <word normalized="succeed" start="84220" stop="84690">succeed </word>
+    <word normalized="as" start="84690" stop="84880">as </word>
+    <word normalized="Queen" start="84880" stop="85270">Queen </word>
+    <word normalized="in" start="85270" stop="85480">in </word>
+    <word normalized="years" start="85480" stop="85750">years </word>
+    <word normalized="to" start="85750" stop="85830">to </word>
+    <word normalized="come" start="85830" stop="86220">come</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Her">Her </word>
+    <word normalized="mother" start="87100" stop="87480">mother</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="87710" stop="87810">the </word>
+    <word normalized="Duchess" start="87810" stop="88200">Duchess </word>
+    <word normalized="of" start="88200" stop="88280">of </word>
+    <word normalized="Clarence" start="88280" stop="88910">Clarence</word>
+    <word normalized="">, </word>
+    <word normalized="had" start="89130" stop="89310">had </word>
+    <word normalized="several" start="89310" stop="89710">several </word>
+    <word normalized="difficult" start="89710" stop="90220">difficult </word>
+    <word normalized="pregnancies" start="90220" stop="91060">pregnancies</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="91310" stop="91530">and </word>
+    <word normalized="Elizabeth s" start="91530" stop="92100">Elizabeth's </word>
+    <word normalized="elder" start="92160" stop="92440">elder </word>
+    <word normalized="sister" start="92440" stop="93010">sister</word>
+    <word normalized="">, </word>
+    <word normalized="Princess" start="93070" stop="93480">Princess </word>
+    <word normalized="Charlotte" start="93480" stop="93930">Charlotte </word>
+    <word normalized="of" start="93930" stop="94020">of </word>
+    <word normalized="Clarence" start="94020" stop="94580">Clarence</word>
+    <word normalized="">, </word>
+    <word normalized="died" start="94980" stop="95240">died </word>
+    <word normalized="on" start="95240" stop="95310">on </word>
+    <word normalized="the" start="95310" stop="95430">the </word>
+    <word normalized="day" start="95430" stop="95640">day </word>
+    <word normalized="of" start="95640" stop="95750">of </word>
+    <word normalized="her" start="95750" stop="95920">her </word>
+    <word normalized="birth">birth</word>
+    <word normalized="">, </word>
+    <word normalized="making" start="96770" stop="97040">making </word>
+    <word normalized="it" start="97040" stop="97260">it </word>
+    <word normalized="unlikely" start="97260" stop="97830">unlikely </word>
+    <word normalized="for" start="97830" stop="97960">for </word>
+    <word normalized="the" start="97960" stop="98080">the </word>
+    <word normalized="Duke" start="98080" stop="98490">Duke </word>
+    <word normalized="and" start="98490" stop="98590">and </word>
+    <word normalized="Duchess" start="98590" stop="99170">Duchess </word>
+    <word normalized="to" start="99170" stop="99270">to </word>
+    <word normalized="produce" start="99360" stop="99390">produce </word>
+    <word normalized="any" start="99730" stop="99880">any </word>
+    <word normalized="more" start="99880" stop="100090">more </word>
+    <word normalized="children" start="100090" stop="100630">children</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Sadly" start="101700" stop="102350">Sadly</word>
+    <word normalized="">, </word>
+    <word normalized="Princess" start="102610" stop="103070">Princess </word>
+    <word normalized="Elizabeth" start="103070" stop="103610">Elizabeth </word>
+    <word normalized="also" start="103640" stop="104040">also </word>
+    <word normalized="died" start="104040" stop="104310">died </word>
+    <word normalized="in" start="104310" stop="104460">in </word>
+    <word normalized="infancy" start="104460" stop="105150">infancy</word>
+    <word normalized="">, </word>
+    <word normalized="succumbing" start="105410" stop="105920">succumbing </word>
+    <word normalized="to" start="105920" stop="106160">to </word>
+    <word normalized="convulsions" start="106160" stop="107030">convulsions </word>
+    <word normalized="on" start="107060" stop="107200">on </word>
+    <word normalized="March" start="107200" stop="107530">March </word>
+    <word normalized="four" start="109430" stop="110110">4</word>
+    <word normalized="">, </word>
+    <word normalized="eighteen" start="110110" stop="110320">18 </word>
+    <word normalized="hundred" start="110670" stop="111060">hundred </word>
+    <word normalized="twenty one" start="111060" stop="112020">21</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Her" start="112020" stop="112220">Her </word>
+    <word normalized="cousin">cousin</word>
+    <word normalized="">, </word>
+    <word normalized="H R H">HRH </word>
+    <word normalized="Princess">Princess </word>
+    <word normalized="Victoria">Victoria </word>
+    <word normalized="of">of </word>
+    <word normalized="Kent" start="112370" stop="112830">Kent</word>
+    <word normalized="">, </word>
+    <word normalized="whose" start="113220" stop="113400">whose </word>
+    <word normalized="place" start="113400" stop="113680">place </word>
+    <word normalized="she" start="113680" stop="113850">she </word>
+    <word normalized="took" start="113850" stop="114100">took </word>
+    <word normalized="in" start="114100" stop="114190">in </word>
+    <word normalized="the" start="114190" stop="114270">the </word>
+    <word normalized="line" start="114270" stop="114520">line </word>
+    <word normalized="of" start="114520" stop="114600">of </word>
+    <word normalized="succession" start="114600" stop="115210">succession </word>
+    <word normalized="on" start="115210" stop="115440">on </word>
+    <word normalized="her" start="115440" stop="115630">her </word>
+    <word normalized="birth" start="115630" stop="116070">birth</word>
+    <word normalized="">, </word>
+    <word normalized="succeeded" start="116470" stop="117180">succeeded </word>
+    <word normalized="Elizabeth s" start="117180" stop="117650">Elizabeth's </word>
+    <word normalized="father" start="117650" stop="118220">father </word>
+    <word normalized="and" start="118520" stop="118680">and </word>
+    <word normalized="became" start="118680" stop="119040">became </word>
+    <word normalized="Queen" start="119040" stop="119460">Queen </word>
+    <word normalized="in" start="119720" stop="119880">in </word>
+    <word normalized="eighteen" start="119880" stop="120280">18 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="thirty seven" start="120280" stop="121030">37</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="If">If </word>
+    <word normalized="Elizabeth" start="121980" stop="122690">Elizabeth </word>
+    <word normalized="had" start="122740" stop="122920">had </word>
+    <word normalized="survived" start="122920" stop="123540">survived</word>
+    <word normalized="">, </word>
+    <word normalized="Victoria" start="123710" stop="123740">Victoria </word>
+    <word normalized="would" start="124140" stop="124350">would </word>
+    <word normalized="not" start="124350" stop="124580">not </word>
+    <word normalized="have" start="124580" stop="124710">have </word>
+    <word normalized="became" start="124710" stop="125060">became </word>
+    <word normalized="Queen" start="125060" stop="125510">Queen </word>
+    <word normalized="and" start="125830" stop="126000">and </word>
+    <word normalized="there" start="126000" stop="126140">there </word>
+    <word normalized="would" start="126140" stop="126320">would </word>
+    <word normalized="have" start="126320" stop="126450">have </word>
+    <word normalized="been" start="126450" stop="126690">been </word>
+    <word normalized="no" start="126690" stop="126940">no </word>
+    <word normalized="Victorian" start="126940" stop="127520">Victorian </word>
+    <word normalized="Era" start="127520" stop="127950">Era</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table" start="128760" stop="128830">Table </word>
+    <word normalized="of" start="129380" stop="129470">of </word>
+    <word normalized="contents" start="129860" stop="130130">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="See">See </word>
+    <word normalized="Also">Also </word>
+    <word normalized="List">List </word>
+    <word normalized="of" start="130520" stop="130630">of </word>
+    <word normalized="British" start="130630" stop="131020">British </word>
+    <word normalized="princesses" start="131020" stop="131840">princesses </word>
+  </sentence>
+</alignment>

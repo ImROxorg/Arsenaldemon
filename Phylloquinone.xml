@@ -1,0 +1,234 @@
+<alignment>
+  <sentence>
+    <word normalized="Phylloquinone" start="420" stop="1470">Phylloquinone </word>
+    <word normalized="Phylloquinone" start="1870" stop="2890">Phylloquinone </word>
+    <word normalized="is" start="3060" stop="3230">is </word>
+    <word normalized="a" start="3230" stop="3280">a </word>
+    <word normalized="polycyclic" start="3280" stop="4310">polycyclic </word>
+    <word normalized="aromatic" start="4310" stop="4960">aromatic </word>
+    <word normalized="ketone" start="4960" stop="5600">ketone</word>
+    <word normalized="">, </word>
+    <word normalized="based" start="5850" stop="6180">based </word>
+    <word normalized="on" start="6180" stop="6370">on </word>
+    <word normalized="two methyl fourteen naphthoquinone" start="6370" stop="8860">2-methyl-1,4-naphthoquinone</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="9210" stop="9400">with </word>
+    <word normalized="a" start="9400" stop="9470">a </word>
+    <word normalized="three p h y t y l" start="9470" stop="9840">3-phytyl </word>
+    <word normalized="substituent">substituent</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="11830" stop="12090">is </word>
+    <word normalized="a" start="12090" stop="12140">a </word>
+    <word normalized="fat soluble" start="12140" stop="13230">fat-soluble </word>
+    <word normalized="vitamin" start="13230" stop="13860">vitamin </word>
+    <word normalized="that" start="13860" stop="14130">that </word>
+    <word normalized="is" start="14130" stop="14200">is </word>
+    <word normalized="stable" start="14200" stop="14670">stable </word>
+    <word normalized="to" start="14670" stop="14830">to </word>
+    <word normalized="air" start="14910" stop="15210">air </word>
+    <word normalized="and" start="15210" stop="15420">and </word>
+    <word normalized="moisture" start="15420" stop="16050">moisture </word>
+    <word normalized="but" start="16130" stop="16380">but </word>
+    <word normalized="decomposes" start="16380" stop="17350">decomposes </word>
+    <word normalized="in" start="17350" stop="17540">in </word>
+    <word normalized="sunlight" start="17540" stop="18240">sunlight</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="19170" stop="19590">is </word>
+    <word normalized="found" start="19590" stop="19910">found </word>
+    <word normalized="naturally" start="19910" stop="20640">naturally </word>
+    <word normalized="in" start="20640" stop="20830">in </word>
+    <word normalized="a" start="20830" stop="20880">a </word>
+    <word normalized="wide" start="20880" stop="21150">wide </word>
+    <word normalized="variety" start="21150" stop="21710">variety </word>
+    <word normalized="of" start="21710" stop="21840">of </word>
+    <word normalized="green" start="21840" stop="22160">green </word>
+    <word normalized="plants" start="22160" stop="22740">plants</word>
+    <word normalized="">, </word>
+    <word normalized="particularly" start="22860" stop="23750">particularly </word>
+    <word normalized="leaves" start="23750" stop="24320">leaves</word>
+    <word normalized="">, </word>
+    <word normalized="since" start="24550" stop="24970">since </word>
+    <word normalized="it" start="24970" stop="25060">it </word>
+    <word normalized="functions" start="25060" stop="25790">functions </word>
+    <word normalized="as" start="25790" stop="26230">as </word>
+    <word normalized="an" start="26230" stop="26490">an </word>
+    <word normalized="electron" start="26490" stop="27040">electron </word>
+    <word normalized="acceptor" start="27040" stop="27620">acceptor </word>
+    <word normalized="during" start="27620" stop="27930">during </word>
+    <word normalized="photosynthesis" start="27930" stop="29150">photosynthesis</word>
+    <word normalized="">, </word>
+    <word normalized="forming" start="29200" stop="29900">forming </word>
+    <word normalized="part" start="29900" stop="30300">part </word>
+    <word normalized="of" start="30300" stop="30400">of </word>
+    <word normalized="the" start="30400" stop="30530">the </word>
+    <word normalized="electron" start="30530" stop="31070">electron </word>
+    <word normalized="transport" start="31070" stop="31680">transport </word>
+    <word normalized="chain" start="31680" stop="32230">chain </word>
+    <word normalized="of" start="32330" stop="32460">of </word>
+    <word normalized="Photosystem" start="32460" stop="33660">Photosystem </word>
+    <word normalized="I">I. </word>
+    <word normalized="Table" start="38800" stop="38860">Table </word>
+    <word normalized="of" start="38860" stop="39440">of </word>
+    <word normalized="contents" start="39440" stop="39580">contents </word>
+    <word normalized="Section" start="40970" stop="41200">Section </word>
+    <word normalized="one" start="41200" stop="41750">1 </word>
+    <word normalized="Terminology" start="41750" stop="42020">Terminology </word>
+    <word normalized="It">It </word>
+    <word normalized="is" start="43000" stop="43200">is </word>
+    <word normalized="often" start="43200" stop="43260">often </word>
+    <word normalized="called" start="43260" stop="43430">called </word>
+    <word normalized="vitamin" start="43430" stop="43600">vitamin </word>
+    <word normalized="K one">K1</word>
+    <word normalized="">, </word>
+    <word normalized="phytomenadione">phytomenadione </word>
+    <word normalized="or">or </word>
+    <word normalized="phytonadione">phytonadione</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Sometimes" start="45040" stop="46000">Sometimes </word>
+    <word normalized="a" start="46230" stop="46320">a </word>
+    <word normalized="distinction" start="46320" stop="47040">distinction </word>
+    <word normalized="is" start="47040" stop="47320">is </word>
+    <word normalized="made" start="47320" stop="47800">made </word>
+    <word normalized="with" start="48010" stop="48180">with </word>
+    <word normalized="phylloquinone" start="48180" stop="49040">phylloquinone </word>
+    <word normalized="considered" start="49040" stop="49630">considered </word>
+    <word normalized="natural" start="49690" stop="50440">natural </word>
+    <word normalized="and" start="50560" stop="50840">and </word>
+    <word normalized="phytonadione" start="51000" stop="51030">phytonadione </word>
+    <word normalized="considered" start="51960" stop="52600">considered </word>
+    <word normalized="synthetic" start="52600" stop="53400">synthetic</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="stereoisomer" start="54670" stop="55910">stereoisomer </word>
+    <word normalized="of" start="55910" stop="56010">of </word>
+    <word normalized="phylloquinone" start="56010" stop="56960">phylloquinone </word>
+    <word normalized="is" start="56990" stop="57190">is </word>
+    <word normalized="called" start="57190" stop="57520">called </word>
+    <word normalized="vitamin" start="57520" stop="58160">vitamin </word>
+    <word normalized="k one" start="58160" stop="58550">k1 </word>
+    <word normalized="">(</word>
+    <word normalized="note">note </word>
+    <word normalized="the">the </word>
+    <word normalized="difference">difference </word>
+    <word normalized="in">in </word>
+    <word normalized="capitalization">capitalization</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="2">2 </word>
+    <word normalized="Biochemistry" start="61440" stop="62640">Biochemistry </word>
+    <word normalized="Phylloquinone" start="63670" stop="64770">Phylloquinone </word>
+    <word normalized="is" start="64820" stop="65070">is </word>
+    <word normalized="an" start="65070" stop="65140">an </word>
+    <word normalized="electron" start="65140" stop="65660">electron </word>
+    <word normalized="acceptor" start="65660" stop="66290">acceptor </word>
+    <word normalized="during" start="66290" stop="66590">during </word>
+    <word normalized="photosynthesis" start="66590" stop="67860">photosynthesis</word>
+    <word normalized="">, </word>
+    <word normalized="forming" start="68120" stop="68520">forming </word>
+    <word normalized="part" start="68520" stop="68940">part </word>
+    <word normalized="of" start="68940" stop="69060">of </word>
+    <word normalized="the" start="69060" stop="69190">the </word>
+    <word normalized="electron" start="69190" stop="69710">electron </word>
+    <word normalized="transport" start="69710" stop="70280">transport </word>
+    <word normalized="chain" start="70280" stop="70780">chain </word>
+    <word normalized="of" start="70820" stop="70950">of </word>
+    <word normalized="Photosystem" start="70950" stop="72110">Photosystem </word>
+    <word normalized="I">I. </word>
+    <word normalized="Its" start="73410" stop="73720">Its </word>
+    <word normalized="best known" start="73720" stop="74420">best-known </word>
+    <word normalized="function" start="74420" stop="75020">function </word>
+    <word normalized="in" start="75020" stop="75260">in </word>
+    <word normalized="animals" start="75260" stop="75930">animals </word>
+    <word normalized="is" start="76210" stop="76400">is </word>
+    <word normalized="as" start="76400" stop="76580">as </word>
+    <word normalized="a" start="76580" stop="76630">a </word>
+    <word normalized="cofactor" start="76630" stop="77430">cofactor </word>
+    <word normalized="in" start="77430" stop="77550">in </word>
+    <word normalized="the" start="77550" stop="77640">the </word>
+    <word normalized="formation" start="77640" stop="78370">formation </word>
+    <word normalized="of" start="78370" stop="78760">of </word>
+    <word normalized="coagulation" start="78940" stop="79800">coagulation </word>
+    <word normalized="factors" start="79800" stop="80400">factors </word>
+    <word normalized="II">II </word>
+    <word normalized="">(</word>
+    <word normalized="prothrombin" start="81070" stop="82020">prothrombin</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="VII">VII</word>
+    <word normalized="">, </word>
+    <word normalized="IX">IX</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="82690" stop="82910">and </word>
+    <word normalized="X">X </word>
+    <word normalized="by" start="85120" stop="85400">by </word>
+    <word normalized="the" start="85400" stop="85510">the </word>
+    <word normalized="liver" start="85510" stop="86000">liver</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="87480" stop="87860">is </word>
+    <word normalized="also" start="87860" stop="88260">also </word>
+    <word normalized="required" start="88260" stop="88990">required </word>
+    <word normalized="for" start="88990" stop="89290">for </word>
+    <word normalized="the" start="89290" stop="89390">the </word>
+    <word normalized="formation" start="89390" stop="90160">formation </word>
+    <word normalized="of" start="90160" stop="90310">of </word>
+    <word normalized="anticoagulant" start="90310" stop="91440">anticoagulant </word>
+    <word normalized="factors" start="91440" stop="92060">factors </word>
+    <word normalized="protein" start="92060" stop="92750">protein </word>
+    <word normalized="C">C </word>
+    <word normalized="and" start="93320" stop="93670">and </word>
+    <word normalized="S">S. </word>
+    <word normalized="It">It </word>
+    <word normalized="is" start="95480" stop="95660">is </word>
+    <word normalized="commonly" start="95660" stop="96450">commonly </word>
+    <word normalized="used" start="96480" stop="97130">used </word>
+    <word normalized="to" start="97470" stop="97630">to </word>
+    <word normalized="treat" start="97630" stop="98050">treat </word>
+    <word normalized="warfarin" start="98190" stop="98950">warfarin </word>
+    <word normalized="toxicity" start="98950" stop="100030">toxicity</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="100060" stop="100360">and </word>
+    <word normalized="as" start="100360" stop="100600">as </word>
+    <word normalized="an" start="100600" stop="100710">an </word>
+    <word normalized="antidote" start="100710" stop="101410">antidote </word>
+    <word normalized="for" start="101550" stop="101750">for </word>
+    <word normalized="coumatetralyl" start="101750" stop="102440">coumatetralyl</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vitamin" start="104600" stop="105230">Vitamin </word>
+    <word normalized="K">K </word>
+    <word normalized="is" start="105830" stop="106070">is </word>
+    <word normalized="also" start="106070" stop="106460">also </word>
+    <word normalized="required" start="106460" stop="107230">required </word>
+    <word normalized="for" start="107350" stop="107620">for </word>
+    <word normalized="bone" start="107670" stop="108010">bone </word>
+    <word normalized="protein" start="108010" stop="108580">protein </word>
+    <word normalized="formation" start="108580" stop="109330">formation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="3">3 </word>
+    <word normalized="See" start="111040" stop="111600">See </word>
+    <word normalized="also" start="111600" stop="112090">also </word>
+    <word normalized="Vitamin" start="113190" stop="113850">Vitamin </word>
+    <word normalized="K">K </word>
+    <word normalized="Menatetrenone" start="115540" stop="117030">Menatetrenone </word>
+  </sentence>
+</alignment>

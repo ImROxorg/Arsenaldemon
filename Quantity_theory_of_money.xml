@@ -1,0 +1,335 @@
+<alignment>
+  <sentence>
+    <word normalized="Quantity" start="1500" stop="1920">Quantity </word>
+    <word normalized="theory" start="1920" stop="2340">theory </word>
+    <word normalized="of" start="2340" stop="2470">of </word>
+    <word normalized="money" start="2470" stop="2750">money </word>
+    <word normalized="Table">Table </word>
+    <word normalized="of" start="3350" stop="3540">of </word>
+    <word normalized="contents" start="3610" stop="4330">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one" start="4470" stop="4700">1 </word>
+    <word normalized="Velocity" start="5360" stop="7320">Velocity </word>
+    <word normalized="of" start="7320" stop="7460">of </word>
+    <word normalized="money" start="7460" stop="7710">money </word>
+    <word normalized="In">In </word>
+    <word normalized="economics" start="8540" stop="9030">economics</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="9030" stop="9110">the </word>
+    <word normalized="velocity" start="9110" stop="9730">velocity </word>
+    <word normalized="of" start="9730" stop="9860">of </word>
+    <word normalized="money" start="9860" stop="10140">money </word>
+    <word normalized="refers" start="10140" stop="10550">refers </word>
+    <word normalized="to" start="10550" stop="10630">to </word>
+    <word normalized="a" start="10630" stop="10720">a </word>
+    <word normalized="key" start="10720" stop="11000">key </word>
+    <word normalized="term" start="11000" stop="11440">term </word>
+    <word normalized="in" start="11440" stop="11630">in </word>
+    <word normalized="the" start="11630" stop="11740">the </word>
+    <word normalized="">"</word>
+    <word normalized="quantity" start="11740" stop="12280">quantity </word>
+    <word normalized="theory" start="12280" stop="12670">theory </word>
+    <word normalized="of" start="12670" stop="12800">of </word>
+    <word normalized="money" start="12800" stop="13150">money</word>
+    <word normalized="">,</word>
+    <word normalized="">" </word>
+    <word normalized="which" start="13500" stop="13670">which </word>
+    <word normalized="centers" start="13670" stop="14020">centers </word>
+    <word normalized="on" start="14020" stop="14140">on </word>
+    <word normalized="the" start="14140" stop="14370">the </word>
+    <word normalized="">"</word>
+    <word normalized="equation" start="14430" stop="15100">equation </word>
+    <word normalized="of" start="15100" stop="15260">of </word>
+    <word normalized="exchange" start="15260" stop="15990">exchange</word>
+    <word normalized="">"</word>
+    <word normalized="">: </word>
+    <word normalized="where" start="19540" stop="19790">where </word>
+    <word normalized="The" start="93160" stop="94650">The </word>
+    <word normalized="left hand" start="94650" stop="95100">left-hand </word>
+    <word normalized="side" start="95100" stop="95370">side </word>
+    <word normalized="of" start="95370" stop="95440">of </word>
+    <word normalized="the" start="95440" stop="95570">the </word>
+    <word normalized="equation" start="95570" stop="96050">equation </word>
+    <word normalized="above" start="96050" stop="96570">above </word>
+    <word normalized="equals" start="96570" stop="96880">equals </word>
+    <word normalized="the" start="96880" stop="96970">the </word>
+    <word normalized="total" start="96970" stop="97340">total </word>
+    <word normalized="amount">amount </word>
+    <word normalized="of">of </word>
+    <word normalized="money" start="97680" stop="97980">money </word>
+    <word normalized="spent" start="97980" stop="98290">spent </word>
+    <word normalized="during" start="98290" stop="98530">during </word>
+    <word normalized="the" start="98530" stop="98590">the </word>
+    <word normalized="month" start="98590" stop="98800">month</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The">The </word>
+    <word normalized="right hand" start="99790" stop="100010">right-hand </word>
+    <word normalized="side" start="100010" stop="100340">side </word>
+    <word normalized="equals" start="100340" stop="100670">equals </word>
+    <word normalized="the" start="100670" stop="100800">the </word>
+    <word normalized="amount" start="100800" stop="101080">amount </word>
+    <word normalized="of" start="101080" stop="101200">of </word>
+    <word normalized="money" start="101200" stop="101400">money </word>
+    <word normalized="received" start="101400" stop="101850">received</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="102490" stop="102650">This </word>
+    <word normalized="is" start="102650" stop="102760">is </word>
+    <word normalized="comparable" start="102760" stop="103260">comparable </word>
+    <word normalized="to">to </word>
+    <word normalized="saying" start="103340" stop="103670">saying </word>
+    <word normalized="that" start="103670" stop="103780">that </word>
+    <word normalized="the" start="103780" stop="103920">the </word>
+    <word normalized="amount" start="103920" stop="104200">amount </word>
+    <word normalized="of" start="104200" stop="104380">of </word>
+    <word normalized="rain" start="104380" stop="104740">rain </word>
+    <word normalized="falling" start="104740" stop="105060">falling </word>
+    <word normalized="from" start="105060" stop="105230">from </word>
+    <word normalized="the" start="105230" stop="105290">the </word>
+    <word normalized="sky" start="105290" stop="105700">sky </word>
+    <word normalized="equals" start="105700" stop="106110">equals </word>
+    <word normalized="the" start="106110" stop="106240">the </word>
+    <word normalized="amount" start="106240" stop="106560">amount </word>
+    <word normalized="hitting" start="106590" stop="106820">hitting </word>
+    <word normalized="the" start="106820" stop="106880">the </word>
+    <word normalized="ground" start="106880" stop="107240">ground</word>
+    <word normalized="">--</word>
+    <word normalized="a">a </word>
+    <word normalized="statement" start="107230" stop="108190">statement </word>
+    <word normalized="that" start="108190" stop="108330">that </word>
+    <word normalized="is" start="108330" stop="108430">is </word>
+    <word normalized="true" start="108430" stop="108730">true </word>
+    <word normalized="but" start="108730" stop="108850">but </word>
+    <word normalized="useless" start="108850" stop="109220">useless</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="109210" stop="110270">This </word>
+    <word normalized="is" start="110270" stop="110380">is </word>
+    <word normalized="a" start="110380" stop="110420">a </word>
+    <word normalized="major" start="110420" stop="110720">major </word>
+    <word normalized="weakness" start="110720" stop="111180">weakness </word>
+    <word normalized="of" start="111180" stop="111260">of </word>
+    <word normalized="the" start="111260" stop="111330">the </word>
+    <word normalized="quantity" start="111330" stop="111760">quantity </word>
+    <word normalized="theory" start="111760" stop="112160">theory</word>
+    <word normalized="">, </word>
+    <word normalized="and">and </word>
+    <word normalized="has">has </word>
+    <word normalized="led" start="112370" stop="112540">led </word>
+    <word normalized="to" start="112540" stop="112650">to </word>
+    <word normalized="a" start="112650" stop="112700">a </word>
+    <word normalized="good" start="112700" stop="112890">good </word>
+    <word normalized="deal" start="112890" stop="113060">deal </word>
+    <word normalized="of" start="113060" stop="113170">of </word>
+    <word normalized="criticism">criticism</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Given" start="114780" stop="114990">Given </word>
+    <word normalized="this" start="114990" stop="115190">this </word>
+    <word normalized="identity" start="115190" stop="115670">identity</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="115670" stop="115760">the </word>
+    <word normalized="velocity" start="115760" stop="116290">velocity </word>
+    <word normalized="of" start="116290" stop="116370">of </word>
+    <word normalized="money" start="116370" stop="116620">money </word>
+    <word normalized="can" start="116620" stop="116800">can </word>
+    <word normalized="be" start="116800" stop="116910">be </word>
+    <word normalized="measured" start="116910" stop="117280">measured </word>
+    <word normalized="as" start="117280" stop="117490">as </word>
+    <word normalized="In">In </word>
+    <word normalized="an" start="121790" stop="121910">an </word>
+    <word normalized="early" start="121910" stop="122190">early </word>
+    <word normalized="work" start="122190" stop="122560">work </word>
+    <word normalized="espousing" start="122670" stop="123270">espousing </word>
+    <word normalized="the" start="123270" stop="123330">the </word>
+    <word normalized="quantity" start="123330" stop="123780">quantity </word>
+    <word normalized="theory" start="123780" stop="124150">theory</word>
+    <word normalized="">, </word>
+    <word normalized="velocity" start="124580" stop="125100">velocity </word>
+    <word normalized="is" start="125100" stop="125300">is </word>
+    <word normalized="defined" start="125300" stop="125750">defined </word>
+    <word normalized="as" start="125750" stop="125930">as </word>
+    <word normalized="">'</word>
+    <word normalized="the">the </word>
+    <word normalized="ratio" start="126280" stop="126860">ratio </word>
+    <word normalized="of" start="126860" stop="126950">of </word>
+    <word normalized="net" start="126950" stop="127250">net </word>
+    <word normalized="national" start="127250" stop="127730">national </word>
+    <word normalized="product" start="127730" stop="128240">product </word>
+    <word normalized="in" start="128240" stop="128400">in </word>
+    <word normalized="current" start="128400" stop="128730">current </word>
+    <word normalized="prices" start="128730" stop="129180">prices </word>
+    <word normalized="to" start="129180" stop="129310">to </word>
+    <word normalized="the" start="129310" stop="129400">the </word>
+    <word normalized="money" start="129400" stop="129640">money </word>
+    <word normalized="stock Template F n" start="129640" stop="129900">stock.'Template:Fn </word>
+    <word normalized="Historically" start="131670" stop="132170">Historically</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="132170" stop="132260">the </word>
+    <word normalized="main" start="132260" stop="132490">main </word>
+    <word normalized="rival" start="132490" stop="132870">rival </word>
+    <word normalized="of" start="132870" stop="132980">of </word>
+    <word normalized="the" start="132980" stop="133050">the </word>
+    <word normalized="quantity" start="133050" stop="133500">quantity </word>
+    <word normalized="theory" start="133500" stop="133830">theory </word>
+    <word normalized="has" start="133830" stop="134000">has </word>
+    <word normalized="been" start="134000" stop="134130">been </word>
+    <word normalized="the" start="134130" stop="134240">the </word>
+    <word normalized="real" start="134240" stop="134620">real </word>
+    <word normalized="bills" start="134620" stop="134980">bills </word>
+    <word normalized="doctrine" start="134980" stop="135380">doctrine</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="135540" stop="135720">which </word>
+    <word normalized="says" start="135720" stop="135990">says </word>
+    <word normalized="that" start="135990" stop="136100">that </word>
+    <word normalized="the" start="136100" stop="136190">the </word>
+    <word normalized="value" start="136190" stop="136660">value </word>
+    <word normalized="of">of </word>
+    <word normalized="money" start="136660" stop="136940">money </word>
+    <word normalized="is" start="136940" stop="137080">is </word>
+    <word normalized="determined" start="137080" stop="137560">determined </word>
+    <word normalized="by" start="137560" stop="137650">by </word>
+    <word normalized="the" start="137650" stop="137850">the </word>
+    <word normalized="assets" start="137850" stop="138300">assets </word>
+    <word normalized="and" start="138300" stop="138390">and </word>
+    <word normalized="liabilities" start="138390" stop="139140">liabilities </word>
+    <word normalized="of" start="139140" stop="139270">of </word>
+    <word normalized="the" start="139270" stop="139370">the </word>
+    <word normalized="money issuing" start="139370" stop="140130">money-issuing </word>
+    <word normalized="entity" start="140160" stop="140650">entity</word>
+    <word normalized="">, </word>
+    <word normalized="rather">rather </word>
+    <word normalized="than" start="140660" stop="141600">than </word>
+    <word normalized="by" start="141600" stop="141740">by </word>
+    <word normalized="the" start="141740" stop="141820">the </word>
+    <word normalized="ratio" start="141820" stop="142400">ratio </word>
+    <word normalized="of" start="142400" stop="142500">of </word>
+    <word normalized="money" start="142500" stop="142810">money </word>
+    <word normalized="to" start="142810" stop="143030">to </word>
+    <word normalized="real" start="143030" stop="143400">real </word>
+    <word normalized="G D P">GDP</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="two">2 </word>
+    <word normalized="Inflation" start="145580" stop="146090">Inflation </word>
+    <word normalized="The">The </word>
+    <word normalized="equation" start="147650" stop="147990">equation </word>
+    <word normalized="of" start="147990" stop="148080">of </word>
+    <word normalized="exchange" start="148080" stop="148590">exchange </word>
+    <word normalized="can" start="148590" stop="148750">can </word>
+    <word normalized="be">be </word>
+    <word normalized="used" start="148750" stop="149120">used </word>
+    <word normalized="as" start="149120" stop="149250">as </word>
+    <word normalized="a" start="149250" stop="149280">a </word>
+    <word normalized="rudimentary" start="149280" stop="149870">rudimentary </word>
+    <word normalized="theory" start="149870" stop="150240">theory </word>
+    <word normalized="of" start="150240" stop="150360">of </word>
+    <word normalized="inflation" start="150360" stop="150860">inflation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="If">If </word>
+    <word normalized="the" start="150870" stop="151640">the </word>
+    <word normalized="velocity" start="151640" stop="152180">velocity </word>
+    <word normalized="of" start="152180" stop="152310">of </word>
+    <word normalized="money" start="152310" stop="152630">money </word>
+    <word normalized="is" start="152630" stop="152770">is </word>
+    <word normalized="given" start="152770" stop="153010">given </word>
+    <word normalized="by" start="153010" stop="153170">by </word>
+    <word normalized="financial" start="153170" stop="153730">financial </word>
+    <word normalized="institutions" start="153730" stop="154470">institutions </word>
+    <word normalized="">(</word>
+    <word normalized="such">such </word>
+    <word normalized="as">as </word>
+    <word normalized="the" start="155210" stop="155280">the </word>
+    <word normalized="role" start="155280" stop="155660">role </word>
+    <word normalized="of">of </word>
+    <word normalized="bank" start="155690" stop="155930">bank </word>
+    <word normalized="accounts" start="155930" stop="156330">accounts </word>
+    <word normalized="and" start="156330" stop="156440">and </word>
+    <word normalized="credit" start="156440" stop="156710">credit </word>
+    <word normalized="cards">cards</word>
+    <word normalized="">) </word>
+    <word normalized="and">and </word>
+    <word normalized="the" start="157610" stop="157740">the </word>
+    <word normalized="amount" start="157740" stop="158010">amount </word>
+    <word normalized="of" start="158010" stop="158090">of </word>
+    <word normalized="production" start="158090" stop="158560">production </word>
+    <word normalized="is" start="158560" stop="158710">is </word>
+    <word normalized="always" start="158710" stop="159010">always </word>
+    <word normalized="at" start="159010" stop="159110">at </word>
+    <word normalized="a" start="159110" stop="159150">a </word>
+    <word normalized="fixed" start="159150" stop="159560">fixed </word>
+    <word normalized="level" start="159560" stop="159990">level </word>
+    <word normalized="">(</word>
+    <word normalized="say" start="160320" stop="160700">say</word>
+    <word normalized="">, </word>
+    <word normalized="at" start="160820" stop="160980">at </word>
+    <word normalized="full" start="160980" stop="161150">full </word>
+    <word normalized="employment" start="161410" stop="161500">employment</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="then" start="162420" stop="162590">then </word>
+    <word normalized="any" start="162590" stop="162860">any </word>
+    <word normalized="increase" start="162860" stop="163300">increase </word>
+    <word normalized="in" start="163300" stop="163370">in </word>
+    <word normalized="the" start="163370" stop="163470">the </word>
+    <word normalized="amount" start="163470" stop="163860">amount </word>
+    <word normalized="of">of </word>
+    <word normalized="money" start="163860" stop="164160">money </word>
+    <word normalized="leads" start="164160" stop="164480">leads </word>
+    <word normalized="to" start="164480" stop="164560">to </word>
+    <word normalized="rising" start="164560" stop="164980">rising </word>
+    <word normalized="prices" start="164980" stop="165410">prices </word>
+    <word normalized="for" start="165410" stop="165530">for </word>
+    <word normalized="the" start="165530" stop="165630">the </word>
+    <word normalized="economy" start="165630" stop="166140">economy </word>
+    <word normalized="as" start="166140" stop="166290">as </word>
+    <word normalized="a" start="166290" stop="166320">a </word>
+    <word normalized="whole" start="166320" stop="166740">whole</word>
+    <word normalized="">, </word>
+    <word normalized="i e">i.e.</word>
+    <word normalized="">, </word>
+    <word normalized="inflation">inflation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="If">If </word>
+    <word normalized="V">V </word>
+    <word normalized="and" start="169270" stop="169450">and </word>
+    <word normalized="Q">Q </word>
+    <word normalized="are" start="169800" stop="169930">are </word>
+    <word normalized="constant" start="169930" stop="170490">constant</word>
+    <word normalized="">, </word>
+    <word normalized="then" start="170490" stop="170590">then </word>
+    <word normalized="we" start="170590" stop="170720">we </word>
+    <word normalized="can" start="170720" stop="170860">can </word>
+    <word normalized="state" start="170860" stop="171140">state </word>
+    <word normalized="the" start="171140" stop="171290">the </word>
+    <word normalized="equation" start="171290" stop="171800">equation </word>
+    <word normalized="of" start="171800" stop="171890">of </word>
+    <word normalized="exchange" start="171890" stop="172430">exchange </word>
+    <word normalized="in" start="172430" stop="172510">in </word>
+    <word normalized="terms" start="172510" stop="172840">terms </word>
+    <word normalized="of" start="172840" stop="172960">of </word>
+    <word normalized="rates" start="172960" stop="173190">rates </word>
+    <word normalized="of" start="173190" stop="173270">of </word>
+    <word normalized="growth" start="173270" stop="173610">growth</word>
+    <word normalized="">: </word>
+    <word normalized="Section" start="175130" stop="175800">Section </word>
+    <word normalized="3" start="175870" stop="176390">3 </word>
+    <word normalized="See" start="178970" stop="179250">See </word>
+    <word normalized="also" start="179250" stop="179710">also </word>
+    <word normalized="Income" start="179930" stop="180350">Income </word>
+    <word normalized="velocity" start="180350" stop="180900">velocity </word>
+    <word normalized="of" start="180900" stop="181020">of </word>
+    <word normalized="money" start="181020" stop="181220">money </word>
+  </sentence>
+</alignment>

@@ -1,0 +1,2911 @@
+<alignment>
+  <sentence>
+    <word normalized="Raney" start="820" stop="1140">Raney </word>
+    <word normalized="nickel" start="1140" stop="1670">nickel </word>
+    <word normalized="Raney" start="9400" stop="9770">Raney </word>
+    <word normalized="nickel" start="9770" stop="10250">nickel </word>
+    <word normalized="is" start="10250" stop="10460">is </word>
+    <word normalized="a" start="10460" stop="10550">a </word>
+    <word normalized="solid" start="10550" stop="11060">solid </word>
+    <word normalized="catalyst" start="11060" stop="11680">catalyst </word>
+    <word normalized="composed" start="11680" stop="11710">composed </word>
+    <word normalized="of" start="12390" stop="12540">of </word>
+    <word normalized="fine" start="12590" stop="12940">fine </word>
+    <word normalized="grains" start="12940" stop="13520">grains </word>
+    <word normalized="of" start="13520" stop="13700">of </word>
+    <word normalized="a" start="13700" stop="13780">a </word>
+    <word normalized="nickel aluminium" start="13780" stop="14840">nickel-aluminium </word>
+    <word normalized="alloy" start="14840" stop="15350">alloy</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="was" start="16210" stop="16460">was </word>
+    <word normalized="developed">developed </word>
+    <word normalized="in">in </word>
+    <word normalized="nineteen" start="16930" stop="17410">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty six" start="17410" stop="18100">26 </word>
+    <word normalized="by" start="18100" stop="18320">by </word>
+    <word normalized="American" start="18320" stop="18770">American </word>
+    <word normalized="engineer" start="18770" stop="19320">engineer </word>
+    <word normalized="Murray" start="19320" stop="19720">Murray </word>
+    <word normalized="Raney" start="19720" stop="20150">Raney </word>
+    <word normalized="as" start="20440" stop="20620">as </word>
+    <word normalized="an" start="20620" stop="20720">an </word>
+    <word normalized="alternative" start="20720" stop="21320">alternative </word>
+    <word normalized="catalyst" start="21320" stop="21850">catalyst </word>
+    <word normalized="for" start="21850" stop="21990">for </word>
+    <word normalized="the" start="21990" stop="22130">the </word>
+    <word normalized="hydrogenation">hydrogenation </word>
+    <word normalized="of" start="22990" stop="23090">of </word>
+    <word normalized="vegetable" start="23090" stop="23570">vegetable </word>
+    <word normalized="oils" start="23570" stop="23970">oils </word>
+    <word normalized="in">in </word>
+    <word normalized="industrial" start="23970" stop="24570">industrial </word>
+    <word normalized="processes" start="24570" stop="25380">processes</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Nowadays" start="25970" stop="26730">Nowadays </word>
+    <word normalized="it" start="26760" stop="26920">it </word>
+    <word normalized="is" start="26920" stop="27100">is </word>
+    <word normalized="used" start="27100" stop="27370">used </word>
+    <word normalized="as" start="27370" stop="27530">as </word>
+    <word normalized="a" start="27530" stop="27630">a </word>
+    <word normalized="heterogeneous" start="27630" stop="28460">heterogeneous </word>
+    <word normalized="catalyst" start="28460" stop="29100">catalyst </word>
+    <word normalized="in" start="29360" stop="29490">in </word>
+    <word normalized="a">a </word>
+    <word normalized="variety" start="29610" stop="30040">variety </word>
+    <word normalized="of" start="30040" stop="30130">of </word>
+    <word normalized="organic" start="30130" stop="30620">organic </word>
+    <word normalized="syntheses" start="30620" stop="31340">syntheses</word>
+    <word normalized="">, </word>
+    <word normalized="most" start="31680" stop="31940">most </word>
+    <word normalized="commonly" start="31940" stop="32410">commonly </word>
+    <word normalized="for" start="32410" stop="32580">for </word>
+    <word normalized="hydrogenation" start="32580" stop="33420">hydrogenation </word>
+    <word normalized="reactions" start="33420" stop="34130">reactions</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Raney" start="35400" stop="35710">Raney </word>
+    <word normalized="nickel" start="35710" stop="36170">nickel </word>
+    <word normalized="is" start="36170" stop="36310">is </word>
+    <word normalized="produced" start="36310" stop="36900">produced </word>
+    <word normalized="when" start="36900" stop="37080">when </word>
+    <word normalized="a" start="37080" stop="37120">a </word>
+    <word normalized="block" start="37120" stop="37490">block </word>
+    <word normalized="of" start="37490" stop="37610">of </word>
+    <word normalized="nickel aluminium" start="37610" stop="38200">nickel-aluminium </word>
+    <word normalized="alloy" start="38510" stop="39010">alloy </word>
+    <word normalized="is" start="39010" stop="39230">is </word>
+    <word normalized="treated" start="39230" stop="39590">treated </word>
+    <word normalized="with" start="39590" stop="39760">with </word>
+    <word normalized="concentrated" start="39760" stop="40520">concentrated </word>
+    <word normalized="sodium" start="40520" stop="40960">sodium </word>
+    <word normalized="hydroxide" start="40960" stop="41740">hydroxide</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="42430" stop="42740">This </word>
+    <word normalized="treatment" start="42740" stop="43220">treatment</word>
+    <word normalized="">, </word>
+    <word normalized="called" start="43220" stop="43680">called </word>
+    <word normalized="">"</word>
+    <word normalized="activation" start="43680" stop="44500">activation</word>
+    <word normalized="">"</word>
+    <word normalized="">, </word>
+    <word normalized="dissolves" start="44830" stop="45390">dissolves </word>
+    <word normalized="most" start="45390" stop="45680">most </word>
+    <word normalized="of" start="45680" stop="45820">of </word>
+    <word normalized="the" start="45820" stop="45970">the </word>
+    <word normalized="aluminium" start="45970" stop="46490">aluminium </word>
+    <word normalized="out" start="46550" stop="46700">out </word>
+    <word normalized="of" start="46700" stop="46810">of </word>
+    <word normalized="the" start="46810" stop="46980">the </word>
+    <word normalized="alloy" start="46980" stop="47420">alloy </word>
+    <word normalized="leaving">leaving </word>
+    <word normalized="behind" start="47740" stop="48140">behind </word>
+    <word normalized="a" start="48140" stop="48180">a </word>
+    <word normalized="porous" start="48180" stop="48670">porous </word>
+    <word normalized="nickel" start="48670" stop="48920">nickel </word>
+    <word normalized="framework" start="48920" stop="49560">framework</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="a" start="50280" stop="50310">a </word>
+    <word normalized="result" start="50310" stop="50900">result </word>
+    <word normalized="activated" start="50970" stop="51600">activated </word>
+    <word normalized="Raney" start="51600" stop="51880">Raney </word>
+    <word normalized="nickel" start="51880" stop="52280">nickel </word>
+    <word normalized="has" start="52280" stop="52490">has </word>
+    <word normalized="a" start="52490" stop="52570">a </word>
+    <word normalized="large" start="52570" stop="52930">large </word>
+    <word normalized="surface" start="52930" stop="53370">surface </word>
+    <word normalized="area" start="53370" stop="53810">area </word>
+    <word normalized="which" start="54130" stop="54330">which </word>
+    <word normalized="results" start="54330" stop="54770">results </word>
+    <word normalized="in" start="54770" stop="54900">in </word>
+    <word normalized="an" start="54900" stop="55050">an </word>
+    <word normalized="increased" start="55050" stop="55530">increased </word>
+    <word normalized="catalytic" start="55530" stop="56290">catalytic </word>
+    <word normalized="activity" start="56290" stop="56930">activity</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="typical" start="57600" stop="58010">typical </word>
+    <word normalized="catalyst" start="58010" stop="58650">catalyst </word>
+    <word normalized="is" start="58650" stop="58800">is </word>
+    <word normalized="around" start="58800" stop="59130">around </word>
+    <word normalized="eighty five" start="59130" stop="59650">85</word>
+    <word normalized="per cent" start="59650" stop="60010">% </word>
+    <word normalized="nickel" start="60010" stop="60290">nickel </word>
+    <word normalized="by" start="60290" stop="60480">by </word>
+    <word normalized="mass" start="60480" stop="60970">mass</word>
+    <word normalized="">, </word>
+    <word normalized="corresponding" start="61320" stop="61990">corresponding </word>
+    <word normalized="to" start="61990" stop="62250">to </word>
+    <word normalized="about">about </word>
+    <word normalized="two" start="62460" stop="62770">two </word>
+    <word normalized="atoms" start="62770" stop="63330">atoms </word>
+    <word normalized="of" start="63330" stop="63470">of </word>
+    <word normalized="nickel" start="63470" stop="63850">nickel </word>
+    <word normalized="for" start="63850" stop="64080">for </word>
+    <word normalized="every" start="64080" stop="64410">every </word>
+    <word normalized="atom" start="64410" stop="64710">atom </word>
+    <word normalized="of" start="64710" stop="64830">of </word>
+    <word normalized="aluminium" start="64810" stop="64840">aluminium</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="65250" stop="66290">The </word>
+    <word normalized="aluminium" start="66290" stop="66770">aluminium </word>
+    <word normalized="which">which </word>
+    <word normalized="remains">remains </word>
+    <word normalized="helps">helps </word>
+    <word normalized="to" start="67750" stop="67850">to </word>
+    <word normalized="preserve" start="67850" stop="68310">preserve </word>
+    <word normalized="the" start="68310" stop="68420">the </word>
+    <word normalized="pore" start="68420" stop="68770">pore </word>
+    <word normalized="structure" start="68770" stop="69330">structure </word>
+    <word normalized="of" start="69330" stop="69430">of </word>
+    <word normalized="the">the </word>
+    <word normalized="overall" start="69620" stop="69980">overall </word>
+    <word normalized="catalyst" start="70000" stop="70030">catalyst</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Since" start="70680" stop="72010">Since </word>
+    <word normalized="Raney" start="72010" stop="72310">Raney </word>
+    <word normalized="is" start="72310" stop="72480">is </word>
+    <word normalized="a" start="72480" stop="72520">a </word>
+    <word normalized="registered" start="72520" stop="73100">registered </word>
+    <word normalized="trademark" start="73100" stop="73710">trademark </word>
+    <word normalized="of" start="73710" stop="73860">of </word>
+    <word normalized="W">W. </word>
+    <word normalized="R">R. </word>
+    <word normalized="Grace" start="74480" stop="74820">Grace </word>
+    <word normalized="and" start="74820" stop="74910">and </word>
+    <word normalized="Company" start="74910" stop="75440">Company</word>
+    <word normalized="">, </word>
+    <word normalized="only" start="75750" stop="75780">only </word>
+    <word normalized="those" start="76020" stop="76310">those </word>
+    <word normalized="products" start="76310" stop="76790">products </word>
+    <word normalized="by" start="76790" stop="76970">by </word>
+    <word normalized="its" start="76970" stop="77160">its </word>
+    <word normalized="Grace" start="77160" stop="77530">Grace </word>
+    <word normalized="Davison" start="77530" stop="78030">Davison </word>
+    <word normalized="division" start="78030" stop="78560">division </word>
+    <word normalized="are" start="78870" stop="79000">are </word>
+    <word normalized="properly" start="79000" stop="79480">properly </word>
+    <word normalized="called" start="79480" stop="79870">called </word>
+    <word normalized="">"</word>
+    <word normalized="Raney" start="79870" stop="80110">Raney </word>
+    <word normalized="nickel">nickel</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Alternatively" start="80590" stop="81960">Alternatively</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="82070" stop="82160">the </word>
+    <word normalized="more" start="82160" stop="82380">more </word>
+    <word normalized="generic" start="82380" stop="82870">generic </word>
+    <word normalized="terms" start="82870" stop="83410">terms </word>
+    <word normalized="">"</word>
+    <word normalized="skeletal" start="83410" stop="83970">skeletal </word>
+    <word normalized="catalyst" start="83970" stop="84620">catalyst</word>
+    <word normalized="">" </word>
+    <word normalized="or" start="84830" stop="85070">or </word>
+    <word normalized="">"</word>
+    <word normalized="sponge metal" start="85070" stop="85770">sponge-metal </word>
+    <word normalized="catalyst" start="85770" stop="86430">catalyst</word>
+    <word normalized="">" </word>
+    <word normalized="may">may </word>
+    <word normalized="be" start="86720" stop="87060">be </word>
+    <word normalized="used" start="87060" stop="87360">used </word>
+    <word normalized="to">to </word>
+    <word normalized="refer">refer </word>
+    <word normalized="to" start="87790" stop="87900">to </word>
+    <word normalized="catalysts" start="87900" stop="88500">catalysts </word>
+    <word normalized="that" start="88500" stop="88620">that </word>
+    <word normalized="have" start="88620" stop="88840">have </word>
+    <word normalized="physical" start="88890" stop="89440">physical </word>
+    <word normalized="and" start="89440" stop="89580">and </word>
+    <word normalized="chemical" start="89580" stop="89960">chemical </word>
+    <word normalized="properties" start="89960" stop="90610">properties </word>
+    <word normalized="similar" start="90880" stop="91350">similar </word>
+    <word normalized="to" start="91350" stop="91510">to </word>
+    <word normalized="those" start="91510" stop="91860">those </word>
+    <word normalized="of" start="91860" stop="92040">of </word>
+    <word normalized="Raney" start="92040" stop="92330">Raney </word>
+    <word normalized="nickel" start="92330" stop="92790">nickel</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Table">Table </word>
+    <word normalized="of">of </word>
+    <word normalized="contents">contents </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="Preparation">Preparation </word>
+    <word normalized="Section">Section </word>
+    <word normalized="one">1 </word>
+    <word normalized="point">point </word>
+    <word normalized="one">1 </word>
+    <word normalized="Alloy">Alloy </word>
+    <word normalized="preparation">preparation </word>
+    <word normalized="Alloys">Alloys </word>
+    <word normalized="are">are </word>
+    <word normalized="prepared">prepared </word>
+    <word normalized="commercially" start="101350" stop="101980">commercially </word>
+    <word normalized="by" start="101980" stop="102170">by </word>
+    <word normalized="melting" start="102170" stop="102660">melting </word>
+    <word normalized="the" start="102660" stop="102780">the </word>
+    <word normalized="active" start="102780" stop="103130">active </word>
+    <word normalized="metal" start="103130" stop="103540">metal </word>
+    <word normalized="">(</word>
+    <word normalized="nickel" start="103920" stop="104330">nickel </word>
+    <word normalized="in">in </word>
+    <word normalized="this" start="104330" stop="104520">this </word>
+    <word normalized="case" start="104520" stop="104930">case</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="104930" stop="105150">but </word>
+    <word normalized="iron" start="105150" stop="105440">iron </word>
+    <word normalized="and" start="105440" stop="105550">and </word>
+    <word normalized="copper" start="105550" stop="106020">copper </word>
+    <word normalized="">"</word>
+    <word normalized="Raney type" start="106020" stop="106680">Raney-type</word>
+    <word normalized="">" </word>
+    <word normalized="catalysts" start="106680" stop="107210">catalysts </word>
+    <word normalized="can" start="107210" stop="107380">can </word>
+    <word normalized="be" start="107380" stop="107510">be </word>
+    <word normalized="prepared">prepared </word>
+    <word normalized="as" start="107890" stop="108040">as </word>
+    <word normalized="well" start="108040" stop="108350">well</word>
+    <word normalized="">) </word>
+    <word normalized="and" start="108780" stop="108970">and </word>
+    <word normalized="aluminium" start="108970" stop="109500">aluminium </word>
+    <word normalized="in" start="109500" stop="109590">in </word>
+    <word normalized="a" start="109590" stop="109650">a </word>
+    <word normalized="crucible" start="109650" stop="110290">crucible </word>
+    <word normalized="and" start="110290" stop="110470">and </word>
+    <word normalized="quenching" start="110470" stop="110930">quenching </word>
+    <word normalized="the" start="110930" stop="111000">the </word>
+    <word normalized="resultant" start="111000" stop="111570">resultant </word>
+    <word normalized="melt" start="111610" stop="111980">melt</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="112430" stop="112610">which </word>
+    <word normalized="is" start="112610" stop="112740">is </word>
+    <word normalized="then" start="112740" stop="112940">then </word>
+    <word normalized="crushed" start="112940" stop="113310">crushed </word>
+    <word normalized="into" start="113310" stop="113520">into </word>
+    <word normalized="a" start="113520" stop="113570">a </word>
+    <word normalized="fine" start="113570" stop="113900">fine </word>
+    <word normalized="powder" start="113900" stop="114330">powder</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="114990" stop="115250">This </word>
+    <word normalized="powder" start="115250" stop="115650">powder </word>
+    <word normalized="may" start="115650" stop="115830">may </word>
+    <word normalized="be" start="115830" stop="115970">be </word>
+    <word normalized="screened" start="115970" stop="116390">screened </word>
+    <word normalized="for" start="116390" stop="116590">for </word>
+    <word normalized="a" start="116590" stop="116650">a </word>
+    <word normalized="specific" start="116650" stop="117240">specific </word>
+    <word normalized="particle" start="117240" stop="117670">particle </word>
+    <word normalized="size" start="117670" stop="118100">size </word>
+    <word normalized="range" start="118100" stop="118510">range </word>
+    <word normalized="depending" start="118510" stop="118950">depending </word>
+    <word normalized="on">on </word>
+    <word normalized="the">the </word>
+    <word normalized="application" start="119150" stop="119860">application </word>
+    <word normalized="the" start="119860" stop="119940">the </word>
+    <word normalized="catalyst" start="119940" stop="120440">catalyst </word>
+    <word normalized="may" start="120440" stop="120580">may </word>
+    <word normalized="be" start="120580" stop="120720">be </word>
+    <word normalized="required" start="120860" stop="120890">required </word>
+    <word normalized="for" start="120890" stop="121190">for</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="121190" stop="121470">The </word>
+    <word normalized="initial" start="122380" stop="122900">initial </word>
+    <word normalized="alloy" start="122900" stop="123220">alloy </word>
+    <word normalized="composition" start="123220" stop="123930">composition </word>
+    <word normalized="is" start="123930" stop="124060">is </word>
+    <word normalized="important" start="124060" stop="124610">important </word>
+    <word normalized="because" start="124610" stop="124940">because </word>
+    <word normalized="the" start="124940" stop="125040">the </word>
+    <word normalized="quenching" start="125040" stop="125470">quenching </word>
+    <word normalized="process" start="125470" stop="125950">process </word>
+    <word normalized="produces" start="125950" stop="126450">produces </word>
+    <word normalized="a" start="126450" stop="126490">a </word>
+    <word normalized="number" start="126490" stop="126900">number </word>
+    <word normalized="of" start="127660" stop="127750">of </word>
+    <word normalized="different" start="127750" stop="127850">different </word>
+    <word normalized="Ni forward slash Al">Ni/Al </word>
+    <word normalized="phases" start="128450" stop="129090">phases </word>
+    <word normalized="that" start="129090" stop="129250">that </word>
+    <word normalized="have" start="129250" stop="129430">have </word>
+    <word normalized="different" start="129430" stop="129820">different </word>
+    <word normalized="leaching" start="129820" stop="130150">leaching </word>
+    <word normalized="properties" start="130150" stop="130870">properties</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="131390" stop="131580">This </word>
+    <word normalized="may" start="131580" stop="131730">may </word>
+    <word normalized="result" start="131730" stop="132130">result </word>
+    <word normalized="in" start="132130" stop="132250">in </word>
+    <word normalized="markedly" start="132250" stop="132730">markedly </word>
+    <word normalized="different" start="132730" stop="133110">different </word>
+    <word normalized="porosities" start="133110" stop="133820">porosities </word>
+    <word normalized="in" start="133820" stop="133930">in </word>
+    <word normalized="the">the </word>
+    <word normalized="end" start="134030" stop="134210">end </word>
+    <word normalized="product" start="134210" stop="134790">product</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="134800" stop="135360">The </word>
+    <word normalized="most" start="135360" stop="135630">most </word>
+    <word normalized="common" start="135630" stop="135980">common </word>
+    <word normalized="starting" start="135980" stop="136410">starting </word>
+    <word normalized="alloy" start="136410" stop="136780">alloy </word>
+    <word normalized="used">used </word>
+    <word normalized="in" start="136780" stop="136950">in </word>
+    <word normalized="industry" start="136950" stop="137480">industry </word>
+    <word normalized="contains" start="137480" stop="138150">contains </word>
+    <word normalized="an">an </word>
+    <word normalized="equal" start="138320" stop="138710">equal </word>
+    <word normalized="amount">amount </word>
+    <word normalized="per" start="138900" stop="139150">per </word>
+    <word normalized="weight" start="139150" stop="139380">weight </word>
+    <word normalized="of" start="139380" stop="139500">of </word>
+    <word normalized="nickel" start="139500" stop="139950">nickel </word>
+    <word normalized="and" start="140160" stop="140350">and </word>
+    <word normalized="aluminium" start="140350" stop="140810">aluminium</word>
+    <word normalized="">, </word>
+    <word normalized="incidentally" start="140840" stop="141790">incidentally</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="141790" stop="141940">the </word>
+    <word normalized="same" start="141940" stop="142280">same </word>
+    <word normalized="ratio" start="142280" stop="142670">ratio </word>
+    <word normalized="Murray" start="142670" stop="143040">Murray </word>
+    <word normalized="Raney" start="143040" stop="143370">Raney </word>
+    <word normalized="used" start="143370" stop="143670">used </word>
+    <word normalized="in" start="143670" stop="143760">in </word>
+    <word normalized="his" start="143760" stop="144050">his </word>
+    <word normalized="discovery" start="144380" stop="144470">discovery </word>
+    <word normalized="of" start="144400" stop="144590">of </word>
+    <word normalized="Raney" start="144790" stop="145090">Raney </word>
+    <word normalized="nickel" start="145090" stop="145500">nickel</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="During" start="146480" stop="146740">During </word>
+    <word normalized="the" start="146740" stop="146820">the </word>
+    <word normalized="quenching" start="146820" stop="147260">quenching </word>
+    <word normalized="procedure" start="147260" stop="147870">procedure</word>
+    <word normalized="">, </word>
+    <word normalized="small" start="147920" stop="148330">small </word>
+    <word normalized="amounts" start="148330" stop="148700">amounts </word>
+    <word normalized="of" start="148700" stop="148880">of </word>
+    <word normalized="a">a </word>
+    <word normalized="third">third </word>
+    <word normalized="metal">metal</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="149870" stop="150180">such </word>
+    <word normalized="as" start="150180" stop="150360">as </word>
+    <word normalized="zinc" start="150360" stop="150670">zinc </word>
+    <word normalized="or" start="150670" stop="150850">or </word>
+    <word normalized="chromium" start="150850" stop="151440">chromium</word>
+    <word normalized="">, </word>
+    <word normalized="may" start="151480" stop="151680">may </word>
+    <word normalized="be" start="151680" stop="151880">be </word>
+    <word normalized="added" start="151880" stop="152210">added</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="152740" stop="152910">This </word>
+    <word normalized="is" start="152910" stop="153050">is </word>
+    <word normalized="done" start="153050" stop="153260">done </word>
+    <word normalized="to" start="153260" stop="153360">to </word>
+    <word normalized="enhance">enhance </word>
+    <word normalized="catalytic" start="153860" stop="154360">catalytic </word>
+    <word normalized="activity" start="154360" stop="155020">activity</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="155440" stop="155620">and </word>
+    <word normalized="as" start="155620" stop="155850">as </word>
+    <word normalized="such" start="155850" stop="156240">such </word>
+    <word normalized="this" start="156240" stop="156500">this </word>
+    <word normalized="third" start="156500" stop="156720">third </word>
+    <word normalized="metal">metal </word>
+    <word normalized="is">is </word>
+    <word normalized="called" start="157150" stop="157530">called </word>
+    <word normalized="_a">a </word>
+    <word normalized="">"</word>
+    <word normalized="promoter" start="157620" stop="158160">promoter</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Note" start="159430" stop="159490">Note </word>
+    <word normalized="that" start="159490" stop="159660">that </word>
+    <word normalized="the">the </word>
+    <word normalized="addition">addition </word>
+    <word normalized="of" start="159960" stop="160080">of </word>
+    <word normalized="a" start="160080" stop="160150">a </word>
+    <word normalized="promoter" start="160150" stop="160660">promoter </word>
+    <word normalized="changes" start="160660" stop="161120">changes </word>
+    <word normalized="the" start="161120" stop="161270">the </word>
+    <word normalized="alloy" start="161270" stop="161720">alloy </word>
+    <word normalized="and" start="161720" stop="161890">and </word>
+    <word normalized="its" start="161890" stop="162030">its </word>
+    <word normalized="resulting" start="162030" stop="162430">resulting </word>
+    <word normalized="phase" start="162430" stop="162790">phase </word>
+    <word normalized="diagram">diagram </word>
+    <word normalized="to" start="163680" stop="163800">to </word>
+    <word normalized="that" start="163800" stop="164010">that </word>
+    <word normalized="of" start="164010" stop="164150">of </word>
+    <word normalized="a" start="164150" stop="164200">a </word>
+    <word normalized="ternary" start="164200" stop="164820">ternary </word>
+    <word normalized="alloy" start="164820" stop="165230">alloy</word>
+    <word normalized="">, </word>
+    <word normalized="leading" start="165590" stop="165840">leading </word>
+    <word normalized="to" start="165840" stop="165960">to </word>
+    <word normalized="different" start="165960" stop="166330">different </word>
+    <word normalized="quenching" start="166330" stop="166840">quenching </word>
+    <word normalized="and" start="166840" stop="167030">and </word>
+    <word normalized="leaching" start="167030" stop="167320">leaching </word>
+    <word normalized="properties" start="167320" stop="167870">properties </word>
+    <word normalized="during" start="167870" stop="168120">during </word>
+    <word normalized="activation" start="168120" stop="168870">activation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="1">1 </word>
+    <word normalized="point">point </word>
+    <word normalized="two">2 </word>
+    <word normalized="Activation" start="168870" stop="170870">Activation </word>
+    <word normalized="The" start="170900" stop="171900">The </word>
+    <word normalized="porous" start="171810" stop="171890">porous </word>
+    <word normalized="structure" start="172220" stop="172790">structure </word>
+    <word normalized="of" start="172790" stop="172900">of </word>
+    <word normalized="the" start="172900" stop="172970">the </word>
+    <word normalized="catalyst" start="172970" stop="173650">catalyst </word>
+    <word normalized="arises" start="173650" stop="174190">arises </word>
+    <word normalized="from" start="174190" stop="174390">from </word>
+    <word normalized="the" start="174390" stop="174510">the </word>
+    <word normalized="selective" start="174510" stop="175110">selective </word>
+    <word normalized="removal" start="175110" stop="175850">removal </word>
+    <word normalized="of">of </word>
+    <word normalized="aluminium">aluminium </word>
+    <word normalized="from" start="176400" stop="176680">from </word>
+    <word normalized="alloy" start="176720" stop="177080">alloy </word>
+    <word normalized="particles" start="177080" stop="177850">particles </word>
+    <word normalized="using" start="178130" stop="178460">using </word>
+    <word normalized="aqueous" start="178490" stop="178920">aqueous </word>
+    <word normalized="sodium" start="178920" stop="179350">sodium </word>
+    <word normalized="hydroxide" start="179350" stop="180100">hydroxide</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="180090" stop="180710">The </word>
+    <word normalized="simplified" start="180710" stop="181410">simplified </word>
+    <word normalized="leaching" start="181410" stop="181930">leaching </word>
+    <word normalized="reaction" start="181930" stop="182460">reaction </word>
+    <word normalized="is" start="182460" stop="182610">is </word>
+    <word normalized="given" start="182610" stop="182880">given </word>
+    <word normalized="by" start="182880" stop="183000">by </word>
+    <word normalized="the" start="183000" stop="183100">the </word>
+    <word normalized="following" start="183100" stop="183560">following </word>
+    <word normalized="chemical" start="183560" stop="184030">chemical </word>
+    <word normalized="equation" start="184140" stop="184590">equation</word>
+    <word normalized="">: </word>
+    <word normalized="The" start="195280" stop="195360">The </word>
+    <word normalized="formation" start="195360" stop="195900">formation </word>
+    <word normalized="of" start="195900" stop="196000">of </word>
+    <word normalized="sodium" start="196000" stop="196510">sodium </word>
+    <word normalized="aluminate">aluminate </word>
+    <word normalized="">(</word>
+    <word normalized="Na">Na</word>
+    <word normalized="">[</word>
+    <word normalized="Al">Al</word>
+    <word normalized="">(</word>
+    <word normalized="OH">OH</word>
+    <word normalized="">)</word>
+    <word normalized="4" start="198570" stop="198900">4</word>
+    <word normalized="">]</word>
+    <word normalized="">) </word>
+    <word normalized="requires" start="199300" stop="199830">requires </word>
+    <word normalized="that">that </word>
+    <word normalized="solutions" start="200050" stop="200760">solutions </word>
+    <word normalized="of" start="200850" stop="201020">of </word>
+    <word normalized="high" start="201020" stop="201270">high </word>
+    <word normalized="concentration" start="201270" stop="202130">concentration </word>
+    <word normalized="of" start="202130" stop="202290">of </word>
+    <word normalized="sodium" start="202290" stop="202800">sodium </word>
+    <word normalized="hydroxide" start="202800" stop="203540">hydroxide </word>
+    <word normalized="are" start="203840" stop="204000">are </word>
+    <word normalized="used" start="204000" stop="204390">used </word>
+    <word normalized="in" start="204390" stop="204500">in </word>
+    <word normalized="order" start="204500" stop="204710">order </word>
+    <word normalized="to" start="204710" stop="204970">to </word>
+    <word normalized="avoid" start="204970" stop="205280">avoid </word>
+    <word normalized="the" start="205280" stop="205350">the </word>
+    <word normalized="formation" start="205350" stop="205920">formation </word>
+    <word normalized="of" start="205920" stop="206030">of </word>
+    <word normalized="aluminium" start="206030" stop="206560">aluminium </word>
+    <word normalized="hydroxide" start="206560" stop="207320">hydroxide</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="207810" stop="207990">which </word>
+    <word normalized="precipitates" start="208140" stop="208730">precipitates </word>
+    <word normalized="as" start="208730" stop="208930">as </word>
+    <word normalized="bayerite" start="208930" stop="209470">bayerite</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Hence" start="210160" stop="210420">Hence </word>
+    <word normalized="sodium" start="210420" stop="210780">sodium </word>
+    <word normalized="hydroxide" start="210780" stop="211380">hydroxide </word>
+    <word normalized="solutions" start="211380" stop="211900">solutions </word>
+    <word normalized="with" start="211900" stop="212050">with </word>
+    <word normalized="concentrations" start="212050" stop="212890">concentrations </word>
+    <word normalized="of" start="212890" stop="213000">of </word>
+    <word normalized="up" start="213000" stop="213130">up </word>
+    <word normalized="to" start="213130" stop="213230">to </word>
+    <word normalized="5">5 </word>
+    <word normalized="molar" start="213560" stop="213880">molar </word>
+    <word normalized="are" start="213880" stop="213970">are </word>
+    <word normalized="used" start="213970" stop="214400">used</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Bayerite" start="214390" stop="215560">Bayerite </word>
+    <word normalized="may" start="215560" stop="215720">may </word>
+    <word normalized="cause" start="215720" stop="216080">cause </word>
+    <word normalized="blocking" start="216080" stop="216540">blocking </word>
+    <word normalized="of" start="216540" stop="216640">of </word>
+    <word normalized="the" start="216640" stop="216720">the </word>
+    <word normalized="pores" start="216720" stop="217210">pores </word>
+    <word normalized="formed" start="217210" stop="217480">formed </word>
+    <word normalized="during" start="217480" stop="217780">during </word>
+    <word normalized="leaching" start="217780" stop="218220">leaching</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="218580" stop="218710">and </word>
+    <word normalized="with" start="218710" stop="218860">with </word>
+    <word normalized="the">the </word>
+    <word normalized="subsequent">subsequent </word>
+    <word normalized="loss">loss </word>
+    <word normalized="of" start="219740" stop="219810">of </word>
+    <word normalized="surface" start="219810" stop="220240">surface </word>
+    <word normalized="area" start="220240" stop="220570">area</word>
+    <word normalized="">, </word>
+    <word normalized="it" start="220850" stop="220970">it </word>
+    <word normalized="can" start="220970" stop="221090">can </word>
+    <word normalized="reduce" start="221090" stop="221460">reduce </word>
+    <word normalized="the" start="221460" stop="221550">the </word>
+    <word normalized="efficiency" start="221550" stop="222220">efficiency </word>
+    <word normalized="and" start="222220" stop="222310">and </word>
+    <word normalized="activity" start="222310" stop="222860">activity </word>
+    <word normalized="of" start="222860" stop="222960">of </word>
+    <word normalized="the" start="222960" stop="223030">the </word>
+    <word normalized="catalyst" start="223030" stop="223690">catalyst</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="224780" stop="224870">The </word>
+    <word normalized="temperature" start="224870" stop="225340">temperature </word>
+    <word normalized="used" start="225340" stop="225660">used </word>
+    <word normalized="to" start="225660" stop="225740">to </word>
+    <word normalized="leach">leach </word>
+    <word normalized="the" start="226060" stop="226200">the </word>
+    <word normalized="alloy" start="226200" stop="226560">alloy </word>
+    <word normalized="has" start="226560" stop="226770">has </word>
+    <word normalized="a" start="226770" stop="226810">a </word>
+    <word normalized="marked">marked </word>
+    <word normalized="effect" start="227320" stop="227850">effect </word>
+    <word normalized="on" start="227850" stop="227980">on </word>
+    <word normalized="the" start="227980" stop="228040">the </word>
+    <word normalized="surface" start="228040" stop="228470">surface </word>
+    <word normalized="properties" start="228470" stop="229010">properties </word>
+    <word normalized="of" start="229010" stop="229130">of </word>
+    <word normalized="the" start="229130" stop="229230">the </word>
+    <word normalized="catalyst" start="229230" stop="229870">catalyst</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Commonly" start="229870" stop="230940">Commonly </word>
+    <word normalized="used" start="230940" stop="231180">used </word>
+    <word normalized="temperatures" start="231180" stop="231720">temperatures </word>
+    <word normalized="range" start="231720" stop="232020">range </word>
+    <word normalized="from" start="232020" stop="232170">from </word>
+    <word normalized="seventy" start="232170" stop="232710">70 </word>
+    <word normalized="to" start="232710" stop="232860">to </word>
+    <word normalized="one hundred" start="232860" stop="233340">100 </word>
+    <word normalized="C">°C</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="234960" stop="235070">The </word>
+    <word normalized="surface" start="235070" stop="235480">surface </word>
+    <word normalized="area" start="235480" stop="235750">area </word>
+    <word normalized="of" start="235750" stop="235920">of </word>
+    <word normalized="Raney" start="235920" stop="236160">Raney </word>
+    <word normalized="nickel" start="236160" stop="236650">nickel </word>
+    <word normalized="">(</word>
+    <word normalized="and" start="236650" stop="236870">and </word>
+    <word normalized="skeletal" start="236870" stop="237350">skeletal </word>
+    <word normalized="catalysts" start="237350" stop="237820">catalysts </word>
+    <word normalized="in" start="237820" stop="237920">in </word>
+    <word normalized="general" start="237920" stop="238380">general</word>
+    <word normalized="">) </word>
+    <word normalized="tends" start="238780" stop="239050">tends </word>
+    <word normalized="to" start="239050" stop="239190">to </word>
+    <word normalized="decrease" start="239190" stop="239690">decrease </word>
+    <word normalized="with" start="239690" stop="239840">with </word>
+    <word normalized="increasing" start="239840" stop="240360">increasing </word>
+    <word normalized="leaching" start="240360" stop="240640">leaching </word>
+    <word normalized="temperature" start="240640" stop="241210">temperature</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="241790" stop="241980">This </word>
+    <word normalized="is" start="241980" stop="242130">is </word>
+    <word normalized="due" start="242130" stop="242290">due </word>
+    <word normalized="to" start="242290" stop="242410">to </word>
+    <word normalized="structural" start="242410" stop="242890">structural </word>
+    <word normalized="rearrangements" start="242890" stop="243660">rearrangements </word>
+    <word normalized="within" start="243660" stop="243900">within </word>
+    <word normalized="the" start="243900" stop="244110">the </word>
+    <word normalized="alloy" start="244110" stop="244440">alloy </word>
+    <word normalized="that" start="244440" stop="244590">that </word>
+    <word normalized="may" start="244590" stop="244760">may </word>
+    <word normalized="be" start="244760" stop="244890">be </word>
+    <word normalized="considered" start="244890" stop="245380">considered </word>
+    <word normalized="analogous" start="245380" stop="246190">analogous </word>
+    <word normalized="to" start="246190" stop="246280">to </word>
+    <word normalized="sintering" start="246200" stop="246230">sintering</word>
+    <word normalized="">, </word>
+    <word normalized="where" start="247180" stop="247340">where </word>
+    <word normalized="alloy" start="247340" stop="247670">alloy </word>
+    <word normalized="ligaments" start="247670" stop="248210">ligaments </word>
+    <word normalized="would" start="248210" stop="248490">would </word>
+    <word normalized="start" start="248490" stop="248810">start </word>
+    <word normalized="adhering" start="248810" stop="249240">adhering </word>
+    <word normalized="to" start="249240" stop="249400">to </word>
+    <word normalized="each" start="249400" stop="249560">each </word>
+    <word normalized="other" start="249560" stop="249840">other </word>
+    <word normalized="at" start="250210" stop="250330">at </word>
+    <word normalized="higher" start="250330" stop="250630">higher </word>
+    <word normalized="temperatures" start="250630" stop="251210">temperatures </word>
+    <word normalized="leading" start="251210" stop="251480">leading </word>
+    <word normalized="to" start="251480" stop="251580">to </word>
+    <word normalized="the" start="251580" stop="251680">the </word>
+    <word normalized="loss" start="251680" stop="252050">loss </word>
+    <word normalized="of" start="252050" stop="252140">of </word>
+    <word normalized="the">the </word>
+    <word normalized="porous" start="252140" stop="252490">porous </word>
+    <word normalized="structure" start="252490" stop="253030">structure</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Before" start="254020" stop="254370">Before </word>
+    <word normalized="storage" start="254370" stop="254940">storage</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="254940" stop="255130">the </word>
+    <word normalized="catalyst" start="255130" stop="255620">catalyst </word>
+    <word normalized="can" start="255620" stop="255740">can </word>
+    <word normalized="be" start="255740" stop="255840">be </word>
+    <word normalized="washed" start="255840" stop="256260">washed </word>
+    <word normalized="with" start="256260" stop="256480">with </word>
+    <word normalized="distilled" start="256480" stop="256990">distilled </word>
+    <word normalized="water" start="256990" stop="257430">water </word>
+    <word normalized="at" start="257430" stop="257610">at </word>
+    <word normalized="ambient" start="257610" stop="258070">ambient </word>
+    <word normalized="temperature" start="258070" stop="258590">temperature </word>
+    <word normalized="in" start="259070" stop="259210">in </word>
+    <word normalized="order" start="259210" stop="259450">order </word>
+    <word normalized="to" start="259450" stop="259620">to </word>
+    <word normalized="remove" start="259620" stop="260090">remove </word>
+    <word normalized="any" start="260090" stop="260360">any </word>
+    <word normalized="remaining" start="260360" stop="260780">remaining </word>
+    <word normalized="traces" start="260780" stop="261280">traces </word>
+    <word normalized="of" start="261280" stop="261350">of </word>
+    <word normalized="sodium" start="261350" stop="261810">sodium </word>
+    <word normalized="aluminate" start="261810" stop="262320">aluminate</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Oxygen free" start="263130" stop="263870">Oxygen-free </word>
+    <word normalized="water" start="263870" stop="264240">water </word>
+    <word normalized="is">is </word>
+    <word normalized="preferred">preferred </word>
+    <word normalized="for">for </word>
+    <word normalized="storage" start="264840" stop="265350">storage </word>
+    <word normalized="in" start="265350" stop="265520">in </word>
+    <word normalized="order" start="265520" stop="265710">order </word>
+    <word normalized="to" start="265710" stop="265850">to </word>
+    <word normalized="prevent">prevent </word>
+    <word normalized="oxidation" start="266180" stop="266830">oxidation </word>
+    <word normalized="of" start="266830" stop="266910">of </word>
+    <word normalized="the" start="266910" stop="267020">the </word>
+    <word normalized="catalyst" start="267020" stop="267640">catalyst</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="268050" stop="268200">which </word>
+    <word normalized="would" start="268200" stop="268420">would </word>
+    <word normalized="accelerate" start="268400" stop="268860">accelerate </word>
+    <word normalized="its">its </word>
+    <word normalized="aging" start="269060" stop="269360">aging </word>
+    <word normalized="process" start="269360" stop="269970">process </word>
+    <word normalized="and" start="269970" stop="270130">and </word>
+    <word normalized="result" start="270130" stop="270480">result </word>
+    <word normalized="in" start="270480" stop="270590">in </word>
+    <word normalized="reduced" start="270590" stop="271000">reduced </word>
+    <word normalized="catalytic" start="271000" stop="271450">catalytic </word>
+    <word normalized="activity" start="271450" stop="272030">activity</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="273080" stop="273520">Section </word>
+    <word normalized="2" start="273520" stop="273920">2 </word>
+    <word normalized="Properties" start="274540" stop="275240">Properties </word>
+    <word normalized="Macroscopically" start="276070" stop="277150">Macroscopically </word>
+    <word normalized="Raney" start="277310" stop="277580">Raney </word>
+    <word normalized="nickel" start="277580" stop="277940">nickel </word>
+    <word normalized="looks" start="277940" stop="278170">looks </word>
+    <word normalized="like" start="278170" stop="278320">like </word>
+    <word normalized="a" start="278320" stop="278360">a </word>
+    <word normalized="finely" start="278360" stop="278760">finely </word>
+    <word normalized="divided" start="278760" stop="279210">divided </word>
+    <word normalized="gray" start="279210" stop="279420">gray </word>
+    <word normalized="powder" start="279420" stop="279920">powder</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Microscopically" start="280510" stop="281480">Microscopically</word>
+    <word normalized="">, </word>
+    <word normalized="each" start="281680" stop="281930">each </word>
+    <word normalized="particle" start="281930" stop="282320">particle </word>
+    <word normalized="of" start="282320" stop="282520">of </word>
+    <word normalized="this" start="282520" stop="282680">this </word>
+    <word normalized="powder" start="282680" stop="283070">powder </word>
+    <word normalized="looks" start="283070" stop="283360">looks </word>
+    <word normalized="like" start="283360" stop="283500">like </word>
+    <word normalized="a" start="283500" stop="283560">a </word>
+    <word normalized="three dimensional" start="283560" stop="284260">three-dimensional </word>
+    <word normalized="mesh" start="284260" stop="284680">mesh</word>
+    <word normalized="">, </word>
+    <word normalized="with">with </word>
+    <word normalized="pores" start="285280" stop="285590">pores </word>
+    <word normalized="of" start="285590" stop="285700">of </word>
+    <word normalized="irregular" start="285700" stop="286170">irregular </word>
+    <word normalized="size">size </word>
+    <word normalized="and" start="286560" stop="286650">and </word>
+    <word normalized="shape" start="286650" stop="287020">shape </word>
+    <word normalized="of" start="287570" stop="287760">of </word>
+    <word normalized="which" start="287760" stop="288000">which </word>
+    <word normalized="the" start="288000" stop="288100">the </word>
+    <word normalized="vast" start="288030" stop="288060">vast </word>
+    <word normalized="majority" start="288460" stop="288960">majority </word>
+    <word normalized="are" start="288960" stop="289060">are </word>
+    <word normalized="created" start="289060" stop="289490">created </word>
+    <word normalized="during" start="289490" stop="289740">during </word>
+    <word normalized="the" start="289740" stop="289810">the </word>
+    <word normalized="leaching" start="289810" stop="290180">leaching </word>
+    <word normalized="process" start="290180" stop="290830">process</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Raney" start="291570" stop="291810">Raney </word>
+    <word normalized="nickel" start="291810" stop="292220">nickel </word>
+    <word normalized="is">is </word>
+    <word normalized="notable">notable </word>
+    <word normalized="for" start="292780" stop="292880">for </word>
+    <word normalized="being" start="292880" stop="293150">being </word>
+    <word normalized="thermally" start="293150" stop="293730">thermally </word>
+    <word normalized="and" start="293730" stop="293840">and </word>
+    <word normalized="structurally" start="293840" stop="294500">structurally </word>
+    <word normalized="stable" start="294500" stop="295020">stable </word>
+    <word normalized="as" start="295400" stop="295580">as </word>
+    <word normalized="well" start="295580" stop="295790">well </word>
+    <word normalized="has">has </word>
+    <word normalized="having" start="295830" stop="296070">having </word>
+    <word normalized="a" start="296070" stop="296110">a </word>
+    <word normalized="large" start="296110" stop="296560">large </word>
+    <word normalized="BET">BET </word>
+    <word normalized="surface" start="297190" stop="297610">surface </word>
+    <word normalized="area" start="297610" stop="297920">area</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="These" start="298730" stop="298920">These </word>
+    <word normalized="properties" start="298920" stop="299480">properties </word>
+    <word normalized="are">are </word>
+    <word normalized="a">a </word>
+    <word normalized="direct" start="299650" stop="300010">direct </word>
+    <word normalized="result" start="300010" stop="300410">result </word>
+    <word normalized="of" start="300410" stop="300520">of </word>
+    <word normalized="the" start="300520" stop="300660">the </word>
+    <word normalized="activation" start="300660" stop="301270">activation </word>
+    <word normalized="process" start="301270" stop="301870">process </word>
+    <word normalized="and" start="301870" stop="302140">and </word>
+    <word normalized="contribute" start="302140" stop="302630">contribute </word>
+    <word normalized="to" start="302630" stop="302920">to </word>
+    <word normalized="a" start="304640" stop="305790">a </word>
+    <word normalized="relatively" start="305790" stop="305840">relatively </word>
+    <word normalized="high" start="305840" stop="306610">high </word>
+    <word normalized="catalytic" start="306750" stop="306800">catalytic </word>
+    <word normalized="activity" start="306800" stop="308400">activity</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="During" start="308400" stop="308810">During </word>
+    <word normalized="the" start="308810" stop="309020">the </word>
+    <word normalized="activation" start="310030" stop="310290">activation </word>
+    <word normalized="process" start="310260" stop="310290">process</word>
+    <word normalized="">, </word>
+    <word normalized="aluminium" start="310290" stop="310680">aluminium </word>
+    <word normalized="is">is </word>
+    <word normalized="leached">leached </word>
+    <word normalized="out">out </word>
+    <word normalized="the">the </word>
+    <word normalized="NiAl three">NiAl3 </word>
+    <word normalized="and">and </word>
+    <word normalized="Ni two Al three" start="310880" stop="311920">Ni2Al3 </word>
+    <word normalized="phases" start="311920" stop="312460">phases </word>
+    <word normalized="that" start="312460" stop="312590">that </word>
+    <word normalized="are" start="312590" stop="312680">are </word>
+    <word normalized="present" start="312680" stop="313100">present </word>
+    <word normalized="in" start="313100" stop="313200">in </word>
+    <word normalized="the" start="313200" stop="313330">the </word>
+    <word normalized="alloy" start="313330" stop="313780">alloy</word>
+    <word normalized="">, </word>
+    <word normalized="while" start="313790" stop="314300">while </word>
+    <word normalized="most" start="314300" stop="314620">most </word>
+    <word normalized="of" start="314620" stop="314730">of </word>
+    <word normalized="the" start="314730" stop="314840">the </word>
+    <word normalized="aluminium" start="314840" stop="315440">aluminium </word>
+    <word normalized="that" start="315510" stop="315710">that </word>
+    <word normalized="remains" start="315710" stop="316240">remains </word>
+    <word normalized="does" start="316220" stop="316250">does </word>
+    <word normalized="so" start="316250" stop="316430">so </word>
+    <word normalized="in" start="316430" stop="316690">in </word>
+    <word normalized="the" start="316690" stop="316750">the </word>
+    <word normalized="form" start="316840" stop="316870">form </word>
+    <word normalized="of" start="316870" stop="317160">of </word>
+    <word normalized="NiAl">NiAl</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="318600" stop="318630">The </word>
+    <word normalized="removal" start="318630" stop="318690">removal </word>
+    <word normalized="of" start="318690" stop="319170">of </word>
+    <word normalized="aluminium" start="319170" stop="319280">aluminium </word>
+    <word normalized="from" start="319800" stop="320010">from </word>
+    <word normalized="some" start="320010" stop="320310">some </word>
+    <word normalized="phases" start="320310" stop="320910">phases </word>
+    <word normalized="but" start="320910" stop="321050">but </word>
+    <word normalized="not" start="321050" stop="321260">not </word>
+    <word normalized="others" start="321260" stop="321660">others </word>
+    <word normalized="is" start="321660" stop="321810">is </word>
+    <word normalized="known" start="321810" stop="322060">known </word>
+    <word normalized="as" start="322060" stop="322180">as </word>
+    <word normalized="">"</word>
+    <word normalized="selective" start="322180" stop="322670">selective </word>
+    <word normalized="leaching" start="322670" stop="323070">leaching</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="has">has </word>
+    <word normalized="been" start="324050" stop="324190">been </word>
+    <word normalized="shown" start="324190" stop="324580">shown </word>
+    <word normalized="that" start="324580" stop="324780">that </word>
+    <word normalized="the" start="324780" stop="324990">the </word>
+    <word normalized="NiAl">NiAl </word>
+    <word normalized="phase" start="325790" stop="326160">phase </word>
+    <word normalized="provides" start="326160" stop="326670">provides </word>
+    <word normalized="the" start="326670" stop="326770">the </word>
+    <word normalized="structural" start="326770" stop="327410">structural </word>
+    <word normalized="and" start="327410" stop="327580">and </word>
+    <word normalized="thermal" start="327580" stop="327950">thermal </word>
+    <word normalized="stability" start="327950" stop="328560">stability </word>
+    <word normalized="to" start="328560" stop="328680">to </word>
+    <word normalized="the" start="328680" stop="328780">the </word>
+    <word normalized="catalyst" start="328780" stop="329450">catalyst</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="As">As </word>
+    <word normalized="a" start="330230" stop="330260">a </word>
+    <word normalized="result" start="330260" stop="330760">result </word>
+    <word normalized="the" start="331000" stop="331100">the </word>
+    <word normalized="catalyst" start="331100" stop="331600">catalyst </word>
+    <word normalized="is" start="331600" stop="331710">is </word>
+    <word normalized="quite" start="331710" stop="332010">quite </word>
+    <word normalized="resistant" start="332010" stop="332600">resistant </word>
+    <word normalized="to" start="332630" stop="332660">to </word>
+    <word normalized="decomposition" start="332660" stop="332730">decomposition </word>
+    <word normalized="">(</word>
+    <word normalized="">"</word>
+    <word normalized="breaking" start="333540" stop="334340">breaking </word>
+    <word normalized="down" start="334340" stop="334720">down</word>
+    <word normalized="">"</word>
+    <word normalized="">, </word>
+    <word normalized="commonly" start="334720" stop="335130">commonly </word>
+    <word normalized="known" start="335130" stop="335380">known </word>
+    <word normalized="as" start="335380" stop="335560">as </word>
+    <word normalized="">"</word>
+    <word normalized="aging" start="335560" stop="335920">aging</word>
+    <word normalized="">"</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="This" start="335910" stop="336810">This </word>
+    <word normalized="resistance" start="336810" stop="337360">resistance </word>
+    <word normalized="allows" start="337360" stop="337760">allows </word>
+    <word normalized="Raney" start="337760" stop="337980">Raney </word>
+    <word normalized="nickel" start="337980" stop="338310">nickel </word>
+    <word normalized="to" start="338310" stop="338420">to </word>
+    <word normalized="be" start="338420" stop="338570">be </word>
+    <word normalized="stored" start="338570" stop="339030">stored </word>
+    <word normalized="and" start="339030" stop="339190">and </word>
+    <word normalized="reused" start="339190" stop="339680">reused </word>
+    <word normalized="for" start="339680" stop="339860">for </word>
+    <word normalized="an" start="339860" stop="339940">an </word>
+    <word normalized="extended" start="339940" stop="340430">extended </word>
+    <word normalized="period" start="340430" stop="340750">period </word>
+    <word normalized="of" start="340750" stop="340870">of </word>
+    <word normalized="time" start="340870" stop="341240">time</word>
+    <word normalized="">; </word>
+    <word normalized="however" start="341250" stop="342380">however</word>
+    <word normalized="">, </word>
+    <word normalized="fresh" start="342750" stop="343080">fresh </word>
+    <word normalized="preparations" start="343080" stop="343850">preparations </word>
+    <word normalized="are" start="343850" stop="343950">are </word>
+    <word normalized="usually" start="343950" stop="344340">usually </word>
+    <word normalized="preferred" start="344340" stop="344820">preferred </word>
+    <word normalized="for" start="344820" stop="345010">for </word>
+    <word normalized="laboratory" start="345010" stop="345740">laboratory </word>
+    <word normalized="use">use</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="For" start="346620" stop="346720">For </word>
+    <word normalized="this" start="346720" stop="346950">this </word>
+    <word normalized="reason" start="346950" stop="347380">reason </word>
+    <word normalized="commercial" start="347380" stop="347890">commercial </word>
+    <word normalized="Raney" start="347890" stop="348180">Raney </word>
+    <word normalized="nickel" start="348180" stop="348640">nickel </word>
+    <word normalized="is" start="348640" stop="348780">is </word>
+    <word normalized="available">available </word>
+    <word normalized="in" start="349300" stop="349420">in </word>
+    <word normalized="both" start="349420" stop="349710">both </word>
+    <word normalized="">"</word>
+    <word normalized="active" start="349740" stop="350230">active</word>
+    <word normalized="">" </word>
+    <word normalized="and" start="350230" stop="350500">and </word>
+    <word normalized="">"</word>
+    <word normalized="inactive" start="350500" stop="351010">inactive</word>
+    <word normalized="">" </word>
+    <word normalized="forms" start="351010" stop="351630">forms</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="The" start="352970" stop="353130">The </word>
+    <word normalized="surface" start="353130" stop="353540">surface </word>
+    <word normalized="area" start="353540" stop="353800">area </word>
+    <word normalized="is" start="353800" stop="353960">is </word>
+    <word normalized="typically" start="353960" stop="354390">typically </word>
+    <word normalized="determined" start="354390" stop="355020">determined </word>
+    <word normalized="via" start="355200" stop="355540">via </word>
+    <word normalized="a" start="355540" stop="355580">a </word>
+    <word normalized="BET">BET </word>
+    <word normalized="measurement" start="356310" stop="356920">measurement </word>
+    <word normalized="using" start="356920" stop="357230">using </word>
+    <word normalized="a" start="357230" stop="357280">a </word>
+    <word normalized="gas" start="357280" stop="357700">gas </word>
+    <word normalized="that" start="357700" stop="357830">that </word>
+    <word normalized="will" start="357830" stop="357960">will </word>
+    <word normalized="be" start="357960" stop="358140">be </word>
+    <word normalized="preferentially" start="358140" stop="358970">preferentially </word>
+    <word normalized="adsorbed">adsorbed </word>
+    <word normalized="on" start="359450" stop="359570">on </word>
+    <word normalized="metallic" start="359610" stop="360170">metallic </word>
+    <word normalized="surfaces" start="360170" stop="360770">surfaces</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="361250" stop="361530">such </word>
+    <word normalized="as" start="361530" stop="361710">as </word>
+    <word normalized="hydrogen" start="361710" stop="362210">hydrogen</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Using" start="362200" stop="363390">Using </word>
+    <word normalized="this" start="363390" stop="363570">this </word>
+    <word normalized="type" start="363570" stop="363760">type </word>
+    <word normalized="of" start="363760" stop="363860">of </word>
+    <word normalized="measurement" start="363860" stop="364380">measurement</word>
+    <word normalized="">, </word>
+    <word normalized="it" start="364470" stop="364620">it </word>
+    <word normalized="has">has </word>
+    <word normalized="been" start="364750" stop="364900">been </word>
+    <word normalized="shown" start="364900" stop="365280">shown </word>
+    <word normalized="that" start="365280" stop="365370">that </word>
+    <word normalized="almost" start="365370" stop="365750">almost </word>
+    <word normalized="all" start="365750" stop="366100">all </word>
+    <word normalized="the" start="366100" stop="366190">the </word>
+    <word normalized="exposed" start="366190" stop="366710">exposed </word>
+    <word normalized="area" start="366710" stop="367090">area </word>
+    <word normalized="in" start="367090" stop="367250">in </word>
+    <word normalized="a" start="367250" stop="367300">a </word>
+    <word normalized="particle" start="367300" stop="367760">particle </word>
+    <word normalized="of" start="367760" stop="367950">of </word>
+    <word normalized="the" start="367950" stop="368020">the </word>
+    <word normalized="catalyst" start="368020" stop="368580">catalyst </word>
+    <word normalized="has" start="368580" stop="368760">has </word>
+    <word normalized="nickel" start="368760" stop="369040">nickel </word>
+    <word normalized="on" start="369040" stop="369240">on </word>
+    <word normalized="its" start="369240" stop="369410">its </word>
+    <word normalized="surface" start="369410" stop="369950">surface</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Since" start="370620" stop="370930">Since </word>
+    <word normalized="nickel" start="370930" stop="371250">nickel </word>
+    <word normalized="is" start="371250" stop="371400">is </word>
+    <word normalized="the" start="371400" stop="371560">the </word>
+    <word normalized="active" start="371560" stop="371910">active </word>
+    <word normalized="metal" start="371910" stop="372240">metal </word>
+    <word normalized="of" start="372240" stop="372360">of </word>
+    <word normalized="the" start="372360" stop="372420">the </word>
+    <word normalized="catalyst" start="372460" stop="373090">catalyst</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="373510" stop="373550">a </word>
+    <word normalized="large" start="373500" stop="373540">large </word>
+    <word normalized="nickel" start="374020" stop="374330">nickel </word>
+    <word normalized="surface" start="374330" stop="374760">surface </word>
+    <word normalized="area" start="374760" stop="375100">area </word>
+    <word normalized="implies" start="375100" stop="375540">implies </word>
+    <word normalized="that" start="375540" stop="375660">that </word>
+    <word normalized="there" start="375660" stop="375780">there </word>
+    <word normalized="is">is </word>
+    <word normalized="a" start="375950" stop="375990">a </word>
+    <word normalized="large" start="375990" stop="376370">large </word>
+    <word normalized="surface" start="376370" stop="376810">surface </word>
+    <word normalized="available" start="377140" stop="377590">available </word>
+    <word normalized="for" start="377590" stop="377760">for </word>
+    <word normalized="reactions" start="377760" stop="378270">reactions </word>
+    <word normalized="to" start="378270" stop="378450">to </word>
+    <word normalized="occur" start="378450" stop="378730">occur </word>
+    <word normalized="simultaneously" start="378730" stop="379660">simultaneously</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="379680" stop="380370">which </word>
+    <word normalized="is" start="380370" stop="380500">is </word>
+    <word normalized="reflected" start="380500" stop="381010">reflected </word>
+    <word normalized="in" start="381010" stop="381290">in </word>
+    <word normalized="an" start="381290" stop="381350">an </word>
+    <word normalized="increased" start="381350" stop="381810">increased </word>
+    <word normalized="catalyst" start="381810" stop="382270">catalyst </word>
+    <word normalized="activity" start="382340" stop="382380">activity</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Commercially" start="383420" stop="383980">Commercially </word>
+    <word normalized="available">available </word>
+    <word normalized="Raney">Raney </word>
+    <word normalized="nickel" start="384660" stop="385060">nickel </word>
+    <word normalized="has" start="385060" stop="385270">has </word>
+    <word normalized="an" start="385270" stop="385360">an </word>
+    <word normalized="average" start="385360" stop="385770">average </word>
+    <word normalized="nickel" start="385770" stop="386050">nickel </word>
+    <word normalized="surface" start="386050" stop="386490">surface </word>
+    <word normalized="area" start="386490" stop="386870">area </word>
+    <word normalized="of" start="387210" stop="387370">of </word>
+    <word normalized="100" start="387890" stop="388150">100 </word>
+    <word normalized="m²" start="388450" stop="388530">m² </word>
+    <word normalized="per" start="388710" stop="388910">per </word>
+    <word normalized="gram" start="388910" stop="389290">gram </word>
+    <word normalized="of" start="389290" stop="389500">of </word>
+    <word normalized="catalyst" start="389700" stop="390410">catalyst</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="high" start="390400" stop="392020">high </word>
+    <word normalized="catalytic" start="392020" stop="392690">catalytic </word>
+    <word normalized="activity" start="392690" stop="393340">activity</word>
+    <word normalized="">, </word>
+    <word normalized="coupled" start="393560" stop="394000">coupled </word>
+    <word normalized="with">with </word>
+    <word normalized="the" start="394000" stop="394070">the </word>
+    <word normalized="fact" start="394070" stop="394430">fact </word>
+    <word normalized="that" start="394430" stop="394590">that </word>
+    <word normalized="hydrogen" start="394610" stop="395120">hydrogen </word>
+    <word normalized="is" start="395120" stop="395250">is </word>
+    <word normalized="absorbed" start="395250" stop="395760">absorbed </word>
+    <word normalized="within" start="395760" stop="396030">within </word>
+    <word normalized="the" start="396030" stop="396100">the </word>
+    <word normalized="pores" start="396100" stop="396460">pores </word>
+    <word normalized="of" start="396460" stop="396570">of </word>
+    <word normalized="the" start="396570" stop="396650">the </word>
+    <word normalized="catalyst" start="396650" stop="397180">catalyst </word>
+    <word normalized="during" start="397180" stop="397420">during </word>
+    <word normalized="activation" start="397420" stop="398090">activation</word>
+    <word normalized="">, </word>
+    <word normalized="makes" start="398570" stop="398800">makes </word>
+    <word normalized="Raney" start="398800" stop="399070">Raney </word>
+    <word normalized="nickel" start="399070" stop="399550">nickel </word>
+    <word normalized="a">a </word>
+    <word normalized="useful" start="399550" stop="399920">useful </word>
+    <word normalized="catalyst" start="399920" stop="400460">catalyst </word>
+    <word normalized="for" start="400460" stop="400620">for </word>
+    <word normalized="many" start="400620" stop="400900">many </word>
+    <word normalized="hydrogenation">hydrogenation </word>
+    <word normalized="reactions">reactions</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Its">Its </word>
+    <word normalized="structural" start="403170" stop="403850">structural </word>
+    <word normalized="and" start="403850" stop="403990">and </word>
+    <word normalized="thermal" start="403990" stop="404310">thermal </word>
+    <word normalized="stability" start="404310" stop="404950">stability </word>
+    <word normalized="">(</word>
+    <word normalized="i e" start="405310" stop="405760">i.e.</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="405760" stop="405870">the </word>
+    <word normalized="fact" start="405870" stop="406190">fact </word>
+    <word normalized="that">that </word>
+    <word normalized="it" start="406190" stop="406380">it </word>
+    <word normalized="does" start="406380" stop="406560">does </word>
+    <word normalized="not" start="406560" stop="406780">not </word>
+    <word normalized="decompose" start="406780" stop="407480">decompose </word>
+    <word normalized="at" start="407480" stop="407540">at </word>
+    <word normalized="high" start="407580" stop="407730">high </word>
+    <word normalized="temperatures" start="407730" stop="408400">temperatures</word>
+    <word normalized="">) </word>
+    <word normalized="allows" start="408820" stop="409210">allows </word>
+    <word normalized="its" start="409210" stop="409410">its </word>
+    <word normalized="use" start="409410" stop="409650">use </word>
+    <word normalized="under" start="409650" stop="409960">under </word>
+    <word normalized="a" start="409960" stop="410000">a </word>
+    <word normalized="wide" start="410000" stop="410380">wide </word>
+    <word normalized="range" start="410380" stop="410730">range </word>
+    <word normalized="of" start="410730" stop="410850">of </word>
+    <word normalized="reaction" start="410850" stop="411310">reaction </word>
+    <word normalized="conditions">conditions</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Additionally" start="412530" stop="413220">Additionally</word>
+    <word normalized="">, </word>
+    <word normalized="the" start="413220" stop="413410">the </word>
+    <word normalized="solubility" start="413410" stop="414200">solubility </word>
+    <word normalized="of" start="414200" stop="414330">of </word>
+    <word normalized="Raney" start="414330" stop="414570">Raney </word>
+    <word normalized="nickel" start="414570" stop="414920">nickel </word>
+    <word normalized="is">is </word>
+    <word normalized="negligible" start="415060" stop="416040">negligible </word>
+    <word normalized="in" start="416040" stop="416200">in </word>
+    <word normalized="most" start="416200" stop="416490">most </word>
+    <word normalized="common" start="416490" stop="416910">common </word>
+    <word normalized="laboratory" start="417140" stop="417170">laboratory </word>
+    <word normalized="solvents" start="417440" stop="418000">solvents</word>
+    <word normalized="">, </word>
+    <word normalized="with" start="418280" stop="418430">with </word>
+    <word normalized="the" start="418430" stop="418490">the </word>
+    <word normalized="exception" start="418490" stop="419050">exception </word>
+    <word normalized="of" start="419050" stop="419230">of </word>
+    <word normalized="mineral" start="419230" stop="419670">mineral </word>
+    <word normalized="acids" start="419670" stop="420310">acids </word>
+    <word normalized="such" start="420310" stop="420580">such </word>
+    <word normalized="as" start="420580" stop="420710">as </word>
+    <word normalized="hydrochloric" start="420710" stop="421430">hydrochloric </word>
+    <word normalized="acid" start="421430" stop="421820">acid</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="422200" stop="422380">and </word>
+    <word normalized="its" start="422380" stop="422510">its </word>
+    <word normalized="relatively" start="422510" stop="423060">relatively </word>
+    <word normalized="high" start="423060" stop="423260">high </word>
+    <word normalized="density" start="423260" stop="423880">density </word>
+    <word normalized="">(</word>
+    <word normalized="between" start="423930" stop="424290">between </word>
+    <word normalized="6" start="424480" stop="424530">6 </word>
+    <word normalized="or" start="424530" stop="424570">or </word>
+    <word normalized="seven" start="424570" stop="424650">7 </word>
+    <word normalized="g forward slash cm³" start="424650" stop="425680">g/cm³</word>
+    <word normalized="">) </word>
+    <word normalized="also" start="427070" stop="427390">also </word>
+    <word normalized="facilitates" start="427390" stop="428030">facilitates </word>
+    <word normalized="its" start="428030" stop="428170">its </word>
+    <word normalized="separation" start="428170" stop="428830">separation </word>
+    <word normalized="off" start="428910" stop="429160">off </word>
+    <word normalized="a" start="429160" stop="429220">a </word>
+    <word normalized="liquid" start="429220" stop="429650">liquid </word>
+    <word normalized="phase" start="429650" stop="430060">phase </word>
+    <word normalized="after" start="430060" stop="430490">after </word>
+    <word normalized="a">a </word>
+    <word normalized="reaction" start="430490" stop="430900">reaction </word>
+    <word normalized="is" start="430900" stop="431020">is </word>
+    <word normalized="completed" start="431020" stop="431540">completed</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="433170" stop="433640">Section </word>
+    <word normalized="3" start="433700" stop="433960">3 </word>
+    <word normalized="Applications" start="434600" stop="435520">Applications </word>
+    <word normalized="Raney" start="435510" stop="436870">Raney </word>
+    <word normalized="nickel" start="436870" stop="437270">nickel </word>
+    <word normalized="is" start="437270" stop="437420">is </word>
+    <word normalized="used" start="437420" stop="437730">used </word>
+    <word normalized="in" start="437730" stop="437910">in </word>
+    <word normalized="a" start="437910" stop="437960">a </word>
+    <word normalized="large" start="437960" stop="438360">large </word>
+    <word normalized="number" start="438360" stop="438680">number </word>
+    <word normalized="of" start="438680" stop="438800">of </word>
+    <word normalized="industrial" start="438800" stop="439340">industrial </word>
+    <word normalized="processes" start="439340" stop="440100">processes </word>
+    <word normalized="and" start="440130" stop="440360">and </word>
+    <word normalized="in" start="440360" stop="440490">in </word>
+    <word normalized="organic" start="440490" stop="440960">organic </word>
+    <word normalized="synthesis" start="440960" stop="441580">synthesis </word>
+    <word normalized="because" start="441580" stop="441930">because </word>
+    <word normalized="of" start="441930" stop="442040">of </word>
+    <word normalized="its" start="442040" stop="442200">its </word>
+    <word normalized="stability" start="442200" stop="442800">stability </word>
+    <word normalized="and" start="442800" stop="442940">and </word>
+    <word normalized="high" start="442940" stop="443170">high </word>
+    <word normalized="catalytic" start="443170" stop="443830">catalytic </word>
+    <word normalized="activity" start="443830" stop="444420">activity </word>
+    <word normalized="at" start="444420" stop="444520">at </word>
+    <word normalized="room" start="444520" stop="444740">room </word>
+    <word normalized="temperature" start="444740" stop="445250">temperature</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="is" start="445920" stop="446240">is </word>
+    <word normalized="typically" start="446240" stop="446730">typically </word>
+    <word normalized="used" start="446730" stop="447060">used </word>
+    <word normalized="in" start="447060" stop="447190">in </word>
+    <word normalized="the">the </word>
+    <word normalized="reduction" start="447190" stop="447740">reduction </word>
+    <word normalized="of" start="447740" stop="447840">of </word>
+    <word normalized="compounds" start="447840" stop="448470">compounds </word>
+    <word normalized="that" start="448470" stop="448570">that </word>
+    <word normalized="have" start="448570" stop="448780">have </word>
+    <word normalized="multiple" start="448780" stop="449190">multiple </word>
+    <word normalized="bonds" start="449190" stop="449700">bonds</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="450000" stop="450230">such </word>
+    <word normalized="as" start="450230" stop="450400">as </word>
+    <word normalized="alkynes" start="450400" stop="451130">alkynes</word>
+    <word normalized="">, </word>
+    <word normalized="alkenes" start="451130" stop="451950">alkenes</word>
+    <word normalized="">, </word>
+    <word normalized="nitriles" start="452320" stop="453030">nitriles</word>
+    <word normalized="">, </word>
+    <word normalized="dienes" start="453590" stop="454120">dienes</word>
+    <word normalized="">, </word>
+    <word normalized="aromatics" start="454240" stop="454970">aromatics </word>
+    <word normalized="and">and </word>
+    <word normalized="carbonyls" start="455130" stop="455840">carbonyls</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Additionally" start="456560" stop="457230">Additionally</word>
+    <word normalized="">, </word>
+    <word normalized="Raney" start="457230" stop="457560">Raney </word>
+    <word normalized="nickel" start="457560" stop="457830">nickel </word>
+    <word normalized="will" start="457830" stop="458030">will </word>
+    <word normalized="reduce" start="458030" stop="458400">reduce </word>
+    <word normalized="heteroatom heteroatom" start="463030" stop="464310">heteroatom-heteroatom </word>
+    <word normalized="bonds" start="464310" stop="465200">bonds </word>
+    <word normalized="such" start="465200" stop="465480">such </word>
+    <word normalized="as" start="465480" stop="465790">as </word>
+    <word normalized="nitro" start="465790" stop="466200">nitro </word>
+    <word normalized="groups" start="466200" stop="466710">groups</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="466710" stop="467020">and </word>
+    <word normalized="nitrosamines" start="467020" stop="467160">nitrosamines</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="has" start="467760" stop="467820">has </word>
+    <word normalized="also" start="467820" stop="467980">also </word>
+    <word normalized="found">found </word>
+    <word normalized="use">use </word>
+    <word normalized="in">in </word>
+    <word normalized="the">the </word>
+    <word normalized="reductive">reductive </word>
+    <word normalized="alkylation">alkylation </word>
+    <word normalized="of">of </word>
+    <word normalized="amines">amines </word>
+    <word normalized="and">and </word>
+    <word normalized="the">the </word>
+    <word normalized="amination">amination </word>
+    <word normalized="of">of </word>
+    <word normalized="alcohols">alcohols</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="practical">practical </word>
+    <word normalized="example">example </word>
+    <word normalized="of">of </word>
+    <word normalized="the">the </word>
+    <word normalized="use">use </word>
+    <word normalized="of">of </word>
+    <word normalized="Raney">Raney </word>
+    <word normalized="nickel">nickel </word>
+    <word normalized="in">in </word>
+    <word normalized="industry" start="471690" stop="472300">industry </word>
+    <word normalized="is" start="472300" stop="472450">is </word>
+    <word normalized="shown" start="472450" stop="472830">shown </word>
+    <word normalized="in" start="472830" stop="472920">in </word>
+    <word normalized="the" start="472920" stop="472990">the </word>
+    <word normalized="following" start="472990" stop="473440">following </word>
+    <word normalized="reaction" start="473440" stop="474120">reaction</word>
+    <word normalized="">, </word>
+    <word normalized="where">where </word>
+    <word normalized="benzene" start="474640" stop="475110">benzene </word>
+    <word normalized="is" start="475110" stop="475260">is </word>
+    <word normalized="reduced" start="475260" stop="475660">reduced </word>
+    <word normalized="to" start="475660" stop="475740">to </word>
+    <word normalized="cyclohexane" start="475800" stop="475830">cyclohexane</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Reduction" start="477420" stop="477840">Reduction </word>
+    <word normalized="of" start="477840" stop="477980">of </word>
+    <word normalized="the" start="477980" stop="478180">the </word>
+    <word normalized="aromatic">aromatic </word>
+    <word normalized="structure" start="479000" stop="479650">structure </word>
+    <word normalized="of" start="479650" stop="479790">of </word>
+    <word normalized="the" start="479790" stop="479890">the </word>
+    <word normalized="benzene" start="479890" stop="480400">benzene </word>
+    <word normalized="ring" start="480400" stop="480700">ring </word>
+    <word normalized="is" start="481050" stop="481180">is </word>
+    <word normalized="very" start="481180" stop="481430">very </word>
+    <word normalized="hard" start="481430" stop="481680">hard </word>
+    <word normalized="to" start="481680" stop="481830">to </word>
+    <word normalized="achieve" start="481830" stop="482180">achieve </word>
+    <word normalized="through" start="482180" stop="482420">through </word>
+    <word normalized="other" start="482420" stop="482640">other </word>
+    <word normalized="chemical" start="482640" stop="483070">chemical </word>
+    <word normalized="means" start="483070" stop="483480">means</word>
+    <word normalized="">, </word>
+    <word normalized="but" start="483780" stop="483920">but </word>
+    <word normalized="can" start="483920" stop="484090">can </word>
+    <word normalized="be" start="484090" stop="484200">be </word>
+    <word normalized="effected" start="484200" stop="484640">effected </word>
+    <word normalized="by" start="484640" stop="484790">by </word>
+    <word normalized="using" start="484790" stop="485120">using </word>
+    <word normalized="Raney" start="485120" stop="485370">Raney </word>
+    <word normalized="nickel" start="485370" stop="485770">nickel</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Other" start="486490" stop="486730">Other </word>
+    <word normalized="heterogeneous" start="486730" stop="487480">heterogeneous </word>
+    <word normalized="catalysts" start="487480" stop="488160">catalysts</word>
+    <word normalized="">, </word>
+    <word normalized="such" start="488160" stop="488360">such </word>
+    <word normalized="as" start="488360" stop="488490">as </word>
+    <word normalized="those" start="488490" stop="488770">those </word>
+    <word normalized="using" start="488770" stop="489090">using </word>
+    <word normalized="platinum" start="489090" stop="489680">platinum </word>
+    <word normalized="group" start="489680" stop="490060">group </word>
+    <word normalized="elements" start="490060" stop="490660">elements</word>
+    <word normalized="">, </word>
+    <word normalized="may" start="490980" stop="491090">may </word>
+    <word normalized="be" start="491090" stop="491300">be </word>
+    <word normalized="used" start="491300" stop="491540">used </word>
+    <word normalized="instead" start="491540" stop="491970">instead </word>
+    <word normalized="to" start="491970" stop="492090">to </word>
+    <word normalized="similar" start="492090" stop="492480">similar </word>
+    <word normalized="effect">effect</word>
+    <word normalized="">, </word>
+    <word normalized="but">but </word>
+    <word normalized="these" start="493500" stop="493800">these </word>
+    <word normalized="tend" start="493800" stop="494000">tend </word>
+    <word normalized="to" start="494000" stop="494060">to </word>
+    <word normalized="be" start="494060" stop="494220">be </word>
+    <word normalized="more" start="494220" stop="494470">more </word>
+    <word normalized="expensive" start="494610" stop="494700">expensive </word>
+    <word normalized="to" start="495010" stop="495150">to </word>
+    <word normalized="produce" start="495150" stop="495580">produce </word>
+    <word normalized="than" start="495580" stop="495730">than </word>
+    <word normalized="Raney" start="495730" stop="495970">Raney </word>
+    <word normalized="nickel" start="495970" stop="496400">nickel</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="After" start="497130" stop="497440">After </word>
+    <word normalized="this" start="497440" stop="497690">this </word>
+    <word normalized="reaction" start="497690" stop="498240">reaction </word>
+    <word normalized="cyclohexane" start="498310" stop="498350">cyclohexane </word>
+    <word normalized="may" start="499220" stop="499400">may </word>
+    <word normalized="be" start="499400" stop="499640">be </word>
+    <word normalized="used" start="499640" stop="499930">used </word>
+    <word normalized="in" start="499930" stop="500010">in </word>
+    <word normalized="the" start="500010" stop="500110">the </word>
+    <word normalized="synthesis" start="500110" stop="500690">synthesis </word>
+    <word normalized="of" start="500690" stop="500810">of </word>
+    <word normalized="adipic" start="501150" stop="501210">adipic </word>
+    <word normalized="acid">acid</word>
+    <word normalized="">, </word>
+    <word normalized="a">a </word>
+    <word normalized="raw" start="502040" stop="502350">raw </word>
+    <word normalized="material" start="502350" stop="502850">material </word>
+    <word normalized="used" start="502850" stop="503240">used </word>
+    <word normalized="in" start="503240" stop="503340">in </word>
+    <word normalized="the" start="503340" stop="503440">the </word>
+    <word normalized="industrial" start="503440" stop="504050">industrial </word>
+    <word normalized="production" start="504050" stop="504610">production </word>
+    <word normalized="of" start="504610" stop="504770">of </word>
+    <word normalized="polyamides" start="504820" stop="504850">polyamides </word>
+    <word normalized="such" start="505410" stop="505750">such </word>
+    <word normalized="as" start="505750" stop="505870">as </word>
+    <word normalized="nylon" start="505870" stop="506380">nylon</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="When">When </word>
+    <word normalized="reducing" start="507720" stop="508180">reducing </word>
+    <word normalized="a" start="508180" stop="508240">a </word>
+    <word normalized="carbon carbon" start="508240" stop="509150">carbon-carbon </word>
+    <word normalized="double" start="509150" stop="509420">double </word>
+    <word normalized="bond" start="509420" stop="509840">bond</word>
+    <word normalized="">, </word>
+    <word normalized="Raney" start="509910" stop="510220">Raney </word>
+    <word normalized="nickel" start="510220" stop="510600">nickel </word>
+    <word normalized="will" start="510600" stop="510770">will </word>
+    <word normalized="add" start="510770" stop="511030">add </word>
+    <word normalized="hydrogen" start="511030" stop="511610">hydrogen </word>
+    <word normalized="in" start="511610" stop="511780">in </word>
+    <word normalized="a" start="511780" stop="511900">a </word>
+    <word normalized="syn" start="511900" stop="512370">syn </word>
+    <word normalized="fashion" start="512400" stop="512870">fashion</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="addition" start="514100" stop="514480">addition </word>
+    <word normalized="to" start="514480" stop="514560">to </word>
+    <word normalized="being" start="514560" stop="514850">being </word>
+    <word normalized="a" start="514850" stop="514910">a </word>
+    <word normalized="catalyst" start="514910" stop="515600">catalyst</word>
+    <word normalized="">, </word>
+    <word normalized="Raney" start="515670" stop="515940">Raney </word>
+    <word normalized="nickel" start="515940" stop="516380">nickel </word>
+    <word normalized="will" start="516370" stop="516400">will </word>
+    <word normalized="also" start="516400" stop="516490">also </word>
+    <word normalized="act" start="516490" stop="516740">act </word>
+    <word normalized="as" start="516740" stop="516960">as </word>
+    <word normalized="a" start="516960" stop="517100">a </word>
+    <word normalized="reagent" start="517100" stop="517150">reagent </word>
+    <word normalized="to" start="517650" stop="517840">to </word>
+    <word normalized="desulfurize" start="517840" stop="518000">desulfurize </word>
+    <word normalized="organic" start="518000" stop="518850">organic </word>
+    <word normalized="compounds" start="518850" stop="519240">compounds</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="For" start="519210" stop="519240">For </word>
+    <word normalized="example" start="519470" stop="519680">example</word>
+    <word normalized="">, </word>
+    <word normalized="thioacetals" start="521160" stop="521810">thioacetals </word>
+    <word normalized="will" start="521810" stop="522060">will </word>
+    <word normalized="be" start="522200" stop="522380">be </word>
+    <word normalized="reduced" start="522380" stop="522850">reduced </word>
+    <word normalized="to" start="522850" stop="522910">to </word>
+    <word normalized="hydrocarbons" start="522910" stop="523870">hydrocarbons</word>
+    <word normalized="">: </word>
+    <word normalized="Nickel" start="525060" stop="525370">Nickel </word>
+    <word normalized="sulfide" start="525370" stop="525840">sulfide </word>
+    <word normalized="will" start="525840" stop="526000">will </word>
+    <word normalized="precipitate" start="526000" stop="526670">precipitate </word>
+    <word normalized="as" start="526670" stop="526860">as </word>
+    <word normalized="millerite" start="526860" stop="527300">millerite</word>
+    <word normalized="">, </word>
+    <word normalized="while" start="527920" stop="528210">while </word>
+    <word normalized="ethane" start="528210" stop="528670">ethane </word>
+    <word normalized="can" start="528670" stop="528900">can </word>
+    <word normalized="be" start="528900" stop="528980">be </word>
+    <word normalized="easily" start="528980" stop="529300">easily </word>
+    <word normalized="separated" start="529460" stop="529970">separated </word>
+    <word normalized="through" start="529970" stop="530100">through </word>
+    <word normalized="distillation" start="530000" stop="530030">distillation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Similar" start="531290" stop="531710">Similar </word>
+    <word normalized="tranformations" start="531710" stop="532590">tranformations </word>
+    <word normalized="are" start="532590" stop="532850">are </word>
+    <word normalized="the">the </word>
+    <word normalized="Clemmensen" start="532850" stop="533490">Clemmensen </word>
+    <word normalized="reduction" start="533490" stop="534120">reduction </word>
+    <word normalized="and" start="534120" stop="534280">and </word>
+    <word normalized="the" start="534280" stop="534350">the </word>
+    <word normalized="Wolff Kishner" start="534350" stop="534700">Wolff-Kishner </word>
+    <word normalized="reduction" start="534700" stop="535170">reduction</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="535650" stop="537960">Section </word>
+    <word normalized="four" start="537960" stop="538380">4 </word>
+    <word normalized="Safety" start="538880" stop="539460">Safety </word>
+    <word normalized="Due" start="539460" stop="540700">Due </word>
+    <word normalized="to" start="540700" stop="540880">to </word>
+    <word normalized="its">its </word>
+    <word normalized="large" start="541040" stop="541310">large </word>
+    <word normalized="surface" start="541310" stop="541740">surface </word>
+    <word normalized="area" start="541740" stop="542100">area </word>
+    <word normalized="and" start="542100" stop="542260">and </word>
+    <word normalized="high" start="542260" stop="542460">high </word>
+    <word normalized="volume" start="542460" stop="542920">volume </word>
+    <word normalized="of" start="542920" stop="543020">of </word>
+    <word normalized="contained" start="543020" stop="543420">contained </word>
+    <word normalized="hydrogen" start="543420" stop="543840">hydrogen </word>
+    <word normalized="gas" start="543840" stop="544320">gas</word>
+    <word normalized="">, </word>
+    <word normalized="dry" start="544610" stop="544970">dry</word>
+    <word normalized="">, </word>
+    <word normalized="activated" start="544970" stop="545610">activated </word>
+    <word normalized="Raney" start="545610" stop="545890">Raney </word>
+    <word normalized="nickel" start="545890" stop="546310">nickel </word>
+    <word normalized="is" start="546310" stop="546500">is </word>
+    <word normalized="a">a </word>
+    <word normalized="pyrophoric" start="546500" stop="547350">pyrophoric </word>
+    <word normalized="material" start="547680" stop="548250">material </word>
+    <word normalized="that" start="548250" stop="548380">that </word>
+    <word normalized="should" start="548380" stop="548570">should </word>
+    <word normalized="be" start="548570" stop="548700">be </word>
+    <word normalized="handled" start="548700" stop="549130">handled </word>
+    <word normalized="under" start="549130" stop="549430">under </word>
+    <word normalized="an" start="549430" stop="549570">an </word>
+    <word normalized="inert" start="549570" stop="549940">inert </word>
+    <word normalized="atmosphere" start="549940" stop="550580">atmosphere</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Raney" start="551410" stop="551680">Raney </word>
+    <word normalized="nickel" start="551680" stop="552020">nickel </word>
+    <word normalized="is">is </word>
+    <word normalized="typically" start="552160" stop="552550">typically </word>
+    <word normalized="supplied" start="552550" stop="553170">supplied </word>
+    <word normalized="as" start="553170" stop="553390">as </word>
+    <word normalized="a" start="553390" stop="553500">a </word>
+    <word normalized="fifty" start="553500" stop="553860">50</word>
+    <word normalized="per cent" start="553860" stop="554250">% </word>
+    <word normalized="slurry" start="554250" stop="554740">slurry </word>
+    <word normalized="in" start="554740" stop="554870">in </word>
+    <word normalized="water" start="554870" stop="555230">water</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Care" start="555990" stop="556220">Care </word>
+    <word normalized="should" start="556220" stop="556410">should </word>
+    <word normalized="be" start="556410" stop="556520">be </word>
+    <word normalized="taken" start="556520" stop="556950">taken </word>
+    <word normalized="never" start="556950" stop="557230">never </word>
+    <word normalized="to" start="557230" stop="557380">to </word>
+    <word normalized="expose">expose </word>
+    <word normalized="Raney" start="557980" stop="558260">Raney </word>
+    <word normalized="nickel" start="558260" stop="558580">nickel </word>
+    <word normalized="to" start="558580" stop="558700">to </word>
+    <word normalized="air" start="558700" stop="559010">air</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Even" start="559670" stop="559960">Even </word>
+    <word normalized="after" start="559960" stop="560340">after </word>
+    <word normalized="reaction" start="560340" stop="560980">reaction</word>
+    <word normalized="">, </word>
+    <word normalized="Raney" start="561040" stop="561330">Raney </word>
+    <word normalized="nickel" start="561330" stop="561650">nickel </word>
+    <word normalized="contains" start="561650" stop="562140">contains </word>
+    <word normalized="significant" start="562140" stop="562750">significant </word>
+    <word normalized="amounts" start="562750" stop="563100">amounts </word>
+    <word normalized="of" start="563100" stop="563200">of </word>
+    <word normalized="hydrogen" start="563200" stop="563640">hydrogen </word>
+    <word normalized="gas" start="563640" stop="564100">gas</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="564150" stop="564280">and </word>
+    <word normalized="will" start="564280" stop="564470">will </word>
+    <word normalized="ignite" start="564470" stop="564850">ignite </word>
+    <word normalized="when" start="564850" stop="564990">when </word>
+    <word normalized="exposed" start="564990" stop="565520">exposed </word>
+    <word normalized="to" start="565520" stop="565640">to </word>
+    <word normalized="air" start="565640" stop="565970">air</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Raney" start="566780" stop="567040">Raney </word>
+    <word normalized="nickel" start="567040" stop="567370">nickel </word>
+    <word normalized="will" start="567370" stop="567520">will </word>
+    <word normalized="produce" start="567520" stop="567890">produce </word>
+    <word normalized="hazardous" start="567890" stop="568430">hazardous </word>
+    <word normalized="fumes" start="568430" stop="568820">fumes </word>
+    <word normalized="when" start="568820" stop="569010">when </word>
+    <word normalized="burning" start="569010" stop="569450">burning</word>
+    <word normalized="">, </word>
+    <word normalized="and" start="569540" stop="569750">and </word>
+    <word normalized="therefore" start="569750" stop="570150">therefore </word>
+    <word normalized="the" start="570150" stop="570360">the </word>
+    <word normalized="use" start="570360" stop="570560">use </word>
+    <word normalized="of" start="570560" stop="570710">of </word>
+    <word normalized="a" start="570710" stop="570760">a </word>
+    <word normalized="gas" start="570760" stop="571110">gas </word>
+    <word normalized="mask" start="571110" stop="571420">mask </word>
+    <word normalized="is" start="571420" stop="571550">is </word>
+    <word normalized="recommended" start="571550" stop="572160">recommended </word>
+    <word normalized="when" start="572160" stop="572310">when </word>
+    <word normalized="extinguishing" start="572310" stop="573140">extinguishing </word>
+    <word normalized="fires" start="573140" stop="573510">fires </word>
+    <word normalized="caused" start="573510" stop="573870">caused </word>
+    <word normalized="by" start="573870" stop="574020">by </word>
+    <word normalized="it" start="574100" stop="574880">it</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Additionally" start="574880" stop="575530">Additionally</word>
+    <word normalized="">, </word>
+    <word normalized="acute" start="575840" stop="576260">acute </word>
+    <word normalized="exposure" start="576370" stop="576400">exposure </word>
+    <word normalized="to" start="576400" stop="576710">to </word>
+    <word normalized="Raney" start="576860" stop="577220">Raney </word>
+    <word normalized="nickel" start="577220" stop="577600">nickel </word>
+    <word normalized="may" start="577600" stop="577740">may </word>
+    <word normalized="cause" start="577740" stop="578080">cause </word>
+    <word normalized="irritation" start="578080" stop="578710">irritation </word>
+    <word normalized="of" start="578710" stop="578880">of </word>
+    <word normalized="the" start="578880" stop="579000">the </word>
+    <word normalized="respiratory" start="579000" stop="579600">respiratory </word>
+    <word normalized="tract">tract</word>
+    <word normalized="">, </word>
+    <word normalized="nasal" start="580380" stop="580700">nasal </word>
+    <word normalized="cavities" start="580700" stop="581250">cavities </word>
+    <word normalized="and" start="581250" stop="581370">and </word>
+    <word normalized="pulmonary" start="581370" stop="581900">pulmonary </word>
+    <word normalized="fibrosis" start="581900" stop="582630">fibrosis </word>
+    <word normalized="if" start="582630" stop="582780">if </word>
+    <word normalized="inhaled" start="582780" stop="583290">inhaled</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Ingestion" start="583880" stop="584470">Ingestion </word>
+    <word normalized="may" start="584470" stop="584620">may </word>
+    <word normalized="lead" start="584620" stop="584910">lead </word>
+    <word normalized="to" start="584910" stop="585010">to </word>
+    <word normalized="convulsions" start="585010" stop="585750">convulsions </word>
+    <word normalized="and" start="585750" stop="585930">and </word>
+    <word normalized="intestinal" start="585930" stop="586590">intestinal </word>
+    <word normalized="disorders" start="586590" stop="587290">disorders</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="can" start="587870" stop="588010">can </word>
+    <word normalized="also" start="588010" stop="588280">also </word>
+    <word normalized="cause" start="588280" stop="588660">cause </word>
+    <word normalized="eye" start="588660" stop="588970">eye </word>
+    <word normalized="and" start="588970" stop="589130">and </word>
+    <word normalized="skin" start="589130" stop="589420">skin </word>
+    <word normalized="irritation" start="589420" stop="590110">irritation</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Chronic" start="590480" stop="590880">Chronic </word>
+    <word normalized="exposure" start="590880" stop="591450">exposure </word>
+    <word normalized="may" start="591450" stop="591620">may </word>
+    <word normalized="lead" start="591620" stop="591880">lead </word>
+    <word normalized="to" start="591880" stop="592000">to </word>
+    <word normalized="pneumonitis" start="592000" stop="592830">pneumonitis </word>
+    <word normalized="and" start="592880" stop="593010">and </word>
+    <word normalized="other" start="593010" stop="593270">other </word>
+    <word normalized="signs" start="593270" stop="593630">signs </word>
+    <word normalized="of" start="593630" stop="593690">of </word>
+    <word normalized="sensitization" start="593690" stop="594430">sensitization </word>
+    <word normalized="to" start="594430" stop="594590">to </word>
+    <word normalized="nickel" start="594590" stop="594950">nickel </word>
+    <word normalized="like" start="596140" stop="597250">like </word>
+    <word normalized="skin" start="598360" stop="598430">skin </word>
+    <word normalized="rashes" start="598430" stop="598650">rashes </word>
+    <word normalized="">(</word>
+    <word normalized="">"</word>
+    <word normalized="nickel" start="598650" stop="598930">nickel </word>
+    <word normalized="itch" start="598930" stop="599580">itch</word>
+    <word normalized="">"</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Nickel" start="599760" stop="599810">Nickel </word>
+    <word normalized="is">is </word>
+    <word normalized="also">also </word>
+    <word normalized="a">a </word>
+    <word normalized="proven">proven </word>
+    <word normalized="carcinogen">carcinogen </word>
+    <word normalized="">(</word>
+    <word normalized="IARC">IARC </word>
+    <word normalized="Group">Group </word>
+    <word normalized="two B">2B</word>
+    <word normalized="">, </word>
+    <word normalized="EU">EU </word>
+    <word normalized="category">category </word>
+    <word normalized="3">3</word>
+    <word normalized="">) </word>
+    <word normalized="and">and </word>
+    <word normalized="teratogen">teratogen</word>
+    <word normalized="">, </word>
+    <word normalized="while" start="599960" stop="600540">while </word>
+    <word normalized="the" start="600540" stop="600650">the </word>
+    <word normalized="inhalation" start="600650" stop="601190">inhalation </word>
+    <word normalized="of" start="601190" stop="601260">of </word>
+    <word normalized="fine" start="601260" stop="601580">fine </word>
+    <word normalized="aluminium" start="601580" stop="602070">aluminium </word>
+    <word normalized="oxide" start="602070" stop="602510">oxide </word>
+    <word normalized="particles" start="602510" stop="603100">particles </word>
+    <word normalized="is" start="603100" stop="603240">is </word>
+    <word normalized="associated" start="603240" stop="603820">associated </word>
+    <word normalized="with" start="603820" stop="603980">with </word>
+    <word normalized="Shaver s" start="603980" stop="604340">Shaver's </word>
+    <word normalized="disease">disease</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Care" start="605580" stop="605800">Care </word>
+    <word normalized="should" start="605800" stop="605960">should </word>
+    <word normalized="be" start="605960" stop="606080">be </word>
+    <word normalized="taken" start="606080" stop="606440">taken </word>
+    <word normalized="when" start="606440" stop="606600">when </word>
+    <word normalized="handling" start="606600" stop="607110">handling </word>
+    <word normalized="these" start="607110" stop="607330">these </word>
+    <word normalized="raw" start="607330" stop="607530">raw </word>
+    <word normalized="materials" start="607530" stop="608180">materials </word>
+    <word normalized="during">during </word>
+    <word normalized="laboratory" start="608420" stop="608930">laboratory </word>
+    <word normalized="preparation" start="608930" stop="609570">preparation </word>
+    <word normalized="of" start="609570" stop="609720">of </word>
+    <word normalized="Raney" start="609720" stop="609970">Raney </word>
+    <word normalized="nickel" start="609970" stop="610400">nickel</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Moreover" start="610980" stop="611650">Moreover</word>
+    <word normalized="">, </word>
+    <word normalized="activation" start="611750" stop="612390">activation </word>
+    <word normalized="of" start="612390" stop="612520">of </word>
+    <word normalized="Raney" start="612520" stop="612770">Raney </word>
+    <word normalized="nickel" start="612770" stop="613090">nickel </word>
+    <word normalized="produces" start="613090" stop="613600">produces </word>
+    <word normalized="large">large </word>
+    <word normalized="amounts" start="613910" stop="614220">amounts </word>
+    <word normalized="of" start="614220" stop="614300">of </word>
+    <word normalized="hydrogen" start="614300" stop="614790">hydrogen </word>
+    <word normalized="gas" start="614790" stop="615160">gas </word>
+    <word normalized="as" start="615160" stop="615300">as </word>
+    <word normalized="a" start="615300" stop="615350">a </word>
+    <word normalized="by product" start="615350" stop="616030">by-product</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="616360" stop="616520">which </word>
+    <word normalized="is" start="616520" stop="616670">is </word>
+    <word normalized="also" start="616670" stop="616940">also </word>
+    <word normalized="highly" start="616940" stop="617320">highly </word>
+    <word normalized="flammable" start="617320" stop="617920">flammable</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="620060" stop="620550">Section </word>
+    <word normalized="5" start="620590" stop="620800">5 </word>
+    <word normalized="Development" start="620800" stop="620830">Development </word>
+    <word normalized="Murray" start="623290" stop="623580">Murray </word>
+    <word normalized="Raney" start="623580" stop="623890">Raney </word>
+    <word normalized="graduated" start="623890" stop="624580">graduated </word>
+    <word normalized="as" start="624580" stop="624790">as </word>
+    <word normalized="a" start="624790" stop="624840">a </word>
+    <word normalized="Mechanical" start="624840" stop="625490">Mechanical </word>
+    <word normalized="Engineer" start="625490" stop="625970">Engineer </word>
+    <word normalized="from" start="625970" stop="626180">from </word>
+    <word normalized="the" start="626180" stop="626270">the </word>
+    <word normalized="University" start="626270" stop="626900">University </word>
+    <word normalized="of" start="626900" stop="627000">of </word>
+    <word normalized="Kentucky" start="627000" stop="627520">Kentucky </word>
+    <word normalized="in" start="627520" stop="627670">in </word>
+    <word normalized="nineteen" start="627670" stop="628100">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="nine">09</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="nineteen" start="629160" stop="629550">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifteen" start="629550" stop="630050">15 </word>
+    <word normalized="he" start="630050" stop="630250">he </word>
+    <word normalized="joined" start="630250" stop="630600">joined </word>
+    <word normalized="the" start="630600" stop="630710">the </word>
+    <word normalized="Lookout" start="630710" stop="631160">Lookout </word>
+    <word normalized="Oil" start="631160" stop="631480">Oil </word>
+    <word normalized="and" start="631480" stop="631570">and </word>
+    <word normalized="Refining" start="631570" stop="632000">Refining </word>
+    <word normalized="Company" start="632000" stop="632360">Company </word>
+    <word normalized="in" start="632360" stop="632450">in </word>
+    <word normalized="Tennessee" start="632450" stop="633070">Tennessee </word>
+    <word normalized="and" start="633400" stop="633510">and </word>
+    <word normalized="was" start="633510" stop="633850">was </word>
+    <word normalized="responsible" start="633860" stop="633990">responsible </word>
+    <word normalized="for" start="634300" stop="634450">for </word>
+    <word normalized="the" start="634450" stop="634590">the </word>
+    <word normalized="installation" start="634590" stop="635240">installation </word>
+    <word normalized="of" start="635240" stop="635350">of </word>
+    <word normalized="electrolytic" start="635590" stop="635640">electrolytic </word>
+    <word normalized="cells" start="636050" stop="636360">cells </word>
+    <word normalized="for" start="636360" stop="636490">for </word>
+    <word normalized="the" start="636490" stop="636600">the </word>
+    <word normalized="production" start="636600" stop="637080">production </word>
+    <word normalized="of" start="637080" stop="637180">of </word>
+    <word normalized="hydrogen" start="637180" stop="637760">hydrogen </word>
+    <word normalized="which" start="638120" stop="638290">which </word>
+    <word normalized="was" start="638290" stop="638520">was </word>
+    <word normalized="used" start="638520" stop="638750">used </word>
+    <word normalized="in" start="638750" stop="638910">in </word>
+    <word normalized="the">the </word>
+    <word normalized="hydrogenation" start="638910" stop="639720">hydrogenation </word>
+    <word normalized="of" start="639720" stop="639800">of </word>
+    <word normalized="vegetable" start="639800" stop="640330">vegetable </word>
+    <word normalized="oils" start="640330" stop="640720">oils</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="During" start="640710" stop="641530">During </word>
+    <word normalized="that">that </word>
+    <word normalized="time" start="641740" stop="642150">time </word>
+    <word normalized="the" start="642190" stop="642340">the </word>
+    <word normalized="industry" start="642340" stop="642760">industry </word>
+    <word normalized="used" start="642760" stop="643090">used </word>
+    <word normalized="a" start="643090" stop="643180">a </word>
+    <word normalized="nickel" start="643180" stop="643550">nickel </word>
+    <word normalized="catalyst" start="643550" stop="644150">catalyst </word>
+    <word normalized="prepared" start="644310" stop="644340">prepared </word>
+    <word normalized="from" start="644340" stop="644550">from </word>
+    <word normalized="nickel" start="644550" stop="644790">nickel</word>
+    <word normalized="">(</word>
+    <word normalized="II">II</word>
+    <word normalized="">) </word>
+    <word normalized="oxide" start="645290" stop="645370">oxide</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Believing" start="646420" stop="646450">Believing </word>
+    <word normalized="that" start="646880" stop="647060">that </word>
+    <word normalized="better" start="647060" stop="647350">better </word>
+    <word normalized="catalysts" start="647350" stop="647900">catalysts </word>
+    <word normalized="could" start="647900" stop="648070">could </word>
+    <word normalized="be" start="648070" stop="648190">be </word>
+    <word normalized="produced" start="648190" stop="648760">produced</word>
+    <word normalized="">, </word>
+    <word normalized="around" start="648820" stop="649140">around </word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty one" start="649510" stop="650050">21 </word>
+    <word normalized="he" start="650050" stop="650220">he </word>
+    <word normalized="started" start="650220" stop="650610">started </word>
+    <word normalized="to" start="650610" stop="650750">to </word>
+    <word normalized="perform" start="650750" stop="651170">perform </word>
+    <word normalized="independent" start="651170" stop="651700">independent </word>
+    <word normalized="research" start="651700" stop="652180">research </word>
+    <word normalized="while" start="652490" stop="652630">while </word>
+    <word normalized="still">still </word>
+    <word normalized="working" start="652940" stop="653280">working </word>
+    <word normalized="for" start="653280" stop="653400">for </word>
+    <word normalized="Lookout" start="653400" stop="653760">Lookout </word>
+    <word normalized="Oil" start="653760" stop="654160">Oil</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="In">In </word>
+    <word normalized="nineteen" start="654990" stop="655400">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty four" start="655730" stop="656070">24 </word>
+    <word normalized="a" start="656390" stop="656500">a </word>
+    <word normalized="one one" start="656500" stop="657100">1:1 </word>
+    <word normalized="ratio" start="657100" stop="657530">ratio </word>
+    <word normalized="Ni forward slash Si" start="657930" stop="658340">Ni/Si </word>
+    <word normalized="alloy" start="658530" stop="658900">alloy </word>
+    <word normalized="was" start="658900" stop="659110">was </word>
+    <word normalized="produced" start="659110" stop="659610">produced</word>
+    <word normalized="">, </word>
+    <word normalized="which" start="659980" stop="660190">which </word>
+    <word normalized="after" start="660190" stop="660480">after </word>
+    <word normalized="treatment" start="660480" stop="660880">treatment </word>
+    <word normalized="with" start="660880" stop="661070">with </word>
+    <word normalized="sodium" start="661070" stop="661500">sodium </word>
+    <word normalized="hydroxide" start="661500" stop="662280">hydroxide</word>
+    <word normalized="">, </word>
+    <word normalized="was" start="662610" stop="662800">was </word>
+    <word normalized="found" start="662800" stop="663040">found </word>
+    <word normalized="to" start="663040" stop="663140">to </word>
+    <word normalized="be" start="663140" stop="663320">be </word>
+    <word normalized="five" start="663320" stop="663680">five </word>
+    <word normalized="times" start="663680" stop="664060">times </word>
+    <word normalized="more" start="664060" stop="664280">more </word>
+    <word normalized="active" start="664280" stop="664630">active </word>
+    <word normalized="than" start="664630" stop="664790">than </word>
+    <word normalized="the" start="664790" stop="664870">the </word>
+    <word normalized="best" start="664870" stop="665180">best </word>
+    <word normalized="catalyst" start="665180" stop="665680">catalyst </word>
+    <word normalized="used" start="665680" stop="665950">used </word>
+    <word normalized="in" start="665950" stop="666060">in </word>
+    <word normalized="the" start="666060" stop="666130">the </word>
+    <word normalized="hydrogenation" start="666130" stop="666930">hydrogenation </word>
+    <word normalized="of" start="666930" stop="667120">of </word>
+    <word normalized="cottonseed" start="667130" stop="667890">cottonseed </word>
+    <word normalized="oil" start="667890" stop="668080">oil</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="A">A </word>
+    <word normalized="patent" start="669270" stop="669620">patent </word>
+    <word normalized="for" start="669620" stop="669750">for </word>
+    <word normalized="this" start="669750" stop="670000">this </word>
+    <word normalized="discovery">discovery </word>
+    <word normalized="was" start="670430" stop="670660">was </word>
+    <word normalized="issued" start="670660" stop="671020">issued </word>
+    <word normalized="in" start="671020" stop="671170">in </word>
+    <word normalized="December" start="671170" stop="671600">December </word>
+    <word normalized="nineteen" start="671600" stop="672000">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty five" start="672000" stop="672510">25</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Subsequently" start="673420" stop="674220">Subsequently</word>
+    <word normalized="">, </word>
+    <word normalized="Raney" start="674510" stop="674730">Raney </word>
+    <word normalized="produced" start="674730" stop="675130">produced </word>
+    <word normalized="a" start="675130" stop="675230">a </word>
+    <word normalized="one one" start="675230" stop="675850">1:1 </word>
+    <word normalized="Ni forward slash Al" start="676190" stop="676220">Ni/Al </word>
+    <word normalized="alloy" start="676600" stop="677020">alloy </word>
+    <word normalized="following" start="677020" stop="677490">following </word>
+    <word normalized="a" start="677490" stop="677540">a </word>
+    <word normalized="procedure" start="677540" stop="678010">procedure </word>
+    <word normalized="similar" start="678010" stop="678440">similar </word>
+    <word normalized="to" start="678440" stop="678560">to </word>
+    <word normalized="the" start="678560" stop="678650">the </word>
+    <word normalized="one" start="678650" stop="678950">one </word>
+    <word normalized="used" start="678950" stop="679290">used </word>
+    <word normalized="for" start="679290" stop="679430">for </word>
+    <word normalized="the" start="679430" stop="679550">the </word>
+    <word normalized="nickel silicon" start="679550" stop="680360">nickel-silicon </word>
+    <word normalized="catalyst" start="680360" stop="680950">catalyst</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="He">He </word>
+    <word normalized="found" start="681580" stop="681830">found </word>
+    <word normalized="that">that </word>
+    <word normalized="the" start="681940" stop="682050">the </word>
+    <word normalized="resulting" start="682050" stop="682520">resulting </word>
+    <word normalized="catalyst" start="682520" stop="683070">catalyst </word>
+    <word normalized="was" start="683070" stop="683250">was </word>
+    <word normalized="even" start="683250" stop="683500">even </word>
+    <word normalized="more" start="683500" stop="683780">more </word>
+    <word normalized="active" start="683780" stop="684260">active </word>
+    <word normalized="and" start="684260" stop="684390">and </word>
+    <word normalized="filed" start="684390" stop="684690">filed </word>
+    <word normalized="a" start="684690" stop="684750">a </word>
+    <word normalized="patent" start="684770" stop="685050">patent </word>
+    <word normalized="application" start="685050" stop="685630">application </word>
+    <word normalized="in" start="685630" stop="685730">in </word>
+    <word normalized="nineteen" start="685730" stop="686060">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty six" start="686340" stop="686790">26</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="It">It </word>
+    <word normalized="may" start="687740" stop="687960">may </word>
+    <word normalized="be" start="687960" stop="688110">be </word>
+    <word normalized="of" start="688110" stop="688210">of </word>
+    <word normalized="interest" start="688210" stop="688600">interest </word>
+    <word normalized="to" start="688600" stop="688670">to </word>
+    <word normalized="note" start="688670" stop="688960">note </word>
+    <word normalized="that" start="688960" stop="689190">that </word>
+    <word normalized="Raney s" start="689190" stop="689450">Raney's </word>
+    <word normalized="choice">choice </word>
+    <word normalized="of">of </word>
+    <word normalized="nickel aluminium" start="690200" stop="690800">nickel-aluminium </word>
+    <word normalized="ratio" start="690800" stop="691170">ratio </word>
+    <word normalized="was" start="691170" stop="691390">was </word>
+    <word normalized="fortuitous" start="691390" stop="692180">fortuitous </word>
+    <word normalized="and" start="692210" stop="692400">and </word>
+    <word normalized="without" start="692400" stop="692750">without </word>
+    <word normalized="any" start="692750" stop="692970">any </word>
+    <word normalized="real" start="692970" stop="693210">real </word>
+    <word normalized="scientific" start="693210" stop="693850">scientific </word>
+    <word normalized="basis" start="693850" stop="694380">basis</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="However" start="694890" stop="694920">However</word>
+    <word normalized="">, </word>
+    <word normalized="this" start="695720" stop="695930">this </word>
+    <word normalized="is" start="695930" stop="696050">is </word>
+    <word normalized="the" start="696050" stop="696130">the </word>
+    <word normalized="preferred" start="696130" stop="696600">preferred </word>
+    <word normalized="alloy" start="696600" stop="696930">alloy </word>
+    <word normalized="composition" start="696930" stop="697600">composition </word>
+    <word normalized="for" start="697600" stop="697740">for </word>
+    <word normalized="production" start="697740" stop="698230">production </word>
+    <word normalized="of" start="698230" stop="698350">of </word>
+    <word normalized="Raney" start="698350" stop="698590">Raney </word>
+    <word normalized="nickel" start="698590" stop="698910">nickel </word>
+    <word normalized="catalysts" start="698910" stop="699450">catalysts </word>
+    <word normalized="currently" start="699450" stop="699860">currently </word>
+    <word normalized="in" start="699860" stop="700040">in </word>
+    <word normalized="use" start="700040" stop="700420">use</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Following" start="702160" stop="702610">Following </word>
+    <word normalized="the" start="702610" stop="702700">the </word>
+    <word normalized="development" start="702700" stop="703230">development </word>
+    <word normalized="of" start="703230" stop="703400">of </word>
+    <word normalized="Raney" start="703400" stop="703650">Raney </word>
+    <word normalized="nickel" start="703650" stop="704060">nickel</word>
+    <word normalized="">, </word>
+    <word normalized="other" start="704300" stop="704580">other </word>
+    <word normalized="alloy" start="704580" stop="704900">alloy </word>
+    <word normalized="systems" start="704900" stop="705470">systems </word>
+    <word normalized="with" start="705470" stop="705650">with </word>
+    <word normalized="aluminium" start="705650" stop="706190">aluminium </word>
+    <word normalized="were" start="706190" stop="706310">were </word>
+    <word normalized="considered" start="706310" stop="706910">considered</word>
+    <word normalized="">, </word>
+    <word normalized="of" start="707260" stop="707440">of </word>
+    <word normalized="which" start="707440" stop="707670">which </word>
+    <word normalized="the" start="707670" stop="707750">the </word>
+    <word normalized="most" start="707750" stop="708050">most </word>
+    <word normalized="notable" start="708050" stop="708530">notable </word>
+    <word normalized="include" start="708530" stop="708980">include </word>
+    <word normalized="copper" start="708980" stop="709740">copper</word>
+    <word normalized="">, </word>
+    <word normalized="ruthenium" start="710130" stop="710790">ruthenium </word>
+    <word normalized="and" start="710900" stop="711050">and </word>
+    <word normalized="cobalt" start="711050" stop="711640">cobalt</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Further" start="711630" stop="712590">Further </word>
+    <word normalized="research" start="712590" stop="712980">research </word>
+    <word normalized="showed" start="712980" stop="713360">showed </word>
+    <word normalized="that" start="713360" stop="713540">that </word>
+    <word normalized="adding" start="713540" stop="713820">adding </word>
+    <word normalized="a" start="713820" stop="713880">a </word>
+    <word normalized="small" start="713880" stop="714290">small </word>
+    <word normalized="amount">amount </word>
+    <word normalized="of">of </word>
+    <word normalized="a">a </word>
+    <word normalized="third" start="714720" stop="715010">third </word>
+    <word normalized="metal" start="715010" stop="715310">metal </word>
+    <word normalized="to" start="715310" stop="715440">to </word>
+    <word normalized="the" start="715440" stop="715550">the </word>
+    <word normalized="binary" start="715550" stop="716090">binary </word>
+    <word normalized="alloy" start="716090" stop="716480">alloy </word>
+    <word normalized="would" start="716800" stop="716930">would </word>
+    <word normalized="promote" start="716930" stop="717300">promote </word>
+    <word normalized="the" start="717300" stop="717430">the </word>
+    <word normalized="activity" start="717430" stop="717900">activity </word>
+    <word normalized="of" start="717900" stop="717990">of </word>
+    <word normalized="the" start="717990" stop="718090">the </word>
+    <word normalized="catalyst" start="718090" stop="718730">catalyst</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Some" start="718720" stop="719550">Some </word>
+    <word normalized="widely" start="719550" stop="719930">widely </word>
+    <word normalized="used" start="719930" stop="720150">used </word>
+    <word normalized="promoters" start="720150" stop="720720">promoters </word>
+    <word normalized="are" start="720720" stop="720930">are </word>
+    <word normalized="zinc" start="720930" stop="721400">zinc</word>
+    <word normalized="">, </word>
+    <word normalized="molybdenum" start="721490" stop="722300">molybdenum </word>
+    <word normalized="and" start="722580" stop="722750">and </word>
+    <word normalized="chromium" start="722750" stop="723240">chromium</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Recently" start="723940" stop="724550">Recently</word>
+    <word normalized="">, </word>
+    <word normalized="a" start="724550" stop="724630">a </word>
+    <word normalized="way" start="724630" stop="724850">way </word>
+    <word normalized="of" start="724850" stop="724950">of </word>
+    <word normalized="preparing" start="724950" stop="725400">preparing </word>
+    <word normalized="enantioselective" start="725400" stop="726550">enantioselective </word>
+    <word normalized="Raney" start="726550" stop="726900">Raney </word>
+    <word normalized="nickel" start="726900" stop="727280">nickel </word>
+    <word normalized="has" start="727280" stop="727500">has </word>
+    <word normalized="been" start="727500" stop="727660">been </word>
+    <word normalized="devised" start="727660" stop="728150">devised </word>
+    <word normalized="by" start="728150" stop="728300">by </word>
+    <word normalized="surface" start="728300" stop="728770">surface </word>
+    <word normalized="adsorbtion" start="731000" stop="733380">adsorbtion </word>
+    <word normalized="of" start="734020" stop="734050">of </word>
+    <word normalized="tartaric" start="734050" stop="734780">tartaric </word>
+    <word normalized="acid" start="735690" stop="736150">acid</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section" start="736150" stop="736450">Section </word>
+    <word normalized="six" start="736450" stop="736840">6 </word>
+    <word normalized="References" start="737780" stop="737900">References </word>
+    <word normalized="">^ </word>
+    <word normalized="_a">a </word>
+    <word normalized="b" start="744420" stop="744700">b </word>
+    <word normalized="Raney" start="744700" stop="744820">Raney</word>
+    <word normalized="">, </word>
+    <word normalized="Murray" start="745030" stop="745110">Murray </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen" start="745200" stop="745260">19 </word>
+    <word normalized="hundred" start="745260" stop="745530">hundred </word>
+    <word normalized="twenty seven" start="745820" stop="746330">27</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">"</word>
+    <word normalized="Method" start="746620" stop="746830">Method </word>
+    <word normalized="of" start="746830" stop="747410">of </word>
+    <word normalized="producing">producing </word>
+    <word normalized="Finely">Finely </word>
+    <word normalized="Divided">Divided </word>
+    <word normalized="Nickel">Nickel</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="US">US </word>
+    <word normalized="Patent">Patent </word>
+    <word normalized="1628190">1628190</word>
+    <word normalized="">, </word>
+    <word normalized="issued">issued </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="two seven zero five one zero">27-05-10</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="_a">a </word>
+    <word normalized="b">b </word>
+    <word normalized="c">c </word>
+    <word normalized="d">d </word>
+    <word normalized="e">e </word>
+    <word normalized="f">f </word>
+    <word normalized="g">g </word>
+    <word normalized="Ertl">Ertl</word>
+    <word normalized="">, </word>
+    <word normalized="Gerhard">Gerhard</word>
+    <word normalized="">; </word>
+    <word normalized="Knozinger">Knözinger</word>
+    <word normalized="">, </word>
+    <word normalized="Helmut">Helmut </word>
+    <word normalized="">(</word>
+    <word normalized="Eds">Eds</word>
+    <word normalized="">.</word>
+    <word normalized="">) </word>
+  </sentence>
+  <sentence>
+    <word normalized="">(</word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety seven">97</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Preparation">Preparation </word>
+    <word normalized="of">of </word>
+    <word normalized="Solid">Solid </word>
+    <word normalized="Catalysts">Catalysts</word>
+    <word normalized="">, </word>
+    <word normalized="Weinheim">Weinheim</word>
+    <word normalized="">: </word>
+    <word normalized="Wiley">Wiley</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="ISBN">ISBN </word>
+    <word normalized="three five two seven two nine eight two six six">3-527-29826-6 </word>
+    <word normalized="">^ </word>
+    <word normalized="_a">a </word>
+    <word normalized="b">b </word>
+    <word normalized="A J">A.J. </word>
+    <word normalized="Smith">Smith </word>
+    <word normalized="and">and </word>
+    <word normalized="D L">D.L. </word>
+    <word normalized="Trimm">Trimm </word>
+    <word normalized="">(</word>
+    <word normalized="2005">2005</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Annual">Annual </word>
+    <word normalized="Reviews">Reviews </word>
+    <word normalized="in">in </word>
+    <word normalized="Materials">Materials </word>
+    <word normalized="Research">Research</word>
+    <word normalized="">, </word>
+    <word normalized="35">35</word>
+    <word normalized="">, </word>
+    <word normalized="one hundred twenty seven to one hundred forty two">127-142</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="Organic">Organic </word>
+    <word normalized="Syntheses">Syntheses </word>
+    <word normalized="">(</word>
+    <word normalized="two thousand five">2005</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Raney">Raney </word>
+    <word normalized="nickel">nickel </word>
+    <word normalized="usage">usage </word>
+    <word normalized="in">in </word>
+    <word normalized="Organic">Organic </word>
+    <word normalized="Syntheses">Syntheses</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Last">Last </word>
+    <word normalized="retrieved">retrieved </word>
+    <word normalized="January">January </word>
+    <word normalized="25">25</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand six">2006</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="Page">Page</word>
+    <word normalized="">, </word>
+    <word normalized="G">G. </word>
+    <word normalized="_a">A.</word>
+    <word normalized="">; </word>
+    <word normalized="Tarbell">Tarbell</word>
+    <word normalized="">, </word>
+    <word normalized="D">D. </word>
+    <word normalized="S">S. </word>
+    <word normalized="">"</word>
+    <word normalized="β">β</word>
+    <word normalized="minus">-</word>
+    <word normalized="">(</word>
+    <word normalized="o Carboxyphenyl">o-Carboxyphenyl</word>
+    <word normalized="">)</word>
+    <word normalized="propionic">propionic </word>
+    <word normalized="acid">acid</word>
+    <word normalized="">" </word>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">.</word>
+    <word normalized="">, </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="4">4</word>
+    <word normalized="">, </word>
+    <word normalized="p one hundred thirty six">p.136 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="sixty three">63</word>
+    <word normalized="">)</word>
+    <word normalized="">; </word>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="34">34</word>
+    <word normalized="">, </word>
+    <word normalized="p eight">p.8 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty four">54</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="Robinson">Robinson</word>
+    <word normalized="">, </word>
+    <word normalized="Jr">Jr.</word>
+    <word normalized="">, </word>
+    <word normalized="H">H. </word>
+    <word normalized="C">C.</word>
+    <word normalized="">; </word>
+    <word normalized="Snyder">Snyder</word>
+    <word normalized="">, </word>
+    <word normalized="H">H. </word>
+    <word normalized="R">R. </word>
+    <word normalized="">"</word>
+    <word normalized="β Phenylethylamine">β-Phenylethylamine</word>
+    <word normalized="">" </word>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">.</word>
+    <word normalized="">, </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="3">3</word>
+    <word normalized="">, </word>
+    <word normalized="p seven hundred twenty">p.720 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty five">55</word>
+    <word normalized="">)</word>
+    <word normalized="">; </word>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="23">23</word>
+    <word normalized="">, </word>
+    <word normalized="p seventy one">p.71 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty three">43</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="Schwenk">Schwenk</word>
+    <word normalized="">, </word>
+    <word normalized="E">E.</word>
+    <word normalized="">; </word>
+    <word normalized="Papa">Papa</word>
+    <word normalized="">, </word>
+    <word normalized="D">D.</word>
+    <word normalized="">; </word>
+    <word normalized="Hankin">Hankin</word>
+    <word normalized="">, </word>
+    <word normalized="H">H.</word>
+    <word normalized="">; </word>
+    <word normalized="Ginsberg">Ginsberg</word>
+    <word normalized="">, </word>
+    <word normalized="H">H. </word>
+    <word normalized="">"</word>
+    <word normalized="γ n Propylbutyrolactone">γ-n-Propylbutyrolactone </word>
+    <word normalized="and">and </word>
+    <word normalized="β">β</word>
+    <word normalized="">-</word>
+    <word normalized="">(</word>
+    <word normalized="Tetrahydrofuryl">Tetrahydrofuryl</word>
+    <word normalized="">)</word>
+    <word normalized="propionic">propionic </word>
+    <word normalized="acid">acid</word>
+    <word normalized="">" </word>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">.</word>
+    <word normalized="">, </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="3">3</word>
+    <word normalized="">, </word>
+    <word normalized="p seven hundred forty two">p.742 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty five">55</word>
+    <word normalized="">)</word>
+    <word normalized="">; </word>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="27">27</word>
+    <word normalized="">, </word>
+    <word normalized="p sixty eight">p.68 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty seven">47</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="Enders">Enders</word>
+    <word normalized="">, </word>
+    <word normalized="D">D.</word>
+    <word normalized="">; </word>
+    <word normalized="Pieter">Pieter</word>
+    <word normalized="">, </word>
+    <word normalized="R">R.</word>
+    <word normalized="">; </word>
+    <word normalized="Renger">Renger</word>
+    <word normalized="">, </word>
+    <word normalized="B">B.</word>
+    <word normalized="">; </word>
+    <word normalized="Seebach">Seebach</word>
+    <word normalized="">, </word>
+    <word normalized="D">D. </word>
+    <word normalized="">"</word>
+    <word normalized="Nucleophilic">Nucleophilic </word>
+    <word normalized="α sec aminoalkylation">α-sec-aminoalkylation</word>
+    <word normalized="">: </word>
+    <word normalized="2">2</word>
+    <word normalized="minus">-</word>
+    <word normalized="">(</word>
+    <word normalized="diphenylhydroxymethyl">diphenylhydroxymethyl</word>
+    <word normalized="">)</word>
+    <word normalized="pyrrolidene">pyrrolidene</word>
+    <word normalized="">" </word>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">.</word>
+    <word normalized="">, </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="6">6</word>
+    <word normalized="">, </word>
+    <word normalized="p five hundred forty two">p.542 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty eight">88</word>
+    <word normalized="">)</word>
+    <word normalized="">; </word>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="58">58</word>
+    <word normalized="">, </word>
+    <word normalized="p one hundred thirteen">p.113 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy eight">78</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="Rice">Rice</word>
+    <word normalized="">, </word>
+    <word normalized="R">R. </word>
+    <word normalized="G">G.</word>
+    <word normalized="">; </word>
+    <word normalized="Kohn">Kohn</word>
+    <word normalized="">, </word>
+    <word normalized="E">E. </word>
+    <word normalized="J">J. </word>
+    <word normalized="">"</word>
+    <word normalized="N">N</word>
+    <word normalized="">,</word>
+    <word normalized="N">N</word>
+    <word normalized="">'</word>
+    <word normalized="">-</word>
+    <word normalized="Diethylbenzidene">Diethylbenzidene</word>
+    <word normalized="">" </word>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">.</word>
+    <word normalized="">, </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="four">4</word>
+    <word normalized="">, </word>
+    <word normalized="p two hundred eighty three">p.283 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="sixty three">63</word>
+    <word normalized="">)</word>
+    <word normalized="">; </word>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="36">36</word>
+    <word normalized="">, </word>
+    <word normalized="p twenty one">p.21 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="fifty six">56</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="_a">a </word>
+    <word normalized="b">b </word>
+    <word normalized="c">c </word>
+    <word normalized="Solomons">Solomons</word>
+    <word normalized="">, </word>
+    <word normalized="T W">T.W. </word>
+    <word normalized="Graham">Graham</word>
+    <word normalized="">; </word>
+    <word normalized="Fryhle">Fryhle</word>
+    <word normalized="">, </word>
+    <word normalized="Craig">Craig </word>
+    <word normalized="B">B. </word>
+    <word normalized="">(</word>
+    <word normalized="2004">2004</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Organic">Organic </word>
+    <word normalized="Chemistry">Chemistry </word>
+    <word normalized="">(</word>
+    <word normalized="eighth">8th </word>
+    <word normalized="Edn">Edn</word>
+    <word normalized="">.</word>
+    <word normalized="">)</word>
+    <word normalized="">, </word>
+    <word normalized="Wiley">Wiley </word>
+    <word normalized="International">International </word>
+    <word normalized="Edition">Edition</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="ISBN">ISBN </word>
+    <word normalized="zero four seven one four one seven nine nine eight">0-471-41799-8 </word>
+    <word normalized="">^ </word>
+    <word normalized="Gassman">Gassman</word>
+    <word normalized="">, </word>
+    <word normalized="P">P. </word>
+    <word normalized="G">G.</word>
+    <word normalized="">; </word>
+    <word normalized="van">van </word>
+    <word normalized="Bergen">Bergen</word>
+    <word normalized="">, </word>
+    <word normalized="T">T. </word>
+    <word normalized="J">J. </word>
+    <word normalized="">"</word>
+    <word normalized="Indoles">Indoles </word>
+    <word normalized="from">from </word>
+    <word normalized="anilines">anilines</word>
+    <word normalized="">: </word>
+    <word normalized="Ethyl">Ethyl </word>
+    <word normalized="two methylindole five carboxylate">2-methylindole-5-carboxylate</word>
+    <word normalized="">" </word>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">.</word>
+    <word normalized="">, </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="6">6</word>
+    <word normalized="">, </word>
+    <word normalized="p six hundred one">p.601 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty eight">88</word>
+    <word normalized="">)</word>
+    <word normalized="">; </word>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="56">56</word>
+    <word normalized="">, </word>
+    <word normalized="p seventy two">p.72 </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="seventy seven">77</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="_a">a </word>
+    <word normalized="b">b </word>
+    <word normalized="Electronic">Electronic </word>
+    <word normalized="Space">Space </word>
+    <word normalized="Products">Products </word>
+    <word normalized="International">International </word>
+    <word normalized="">(</word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="ninety four">94</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Nickel">Nickel </word>
+    <word normalized="aluminide">aluminide </word>
+    <word normalized="M S D S">MSDS</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Last">Last </word>
+    <word normalized="retrieved">retrieved </word>
+    <word normalized="January">January </word>
+    <word normalized="25">25</word>
+    <word normalized="">, </word>
+    <word normalized="two thousand six">2006</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">^ </word>
+    <word normalized="Raney">Raney</word>
+    <word normalized="">, </word>
+    <word normalized="Murray">Murray </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="twenty five">25</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">"</word>
+    <word normalized="Method">Method </word>
+    <word normalized="of">of </word>
+    <word normalized="Preparing">Preparing </word>
+    <word normalized="Catalytic">Catalytic </word>
+    <word normalized="Material">Material</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="US">US </word>
+    <word normalized="Patent">Patent </word>
+    <word normalized="1563587">1563587</word>
+    <word normalized="">, </word>
+    <word normalized="issued">issued </word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="two five one two zero one">25-12-01</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">(</word>
+    <word normalized="Raney s">Raney's </word>
+    <word normalized="original">original </word>
+    <word normalized="nickel silicon">nickel-silicon </word>
+    <word normalized="catalyst">catalyst</word>
+    <word normalized="">) </word>
+    <word normalized="">^ </word>
+    <word normalized="Bakker">Bakker</word>
+    <word normalized="">, </word>
+    <word normalized="M">M. </word>
+    <word normalized="L">L.</word>
+    <word normalized="">; </word>
+    <word normalized="Young">Young </word>
+    <word normalized="D">D. </word>
+    <word normalized="J">J.</word>
+    <word normalized="">; </word>
+    <word normalized="Wainwright">Wainwright</word>
+    <word normalized="">, </word>
+    <word normalized="M">M. </word>
+    <word normalized="S">S. </word>
+    <word normalized="J">J. </word>
+    <word normalized="">(</word>
+    <word normalized="19">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="eighty eight">88</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Mat">Mat</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Sci">Sci</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="23">23</word>
+    <word normalized="">, </word>
+    <word normalized="thirty nine twenty one">3921</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Section">Section </word>
+    <word normalized="seven">7 </word>
+    <word normalized="Further">Further </word>
+    <word normalized="reading">reading </word>
+    <word normalized="Monzingo">Monzingo</word>
+    <word normalized="">, </word>
+    <word normalized="Ralph">Ralph </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty one">41</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">"</word>
+    <word normalized="Catalyst">Catalyst</word>
+    <word normalized="">, </word>
+    <word normalized="Raney Nickel">Raney-Nickel</word>
+    <word normalized="">, </word>
+    <word normalized="W two">W-2</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="21">21</word>
+    <word normalized="">, </word>
+    <word normalized="fifteen">15</word>
+    <word normalized="">; </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="three">3</word>
+    <word normalized="">, </word>
+    <word normalized="one hundred eighty one">181</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Billica">Billica</word>
+    <word normalized="">, </word>
+    <word normalized="Harry">Harry </word>
+    <word normalized="R">R.</word>
+    <word normalized="">; </word>
+    <word normalized="Adkins">Adkins</word>
+    <word normalized="">, </word>
+    <word normalized="Homer">Homer </word>
+    <word normalized="">(</word>
+    <word normalized="nineteen">19 </word>
+    <word normalized="hundred">hundred </word>
+    <word normalized="forty nine">49</word>
+    <word normalized="">)</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="">"</word>
+    <word normalized="Catalyst">Catalyst</word>
+    <word normalized="">, </word>
+    <word normalized="Raney Nickel">Raney-Nickel</word>
+    <word normalized="">, </word>
+    <word normalized="W six">W-6</word>
+    <word normalized="">"</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Org">Org</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="S y n t h">Synth</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="29">29</word>
+    <word normalized="">, </word>
+    <word normalized="twenty four">24</word>
+    <word normalized="">; </word>
+    <word normalized="Coll">Coll</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="Vol">Vol</word>
+    <word normalized="">. </word>
+  </sentence>
+  <sentence>
+    <word normalized="three">3</word>
+    <word normalized="">, </word>
+    <word normalized="one hundred seventy six">176</word>
+    <word normalized="">. </word>
+  </sentence>
+</alignment>
